@@ -23,17 +23,30 @@
   - **Environment**
     - [Correct Meshes](https://www.nexusmods.com/morrowind/mods/39348)
     - [Correct UV Rocks](https://www.nexusmods.com/morrowind/mods/46104)
+    - [Morrowind Enhanced Textures](https://www.nexusmods.com/morrowind/mods/46221)
+      - plus `MET Meshes` and `Interface and main menu` optional files
+    - [Aesthesia - Stronghold textures](https://www.nexusmods.com/morrowind/mods/46445)
+    - [HD Imperial and Royal Flags and Banners](https://www.nexusmods.com/morrowind/mods/48853)
+  - **Creatures**
+    - [Darknut's Creature Textures](https://www.nexusmods.com/morrowind/mods/43420)
+    - [Darknut's Creature Textures BM](https://www.nexusmods.com/morrowind/mods/43422)
+    - [Darknut's Creature Textures TB](https://www.nexusmods.com/morrowind/mods/43421)
+    - [Darknut's Creature Textures addendum](https://www.nexusmods.com/morrowind/mods/43441)
+  - **Plants**
+    - [Pherim's Fire Fern - Plant and Ingredient](https://www.nexusmods.com/morrowind/mods/43568)
+      - `Extra Fiery Textures` version
+      - Patches:
+        - [ ] Graphic Herbalism
   - **Items**
     - [All Books Color-Coded and Designed](https://www.nexusmods.com/morrowind/mods/50536)
+    - [Ingredients Mesh Replacer](https://www.nexusmods.com/morrowind/mods/44067)
 - **SOUND**
   - [MAO Spell Sounds](https://www.nexusmods.com/morrowind/mods/50486)
 - **UI**
   - **General**
     - [Stats Window Extender (OpenMW)](https://www.nexusmods.com/morrowind/mods/57727)
     - [Archive - Enough Does Not Have Enough (Remove Item Charge Message)](https://www.nexusmods.com/morrowind/mods/54176)
-  - **UI Components**
     - [TrueType fonts for OpenMW](https://www.nexusmods.com/morrowind/mods/46854)
-      - plus `HD texture buttons (English)` optional file
     - [Retextured Buttons for Journal and Books (OpenMW)](https://www.nexusmods.com/morrowind/mods/55333)
   - **HUD**
     - [OpenMW Modern UI Overhaul (Mashup)](https://www.nexusmods.com/morrowind/mods/54393)
