@@ -1,1 +1,150 @@
-# ttetrafons-OpenMW-collection
+# My Collection
+
+## Used Mods & Notes
+
+- **RESOURCES**
+  - [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537)
+    - HD Version
+  - [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
+- **UTILITIES**
+  - [OpenMW Impact Effects](https://www.nexusmods.com/morrowind/mods/55508)
+  - [Lua Physics Engine -- OpenMW](https://www.nexusmods.com/morrowind/mods/56589)
+  - [Follower Detection Util (OpenMW)](https://www.nexusmods.com/morrowind/mods/58053)
+  - [SPELL FRAMEWORK PLUS ( OpenMW )](https://www.nexusmods.com/morrowind/mods/58652)
+  - [proximityTool (OpenMW)](https://www.nexusmods.com/morrowind/mods/57286)
+- **MODELS & TEXTURES**
+  - **Splash Screens**
+    - [Gonzo's Splash Screens](https://www.nexusmods.com/morrowind/mods/51667)
+      - `4K` Version
+      - All labelled options
+    - [Morrowind Loading Screens Extended](https://www.nexusmods.com/morrowind/mods/45151)
+  - **Items**
+    - [All Books Color-Coded and Designed](https://www.nexusmods.com/morrowind/mods/50536)
+- **SOUND**
+  - [MAO Spell Sounds](https://www.nexusmods.com/morrowind/mods/50486)
+- **UI**
+  - **General**
+    - [Stats Window Extender (OpenMW)](https://www.nexusmods.com/morrowind/mods/57727)
+    - [Archive - Enough Does Not Have Enough (Remove Item Charge Message)](https://www.nexusmods.com/morrowind/mods/54176)
+  - **UI Components**
+    - [TrueType fonts for OpenMW](https://www.nexusmods.com/morrowind/mods/46854)
+      - plus `HD texture buttons (English)` optional file
+    - [Retextured Buttons for Journal and Books (OpenMW)](https://www.nexusmods.com/morrowind/mods/55333)
+  - **HUD**
+    - [OpenMW Modern UI Overhaul (Mashup)](https://www.nexusmods.com/morrowind/mods/54393)
+    - [Interface Reimagined for OpenMW](https://www.nexusmods.com/morrowind/mods/54985)
+      - `main` and `OpenMW 0.50 patch` files
+    - [Greyed-out dialog](https://www.nexusmods.com/morrowind/mods/50186)
+    - [(OpenMW 0.49) Better Bars](https://www.nexusmods.com/morrowind/mods/54951)
+    - [(OpenMW 0.49) Floating Healthbars](https://www.nexusmods.com/morrowind/mods/54954)
+    - [(OpenMW) HUDMarkers - Detect spells](https://www.nexusmods.com/morrowind/mods/57112)
+    - [TimeHUD - A Clock UI widget](https://www.nexusmods.com/morrowind/mods/57407)
+  - **Notifications**
+    - [(OpenMW) Pretty Stats](https://www.nexusmods.com/morrowind/mods/58304)
+      - plus `No Skill Messages` optional file
+    - [OpenMW Skyrim Style Quest Notifications](https://www.nexusmods.com/morrowind/mods/54148)
+    - [Skyrim Style Quest Notifications - Legendary Edition](https://www.nexusmods.com/morrowind/mods/53712)
+    - [Pretty Loot (OpenMW)](https://www.nexusmods.com/morrowind/mods/58167)
+      - plus `Pretty Loot No Pickup Messages by therealralts` optional file
+  - **Icons**
+    - [Holy Divination (HD) Icons -OpenMW-](https://www.nexusmods.com/morrowind/mods/55273)
+      - Patches I
+        - [x] Tamriel Data
+        - [x] OAAB Data
+        - [ ] BCOM (Beautiful Cities of Morrowind)
+        - [x] All Books Colour-Coded and Designed
+        - [ ] Tomb of the Snow Prince
+        - [ ] NPC Outfit Diversity
+        - [ ] Unique Jewellery Redone
+        - [ ] FMGS Unique Items
+        - [ ] Remiro's Uniques
+        - [ ] Rubber's Weapon Pack
+        - [ ] Better Clothes Complete
+        - [ ] Mage Robes
+        - [ ] Telvanni Magister Robes
+        - [ ] Mines and Caverns
+      - Patches II
+        - [ ] Improved Better Skulls
+        - [ ] New Widowmaker
+        - [ ] New Fists of Randalgulf
+        - [ ] New Lords Mail
+        - [ ] New Bow of Shadows
+        - [ ] Correct Iron Hammer
+        - [ ] SkullCrusher Redone
+        - [ ] Yet Another Guard Diversity
+        - [ ] Interesting Outfits: Solsteim
+        - [ ] Bear Armor Replacer
+        - [ ] Daedric Lord Armour
+        - [ ] Eltonbrand Replacer
+        - [ ] Ebony Mail Replacer
+        - [ ] Forgotten Shields
+        - [ ] Divine Dagoths
+        - [ ] SM Mask of Dagoth Ur
+      - Patches III
+        - [ ] Pherim's Fire Fern
+        - [x] Pherim's Bread
+    - [Big Icons](https://www.nexusmods.com/morrowind/mods/49662)
+    - [Descriptive Icons - Better Potions - Scrolls - Spell Effects Replacer](https://www.nexusmods.com/morrowind/mods/57491)
+      - `256 x 256` Version
+        - `New Flasks` & `Optional_upscaled icons for custom potions`
+        - `Descriptive_Potion_Icons.ESP`
+        - `Descriptive_Scroll_Icons.ESP`
+      - [Enchanting icons as you wish](https://www.nexusmods.com/morrowind/mods/50028)
+        - Daedric version
+  - **Journal**
+    - [OpenMW Quest Menu](https://www.nexusmods.com/morrowind/mods/56273)
+  - **Map**
+    - [Advanced World Map (OpenMW)](https://www.nexusmods.com/morrowind/mods/57881)
+      - plus `fix for the 'Tomb of the Snow Prince' mod` optional file
+    - [Advanced World Map - Tracking](https://www.nexusmods.com/morrowind/mods/58324)
+    - [Dynamic Map (OpenMW)](https://www.nexusmods.com/morrowind/mods/58683)
+  - **Magic**
+    - [Magic Window Extender (OpenMW)](https://www.nexusmods.com/morrowind/mods/58064)
+  - **Inventory**
+    - [(OpenMW 0.49) QuickLoot](https://www.nexusmods.com/morrowind/mods/54950)
+      - plus `Pickpocket Overhaul` optional file
+    - [Of Bead and Feather - Custom Potion Sorter (OpenMW)](https://www.nexusmods.com/morrowind/mods/57782)
+      - `256x256` and `Vanilla size` options
+  - **Other**
+    - [(OpenMW 0.50) trav's OpenMW Books Enhanced](https://www.nexusmods.com/morrowind/mods/55126)
+- **LANDS**
+  - [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
+  - [Skyrim Home Of The Nords](https://www.nexusmods.com/morrowind/mods/44921)
+- **OVERHAULS**
+- **CRAFTING**
+  - [Perfect Placement](https://www.nexusmods.com/morrowind/mods/46562)
+- **EQUIPMENT**
+- **DUNGEONS & LOCATIONS**
+  - [Three Shades of Darkness](https://www.nexusmods.com/morrowind/mods/351)
+- **QUESTS**
+- **GAMEPLAY**
+  - [Skill Evolution (OpenMW)](https://www.nexusmods.com/morrowind/mods/57802)
+- **FOLLOWERS**
+  - [Follower Commands (OpenMW)](https://www.nexusmods.com/morrowind/mods/58818)
+  - [Paxon the Pack Rat](https://www.nexusmods.com/morrowind/mods/45669)
+    - plus `New Pack Rat Model` file
+- **MAGIC**
+  - **Changes**
+    - [Oblivion Style Spellcasting Quickcasting ( OpenMW )](https://www.nexusmods.com/morrowind/mods/58653)
+  - **New Magic**
+    - [Conjure Soul Wisp Spell (OpenMW 0.51)](https://www.nexusmods.com/morrowind/mods/58795)
+    - [Spells of Morrowind - Vol. 1 - Trap Handling (v2.0)](https://www.nexusmods.com/morrowind/mods/58681)
+- **CHAR GEN**
+  - [Mutiny - Alternate Start](https://www.nexusmods.com/morrowind/mods/57702)
+- **PATCHES**
+- **AUTOMATED**
+  - [Merged Objects](https://www.nexusmods.com/morrowind/mods/46870)
+- **TOOLS**
+  - [TES Construction Set Fix - Morrowind Steam GOTY - GOG - Bethesda.net _ English - French (TESCS)](https://www.nexusmods.com/morrowind/mods/42196)
+
+## Mod Ideas
+
+- Misty Step
+  - mysticism spell
+  - teleport immediately towards where you are looking
+  - distance dependent on skill level and/or magnitude?
+- Leech Effect
+  - absorb health/fatigue/magicka on hit while it lasts
+- Toggleable Spells
+  - make versions of spells with duration that instead become permanent and drain magicka as long as they are in active
+  - give good xp on the school on toggle
