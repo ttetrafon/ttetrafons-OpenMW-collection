@@ -1,4 +1,4 @@
-# My Collection
+# ttetrafon's OpenMW Collection
 
 ## Used Mods & Notes
 
@@ -12,6 +12,8 @@
   - [Follower Detection Util (OpenMW)](https://www.nexusmods.com/morrowind/mods/58053)
   - [SPELL FRAMEWORK PLUS ( OpenMW )](https://www.nexusmods.com/morrowind/mods/58652)
   - [proximityTool (OpenMW)](https://www.nexusmods.com/morrowind/mods/57286)
+- **FIXES**
+  - [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)
 - **MODELS & TEXTURES**
   - **Splash Screens**
     - [Gonzo's Splash Screens](https://www.nexusmods.com/morrowind/mods/51667)
@@ -21,17 +23,23 @@
     - [Immersive Loading Screens (OpenMW)](https://www.nexusmods.com/morrowind/mods/58749)
     - [Complementary Splash Screens](https://www.nexusmods.com/morrowind/mods/58323)
   - **Environment**
+    - [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886?tab=description)
+  - **Environment**
     - [Correct Meshes](https://www.nexusmods.com/morrowind/mods/39348)
     - [Correct UV Rocks](https://www.nexusmods.com/morrowind/mods/46104)
     - [Morrowind Enhanced Textures](https://www.nexusmods.com/morrowind/mods/46221)
       - plus `MET Meshes` and `Interface and main menu` optional files
     - [Aesthesia - Stronghold textures](https://www.nexusmods.com/morrowind/mods/46445)
     - [HD Imperial and Royal Flags and Banners](https://www.nexusmods.com/morrowind/mods/48853)
+    - [RR Mod Series - Morrowind Statues Replacer](https://www.nexusmods.com/morrowind/mods/43348)
+    - [Full Dwemer Retexture](https://www.nexusmods.com/morrowind/mods/44264)
   - **Creatures**
+    - [Diverse Blood](https://www.nexusmods.com/morrowind/mods/45368)
     - [Darknut's Creature Textures](https://www.nexusmods.com/morrowind/mods/43420)
     - [Darknut's Creature Textures BM](https://www.nexusmods.com/morrowind/mods/43422)
     - [Darknut's Creature Textures TB](https://www.nexusmods.com/morrowind/mods/43421)
     - [Darknut's Creature Textures addendum](https://www.nexusmods.com/morrowind/mods/43441)
+    - [Alternate Spriggans](https://www.nexusmods.com/morrowind/mods/44271)
   - **Plants**
     - [Pherim's Fire Fern - Plant and Ingredient](https://www.nexusmods.com/morrowind/mods/43568)
       - `Extra Fiery Textures` version
@@ -40,6 +48,7 @@
   - **Items**
     - [All Books Color-Coded and Designed](https://www.nexusmods.com/morrowind/mods/50536)
     - [Ingredients Mesh Replacer](https://www.nexusmods.com/morrowind/mods/44067)
+    - [Improved Better Skulls](https://www.nexusmods.com/morrowind/mods/46012)
 - **SOUND**
   - [MAO Spell Sounds](https://www.nexusmods.com/morrowind/mods/50486)
 - **UI**
@@ -131,15 +140,29 @@
 - **LANDS**
   - [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
   - [Skyrim Home Of The Nords](https://www.nexusmods.com/morrowind/mods/44921)
+  - [Solstheim - Tomb of the Snow Prince](https://www.nexusmods.com/morrowind/mods/46810)
+    - Patches:
+      - [x] Glow in the Dahrk
+      - [x] Missing snow armor
+      - [x] TOTSP TD Content Integration - Spiders
+    - plus `Patch for Purists Patch for PfP 5.0.6` optional file
+  - [Mono's Minor Moddities](https://www.nexusmods.com/morrowind/mods/53027)
+    - `Upscaled TotSP Textures` file
+    - `Tomb of the Snow Prince - PA and GitD Patch` file
 - **OVERHAULS**
 - **CRAFTING**
   - [Perfect Placement](https://www.nexusmods.com/morrowind/mods/46562)
+- **NPCs**
+  - [Old Blue Fin](https://www.nexusmods.com/morrowind/mods/49503)
+  - [Mono's Minor Moddities](https://www.nexusmods.com/morrowind/mods/53027)
+    - `Old Blue Fin Upscaled` file
 - **EQUIPMENT**
 - **DUNGEONS & LOCATIONS**
   - [Three Shades of Darkness](https://www.nexusmods.com/morrowind/mods/351)
 - **QUESTS**
 - **GAMEPLAY**
   - [Skill Evolution (OpenMW)](https://www.nexusmods.com/morrowind/mods/57802)
+  - [Pursuit (OpenMW)](https://www.nexusmods.com/morrowind/mods/50271)
 - **FOLLOWERS**
   - [Follower Commands (OpenMW)](https://www.nexusmods.com/morrowind/mods/58818)
   - [Paxon the Pack Rat](https://www.nexusmods.com/morrowind/mods/45669)
