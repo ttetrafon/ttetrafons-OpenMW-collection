@@ -18,6 +18,11 @@
       - `4K` Version
       - All labelled options
     - [Morrowind Loading Screens Extended](https://www.nexusmods.com/morrowind/mods/45151)
+    - [Immersive Loading Screens (OpenMW)](https://www.nexusmods.com/morrowind/mods/58749)
+    - [Complementary Splash Screens](https://www.nexusmods.com/morrowind/mods/58323)
+  - **Environment**
+    - [Correct Meshes](https://www.nexusmods.com/morrowind/mods/39348)
+    - [Correct UV Rocks](https://www.nexusmods.com/morrowind/mods/46104)
   - **Items**
     - [All Books Color-Coded and Designed](https://www.nexusmods.com/morrowind/mods/50536)
 - **SOUND**
@@ -91,6 +96,9 @@
         - `Descriptive_Scroll_Icons.ESP`
       - [Enchanting icons as you wish](https://www.nexusmods.com/morrowind/mods/50028)
         - Daedric version
+  - **Stats**
+    - [Dignitas - Reputation Titles and Descriptions (OpenMW)](https://www.nexusmods.com/morrowind/mods/58572)
+    - [Enumeratio - Player Stats Counters (OpenMW)](https://www.nexusmods.com/morrowind/mods/58497)
   - **Journal**
     - [OpenMW Quest Menu](https://www.nexusmods.com/morrowind/mods/56273)
   - **Map**
@@ -126,7 +134,9 @@
 - **MAGIC**
   - **Changes**
     - [Oblivion Style Spellcasting Quickcasting ( OpenMW )](https://www.nexusmods.com/morrowind/mods/58653)
+    - [(OpenMW) Pure Lua Multi Mark](https://www.nexusmods.com/morrowind/mods/57313)
   - **New Magic**
+    - [Daisy's Lua Multimark Mod](https://www.nexusmods.com/morrowind/mods/53260)
     - [Conjure Soul Wisp Spell (OpenMW 0.51)](https://www.nexusmods.com/morrowind/mods/58795)
     - [Spells of Morrowind - Vol. 1 - Trap Handling (v2.0)](https://www.nexusmods.com/morrowind/mods/58681)
 - **CHAR GEN**
@@ -137,9 +147,14 @@
     - [Tamriel Data Races Playable (Continued)](https://www.nexusmods.com/morrowind/mods/58881)
     - [Fallen Angels Complete](https://www.nexusmods.com/morrowind/mods/55019)
     - [Histborn Argonian - A Mystic Race Variant](https://www.nexusmods.com/morrowind/mods/58147)
-  - **Signs**
   - **Classes**
     - [Lore Class Expansion](https://www.nexusmods.com/morrowind/mods/56947)
+  - **Signs**
+    - [Daedric Birthsigns](https://www.nexusmods.com/morrowind/mods/52051)
+    - [Moonlight - Birthsigns of Morrowind](https://www.nexusmods.com/morrowind/mods/52456)
+      - `Compatibility` version
+    - [Divine Signs- Birthsigns for the many faiths of Tamriel](https://www.nexusmods.com/morrowind/mods/57322)
+    - [The Firmament - Birthsigns Refined](https://www.nexusmods.com/morrowind/mods/56771)
 - **PATCHES**
 - **AUTOMATED**
   - [Merged Objects](https://www.nexusmods.com/morrowind/mods/46870)
