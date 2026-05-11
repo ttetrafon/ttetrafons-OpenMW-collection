@@ -130,7 +130,16 @@
     - [Conjure Soul Wisp Spell (OpenMW 0.51)](https://www.nexusmods.com/morrowind/mods/58795)
     - [Spells of Morrowind - Vol. 1 - Trap Handling (v2.0)](https://www.nexusmods.com/morrowind/mods/58681)
 - **CHAR GEN**
-  - [Mutiny - Alternate Start](https://www.nexusmods.com/morrowind/mods/57702)
+  - **Alternate Start**
+    - [Mutiny - Alternate Start](https://www.nexusmods.com/morrowind/mods/57702)
+  - **Races**
+    - [Reincarnate - Races of Morrowind](https://www.nexusmods.com/morrowind/mods/52397)
+    - [Tamriel Data Races Playable (Continued)](https://www.nexusmods.com/morrowind/mods/58881)
+    - [Fallen Angels Complete](https://www.nexusmods.com/morrowind/mods/55019)
+    - [Histborn Argonian - A Mystic Race Variant](https://www.nexusmods.com/morrowind/mods/58147)
+  - **Signs**
+  - **Classes**
+    - [Lore Class Expansion](https://www.nexusmods.com/morrowind/mods/56947)
 - **PATCHES**
 - **AUTOMATED**
   - [Merged Objects](https://www.nexusmods.com/morrowind/mods/46870)
