@@ -24,18 +24,29 @@
     - [Immersive Loading Screens (OpenMW)](https://www.nexusmods.com/morrowind/mods/58749)
     - [Complementary Splash Screens](https://www.nexusmods.com/morrowind/mods/58323)
   - **Environment**
-    - [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886?tab=description)
-  - **Environment**
-    - [Correct Meshes](https://www.nexusmods.com/morrowind/mods/39348)
-    - [Correct UV Rocks](https://www.nexusmods.com/morrowind/mods/46104)
     - [Morrowind Enhanced Textures](https://www.nexusmods.com/morrowind/mods/46221)
       - plus `MET Meshes` and `Interface and main menu` optional files
+    - [Properly Smoothed Meshes](https://www.nexusmods.com/morrowind/mods/46747)
+    - [Darknut's World Textures 1.1](https://www.nexusmods.com/morrowind/mods/45056)
+    - [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886)
+    - [True Lights and Darkness](https://www.nexusmods.com/morrowind/mods/39605)
+    - [Glowing Flames](https://www.nexusmods.com/morrowind/mods/46124)
+      - Patches:
+    - [Correct Meshes](https://www.nexusmods.com/morrowind/mods/39348)
+    - [Correct UV Rocks](https://www.nexusmods.com/morrowind/mods/46104)
+    - [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424)
+    - [New Starfields](https://www.nexusmods.com/morrowind/mods/43246)
+  - **Structures**
     - [Aesthesia - Stronghold textures](https://www.nexusmods.com/morrowind/mods/46445)
     - [HD Imperial and Royal Flags and Banners](https://www.nexusmods.com/morrowind/mods/48853)
     - [RR Mod Series - Morrowind Statues Replacer](https://www.nexusmods.com/morrowind/mods/43348)
     - [Full Dwemer Retexture](https://www.nexusmods.com/morrowind/mods/44264)
+    - [Dwemer Mesh Improvement](https://www.nexusmods.com/morrowind/mods/43101)
+      - plus [Dwemer Mesh Improvement - Revamped](https://www.nexusmods.com/morrowind/mods/51525)
+    - [Road Marker retextured](https://www.nexusmods.com/morrowind/mods/28311)
   - **Creatures**
     - [Diverse Blood](https://www.nexusmods.com/morrowind/mods/45368)
+      - plus `Diverse Blood - NIF Replacer` update file
     - [Darknut's Creature Textures](https://www.nexusmods.com/morrowind/mods/43420)
     - [Darknut's Creature Textures BM](https://www.nexusmods.com/morrowind/mods/43422)
     - [Darknut's Creature Textures TB](https://www.nexusmods.com/morrowind/mods/43421)
@@ -46,10 +57,15 @@
       - `Extra Fiery Textures` version
       - Patches:
         - [ ] Graphic Herbalism
+    - [Comberry Bush and Ingredient Replacer](https://www.nexusmods.com/morrowind/mods/42586)
+      - Patches:
+        - [ ] Graphic Herbalism
   - **Items**
     - [All Books Color-Coded and Designed](https://www.nexusmods.com/morrowind/mods/50536)
     - [Ingredients Mesh Replacer](https://www.nexusmods.com/morrowind/mods/44067)
     - [Improved Better Skulls](https://www.nexusmods.com/morrowind/mods/46012)
+    - [Darknut's Morrowind Crafting 2.1 Textures](https://www.nexusmods.com/morrowind/mods/43439)
+    - [Salts](https://www.nexusmods.com/morrowind/mods/47784)
 - **SOUND**
   - [MAO Spell Sounds](https://www.nexusmods.com/morrowind/mods/50486)
 - **UI**
@@ -148,7 +164,6 @@
       - [x] TOTSP TD Content Integration - Spiders
     - plus `Patch for Purists Patch for PfP 5.0.6` optional file
   - [Mono's Minor Moddities](https://www.nexusmods.com/morrowind/mods/53027)
-    - `Upscaled TotSP Textures` file
     - `Tomb of the Snow Prince - PA and GitD Patch` file
 - **OVERHAULS**
 - **CRAFTING**
