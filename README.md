@@ -12,6 +12,7 @@
   - [Follower Detection Util (OpenMW)](https://www.nexusmods.com/morrowind/mods/58053)
   - [SPELL FRAMEWORK PLUS ( OpenMW )](https://www.nexusmods.com/morrowind/mods/58652)
   - [proximityTool (OpenMW)](https://www.nexusmods.com/morrowind/mods/57286)
+  - [Character Traits Framework (OpenMW)](https://www.nexusmods.com/morrowind/mods/58703)
 - **FIXES**
   - [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)
 - **MODELS & TEXTURES**
@@ -156,6 +157,7 @@
   - [Old Blue Fin](https://www.nexusmods.com/morrowind/mods/49503)
   - [Mono's Minor Moddities](https://www.nexusmods.com/morrowind/mods/53027)
     - `Old Blue Fin Upscaled` file
+  - [TriangleTooth's Missing Characters](https://www.nexusmods.com/morrowind/mods/46234)
 - **EQUIPMENT**
 - **DUNGEONS & LOCATIONS**
   - [Three Shades of Darkness](https://www.nexusmods.com/morrowind/mods/351)
@@ -163,6 +165,9 @@
 - **GAMEPLAY**
   - [Skill Evolution (OpenMW)](https://www.nexusmods.com/morrowind/mods/57802)
   - [Pursuit (OpenMW)](https://www.nexusmods.com/morrowind/mods/50271)
+  - [Better Merchants Skills (OpenMW)](https://www.nexusmods.com/morrowind/mods/54337)
+  - [Clear Your Name](https://www.nexusmods.com/morrowind/mods/43786)
+  - [Level-independent Health](https://www.nexusmods.com/morrowind/mods/45242)
 - **FOLLOWERS**
   - [Follower Commands (OpenMW)](https://www.nexusmods.com/morrowind/mods/58818)
   - [Paxon the Pack Rat](https://www.nexusmods.com/morrowind/mods/45669)
@@ -191,6 +196,15 @@
       - `Compatibility` version
     - [Divine Signs- Birthsigns for the many faiths of Tamriel](https://www.nexusmods.com/morrowind/mods/57322)
     - [The Firmament - Birthsigns Refined](https://www.nexusmods.com/morrowind/mods/56771)
+  - **Traits**
+    - [Community Traits Ported (OpenMW)](https://www.nexusmods.com/morrowind/mods/58704)
+      - `MTR Lineages`
+      - `MTR Cultures`
+      - `The Wretched And The Weird`
+      - `Frana5u's Backgrounds`
+      - `Sage's Backgrounds`
+      - `Oblivion Backgrounds`
+      - `MTR Beliefs`
 - **PATCHES**
 - **AUTOMATED**
   - [Merged Objects](https://www.nexusmods.com/morrowind/mods/46870)
