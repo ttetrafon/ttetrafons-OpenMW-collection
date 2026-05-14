@@ -6,6 +6,16 @@
   - [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537)
     - HD Version
   - [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
+    - Patches:
+      - [ ] Breton Knife Ears
+      - [x] Epic Plants
+      - [x] Glass Glowset
+      - [x] SM_Bitter Coast Trees
+      - [x] Animated Containers
+      - [x] Improved Kwama Eggs
+      - [x] Glow in the Dahrk
+      - [x] Telvanni Crystal Replacer: Better telvanni crystals
+    - plus `HD` file
 - **UTILITIES**
   - [OpenMW Impact Effects](https://www.nexusmods.com/morrowind/mods/55508)
   - [Lua Physics Engine -- OpenMW](https://www.nexusmods.com/morrowind/mods/56589)
@@ -13,6 +23,7 @@
   - [SPELL FRAMEWORK PLUS ( OpenMW )](https://www.nexusmods.com/morrowind/mods/58652)
   - [proximityTool (OpenMW)](https://www.nexusmods.com/morrowind/mods/57286)
   - [Character Traits Framework (OpenMW)](https://www.nexusmods.com/morrowind/mods/58703)
+  - [OpenMW Containers Animated](https://www.nexusmods.com/morrowind/mods/46232)
 - **FIXES**
   - [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)
 - **MODELS & TEXTURES**
@@ -30,12 +41,18 @@
     - [Darknut's World Textures 1.1](https://www.nexusmods.com/morrowind/mods/45056)
     - [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886)
     - [True Lights and Darkness](https://www.nexusmods.com/morrowind/mods/39605)
+      - plus `TLAD Lights Only Necro Edit Logical Flicker ExpSnd` file
     - [Glowing Flames](https://www.nexusmods.com/morrowind/mods/46124)
       - Patches:
     - [Correct Meshes](https://www.nexusmods.com/morrowind/mods/39348)
     - [Correct UV Rocks](https://www.nexusmods.com/morrowind/mods/46104)
     - [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424)
     - [New Starfields](https://www.nexusmods.com/morrowind/mods/43246)
+    - [Better Telvanni Crystal](https://www.nexusmods.com/morrowind/mods/50818)
+    - [Normal and Specular maps for Better Telvanni Crystal](https://www.nexusmods.com/morrowind/mods/54928)
+    - [Improved Kwama Eggs and Egg Sacs](https://www.nexusmods.com/morrowind/mods/43555)
+    - [SM Bitter Coast Tree Replacer](https://www.nexusmods.com/morrowind/mods/49883)
+    - [Glowing Flames](https://www.nexusmods.com/morrowind/mods/46124)
   - **Structures**
     - [Aesthesia - Stronghold textures](https://www.nexusmods.com/morrowind/mods/46445)
     - [HD Imperial and Royal Flags and Banners](https://www.nexusmods.com/morrowind/mods/48853)
@@ -44,7 +61,14 @@
     - [Dwemer Mesh Improvement](https://www.nexusmods.com/morrowind/mods/43101)
       - plus [Dwemer Mesh Improvement - Revamped](https://www.nexusmods.com/morrowind/mods/51525)
     - [Road Marker retextured](https://www.nexusmods.com/morrowind/mods/28311)
+    - [Ghastly Glowyfence](https://www.nexusmods.com/morrowind/mods/47982)
+    - [Shacks Docks and Ships - Arkitektora of Vvardenfell](https://www.nexusmods.com/morrowind/mods/43520)
   - **Creatures**
+    - [Better Bodies 3.2 (Better Beasts)](https://www.nexusmods.com/morrowind/mods/48387)
+      - Nude version
+      - plus `Better Elven Bodies` optional file
+    - [Better bodies 3.2 - HD Nude Textures](https://www.nexusmods.com/morrowind/mods/56739)
+    - [Westly's Hi-Res Better Bodies Textures](https://www.nexusmods.com/morrowind/mods/55566)
     - [Diverse Blood](https://www.nexusmods.com/morrowind/mods/45368)
       - plus `Diverse Blood - NIF Replacer` update file
     - [Darknut's Creature Textures](https://www.nexusmods.com/morrowind/mods/43420)
@@ -53,19 +77,18 @@
     - [Darknut's Creature Textures addendum](https://www.nexusmods.com/morrowind/mods/43441)
     - [Alternate Spriggans](https://www.nexusmods.com/morrowind/mods/44271)
   - **Plants**
+    - [Epic Plants](https://www.nexusmods.com/morrowind/mods/46180)
+      - plus `Misc Patches` optional file (for Mudcrab imports)
     - [Pherim's Fire Fern - Plant and Ingredient](https://www.nexusmods.com/morrowind/mods/43568)
       - `Extra Fiery Textures` version
-      - Patches:
-        - [ ] Graphic Herbalism
     - [Comberry Bush and Ingredient Replacer](https://www.nexusmods.com/morrowind/mods/42586)
-      - Patches:
-        - [ ] Graphic Herbalism
   - **Items**
     - [All Books Color-Coded and Designed](https://www.nexusmods.com/morrowind/mods/50536)
     - [Ingredients Mesh Replacer](https://www.nexusmods.com/morrowind/mods/44067)
     - [Improved Better Skulls](https://www.nexusmods.com/morrowind/mods/46012)
     - [Darknut's Morrowind Crafting 2.1 Textures](https://www.nexusmods.com/morrowind/mods/43439)
     - [Salts](https://www.nexusmods.com/morrowind/mods/47784)
+    - [Glass Glowset](https://www.nexusmods.com/morrowind/mods/42762)
 - **SOUND**
   - [MAO Spell Sounds](https://www.nexusmods.com/morrowind/mods/50486)
 - **UI**
@@ -95,9 +118,9 @@
       - Patches I
         - [x] Tamriel Data
         - [x] OAAB Data
-        - [ ] BCOM (Beautiful Cities of Morrowind)
+        - [x] BCOM (Beautiful Cities of Morrowind)
         - [x] All Books Colour-Coded and Designed
-        - [ ] Tomb of the Snow Prince
+        - [x] Tomb of the Snow Prince
         - [ ] NPC Outfit Diversity
         - [ ] Unique Jewellery Redone
         - [ ] FMGS Unique Items
@@ -125,7 +148,7 @@
         - [ ] Divine Dagoths
         - [ ] SM Mask of Dagoth Ur
       - Patches III
-        - [ ] Pherim's Fire Fern
+        - [x] Pherim's Fire Fern
         - [x] Pherim's Bread
     - [Big Icons](https://www.nexusmods.com/morrowind/mods/49662)
     - [Descriptive Icons - Better Potions - Scrolls - Spell Effects Replacer](https://www.nexusmods.com/morrowind/mods/57491)
@@ -166,6 +189,36 @@
   - [Mono's Minor Moddities](https://www.nexusmods.com/morrowind/mods/53027)
     - `Tomb of the Snow Prince - PA and GitD Patch` file
 - **OVERHAULS**
+  - [Beautiful Cities of Morrowind](https://www.nexusmods.com/morrowind/mods/49231)
+    - Options, Addons, & Patches
+      - [x] Balmora Waterworks
+      - [x] Brevur of Balmora
+      - [x] Concept Art Ghostfence Pillars
+      - [x] Concept Art Ghostgate Statues
+      - [x] Suran Dock Expansion and Clutter
+      - [x] White Suran
+      - [x] Taller Seyda Neen Lighthouse
+      - [x] Ald'ruhn Skar: Bigger Entrance
+      - [x] Ald'ruhn outdoor merchants
+      - [x] Vivec Arena: Skywind Style
+      - [x] Vivec Customisable Options: all
+      - [x] Molag Mar Dome: Broken Dome
+      - [x] Caldera Mages Guild Basement
+      - [x] Balmora Marketplace Addon: Waterworks version 3
+      - [x] More Tribal Erabenisum Yurts
+      - [x] Maar Gan: all
+      - [x] Khuul Lighthouse: alternate version
+      - [x] Expanded Sadrith Mora Dock
+      - [x] Sadrith Mora South Gates
+      - [x] More Logical Census Office
+      - [x] GITD
+      - [x] Concept Art Husk (Urshilaku Camp)
+      - [x] Imperial Gatehouses: all
+      - [x] Eight Plates Quest Addon
+      - [x] RR Status Patch (requires assets from mod 43348)
+      - [x] Vegetto's Azura Statue Replacer
+      - [x] Balmora Waterworks Options: all
+      - [x] HD Textures
 - **CRAFTING**
   - [Perfect Placement](https://www.nexusmods.com/morrowind/mods/46562)
 - **NPCs**
