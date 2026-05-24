@@ -53,6 +53,10 @@
     - [Improved Kwama Eggs and Egg Sacs](https://www.nexusmods.com/morrowind/mods/43555)
     - [SM Bitter Coast Tree Replacer](https://www.nexusmods.com/morrowind/mods/49883)
     - [Glowing Flames](https://www.nexusmods.com/morrowind/mods/46124)
+    - [Subtle Smoke](https://www.nexusmods.com/morrowind/mods/47341)
+    - [Scum Retexture](https://www.nexusmods.com/morrowind/mods/42582)
+      - [Scummy Scum](https://www.nexusmods.com/morrowind/mods/45802)
+    - [AST Beds Remastered](https://www.nexusmods.com/morrowind/mods/45206)
   - **Structures**
     - [Aesthesia - Stronghold textures](https://www.nexusmods.com/morrowind/mods/46445)
     - [HD Imperial and Royal Flags and Banners](https://www.nexusmods.com/morrowind/mods/48853)
@@ -63,6 +67,8 @@
     - [Road Marker retextured](https://www.nexusmods.com/morrowind/mods/28311)
     - [Ghastly Glowyfence](https://www.nexusmods.com/morrowind/mods/47982)
     - [Shacks Docks and Ships - Arkitektora of Vvardenfell](https://www.nexusmods.com/morrowind/mods/43520)
+    - [Telvanni - Arkitektora of Vvardenfell](https://www.nexusmods.com/morrowind/mods/43530)
+    - [Ashlanders textures](https://www.nexusmods.com/morrowind/mods/45162)
   - **Creatures**
     - [Better Bodies 3.2 (Better Beasts)](https://www.nexusmods.com/morrowind/mods/48387)
       - Nude version
@@ -76,6 +82,7 @@
     - [Darknut's Creature Textures TB](https://www.nexusmods.com/morrowind/mods/43421)
     - [Darknut's Creature Textures addendum](https://www.nexusmods.com/morrowind/mods/43441)
     - [Alternate Spriggans](https://www.nexusmods.com/morrowind/mods/44271)
+    - [Better Almalexia](https://www.nexusmods.com/morrowind/mods/23388)
   - **Plants**
     - [Epic Plants](https://www.nexusmods.com/morrowind/mods/46180)
       - plus `Misc Patches` optional file (for Mudcrab imports)
@@ -84,11 +91,21 @@
     - [Comberry Bush and Ingredient Replacer](https://www.nexusmods.com/morrowind/mods/42586)
   - **Items**
     - [All Books Color-Coded and Designed](https://www.nexusmods.com/morrowind/mods/50536)
+    - [Arukinns Better Books and Scrolls](https://www.nexusmods.com/morrowind/mods/43100)
+    - [Melchior's Magnificent Manuscripts](https://www.nexusmods.com/morrowind/mods/45626)
+      - plus `ABCD (All Books Color-Coded and Designed) patch`
+    - [Darknut's Morrowind Crafting 2.1 Textures](https://www.nexusmods.com/morrowind/mods/43439)
     - [Ingredients Mesh Replacer](https://www.nexusmods.com/morrowind/mods/44067)
     - [Improved Better Skulls](https://www.nexusmods.com/morrowind/mods/46012)
-    - [Darknut's Morrowind Crafting 2.1 Textures](https://www.nexusmods.com/morrowind/mods/43439)
     - [Salts](https://www.nexusmods.com/morrowind/mods/47784)
     - [Glass Glowset](https://www.nexusmods.com/morrowind/mods/42762)
+    - [Septim Gold and Dwemer Dumacs](https://www.nexusmods.com/morrowind/mods/1634)
+    - [Armors Retexture - Outlander Styles](https://www.nexusmods.com/morrowind/mods/44210)
+    - [Better Robes](https://www.nexusmods.com/morrowind/mods/42773)
+      - [Better Robes - Updated Tamriel Rebuilt Patch](https://www.nexusmods.com/morrowind/mods/44875)
+      - [Better Robes - Updated Tamriel Rebuilt Patch Missing Texture Fix](https://www.nexusmods.com/morrowind/mods/52174)
+      - [Publicola's Misc Mod Emporium](https://www.nexusmods.com/morrowind/mods/53235)
+        - `Better Robes TR - Fixed Meshes` file
 - **SOUND**
   - [MAO Spell Sounds](https://www.nexusmods.com/morrowind/mods/50486)
 - **UI**
@@ -278,6 +295,45 @@
   - [Merged Objects](https://www.nexusmods.com/morrowind/mods/46870)
 - **TOOLS**
   - [TES Construction Set Fix - Morrowind Steam GOTY - GOG - Bethesda.net _ English - French (TESCS)](https://www.nexusmods.com/morrowind/mods/42196)
+
+## Test Character
+
+- **Mage**
+  - Race: Imperial
+  - Class:
+    - Magic
+    - Willpower, Intelligence
+    - Destruction, Alteration, Conjuration, Mysticism, Illusion
+    - Restoration, Acrobatics, Athletics, Sneak, Mercantile
+  - Sign:
+    - Almsivi: Almalexia
+    - Almsivi: Sotha Sil
+    - Divine: Mara
+    - Elven: Mara
+    - Nordic: Moth
+    - Nordic: Owl
+    - Prince: Mehrunes Dagon
+    - The Mage of Masser
+    - The Mage of Secunda
+    - The Ritual of Secunda
+    - The Steed of Masser
+    - The Tower of Masser
+  - Belief:
+    - Alduin
+    - **Auri-El**
+    - Ideal Masters
+    - Julianos
+    - Mehrunes Dagon
+    - Morihaus
+    - Morwa
+    - Xarxes
+  - Culture: Magocratic
+  - Background: Blood of the Dremora
+  - Lineage
+    - Duraki
+    - Harvester
+    - Imp
+    - **Perena**
 
 ## Mod Ideas
 
