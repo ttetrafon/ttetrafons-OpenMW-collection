@@ -37,6 +37,9 @@
   - **Environment**
     - [Morrowind Enhanced Textures](https://www.nexusmods.com/morrowind/mods/46221)
       - plus `MET Meshes` and `Interface and main menu` optional files
+    - [Landscape Retexture](https://www.nexusmods.com/morrowind/mods/42575)
+      - `Landscape Retexture 2K` option
+      - plus `Landscape retexture - OpenMW Normal map and Parallax patch` and `Bloodmoon Landscape Retexture` optional files
     - [Properly Smoothed Meshes](https://www.nexusmods.com/morrowind/mods/46747)
     - [Darknut's World Textures 1.1](https://www.nexusmods.com/morrowind/mods/45056)
     - [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886)
@@ -56,10 +59,13 @@
     - [Subtle Smoke](https://www.nexusmods.com/morrowind/mods/47341)
     - [Scum Retexture](https://www.nexusmods.com/morrowind/mods/42582)
       - [Scummy Scum](https://www.nexusmods.com/morrowind/mods/45802)
-    - [AST Beds Remastered](https://www.nexusmods.com/morrowind/mods/45206)
+    - [I Lava Good Mesh Replacer](https://www.nexusmods.com/morrowind/mods/49605)
   - **Structures**
+    - [Necrom - Arkitektora of Morrowind](https://www.nexusmods.com/morrowind/mods/46289)
+      - `Necrom Arkitektora - HQ` option plus `Necrom Minor Meshes Fixes` update
     - [Aesthesia - Stronghold textures](https://www.nexusmods.com/morrowind/mods/46445)
     - [HD Imperial and Royal Flags and Banners](https://www.nexusmods.com/morrowind/mods/48853)
+    - [Guar Skin Banners for OpenMW and Vanilla Morrowind](https://www.nexusmods.com/morrowind/mods/44355)
     - [RR Mod Series - Morrowind Statues Replacer](https://www.nexusmods.com/morrowind/mods/43348)
     - [Dragon Statue Revisited](https://www.nexusmods.com/morrowind/mods/50561)
     - [Full Dwemer Retexture](https://www.nexusmods.com/morrowind/mods/44264)
@@ -73,7 +79,11 @@
     - [Dunmer Lanterns Replacer](https://www.nexusmods.com/morrowind/mods/43219)
     - [HD Forge](https://www.nexusmods.com/morrowind/mods/46738)
       - plus `HD Bloodmoon Forge` update
-    - [I Lava Good Mesh Replacer](https://www.nexusmods.com/morrowind/mods/49605)
+    - [AST Beds Remastered](https://www.nexusmods.com/morrowind/mods/45206)
+    - [Ket's Swirlwood Furniture retexture](https://www.nexusmods.com/morrowind/mods/45127)
+    - [Long Live The Glassware - Retexture](https://www.nexusmods.com/morrowind/mods/44016)
+    - [Long Live The Limeware - Retexture](https://www.nexusmods.com/morrowind/mods/44045)
+    - [Long Live The Plates - Retexture](https://www.nexusmods.com/morrowind/mods/43935)
   - **Creatures**
     - [Better Bodies 3.2 (Better Beasts)](https://www.nexusmods.com/morrowind/mods/48387)
       - Nude version
@@ -106,6 +116,7 @@
     - [Glass Glowset](https://www.nexusmods.com/morrowind/mods/42762)
     - [Septim Gold and Dwemer Dumacs](https://www.nexusmods.com/morrowind/mods/1634)
     - [Armors Retexture - Outlander Styles](https://www.nexusmods.com/morrowind/mods/44210)
+      - plus `Missing Dragonscale Armor Texture` update
     - [Darknut's Armor Textures 1024 1.2](https://www.nexusmods.com/morrowind/mods/43416)
     - [HiRez Armors - Native Styles V2 Fixed and Optimized](https://www.nexusmods.com/morrowind/mods/47919)
     - [Better Robes](https://www.nexusmods.com/morrowind/mods/42773)
