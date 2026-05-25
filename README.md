@@ -16,6 +16,8 @@
       - [x] Glow in the Dahrk
       - [x] Telvanni Crystal Replacer: Better telvanni crystals
     - plus `HD` file
+    - [OAAB Full Upscale](https://www.nexusmods.com/morrowind/mods/53379)
+      - `OAAB Full Upscale` and `OAAB Full Upscale Normal Specular Maps` files
 - **UTILITIES**
   - [OpenMW Impact Effects](https://www.nexusmods.com/morrowind/mods/55508)
   - [Lua Physics Engine -- OpenMW](https://www.nexusmods.com/morrowind/mods/56589)
@@ -55,11 +57,24 @@
     - [Normal and Specular maps for Better Telvanni Crystal](https://www.nexusmods.com/morrowind/mods/54928)
     - [Improved Kwama Eggs and Egg Sacs](https://www.nexusmods.com/morrowind/mods/43555)
     - [SM Bitter Coast Tree Replacer](https://www.nexusmods.com/morrowind/mods/49883)
+    - [Remiros' Ascadian Isles Trees 2](https://www.nexusmods.com/morrowind/mods/45779)
     - [Glowing Flames](https://www.nexusmods.com/morrowind/mods/46124)
     - [Subtle Smoke](https://www.nexusmods.com/morrowind/mods/47341)
     - [Scum Retexture](https://www.nexusmods.com/morrowind/mods/42582)
       - [Scummy Scum](https://www.nexusmods.com/morrowind/mods/45802)
     - [I Lava Good Mesh Replacer](https://www.nexusmods.com/morrowind/mods/49605)
+    - [Melchior's Excellent Grazelands Acacia](https://www.nexusmods.com/morrowind/mods/51058)
+      - Patches:
+        - [ ] Ashfall
+        - [x] OAAB Data
+    - [R-Zero's Random Retextures (and Replacers)](https://www.nexusmods.com/morrowind/mods/44025)
+      - `R-Zero&#39;s Random Replacers - Chimney Smoke`
+      - `R-Zero&#39;s Random Replacers - Servant&#39;s Skull`
+      - `R-Zero&#39;s Random Replacers - Iron Towershield`
+      - `R-Zero&#39;s Random Retextures - Quill`
+      - `R-Zero&#39;s Random Retextures - Dwemer Coin`
+    - [High-res Skaal Retex](https://www.nexusmods.com/morrowind/mods/25650)
+      - plus `Raven Rock textures` optional file
   - **Structures**
     - [Necrom - Arkitektora of Morrowind](https://www.nexusmods.com/morrowind/mods/46289)
       - `Necrom Arkitektora - HQ` option plus `Necrom Minor Meshes Fixes` update
@@ -75,7 +90,13 @@
     - [Ghastly Glowyfence](https://www.nexusmods.com/morrowind/mods/47982)
     - [Shacks Docks and Ships - Arkitektora of Vvardenfell](https://www.nexusmods.com/morrowind/mods/43520)
     - [Telvanni - Arkitektora of Vvardenfell](https://www.nexusmods.com/morrowind/mods/43530)
+      - `AoVv Telvanni HQ` option
+      - `Missed texture` update
+      - `AoVv Telvanni Bump Maps HQ` optional file
+    - [Hlaalu Normal Mapped for OpenMW](https://www.nexusmods.com/morrowind/mods/44297)
+    - [Vivec Normal Mapped for OpenMW](https://www.nexusmods.com/morrowind/mods/44259)
     - [Ashlanders textures](https://www.nexusmods.com/morrowind/mods/45162)
+    - [Clockwork City Reborn](https://www.nexusmods.com/morrowind/mods/38369)
     - [Dunmer Lanterns Replacer](https://www.nexusmods.com/morrowind/mods/43219)
     - [HD Forge](https://www.nexusmods.com/morrowind/mods/46738)
       - plus `HD Bloodmoon Forge` update
@@ -98,6 +119,8 @@
     - [Darknut's Creature Textures addendum](https://www.nexusmods.com/morrowind/mods/43441)
     - [Alternate Spriggans](https://www.nexusmods.com/morrowind/mods/44271)
     - [Better Almalexia](https://www.nexusmods.com/morrowind/mods/23388)
+    - [Hunger Replacer](https://www.nexusmods.com/morrowind/mods/49866)
+    - [Mudcrab Replacer](https://www.nexusmods.com/morrowind/mods/46765)
   - **Plants**
     - [Epic Plants](https://www.nexusmods.com/morrowind/mods/46180)
       - plus `Misc Patches` optional file (for Mudcrab imports)
@@ -105,6 +128,7 @@
       - `Extra Fiery Textures` version
     - [Comberry Bush and Ingredient Replacer](https://www.nexusmods.com/morrowind/mods/42586)
   - **Items**
+    - [Remiros' Uniques](https://www.nexusmods.com/morrowind/mods/49674)
     - [All Books Color-Coded and Designed](https://www.nexusmods.com/morrowind/mods/50536)
     - [Arukinns Better Books and Scrolls](https://www.nexusmods.com/morrowind/mods/43100)
     - [Melchior's Magnificent Manuscripts](https://www.nexusmods.com/morrowind/mods/45626)
