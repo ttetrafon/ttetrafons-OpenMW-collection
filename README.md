@@ -70,6 +70,10 @@
     - [Shacks Docks and Ships - Arkitektora of Vvardenfell](https://www.nexusmods.com/morrowind/mods/43520)
     - [Telvanni - Arkitektora of Vvardenfell](https://www.nexusmods.com/morrowind/mods/43530)
     - [Ashlanders textures](https://www.nexusmods.com/morrowind/mods/45162)
+    - [Dunmer Lanterns Replacer](https://www.nexusmods.com/morrowind/mods/43219)
+    - [HD Forge](https://www.nexusmods.com/morrowind/mods/46738)
+      - plus `HD Bloodmoon Forge` update
+    - [I Lava Good Mesh Replacer](https://www.nexusmods.com/morrowind/mods/49605)
   - **Creatures**
     - [Better Bodies 3.2 (Better Beasts)](https://www.nexusmods.com/morrowind/mods/48387)
       - Nude version
@@ -102,6 +106,8 @@
     - [Glass Glowset](https://www.nexusmods.com/morrowind/mods/42762)
     - [Septim Gold and Dwemer Dumacs](https://www.nexusmods.com/morrowind/mods/1634)
     - [Armors Retexture - Outlander Styles](https://www.nexusmods.com/morrowind/mods/44210)
+    - [Darknut's Armor Textures 1024 1.2](https://www.nexusmods.com/morrowind/mods/43416)
+    - [HiRez Armors - Native Styles V2 Fixed and Optimized](https://www.nexusmods.com/morrowind/mods/47919)
     - [Better Robes](https://www.nexusmods.com/morrowind/mods/42773)
       - [Better Robes - Updated Tamriel Rebuilt Patch](https://www.nexusmods.com/morrowind/mods/44875)
       - [Better Robes - Updated Tamriel Rebuilt Patch Missing Texture Fix](https://www.nexusmods.com/morrowind/mods/52174)
@@ -111,7 +117,34 @@
       - [Better Clothes Retextured](https://www.nexusmods.com/morrowind/mods/47851)
       - [Various tweaks and fixes](https://www.nexusmods.com/morrowind/mods/43795)
         - `Better Clothes missing hands fix` file
+    - [Darknut's Little Weapons Mod Complete](https://www.nexusmods.com/morrowind/mods/43418)
+    - [Glowing Daedric Weapons](https://www.nexusmods.com/morrowind/mods/57172)
+    - [More Glowing Mods](https://www.nexusmods.com/morrowind/mods/53504)
+      - files:
+        - [ ] DaedricAkaviriGlow
+        - [x] `TRDataDaedraCreatureGlow`
+        - [x] `OAABGlassGlow`
+        - [x] `GVLTMagebaneGlassGlow`
+        - [x] `TamrielRebuiltGlassGlow`
+        - [x] `RVConceptArtDaedricHelmetsDaeGlow`
+        - [ ] `GardenofDreamsDaeGlow`
+        - [ ] `FingleamDae`
+        - [ ] `FingleamGlass`
+        - [x] `SummersetGlassGlow`
+        - [x] `PCDaeGlow`
+        - [x] `TamrielRebuiltDaeGlow`
+        - [x] `OAABDaedricGlow`
+        - [ ] `ArgonianDaedricGlow`
+        - [x] `BuoyantArmigersArmourGlow`
+          - [x] `BuoyantArmigersArmourGlowOPENMW.49FIX`
+        - [ ] `OAABTombsTowersMagebane`
     - [Daedric Crescent Replacer](https://www.nexusmods.com/morrowind/mods/46439)
+    - [Various little mods](https://www.nexusmods.com/morrowind/mods/43330)
+      - files:
+        - `Eleidon&#39;s Ward retexture`
+        - `Dust adept helm retexture`
+        - `Colovian helm and heavy leather boots retexture`
+    - [Eltonbrand Replacer](https://www.nexusmods.com/morrowind/mods/46695)
 - **SOUND**
   - [MAO Spell Sounds](https://www.nexusmods.com/morrowind/mods/50486)
 - **UI**
@@ -251,6 +284,7 @@
     - `Old Blue Fin Upscaled` file
   - [TriangleTooth's Missing Characters](https://www.nexusmods.com/morrowind/mods/46234)
 - **EQUIPMENT**
+  - [Buoyant Armigers Armor](https://www.nexusmods.com/morrowind/mods/43143)
 - **DUNGEONS & LOCATIONS**
   - [Three Shades of Darkness](https://www.nexusmods.com/morrowind/mods/351)
 - **QUESTS**
