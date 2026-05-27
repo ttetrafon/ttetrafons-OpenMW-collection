@@ -20,6 +20,15 @@
     - plus `HD` file
     - [OAAB Full Upscale](https://www.nexusmods.com/morrowind/mods/53379)
       - `OAAB Full Upscale` and `OAAB Full Upscale Normal Specular Maps` files
+    - [AATL Data](https://www.nexusmods.com/morrowind/mods/50647)
+      - options:
+        - Compatibility:
+          - [ ] Ashfall
+          - [ ] Ashfall (HD)
+          - [x] Glass Glowset
+        - Normals: 1k
+      - plus `AATL 2K-4K HD Textures` optional file
+    - [Dr_Data](https://www.nexusmods.com/morrowind/mods/51776)
 - **UTILITIES**
   - [OpenMW Impact Effects](https://www.nexusmods.com/morrowind/mods/55508)
   - [Lua Physics Engine -- OpenMW](https://www.nexusmods.com/morrowind/mods/56589)
@@ -67,7 +76,6 @@
     - [Normal and Specular maps for Better Telvanni Crystal](https://www.nexusmods.com/morrowind/mods/54928)
     - [Improved Kwama Eggs and Egg Sacs](https://www.nexusmods.com/morrowind/mods/43555)
     - [SM Bitter Coast Tree Replacer](https://www.nexusmods.com/morrowind/mods/49883)
-    - [Vurt's Bitter Coast Trees II - Remastered and Optimized](https://www.nexusmods.com/morrowind/mods/46418)
     - [Remiros' Ascadian Isles Trees 2](https://www.nexusmods.com/morrowind/mods/45779)
     - [Vurts Solstheim Tree Replacer II](https://www.nexusmods.com/morrowind/mods/37856)
       - [Vurts Solstheim Tree Replacer II Fix](https://www.nexusmods.com/morrowind/mods/45941)
@@ -340,6 +348,8 @@
       - [x] Vegetto's Azura Statue Replacer
       - [x] Balmora Waterworks Options: all
       - [x] HD Textures
+    - [AATL Compatibility Patches](https://www.nexusmods.com/morrowind/mods/55361)
+      - `BCOM - Pots and Plans` file
 - **CRAFTING**
   - [Perfect Placement](https://www.nexusmods.com/morrowind/mods/46562)
 - **NPCs**
