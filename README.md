@@ -39,6 +39,17 @@
   - [OpenMW Containers Animated](https://www.nexusmods.com/morrowind/mods/46232)
 - **FIXES**
   - [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)
+- **ANIMATIONS**
+  - [Animated Morrowind - merged](https://abitoftaste.modlist.x10.mx/morrowind/index.php?option=downloads&task=info&id=39&Itemid=50&-Animated-Morrowind-merged)
+    - [Animated Morrowind OpenMW Patch](https://www.nexusmods.com/morrowind/mods/48837)
+  - [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
+      <!-- - plus `Animation blending fix for Sitting NPC's` optional file -->
+  - [Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069)
+    - [Animated Morrowind and Weapon Sheathing patch for OpenMW](https://www.nexusmods.com/morrowind/mods/53479)
+  - [Hit Reactions Animated -- OpenMW](https://www.nexusmods.com/morrowind/mods/56594)
+  - [Magic VFX Retexture by Articus](https://www.nexusmods.com/morrowind/mods/47702)
+    - plus `ENG esp` optional file
+  - [Animated Lanterns and Signs -- OpenMW](https://www.nexusmods.com/morrowind/mods/58443)
 - **MODELS & TEXTURES**
   - **Splash Screens**
     - [Gonzo's Splash Screens](https://www.nexusmods.com/morrowind/mods/51667)
@@ -215,8 +226,7 @@
         - `Dust adept helm retexture`
         - `Colovian helm and heavy leather boots retexture`
     - [Eltonbrand Replacer](https://www.nexusmods.com/morrowind/mods/46695)
-  - **VFX**
-    - [Magic VFX Retexture by Articus](https://www.nexusmods.com/morrowind/mods/47702)
+- **VFX**
 - **SOUND**
   - [MAO Spell Sounds](https://www.nexusmods.com/morrowind/mods/50486)
 - **UI**
