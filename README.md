@@ -1,5 +1,7 @@
 # ttetrafon's OpenMW Collection
 
+## Notes
+
 ## Used Mods & Notes
 
 - **RESOURCES**
@@ -43,12 +45,20 @@
       - `Landscape Retexture 2K` option
       - plus `Landscape retexture - OpenMW Normal map and Parallax patch` and `Bloodmoon Landscape Retexture` optional files
     - [Properly Smoothed Meshes](https://www.nexusmods.com/morrowind/mods/46747)
+    - [RR Mod Series - Better Meshes](https://www.nexusmods.com/morrowind/mods/43266)
+      - `RR - Better Meshes V1.4`
+        - options:
+          - `Optimised Melchior's Dunmer Lanterns`
+          - `Animation Fix for Dwemer Mesh Improvement mod`
+      - `RR - Better Crystals 1.0`
+      - `RR - Better Skulls and Bones`
+      - `RR - Better Crates and Barrels V1.1`
     - [Darknut's World Textures 1.1](https://www.nexusmods.com/morrowind/mods/45056)
     - [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886)
     - [True Lights and Darkness](https://www.nexusmods.com/morrowind/mods/39605)
       - plus `TLAD Lights Only Necro Edit Logical Flicker ExpSnd` file
     - [Glowing Flames](https://www.nexusmods.com/morrowind/mods/46124)
-      - Patches:
+      - Patches: ???
     - [Correct Meshes](https://www.nexusmods.com/morrowind/mods/39348)
     - [Correct UV Rocks](https://www.nexusmods.com/morrowind/mods/46104)
     - [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424)
@@ -57,7 +67,10 @@
     - [Normal and Specular maps for Better Telvanni Crystal](https://www.nexusmods.com/morrowind/mods/54928)
     - [Improved Kwama Eggs and Egg Sacs](https://www.nexusmods.com/morrowind/mods/43555)
     - [SM Bitter Coast Tree Replacer](https://www.nexusmods.com/morrowind/mods/49883)
+    - [Vurt's Bitter Coast Trees II - Remastered and Optimized](https://www.nexusmods.com/morrowind/mods/46418)
     - [Remiros' Ascadian Isles Trees 2](https://www.nexusmods.com/morrowind/mods/45779)
+    - [Vurts Solstheim Tree Replacer II](https://www.nexusmods.com/morrowind/mods/37856)
+      - [Vurts Solstheim Tree Replacer II Fix](https://www.nexusmods.com/morrowind/mods/45941)
     - [Glowing Flames](https://www.nexusmods.com/morrowind/mods/46124)
     - [Subtle Smoke](https://www.nexusmods.com/morrowind/mods/47341)
     - [Scum Retexture](https://www.nexusmods.com/morrowind/mods/42582)
@@ -75,6 +88,7 @@
       - `R-Zero&#39;s Random Retextures - Dwemer Coin`
     - [High-res Skaal Retex](https://www.nexusmods.com/morrowind/mods/25650)
       - plus `Raven Rock textures` optional file
+    - [One True Faith - Saints and Frescoes Retexture](https://www.nexusmods.com/morrowind/mods/43810)
   - **Structures**
     - [Necrom - Arkitektora of Morrowind](https://www.nexusmods.com/morrowind/mods/46289)
       - `Necrom Arkitektora - HQ` option plus `Necrom Minor Meshes Fixes` update
@@ -89,12 +103,18 @@
     - [Road Marker retextured](https://www.nexusmods.com/morrowind/mods/28311)
     - [Ghastly Glowyfence](https://www.nexusmods.com/morrowind/mods/47982)
     - [Shacks Docks and Ships - Arkitektora of Vvardenfell](https://www.nexusmods.com/morrowind/mods/43520)
+    - [Telvanni Mesh Improvement](https://www.nexusmods.com/morrowind/mods/42343)
     - [Telvanni - Arkitektora of Vvardenfell](https://www.nexusmods.com/morrowind/mods/43530)
       - `AoVv Telvanni HQ` option
       - `Missed texture` update
       - `AoVv Telvanni Bump Maps HQ` optional file
     - [Hlaalu Normal Mapped for OpenMW](https://www.nexusmods.com/morrowind/mods/44297)
     - [Vivec Normal Mapped for OpenMW](https://www.nexusmods.com/morrowind/mods/44259)
+    - [RR Mod Series - Better Meshes](https://www.nexusmods.com/morrowind/mods/43266)
+      - `RR - Better Redoran Architecture V1.2.2`
+        - options:
+          - `Vanilla GITD Patch`
+          - `Better Aldruhn-under-Skar HD`
     - [Ashlanders textures](https://www.nexusmods.com/morrowind/mods/45162)
     - [Clockwork City Reborn](https://www.nexusmods.com/morrowind/mods/38369)
     - [Dunmer Lanterns Replacer](https://www.nexusmods.com/morrowind/mods/43219)
@@ -105,6 +125,10 @@
     - [Long Live The Glassware - Retexture](https://www.nexusmods.com/morrowind/mods/44016)
     - [Long Live The Limeware - Retexture](https://www.nexusmods.com/morrowind/mods/44045)
     - [Long Live The Plates - Retexture](https://www.nexusmods.com/morrowind/mods/43935)
+    - [Dunmeri Urns - Aestetika of Vvardenfell](https://www.nexusmods.com/morrowind/mods/43541)
+    - [Telvanni Fireplace Replacer](https://www.nexusmods.com/morrowind/mods/43232)
+    - [Velothi Wall Art](https://www.nexusmods.com/morrowind/mods/46454)
+    - [Safety First - Silt Strider Ports with Railings](https://www.nexusmods.com/morrowind/mods/58948)
   - **Creatures**
     - [Better Bodies 3.2 (Better Beasts)](https://www.nexusmods.com/morrowind/mods/48387)
       - Nude version
@@ -117,16 +141,19 @@
     - [Darknut's Creature Textures BM](https://www.nexusmods.com/morrowind/mods/43422)
     - [Darknut's Creature Textures TB](https://www.nexusmods.com/morrowind/mods/43421)
     - [Darknut's Creature Textures addendum](https://www.nexusmods.com/morrowind/mods/43441)
-    - [Alternate Spriggans](https://www.nexusmods.com/morrowind/mods/44271)
     - [Better Almalexia](https://www.nexusmods.com/morrowind/mods/23388)
+    - [VEHK - Concept art Vivec replacer](https://www.nexusmods.com/morrowind/mods/53367)
+    - [Alternate Spriggans](https://www.nexusmods.com/morrowind/mods/44271)
     - [Hunger Replacer](https://www.nexusmods.com/morrowind/mods/49866)
     - [Mudcrab Replacer](https://www.nexusmods.com/morrowind/mods/46765)
+    - [Silt Strider](https://www.nexusmods.com/morrowind/mods/48664)
   - **Plants**
     - [Epic Plants](https://www.nexusmods.com/morrowind/mods/46180)
       - plus `Misc Patches` optional file (for Mudcrab imports)
     - [Pherim's Fire Fern - Plant and Ingredient](https://www.nexusmods.com/morrowind/mods/43568)
       - `Extra Fiery Textures` version
     - [Comberry Bush and Ingredient Replacer](https://www.nexusmods.com/morrowind/mods/42586)
+    - [Thickle-Lo - The Succulent Hackle-Lo Mod](https://www.nexusmods.com/morrowind/mods/47502)
   - **Items**
     - [Remiros' Uniques](https://www.nexusmods.com/morrowind/mods/49674)
     - [All Books Color-Coded and Designed](https://www.nexusmods.com/morrowind/mods/50536)
@@ -180,6 +207,8 @@
         - `Dust adept helm retexture`
         - `Colovian helm and heavy leather boots retexture`
     - [Eltonbrand Replacer](https://www.nexusmods.com/morrowind/mods/46695)
+  - **VFX**
+    - [Magic VFX Retexture by Articus](https://www.nexusmods.com/morrowind/mods/47702)
 - **SOUND**
   - [MAO Spell Sounds](https://www.nexusmods.com/morrowind/mods/50486)
 - **UI**
