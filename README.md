@@ -461,8 +461,8 @@
       - [ ] Uvirith Legacy Patch
       - [ ] Vailty's Bitter Coast
       - [ ] Vailty's Bitter Coast for Vurt's BC Trees
-      - [ ] Velothi Wall Art
-      - [ ] Velothi Wall Art - Re-addon
+      - [x] Velothi Wall Art
+      - [x] Velothi Wall Art - Re-addon
       - [ ] Vivec City - Clutter
       - [ ] Vivec City - Lights
       - [ ] Vivec City - Street Vendors
