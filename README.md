@@ -29,6 +29,7 @@
         - Normals: 1k
       - plus `AATL 2K-4K HD Textures` optional file
     - [Dr_Data](https://www.nexusmods.com/morrowind/mods/51776)
+    - [Sound_Data](https://www.nexusmods.com/morrowind/mods/58854)
 - **UTILITIES**
   - [OpenMW Impact Effects](https://www.nexusmods.com/morrowind/mods/55508)
   - [Lua Physics Engine -- OpenMW](https://www.nexusmods.com/morrowind/mods/56589)
@@ -173,6 +174,8 @@
     - [Arukinns Better Books and Scrolls](https://www.nexusmods.com/morrowind/mods/43100)
     - [Melchior's Magnificent Manuscripts](https://www.nexusmods.com/morrowind/mods/45626)
       - plus `ABCD (All Books Color-Coded and Designed) patch`
+    - [Book Jackets Complete Collection HD](https://www.nexusmods.com/morrowind/mods/55402)
+    - [The Scriptorium - Beautified and Illustrated Books (OpenMW)](https://www.nexusmods.com/morrowind/mods/57843)
     - [Darknut's Morrowind Crafting 2.1 Textures](https://www.nexusmods.com/morrowind/mods/43439)
     - [Ingredients Mesh Replacer](https://www.nexusmods.com/morrowind/mods/44067)
     - [Improved Better Skulls](https://www.nexusmods.com/morrowind/mods/46012)
