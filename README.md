@@ -39,17 +39,6 @@
   - [OpenMW Containers Animated](https://www.nexusmods.com/morrowind/mods/46232)
 - **FIXES**
   - [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)
-- **ANIMATIONS**
-  - [Animated Morrowind - merged](https://abitoftaste.modlist.x10.mx/morrowind/index.php?option=downloads&task=info&id=39&Itemid=50&-Animated-Morrowind-merged)
-    - [Animated Morrowind OpenMW Patch](https://www.nexusmods.com/morrowind/mods/48837)
-  - [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
-      <!-- - plus `Animation blending fix for Sitting NPC's` optional file -->
-  - [Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069)
-    - [Animated Morrowind and Weapon Sheathing patch for OpenMW](https://www.nexusmods.com/morrowind/mods/53479)
-  - [Hit Reactions Animated -- OpenMW](https://www.nexusmods.com/morrowind/mods/56594)
-  - [Magic VFX Retexture by Articus](https://www.nexusmods.com/morrowind/mods/47702)
-    - plus `ENG esp` optional file
-  - [Animated Lanterns and Signs -- OpenMW](https://www.nexusmods.com/morrowind/mods/58443)
 - **MODELS & TEXTURES**
   - **Splash Screens**
     - [Gonzo's Splash Screens](https://www.nexusmods.com/morrowind/mods/51667)
@@ -60,7 +49,7 @@
     - [Complementary Splash Screens](https://www.nexusmods.com/morrowind/mods/58323)
   - **Environment**
     - [Morrowind Enhanced Textures](https://www.nexusmods.com/morrowind/mods/46221)
-      - plus `MET Meshes` and `Interface and main menu` optional files
+      - plus `Interface and main menu` optional files
     - [Landscape Retexture](https://www.nexusmods.com/morrowind/mods/42575)
       - `Landscape Retexture 2K` option
       - plus `Landscape retexture - OpenMW Normal map and Parallax patch` and `Bloodmoon Landscape Retexture` optional files
@@ -154,6 +143,11 @@
       - plus `Better Elven Bodies` optional file
     - [Better bodies 3.2 - HD Nude Textures](https://www.nexusmods.com/morrowind/mods/56739)
     - [Westly's Hi-Res Better Bodies Textures](https://www.nexusmods.com/morrowind/mods/55566)
+    - [Familiar Faces by Caleb (Updated)](https://www.nexusmods.com/morrowind/mods/50093)
+    - [Westlys Master Head Pack Prim and Proper](https://www.nexusmods.com/morrowind/mods/53026)
+      - [Westly's Faces Refurbished](https://www.nexusmods.com/morrowind/mods/51214)
+        - plus `Westly's Faces Refurbished - TR_Data` optional file
+      - [Westly's Head and Hair Replacer - Hair Fix](https://www.nexusmods.com/morrowind/mods/47547)
     - [Diverse Blood](https://www.nexusmods.com/morrowind/mods/45368)
       - plus `Diverse Blood - NIF Replacer` update file
     - [Darknut's Creature Textures](https://www.nexusmods.com/morrowind/mods/43420)
@@ -189,11 +183,6 @@
       - plus `Missing Dragonscale Armor Texture` update
     - [Darknut's Armor Textures 1024 1.2](https://www.nexusmods.com/morrowind/mods/43416)
     - [HiRez Armors - Native Styles V2 Fixed and Optimized](https://www.nexusmods.com/morrowind/mods/47919)
-    - [Better Robes](https://www.nexusmods.com/morrowind/mods/42773)
-      - [Better Robes - Updated Tamriel Rebuilt Patch](https://www.nexusmods.com/morrowind/mods/44875)
-      - [Better Robes - Updated Tamriel Rebuilt Patch Missing Texture Fix](https://www.nexusmods.com/morrowind/mods/52174)
-      - [Publicola's Misc Mod Emporium](https://www.nexusmods.com/morrowind/mods/53235)
-        - `Better Robes TR - Fixed Meshes` file
     - [Better Clothes Complete](https://www.nexusmods.com/morrowind/mods/47549)
       - [Better Clothes Retextured](https://www.nexusmods.com/morrowind/mods/47851)
       - [Various tweaks and fixes](https://www.nexusmods.com/morrowind/mods/43795)
@@ -226,6 +215,21 @@
         - `Dust adept helm retexture`
         - `Colovian helm and heavy leather boots retexture`
     - [Eltonbrand Replacer](https://www.nexusmods.com/morrowind/mods/46695)
+- **ANIMATIONS**
+  - [Animated Morrowind - merged](https://abitoftaste.modlist.x10.mx/morrowind/index.php?option=downloads&task=info&id=39&Itemid=50&-Animated-Morrowind-merged)
+    - [Animated Morrowind OpenMW Patch](https://www.nexusmods.com/morrowind/mods/48837)
+  - [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
+      <!-- - plus `Animation blending fix for Sitting NPC's` optional file -->
+  - [Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069)
+    - [Animated Morrowind and Weapon Sheathing patch for OpenMW](https://www.nexusmods.com/morrowind/mods/53479)
+  - [Ultimate Animated Morrowind and BCOM OpenMW Patch](https://www.nexusmods.com/morrowind/mods/58206)
+  - [OpenMW Dynamic Animations](https://www.nexusmods.com/morrowind/mods/57633)
+  - [Hit Reactions Animated -- OpenMW](https://www.nexusmods.com/morrowind/mods/56594)
+  - [One-handed animations and idle fixes](https://www.nexusmods.com/morrowind/mods/55059)
+  - [Magic VFX Retexture by Articus](https://www.nexusmods.com/morrowind/mods/47702)
+    - plus `ENG esp` optional file
+  - [Animated Lanterns and Signs -- OpenMW](https://www.nexusmods.com/morrowind/mods/58443)
+  - [Swayland](https://www.nexusmods.com/morrowind/mods/48854)
 - **VFX**
 - **SOUND**
   - [MAO Spell Sounds](https://www.nexusmods.com/morrowind/mods/50486)
@@ -340,10 +344,11 @@
       - [x] Ald'ruhn Skar: Bigger Entrance
       - [x] Ald'ruhn outdoor merchants
       - [x] Vivec Arena: Skywind Style
-      - [x] Vivec Customisable Options: all
+      - Vivec Customisable Options:
+        - [ ] ???
       - [x] Molag Mar Dome: Broken Dome
       - [x] Caldera Mages Guild Basement
-      - [x] Balmora Marketplace Addon: Waterworks version 3
+      - [x] Balmora Marketplace Addon: Waterworks version 3 [???]
       - [x] More Tribal Erabenisum Yurts
       - [x] Maar Gan: all
       - [x] Khuul Lighthouse: alternate version
@@ -358,6 +363,120 @@
       - [x] Vegetto's Azura Statue Replacer
       - [x] Balmora Waterworks Options: all
       - [x] HD Textures
+    - BCOM Patches
+      - [ ] Abot's Boats
+      - [ ] Abot's Boats TOTSP addon
+      - [ ] Abot's Gondoliers
+      - [ ] Abot's Silt Striders
+      - [ ] Animated Morrowind
+      - [x] Animated Morrowind for OpenMW
+      - [ ] An Issue of Trust
+      - [ ] Apartments of Morrowind
+      - [ ] Apartments of Morrowind (Waterworks)
+      - [ ] Area of Effect Arrows
+      - [ ] Arvesa - An Armiger's Tale
+      - [ ] Ashfall Interop
+      - [ ] Ashlander Traders Remastered
+      - [ ] Bounty Hunter Assignments
+      - [ ] Broadsheets and Notice Boards
+      - [ ] Bustling Vivec
+      - [ ] Bustling Vivec - Reworked
+      - [ ] Caius Rooftop's Renovations (Waterworks only)
+      - [ ] Caldera Governor Manor
+      - [ ] Cephalopod Armor
+      - [ ] Cephalopod Armor - RR
+      - [ ] Concept Art Plantations
+      - [ ] Correspondances of Morrowind
+      - [ ] DartBoards Expanded
+      - [ ] Ebonheart Underworks
+      - [ ] Faction Living Quarters
+      - [ ] Far from Home
+      - [ ] Foreign Quarter Market Square
+      - [ ] Ghastly Glowyfence patch
+      - [ ] Gildergreen Patch
+      - [ ] Gildergreen Patch - Waterworks
+      - [ ] GITD Telvanni Dormers
+      - [ ] Guild of Vampire Hunters
+      - [ ] High Art
+      - [ ] Holidays Across Tamriel
+      - [ ] Illuminated Order Improved
+      - [ ] Imperial Employment Office (MD Edit)
+      - [ ] Imperial Legion Expansion
+      - [ ] Imperials Go Home
+      - [ ] Imperials Go Home - Gatehouses Expansion
+      - [ ] Julian the Ashlander Companion
+      - [ ] LGNPC FQ
+      - [ ] LGNPC Pax Redoran
+      - [ ] Lights Ald-ruhn
+      - [ ] Logs on fire
+      - [ ] Magical Missions Recharged
+      - [ ] Main Quest Enhancers
+      - [ ] Main Quest Enhancers - Waterworks
+      - [ ] Main Quest Overhaul
+      - [ ] Mamaea Awakened
+      - [ ] Mandas Manor
+      - [ ] Master Index Redux
+      - [ ] Moonlight on the Odai River
+      - [ ] Morag Tong Expanded
+      - [ ] Morrowind Anticheese
+      - [ ] Morrowind Crafting
+      - [ ] Morrowind Crafting - Waterworks
+      - [ ] MWSE Containers
+      - [ ] No Trespassing - Merged
+      - [ ] NPC Schedules
+      - [ ] OAAB Foyada Mamaea
+      - [ ] OAAB Pomegranates
+      - [x] Patch for Purists
+      - [x] Patch for Purists - Gatehouse Addon
+      - [ ] Pillow Mage Manor
+      - [ ] Province Cyrodiil
+      - [ ] Racer Dust Arms and Armor
+      - [ ] Realistic Repair Addon
+      - [ ] Red Mountain Reborn
+      - [ ] Red Mountain Reborn - Kogoruhn Expanded patch-fix
+      - [ ] Redoran Patrols
+      - [ ] Rise of House Telvanni
+      - [ ] Rise of House Telvanni 2.0
+      - [ ] Shabby Seyda Neen
+      - [ ] Siege at Firemoth
+      - [ ] Sload and Slavers
+      - [ ] Starfire npcs addition
+      - [ ] Starfire npcs addition - only interiors and telemages
+      - [ ] Store Entrance Chimes
+      - [ ] Striderport Lights
+      - [ ] Suran Underworld
+      - [ ] Suran Underworld - Dock Expansion Patch
+      - [ ] Suran Underworld - TOTSP
+      - [ ] Suran Underworld - TOTSP - Dock Expansion Patch
+      - [x] Tamriel Rebuilt
+      - [ ] Tel Aruhn Chronicles quest and Yasimarramus Overhaul addon
+      - [ ] The Cottage
+      - [ ] The Lamp
+      - [ ] The Publicans
+      - [ ] Travelling Merchants
+      - [ ] Travelling Merchants - Stonewood pass reworked
+      - [x] True Light and Darkness
+      - [ ] Unique Banners and Signs
+      - [ ] Unique Banners and Signs - Waterworks
+      - [ ] Uvirith Legacy Patch
+      - [ ] Vailty's Bitter Coast
+      - [ ] Vailty's Bitter Coast for Vurt's BC Trees
+      - [ ] Velothi Wall Art
+      - [ ] Velothi Wall Art - Re-addon
+      - [ ] Vivec City - Clutter
+      - [ ] Vivec City - Lights
+      - [ ] Vivec City - Street Vendors
+      - [ ] Vivec Illuminated Palace Redux
+      - [ ] Welcome Home
+      - [ ] Welcome Home - TOTSP
+      - [ ] Welcome to the Arena
+      - [ ] Welcome to the Arena - Open Arena
+      - [ ] Yet Another Guard Diversity - Cephalopod Armor
+      - [ ] Yet Another Guard Diversity - Cephalopod Armor - Waterworks
+      - [ ] Yet Another Guard Diversity - Regular
+      - [ ] Yet Another Guard Diversity - Regular - Waterworks
+      - [ ] Yet Another Guard Diversity - RR Cephalopod Armor
+      - [ ] Yet Another Guard Diversity - RR Cephalopod Armor - Waterworks
     - [AATL Compatibility Patches](https://www.nexusmods.com/morrowind/mods/55361)
       - `BCOM - Pots and Plans` file
 - **CRAFTING**
