@@ -38,6 +38,7 @@
   - [proximityTool (OpenMW)](https://www.nexusmods.com/morrowind/mods/57286)
   - [Character Traits Framework (OpenMW)](https://www.nexusmods.com/morrowind/mods/58703)
   - [OpenMW Containers Animated](https://www.nexusmods.com/morrowind/mods/46232)
+  - [Perk Framework (OpenMW)](https://www.nexusmods.com/morrowind/mods/57615)
 - **FIXES**
   - [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)
 - **MODELS & TEXTURES**
@@ -252,6 +253,9 @@
     - [(OpenMW 0.49) Floating Healthbars](https://www.nexusmods.com/morrowind/mods/54954)
     - [(OpenMW) HUDMarkers - Detect spells](https://www.nexusmods.com/morrowind/mods/57112)
     - [TimeHUD - A Clock UI widget](https://www.nexusmods.com/morrowind/mods/57407)
+    - [Inventory Manager - OpenMW](https://www.nexusmods.com/morrowind/mods/57730)
+    - [Object Insight Tooltip](https://www.nexusmods.com/morrowind/mods/59254)
+    - [Spell Trader (OpenMW)](https://www.nexusmods.com/morrowind/mods/59229)
   - **Notifications**
     - [(OpenMW) Pretty Stats](https://www.nexusmods.com/morrowind/mods/58304)
       - plus `No Skill Messages` optional file
@@ -481,7 +485,13 @@
       - [ ] Yet Another Guard Diversity - RR Cephalopod Armor
       - [ ] Yet Another Guard Diversity - RR Cephalopod Armor - Waterworks
     - [AATL Compatibility Patches](https://www.nexusmods.com/morrowind/mods/55361)
-      - `BCOM - Pots and Plans` file
+      - [ ] Samarys the Sunken Tomb: ...
+      - [ ] Saturan Depths: Greymarch Dawn - Whispers of Jyggalyg
+      - Inter-ops
+        - [ ] From the Hand of God - Better Ring of Azura
+        - [x] Tamriel Data
+        - [ ] The Doors of Oblivion
+      - [x] `BCOM - Pots and Plans` file
 - **CRAFTING**
   - [Perfect Placement](https://www.nexusmods.com/morrowind/mods/46562)
 - **NPCs**
@@ -489,6 +499,8 @@
   - [Mono's Minor Moddities](https://www.nexusmods.com/morrowind/mods/53027)
     - `Old Blue Fin Upscaled` file
   - [TriangleTooth's Missing Characters](https://www.nexusmods.com/morrowind/mods/46234)
+- **ITEMS**
+  - [Tales of the Mad God - The 16 Accords of Madness](https://www.nexusmods.com/morrowind/mods/58831)
 - **EQUIPMENT**
   - [Buoyant Armigers Armor](https://www.nexusmods.com/morrowind/mods/43143)
 - **DUNGEONS & LOCATIONS**
@@ -500,6 +512,7 @@
   - [Better Merchants Skills (OpenMW)](https://www.nexusmods.com/morrowind/mods/54337)
   - [Clear Your Name](https://www.nexusmods.com/morrowind/mods/43786)
   - [Level-independent Health](https://www.nexusmods.com/morrowind/mods/45242)
+  - [City Guide Menu (OpenMW)](https://www.nexusmods.com/morrowind/mods/58934)
 - **FOLLOWERS**
   - [Follower Commands (OpenMW)](https://www.nexusmods.com/morrowind/mods/58818)
   - [Paxon the Pack Rat](https://www.nexusmods.com/morrowind/mods/45669)
