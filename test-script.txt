@@ -1,0 +1,10 @@
+player->addspell "draconic_blood"
+player->addspell "mark"
+player->addspell "recall"
+player->addspell "almsivi intervention"
+player->addspell "divine intervention"
+player->addspell "dispel"
+player->additem gold_001 33000
+player->additem gold_001 33000
+player->additem gold_001 33000
+player->additem gold_001 33000

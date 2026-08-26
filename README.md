@@ -29,24 +29,23 @@
         - Normals: 1k
       - plus `AATL 2K-4K HD Textures` optional file
     - [Dr_Data](https://www.nexusmods.com/morrowind/mods/51776)
-    - [Sound_Data](https://www.nexusmods.com/morrowind/mods/58854)
+    - [Sound_Data](https://www.nexusmods.com/morrowind/mods/58854) <--- FIXME: waiting update for Poison Song --->
 - **UTILITIES**
   - [OpenMW Impact Effects](https://www.nexusmods.com/morrowind/mods/55508)
-  - [Lua Physics Engine -- OpenMW](https://www.nexusmods.com/morrowind/mods/56589)
+    - [Lua Physics Engine -- OpenMW](https://www.nexusmods.com/morrowind/mods/56589)
   - [Follower Detection Util (OpenMW)](https://www.nexusmods.com/morrowind/mods/58053)
   - [SPELL FRAMEWORK PLUS ( OpenMW )](https://www.nexusmods.com/morrowind/mods/58652)
   - [proximityTool (OpenMW)](https://www.nexusmods.com/morrowind/mods/57286)
-  - [Character Traits Framework (OpenMW)](https://www.nexusmods.com/morrowind/mods/58703)
-  - [OpenMW Containers Animated](https://www.nexusmods.com/morrowind/mods/46232)
+  - [Stats Window Extender (OpenMW)](https://www.nexusmods.com/morrowind/mods/57727)
+    - [Character Traits Framework (OpenMW)](https://www.nexusmods.com/morrowind/mods/58703)
   - [Perk Framework (OpenMW)](https://www.nexusmods.com/morrowind/mods/57615)
 - **FIXES**
-  - [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)
+  - [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096) <--- TODO: may instead use Morrowind Rebirth? --->
 - **MODELS & TEXTURES**
   - **Splash Screens**
     - [Gonzo's Splash Screens](https://www.nexusmods.com/morrowind/mods/51667)
       - `4K` Version
       - All labelled options
-    - [Morrowind Loading Screens Extended](https://www.nexusmods.com/morrowind/mods/45151)
     - [Immersive Loading Screens (OpenMW)](https://www.nexusmods.com/morrowind/mods/58749)
     - [Complementary Splash Screens](https://www.nexusmods.com/morrowind/mods/58323)
   - **Environment**
@@ -66,16 +65,28 @@
       - `RR - Better Crates and Barrels V1.1`
     - [Darknut's World Textures 1.1](https://www.nexusmods.com/morrowind/mods/45056)
     - [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886)
+      - Options:
+        - Optional Files:
+          - [x] Hi Res Window Texture Replacer
+          - [x] Raven Rock Glass Windows
+          - [x] Nord Glass Windows
+          - [ ] Windoors Patch
+          - [x] Dark Molag Mar
+        - Exclude Tel Uvirinth
+        - Telvanni Tower Interior Glow: OpenMW
+      - [Glow in the Dahrk - Normal Specular PBR Maps](https://www.nexusmods.com/morrowind/mods/58029)
     - [True Lights and Darkness](https://www.nexusmods.com/morrowind/mods/39605)
+      - only the `True_Lights_And_Darkness_1.1.esp`
       - plus `TLAD Lights Only Necro Edit Logical Flicker ExpSnd` file
-    - [Glowing Flames](https://www.nexusmods.com/morrowind/mods/46124)
-      - Patches: ???
+        - esps:
+          - `TLAD Daylight - BCOM`
+          - `TLAD Lights-LogicalFlicker-OriginalColors-ExpSnd`
     - [Correct Meshes](https://www.nexusmods.com/morrowind/mods/39348)
     - [Correct UV Rocks](https://www.nexusmods.com/morrowind/mods/46104)
     - [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424)
     - [New Starfields](https://www.nexusmods.com/morrowind/mods/43246)
     - [Better Telvanni Crystal](https://www.nexusmods.com/morrowind/mods/50818)
-    - [Normal and Specular maps for Better Telvanni Crystal](https://www.nexusmods.com/morrowind/mods/54928)
+      - [Normal and Specular maps for Better Telvanni Crystal](https://www.nexusmods.com/morrowind/mods/54928)
     - [Improved Kwama Eggs and Egg Sacs](https://www.nexusmods.com/morrowind/mods/43555)
     - [SM Bitter Coast Tree Replacer](https://www.nexusmods.com/morrowind/mods/49883)
     - [Remiros' Ascadian Isles Trees 2](https://www.nexusmods.com/morrowind/mods/45779)
@@ -85,7 +96,7 @@
     - [Subtle Smoke](https://www.nexusmods.com/morrowind/mods/47341)
     - [Scum Retexture](https://www.nexusmods.com/morrowind/mods/42582)
       - [Scummy Scum](https://www.nexusmods.com/morrowind/mods/45802)
-    - [I Lava Good Mesh Replacer](https://www.nexusmods.com/morrowind/mods/49605)
+    - [Vurt's Lava and Smoke](https://www.nexusmods.com/morrowind/mods/28519)
     - [Melchior's Excellent Grazelands Acacia](https://www.nexusmods.com/morrowind/mods/51058)
       - Patches:
         - [ ] Ashfall
@@ -136,6 +147,7 @@
     - [Long Live The Limeware - Retexture](https://www.nexusmods.com/morrowind/mods/44045)
     - [Long Live The Plates - Retexture](https://www.nexusmods.com/morrowind/mods/43935)
     - [Dunmeri Urns - Aestetika of Vvardenfell](https://www.nexusmods.com/morrowind/mods/43541)
+      - plus `Urns - AoVv Clutter - HQ - Normal Maps` optional file
     - [Telvanni Fireplace Replacer](https://www.nexusmods.com/morrowind/mods/43232)
     - [Velothi Wall Art](https://www.nexusmods.com/morrowind/mods/46454)
     - [Safety First - Silt Strider Ports with Railings](https://www.nexusmods.com/morrowind/mods/58948)
@@ -158,8 +170,8 @@
     - [Darknut's Creature Textures addendum](https://www.nexusmods.com/morrowind/mods/43441)
     - [Better Almalexia](https://www.nexusmods.com/morrowind/mods/23388)
     - [VEHK - Concept art Vivec replacer](https://www.nexusmods.com/morrowind/mods/53367)
-    - [Alternate Spriggans](https://www.nexusmods.com/morrowind/mods/44271)
     - [Hunger Replacer](https://www.nexusmods.com/morrowind/mods/49866)
+    - [Alternate Spriggans](https://www.nexusmods.com/morrowind/mods/44271)
     - [Mudcrab Replacer](https://www.nexusmods.com/morrowind/mods/46765)
     - [Silt Strider](https://www.nexusmods.com/morrowind/mods/48664)
   - **Plants**
@@ -168,6 +180,7 @@
     - [Pherim's Fire Fern - Plant and Ingredient](https://www.nexusmods.com/morrowind/mods/43568)
       - `Extra Fiery Textures` version
     - [Comberry Bush and Ingredient Replacer](https://www.nexusmods.com/morrowind/mods/42586)
+      - plus `OpenMW compatible Meshes` optional file
     - [Thickle-Lo - The Succulent Hackle-Lo Mod](https://www.nexusmods.com/morrowind/mods/47502)
   - **Items**
     - [Remiros' Uniques](https://www.nexusmods.com/morrowind/mods/49674)
@@ -176,23 +189,29 @@
     - [Melchior's Magnificent Manuscripts](https://www.nexusmods.com/morrowind/mods/45626)
       - plus `ABCD (All Books Color-Coded and Designed) patch`
     - [Book Jackets Complete Collection HD](https://www.nexusmods.com/morrowind/mods/55402)
-    - [The Scriptorium - Beautified and Illustrated Books (OpenMW)](https://www.nexusmods.com/morrowind/mods/57843)
+    - [(OpenMW 0.50) trav's OpenMW Books Enhanced](https://www.nexusmods.com/morrowind/mods/55126)
+      - [The Scriptorium - Beautified and Illustrated Books (OpenMW)](https://www.nexusmods.com/morrowind/mods/57843)
     - [Darknut's Morrowind Crafting 2.1 Textures](https://www.nexusmods.com/morrowind/mods/43439)
     - [Ingredients Mesh Replacer](https://www.nexusmods.com/morrowind/mods/44067)
     - [Improved Better Skulls](https://www.nexusmods.com/morrowind/mods/46012)
     - [Salts](https://www.nexusmods.com/morrowind/mods/47784)
     - [Glass Glowset](https://www.nexusmods.com/morrowind/mods/42762)
+      - plus `Glass Pixelation fix (extract to meshes folder)` optional file
     - [Septim Gold and Dwemer Dumacs](https://www.nexusmods.com/morrowind/mods/1634)
+      - folders:
+        - `01 OpenMW`
+        - `02 White Dumacs`
+        - `04 Animated Morrowind`
+        - `06 HATV and POP`
     - [Armors Retexture - Outlander Styles](https://www.nexusmods.com/morrowind/mods/44210)
-      - plus `Missing Dragonscale Armor Texture` update
     - [Darknut's Armor Textures 1024 1.2](https://www.nexusmods.com/morrowind/mods/43416)
-    - [HiRez Armors - Native Styles V2 Fixed and Optimized](https://www.nexusmods.com/morrowind/mods/47919)
     - [Better Clothes Complete](https://www.nexusmods.com/morrowind/mods/47549)
       - [Better Clothes Retextured](https://www.nexusmods.com/morrowind/mods/47851)
       - [Various tweaks and fixes](https://www.nexusmods.com/morrowind/mods/43795)
         - `Better Clothes missing hands fix` file
     - [Darknut's Little Weapons Mod Complete](https://www.nexusmods.com/morrowind/mods/43418)
     - [Glowing Daedric Weapons](https://www.nexusmods.com/morrowind/mods/57172)
+      - plus `GlowingDaedricWeaponsTantoFix` optional file
     - [More Glowing Mods](https://www.nexusmods.com/morrowind/mods/53504)
       - files:
         - [ ] DaedricAkaviriGlow
@@ -210,23 +229,17 @@
         - [x] `OAABDaedricGlow`
         - [ ] `ArgonianDaedricGlow`
         - [x] `BuoyantArmigersArmourGlow`
-          - [x] `BuoyantArmigersArmourGlowOPENMW.49FIX`
         - [ ] `OAABTombsTowersMagebane`
-    - [Daedric Crescent Replacer](https://www.nexusmods.com/morrowind/mods/46439)
-    - [Various little mods](https://www.nexusmods.com/morrowind/mods/43330)
-      - files:
-        - `Eleidon&#39;s Ward retexture`
-        - `Dust adept helm retexture`
-        - `Colovian helm and heavy leather boots retexture`
     - [Eltonbrand Replacer](https://www.nexusmods.com/morrowind/mods/46695)
 - **ANIMATIONS**
+  - [OpenMW Containers Animated](https://www.nexusmods.com/morrowind/mods/46232)
   - [Animated Morrowind - merged](https://abitoftaste.modlist.x10.mx/morrowind/index.php?option=downloads&task=info&id=39&Itemid=50&-Animated-Morrowind-merged)
     - [Animated Morrowind OpenMW Patch](https://www.nexusmods.com/morrowind/mods/48837)
   - [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
       <!-- - plus `Animation blending fix for Sitting NPC's` optional file -->
   - [Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069)
     - [Animated Morrowind and Weapon Sheathing patch for OpenMW](https://www.nexusmods.com/morrowind/mods/53479)
-  - [Ultimate Animated Morrowind and BCOM OpenMW Patch](https://www.nexusmods.com/morrowind/mods/58206)
+      - plus `Animated Morrowind_Only resources for overwriting` optional file
   - [OpenMW Dynamic Animations](https://www.nexusmods.com/morrowind/mods/57633)
   - [Hit Reactions Animated -- OpenMW](https://www.nexusmods.com/morrowind/mods/56594)
   - [One-handed animations and idle fixes](https://www.nexusmods.com/morrowind/mods/55059)
@@ -239,30 +252,24 @@
   - [MAO Spell Sounds](https://www.nexusmods.com/morrowind/mods/50486)
 - **UI**
   - **General**
-    - [Stats Window Extender (OpenMW)](https://www.nexusmods.com/morrowind/mods/57727)
-    - [Archive - Enough Does Not Have Enough (Remove Item Charge Message)](https://www.nexusmods.com/morrowind/mods/54176)
     - [TrueType fonts for OpenMW](https://www.nexusmods.com/morrowind/mods/46854)
     - [Retextured Buttons for Journal and Books (OpenMW)](https://www.nexusmods.com/morrowind/mods/55333)
+    - [Archive - Enough Does Not Have Enough (Remove Item Charge Message)](https://www.nexusmods.com/morrowind/mods/54176)
   - **HUD**
     - [OpenMW Modern UI Overhaul (Mashup)](https://www.nexusmods.com/morrowind/mods/54393)
     - [Arukinns Better UI](https://www.nexusmods.com/morrowind/mods/42139)
     - [Interface Reimagined for OpenMW](https://www.nexusmods.com/morrowind/mods/54985)
-      - `main` and `OpenMW 0.50 patch` files
+      - `main` file
     - [Greyed-out dialog](https://www.nexusmods.com/morrowind/mods/50186)
     - [(OpenMW 0.49) Better Bars](https://www.nexusmods.com/morrowind/mods/54951)
     - [(OpenMW 0.49) Floating Healthbars](https://www.nexusmods.com/morrowind/mods/54954)
     - [(OpenMW) HUDMarkers - Detect spells](https://www.nexusmods.com/morrowind/mods/57112)
     - [TimeHUD - A Clock UI widget](https://www.nexusmods.com/morrowind/mods/57407)
-    - [Inventory Manager - OpenMW](https://www.nexusmods.com/morrowind/mods/57730)
     - [Object Insight Tooltip](https://www.nexusmods.com/morrowind/mods/59254)
     - [Spell Trader (OpenMW)](https://www.nexusmods.com/morrowind/mods/59229)
   - **Notifications**
     - [(OpenMW) Pretty Stats](https://www.nexusmods.com/morrowind/mods/58304)
       - plus `No Skill Messages` optional file
-    - [OpenMW Skyrim Style Quest Notifications](https://www.nexusmods.com/morrowind/mods/54148)
-    - [Skyrim Style Quest Notifications - Legendary Edition](https://www.nexusmods.com/morrowind/mods/53712)
-    - [Pretty Loot (OpenMW)](https://www.nexusmods.com/morrowind/mods/58167)
-      - plus `Pretty Loot No Pickup Messages by therealralts` optional file
   - **Icons**
     - [Holy Divination (HD) Icons -OpenMW-](https://www.nexusmods.com/morrowind/mods/55273)
       - Patches I
@@ -312,23 +319,27 @@
     - [Dignitas - Reputation Titles and Descriptions (OpenMW)](https://www.nexusmods.com/morrowind/mods/58572)
     - [Enumeratio - Player Stats Counters (OpenMW)](https://www.nexusmods.com/morrowind/mods/58497)
   - **Journal**
+    - [OpenMW Skyrim Style Quest Notifications](https://www.nexusmods.com/morrowind/mods/54148)
     - [OpenMW Quest Menu](https://www.nexusmods.com/morrowind/mods/56273)
   - **Map**
     - [Advanced World Map (OpenMW)](https://www.nexusmods.com/morrowind/mods/57881)
       - plus `fix for the 'Tomb of the Snow Prince' mod` optional file
-    - [Advanced World Map - Tracking](https://www.nexusmods.com/morrowind/mods/58324)
+      - [Advanced World Map - Tracking](https://www.nexusmods.com/morrowind/mods/58324)
     - [Dynamic Map (OpenMW)](https://www.nexusmods.com/morrowind/mods/58683)
   - **Magic**
     - [Magic Window Extender (OpenMW)](https://www.nexusmods.com/morrowind/mods/58064)
   - **Inventory**
+    - [Inventory Extender (OpenMW)](https://www.nexusmods.com/morrowind/mods/59205)
     - [(OpenMW 0.49) QuickLoot](https://www.nexusmods.com/morrowind/mods/54950)
       - plus `Pickpocket Overhaul` optional file
+    - [Pretty Loot (OpenMW)](https://www.nexusmods.com/morrowind/mods/58167)
+      - plus `Pretty Loot No Pickup Messages by therealralts` optional file
     - [Of Bead and Feather - Custom Potion Sorter (OpenMW)](https://www.nexusmods.com/morrowind/mods/57782)
       - `256x256` and `Vanilla size` options
   - **Other**
-    - [(OpenMW 0.50) trav's OpenMW Books Enhanced](https://www.nexusmods.com/morrowind/mods/55126)
 - **LANDS**
   - [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
+<-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
   - [Skyrim Home Of The Nords](https://www.nexusmods.com/morrowind/mods/44921)
   - [Solstheim - Tomb of the Snow Prince](https://www.nexusmods.com/morrowind/mods/46810)
     - Patches:
