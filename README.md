@@ -17,7 +17,6 @@
       - [x] Improved Kwama Eggs
       - [x] Glow in the Dahrk
       - [x] Telvanni Crystal Replacer: Better telvanni crystals
-    - plus `HD` file
     - [OAAB Full Upscale](https://www.nexusmods.com/morrowind/mods/53379)
       - `OAAB Full Upscale` and `OAAB Full Upscale Normal Specular Maps` files
     - [AATL Data](https://www.nexusmods.com/morrowind/mods/50647)
@@ -29,18 +28,19 @@
         - Normals: 1k
       - plus `AATL 2K-4K HD Textures` optional file
     - [Dr_Data](https://www.nexusmods.com/morrowind/mods/51776)
-    - [Sound_Data](https://www.nexusmods.com/morrowind/mods/58854) <--- FIXME: waiting update for Poison Song --->
+    - [Sound_Data](https://www.nexusmods.com/morrowind/mods/58854) <!-- FIXME: waiting update for Poison Song -->
 - **UTILITIES**
   - [OpenMW Impact Effects](https://www.nexusmods.com/morrowind/mods/55508)
     - [Lua Physics Engine -- OpenMW](https://www.nexusmods.com/morrowind/mods/56589)
   - [Follower Detection Util (OpenMW)](https://www.nexusmods.com/morrowind/mods/58053)
   - [SPELL FRAMEWORK PLUS ( OpenMW )](https://www.nexusmods.com/morrowind/mods/58652)
-  - [proximityTool (OpenMW)](https://www.nexusmods.com/morrowind/mods/57286)
   - [Stats Window Extender (OpenMW)](https://www.nexusmods.com/morrowind/mods/57727)
     - [Character Traits Framework (OpenMW)](https://www.nexusmods.com/morrowind/mods/58703)
   - [Perk Framework (OpenMW)](https://www.nexusmods.com/morrowind/mods/57615)
+  - [Skill Framework (OpenMW)](https://www.nexusmods.com/morrowind/mods/57765)
+  - [proximityTool (OpenMW)](https://www.nexusmods.com/morrowind/mods/57286)
 - **FIXES**
-  - [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096) <--- TODO: may instead use Morrowind Rebirth? --->
+  - [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096) <!-- TODO: may instead use Morrowind Rebirth? -->
 - **MODELS & TEXTURES**
   - **Splash Screens**
     - [Gonzo's Splash Screens](https://www.nexusmods.com/morrowind/mods/51667)
@@ -196,7 +196,6 @@
     - [Improved Better Skulls](https://www.nexusmods.com/morrowind/mods/46012)
     - [Salts](https://www.nexusmods.com/morrowind/mods/47784)
     - [Glass Glowset](https://www.nexusmods.com/morrowind/mods/42762)
-      - plus `Glass Pixelation fix (extract to meshes folder)` optional file
     - [Septim Gold and Dwemer Dumacs](https://www.nexusmods.com/morrowind/mods/1634)
       - folders:
         - `01 OpenMW`
@@ -308,13 +307,13 @@
         - [x] Pherim's Fire Fern
         - [x] Pherim's Bread
     - [Big Icons](https://www.nexusmods.com/morrowind/mods/49662)
-    - [Descriptive Icons - Better Potions - Scrolls - Spell Effects Replacer](https://www.nexusmods.com/morrowind/mods/57491)
+    - [Descriptive Icons - Better Potions - Scrolls - Spell Effects Replacer](https://www.nexusmods.com/morrowind/mods/57491) <!-- TODO: Hidden in Nexus -->
       - `256 x 256` Version
         - `New Flasks` & `Optional_upscaled icons for custom potions`
         - `Descriptive_Potion_Icons.ESP`
         - `Descriptive_Scroll_Icons.ESP`
-      - [Enchanting icons as you wish](https://www.nexusmods.com/morrowind/mods/50028)
-        - Daedric version
+    - [Enchanting icons as you wish](https://www.nexusmods.com/morrowind/mods/50028)
+      - Daedric version
   - **Stats**
     - [Dignitas - Reputation Titles and Descriptions (OpenMW)](https://www.nexusmods.com/morrowind/mods/58572)
     - [Enumeratio - Player Stats Counters (OpenMW)](https://www.nexusmods.com/morrowind/mods/58497)
@@ -322,9 +321,6 @@
     - [OpenMW Skyrim Style Quest Notifications](https://www.nexusmods.com/morrowind/mods/54148)
     - [OpenMW Quest Menu](https://www.nexusmods.com/morrowind/mods/56273)
   - **Map**
-    - [Advanced World Map (OpenMW)](https://www.nexusmods.com/morrowind/mods/57881)
-      - plus `fix for the 'Tomb of the Snow Prince' mod` optional file
-      - [Advanced World Map - Tracking](https://www.nexusmods.com/morrowind/mods/58324)
     - [Dynamic Map (OpenMW)](https://www.nexusmods.com/morrowind/mods/58683)
   - **Magic**
     - [Magic Window Extender (OpenMW)](https://www.nexusmods.com/morrowind/mods/58064)
@@ -339,18 +335,17 @@
   - **Other**
 - **LANDS**
   - [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
-<-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-  - [Skyrim Home Of The Nords](https://www.nexusmods.com/morrowind/mods/44921)
-  - [Solstheim - Tomb of the Snow Prince](https://www.nexusmods.com/morrowind/mods/46810)
+  - [Skyrim Home Of The Nords](https://www.nexusmods.com/morrowind/mods/44921) <!-- FIXME: waiting update for Poison Song -->
+  - [Solstheim - Tomb of the Snow Prince](https://www.nexusmods.com/morrowind/mods/46810) <!-- FIXME: waiting update for Poison Song -->
     - Patches:
       - [x] Glow in the Dahrk
       - [x] Missing snow armor
       - [x] TOTSP TD Content Integration - Spiders
     - plus `Patch for Purists Patch for PfP 5.0.6` optional file
-  - [Mono's Minor Moddities](https://www.nexusmods.com/morrowind/mods/53027)
+  - [Mono's Minor Moddities](https://www.nexusmods.com/morrowind/mods/53027) <!-- FIXME: waiting update for Poison Song -->
     - `Tomb of the Snow Prince - PA and GitD Patch` file
 - **OVERHAULS**
-  - [Beautiful Cities of Morrowind](https://www.nexusmods.com/morrowind/mods/49231)
+  - [Beautiful Cities of Morrowind](https://www.nexusmods.com/morrowind/mods/49231) <!-- TODO: will decide whether to use this, rebirth, or individual city overhauls... -->
     - Options, Addons, & Patches
       - [x] Balmora Waterworks
       - [x] Brevur of Balmora
@@ -524,6 +519,7 @@
   - [Clear Your Name](https://www.nexusmods.com/morrowind/mods/43786)
   - [Level-independent Health](https://www.nexusmods.com/morrowind/mods/45242)
   - [City Guide Menu (OpenMW)](https://www.nexusmods.com/morrowind/mods/58934)
+  - [Higher Faction Requirements](https://www.nexusmods.com/morrowind/mods/53230)
 - **FOLLOWERS**
   - [Follower Commands (OpenMW)](https://www.nexusmods.com/morrowind/mods/58818)
   - [Paxon the Pack Rat](https://www.nexusmods.com/morrowind/mods/45669)
@@ -531,39 +527,38 @@
 - **MAGIC**
   - **Changes**
     - [Oblivion Style Spellcasting Quickcasting ( OpenMW )](https://www.nexusmods.com/morrowind/mods/58653)
-    - [(OpenMW) Pure Lua Multi Mark](https://www.nexusmods.com/morrowind/mods/57313)
   - **New Magic**
     - [Daisy's Lua Multimark Mod](https://www.nexusmods.com/morrowind/mods/53260)
     - [Conjure Soul Wisp Spell (OpenMW 0.51)](https://www.nexusmods.com/morrowind/mods/58795)
     - [Spells of Morrowind - Vol. 1 - Trap Handling (v2.0)](https://www.nexusmods.com/morrowind/mods/58681)
+    - [Spells of Morrowind - vol. 2 - Haggle-Light and Travel Illumination (OpenMW)](https://www.nexusmods.com/morrowind/mods/58954)
+    - [Spells of Morrowind - vol. 3 - Kinetic Forces](https://www.nexusmods.com/morrowind/mods/59013)
 - **CHAR GEN**
-  - **Alternate Start**
-    - [Mutiny - Alternate Start](https://www.nexusmods.com/morrowind/mods/57702)
   - **Races**
     - [Reincarnate - Races of Morrowind](https://www.nexusmods.com/morrowind/mods/52397)
-    - [Tamriel Data Races Playable (Continued)](https://www.nexusmods.com/morrowind/mods/58881)
-    - [Fallen Angels Complete](https://www.nexusmods.com/morrowind/mods/55019)
+    - [Tamriel Data Races Playable (Continued)](https://www.nexusmods.com/morrowind/mods/58881) <!-- FIXME: waiting update for Poison Song -->
     - [Histborn Argonian - A Mystic Race Variant](https://www.nexusmods.com/morrowind/mods/58147)
   - **Classes**
     - [Lore Class Expansion](https://www.nexusmods.com/morrowind/mods/56947)
   - **Signs**
-    - [Daedric Birthsigns](https://www.nexusmods.com/morrowind/mods/52051)
     - [Moonlight - Birthsigns of Morrowind](https://www.nexusmods.com/morrowind/mods/52456)
-      - `Compatibility` version
+    - [Daedric Birthsigns](https://www.nexusmods.com/morrowind/mods/52051)
     - [Divine Signs- Birthsigns for the many faiths of Tamriel](https://www.nexusmods.com/morrowind/mods/57322)
-    - [The Firmament - Birthsigns Refined](https://www.nexusmods.com/morrowind/mods/56771)
   - **Traits**
     - [Community Traits Ported (OpenMW)](https://www.nexusmods.com/morrowind/mods/58704)
+      - `Sage's Backgrounds`
       - `MTR Lineages`
       - `MTR Cultures`
       - `The Wretched And The Weird`
       - `Frana5u's Backgrounds`
-      - `Sage's Backgrounds`
       - `Oblivion Backgrounds`
       - `MTR Beliefs`
+  - **Alternate Start**
+    - [Mutiny - Alternate Start](https://www.nexusmods.com/morrowind/mods/57702)
 - **PATCHES**
 - **AUTOMATED**
   - [Merged Objects](https://www.nexusmods.com/morrowind/mods/46870)
+  - [Delta Plugin](https://modding-openmw.com/mods/delta-plugin/)
 - **TOOLS**
   - [TES Construction Set Fix - Morrowind Steam GOTY - GOG - Bethesda.net _ English - French (TESCS)](https://www.nexusmods.com/morrowind/mods/42196)
 

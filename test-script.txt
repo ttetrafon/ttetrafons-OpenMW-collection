@@ -4,7 +4,8 @@ player->addspell "recall"
 player->addspell "almsivi intervention"
 player->addspell "divine intervention"
 player->addspell "dispel"
-player->additem gold_001 33000
-player->additem gold_001 33000
-player->additem gold_001 33000
-player->additem gold_001 33000
+player->addspell multimark_mark_spell
+player->addspell multimark_recall_spell
+player->additem gold_001 333333
+player->setmysticism 50
+player->setalteration 50
