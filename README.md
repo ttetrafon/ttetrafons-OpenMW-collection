@@ -39,9 +39,16 @@
   - [Perk Framework (OpenMW)](https://www.nexusmods.com/morrowind/mods/57615)
   - [Skill Framework (OpenMW)](https://www.nexusmods.com/morrowind/mods/57765)
   - [proximityTool (OpenMW)](https://www.nexusmods.com/morrowind/mods/57286)
-- **FIXES**
+  - [Item Browser (OpenMW)](https://www.nexusmods.com/morrowind/mods/59080)
+- **BUG FIXES**
   - [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096) <!-- TODO: may instead use Morrowind Rebirth? -->
+  - [Float Script Fix](https://www.nexusmods.com/morrowind/mods/58815)
+  - [No More Stage Diving - Desele's Dancing Girls](https://www.nexusmods.com/morrowind/mods/47738)
+  - [Silt Strider Animation Restored](https://www.nexusmods.com/morrowind/mods/44150)
+  - [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588)
 - **MODELS & TEXTURES**
+  - **Fixes**
+    - [Expansion Resource Conflicts](https://www.nexusmods.com/morrowind/mods/44532)
   - **Splash Screens**
     - [Gonzo's Splash Screens](https://www.nexusmods.com/morrowind/mods/51667)
       - `4K` Version
@@ -161,7 +168,6 @@
     - [Westlys Master Head Pack Prim and Proper](https://www.nexusmods.com/morrowind/mods/53026)
       - [Westly's Faces Refurbished](https://www.nexusmods.com/morrowind/mods/51214)
         - plus `Westly's Faces Refurbished - TR_Data` optional file
-      - [Westly's Head and Hair Replacer - Hair Fix](https://www.nexusmods.com/morrowind/mods/47547)
     - [Diverse Blood](https://www.nexusmods.com/morrowind/mods/45368)
       - plus `Diverse Blood - NIF Replacer` update file
     - [Darknut's Creature Textures](https://www.nexusmods.com/morrowind/mods/43420)
@@ -270,6 +276,7 @@
     - [(OpenMW) Pretty Stats](https://www.nexusmods.com/morrowind/mods/58304)
       - plus `No Skill Messages` optional file
   - **Icons**
+    - [Vanilla Style HD Icons for Attributes and Skills](https://www.nexusmods.com/morrowind/mods/54708)
     - [Holy Divination (HD) Icons -OpenMW-](https://www.nexusmods.com/morrowind/mods/55273)
       - Patches I
         - [x] Tamriel Data
@@ -514,10 +521,10 @@
 - **QUESTS**
 - **GAMEPLAY**
   - [Skill Evolution (OpenMW)](https://www.nexusmods.com/morrowind/mods/57802)
+  - [Ultimate Leveling (OpenMW)](https://www.nexusmods.com/morrowind/mods/58957)
   - [Pursuit (OpenMW)](https://www.nexusmods.com/morrowind/mods/50271)
   - [Better Merchants Skills (OpenMW)](https://www.nexusmods.com/morrowind/mods/54337)
   - [Clear Your Name](https://www.nexusmods.com/morrowind/mods/43786)
-  - [Level-independent Health](https://www.nexusmods.com/morrowind/mods/45242)
   - [City Guide Menu (OpenMW)](https://www.nexusmods.com/morrowind/mods/58934)
   - [Higher Faction Requirements](https://www.nexusmods.com/morrowind/mods/53230)
 - **FOLLOWERS**
@@ -546,13 +553,13 @@
     - [Divine Signs- Birthsigns for the many faiths of Tamriel](https://www.nexusmods.com/morrowind/mods/57322)
   - **Traits**
     - [Community Traits Ported (OpenMW)](https://www.nexusmods.com/morrowind/mods/58704)
-      - `Sage's Backgrounds`
       - `MTR Lineages`
       - `MTR Cultures`
-      - `The Wretched And The Weird`
-      - `Frana5u's Backgrounds`
-      - `Oblivion Backgrounds`
       - `MTR Beliefs`
+      - `Sage's Backgrounds` <!-- FIXME: Fails to initialise -->
+      - `The Wretched And The Weird` <!-- FIXME: Fails to initialise -->
+      - `Frana5u's Backgrounds` <!-- FIXME: Fails to initialise -->
+      - `Oblivion Backgrounds` <!-- FIXME: Fails to initialise -->
   - **Alternate Start**
     - [Mutiny - Alternate Start](https://www.nexusmods.com/morrowind/mods/57702)
 - **PATCHES**
