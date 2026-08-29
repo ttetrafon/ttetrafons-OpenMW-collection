@@ -1,17 +1,20 @@
 player->addspell "draconic_blood"
-player->addspell "mark"
-player->addspell "recall"
+player->addspell mark
+player->addspell recall
 player->addspell "almsivi intervention"
 player->addspell "divine intervention"
-player->addspell "dispel"
+player->addspell dispel
 player->addspell "water breathing"
 player->addspell "water walking"
-player->addspell "levitate"
+player->addspell levitate
 player->addspell "wild open"
 player->addspell multimark_mark_spell
 player->addspell multimark_recall_spell
 
 player->additem gold_001 333333
+player->additem ring_mentor_unique 1
+player->additem ring_phynaster_unique 1
+player->additem ring_denstagmer_unique 1
 
 player->setmysticism 50
 player->setalteration 50

@@ -515,7 +515,10 @@
 - **ITEMS**
   - [Tales of the Mad God - The 16 Accords of Madness](https://www.nexusmods.com/morrowind/mods/58831)
 - **EQUIPMENT**
-  - [Buoyant Armigers Armor](https://www.nexusmods.com/morrowind/mods/43143)
+  - **New Equipment**
+    - [Buoyant Armigers Armor](https://www.nexusmods.com/morrowind/mods/43143)
+  - **Changes**
+    - [(OpenMW) Visible Morrowind finery](https://www.nexusmods.com/morrowind/mods/58504)
 - **DUNGEONS & LOCATIONS**
   - [Three Shades of Darkness](https://www.nexusmods.com/morrowind/mods/351)
 - **QUESTS**
