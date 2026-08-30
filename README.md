@@ -40,6 +40,7 @@
   - [Skill Framework (OpenMW)](https://www.nexusmods.com/morrowind/mods/57765)
   - [proximityTool (OpenMW)](https://www.nexusmods.com/morrowind/mods/57286)
   - [Item Browser (OpenMW)](https://www.nexusmods.com/morrowind/mods/59080)
+  - [Arrow Stick (OpenMW)](https://www.nexusmods.com/morrowind/mods/58299)
 - **BUG FIXES**
   - [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096) <!-- TODO: may instead use Morrowind Rebirth? -->
   - [Float Script Fix](https://www.nexusmods.com/morrowind/mods/58815)
@@ -85,9 +86,7 @@
     - [True Lights and Darkness](https://www.nexusmods.com/morrowind/mods/39605)
       - only the `True_Lights_And_Darkness_1.1.esp`
       - plus `TLAD Lights Only Necro Edit Logical Flicker ExpSnd` file
-        - esps:
-          - `TLAD Daylight - BCOM`
-          - `TLAD Lights-LogicalFlicker-OriginalColors-ExpSnd`
+        - `TLAD Lights-LogicalFlicker-OriginalColors-ExpSnd` esp only
     - [Correct Meshes](https://www.nexusmods.com/morrowind/mods/39348)
     - [Correct UV Rocks](https://www.nexusmods.com/morrowind/mods/46104)
     - [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424)
@@ -135,7 +134,8 @@
     - [Telvanni - Arkitektora of Vvardenfell](https://www.nexusmods.com/morrowind/mods/43530)
       - `AoVv Telvanni HQ` option
       - `Missed texture` update
-      - `AoVv Telvanni Bump Maps HQ` optional file
+    - [Mono's Minor Moddities](https://www.nexusmods.com/morrowind/mods/53027)
+      - `Telvanni Mesh Improvement - Arkitektora Patch` file
     - [Hlaalu Normal Mapped for OpenMW](https://www.nexusmods.com/morrowind/mods/44297)
     - [Vivec Normal Mapped for OpenMW](https://www.nexusmods.com/morrowind/mods/44259)
     - [RR Mod Series - Better Meshes](https://www.nexusmods.com/morrowind/mods/43266)
@@ -201,6 +201,7 @@
     - [Ingredients Mesh Replacer](https://www.nexusmods.com/morrowind/mods/44067)
     - [Improved Better Skulls](https://www.nexusmods.com/morrowind/mods/46012)
     - [Salts](https://www.nexusmods.com/morrowind/mods/47784)
+    - [Darknut's Little Weapons Mod Complete](https://www.nexusmods.com/morrowind/mods/43418)
     - [Glass Glowset](https://www.nexusmods.com/morrowind/mods/42762)
     - [Septim Gold and Dwemer Dumacs](https://www.nexusmods.com/morrowind/mods/1634)
       - folders:
@@ -214,7 +215,6 @@
       - [Better Clothes Retextured](https://www.nexusmods.com/morrowind/mods/47851)
       - [Various tweaks and fixes](https://www.nexusmods.com/morrowind/mods/43795)
         - `Better Clothes missing hands fix` file
-    - [Darknut's Little Weapons Mod Complete](https://www.nexusmods.com/morrowind/mods/43418)
     - [Glowing Daedric Weapons](https://www.nexusmods.com/morrowind/mods/57172)
       - plus `GlowingDaedricWeaponsTantoFix` optional file
     - [More Glowing Mods](https://www.nexusmods.com/morrowind/mods/53504)
@@ -281,9 +281,9 @@
       - Patches I
         - [x] Tamriel Data
         - [x] OAAB Data
-        - [x] BCOM (Beautiful Cities of Morrowind)
+        - [ ] BCOM (Beautiful Cities of Morrowind)
         - [x] All Books Colour-Coded and Designed
-        - [x] Tomb of the Snow Prince
+        - [ ] Tomb of the Snow Prince
         - [ ] NPC Outfit Diversity
         - [ ] Unique Jewellery Redone
         - [ ] FMGS Unique Items
@@ -311,10 +311,10 @@
         - [ ] Divine Dagoths
         - [ ] SM Mask of Dagoth Ur
       - Patches III
-        - [x] Pherim's Fire Fern
+        - [x] Pherim's Fire Fern: extra fiery
         - [x] Pherim's Bread
     - [Big Icons](https://www.nexusmods.com/morrowind/mods/49662)
-    - [Descriptive Icons - Better Potions - Scrolls - Spell Effects Replacer](https://www.nexusmods.com/morrowind/mods/57491) <!-- TODO: Hidden in Nexus -->
+    - [Descriptive Icons - Better Potions - Scrolls - Spell Effects Replacer](https://www.nexusmods.com/morrowind/mods/57491)
       - `256 x 256` Version
         - `New Flasks` & `Optional_upscaled icons for custom potions`
         - `Descriptive_Potion_Icons.ESP`
@@ -352,166 +352,36 @@
   - [Mono's Minor Moddities](https://www.nexusmods.com/morrowind/mods/53027) <!-- FIXME: waiting update for Poison Song -->
     - `Tomb of the Snow Prince - PA and GitD Patch` file
 - **OVERHAULS**
-  - [Beautiful Cities of Morrowind](https://www.nexusmods.com/morrowind/mods/49231) <!-- TODO: will decide whether to use this, rebirth, or individual city overhauls... -->
-    - Options, Addons, & Patches
-      - [x] Balmora Waterworks
-      - [x] Brevur of Balmora
-      - [x] Concept Art Ghostfence Pillars
-      - [x] Concept Art Ghostgate Statues
-      - [x] Suran Dock Expansion and Clutter
-      - [x] White Suran
-      - [x] Taller Seyda Neen Lighthouse
-      - [x] Ald'ruhn Skar: Bigger Entrance
-      - [x] Ald'ruhn outdoor merchants
-      - [x] Vivec Arena: Skywind Style
-      - Vivec Customisable Options:
-        - [ ] ???
-      - [x] Molag Mar Dome: Broken Dome
-      - [x] Caldera Mages Guild Basement
-      - [x] Balmora Marketplace Addon: Waterworks version 3 [???]
-      - [x] More Tribal Erabenisum Yurts
-      - [x] Maar Gan: all
-      - [x] Khuul Lighthouse: alternate version
-      - [x] Expanded Sadrith Mora Dock
-      - [x] Sadrith Mora South Gates
-      - [x] More Logical Census Office
-      - [x] GITD
-      - [x] Concept Art Husk (Urshilaku Camp)
-      - [x] Imperial Gatehouses: all
-      - [x] Eight Plates Quest Addon
-      - [x] RR Status Patch (requires assets from mod 43348)
-      - [x] Vegetto's Azura Statue Replacer
-      - [x] Balmora Waterworks Options: all
-      - [x] HD Textures
-    - BCOM Patches
-      - [ ] Abot's Boats
-      - [ ] Abot's Boats TOTSP addon
-      - [ ] Abot's Gondoliers
-      - [ ] Abot's Silt Striders
-      - [ ] Animated Morrowind
-      - [x] Animated Morrowind for OpenMW
-      - [ ] An Issue of Trust
-      - [ ] Apartments of Morrowind
-      - [ ] Apartments of Morrowind (Waterworks)
-      - [ ] Area of Effect Arrows
-      - [ ] Arvesa - An Armiger's Tale
-      - [ ] Ashfall Interop
-      - [ ] Ashlander Traders Remastered
-      - [ ] Bounty Hunter Assignments
-      - [ ] Broadsheets and Notice Boards
-      - [ ] Bustling Vivec
-      - [ ] Bustling Vivec - Reworked
-      - [ ] Caius Rooftop's Renovations (Waterworks only)
-      - [ ] Caldera Governor Manor
-      - [ ] Cephalopod Armor
-      - [ ] Cephalopod Armor - RR
-      - [ ] Concept Art Plantations
-      - [ ] Correspondances of Morrowind
-      - [ ] DartBoards Expanded
-      - [ ] Ebonheart Underworks
-      - [ ] Faction Living Quarters
-      - [ ] Far from Home
-      - [ ] Foreign Quarter Market Square
-      - [ ] Ghastly Glowyfence patch
-      - [ ] Gildergreen Patch
-      - [ ] Gildergreen Patch - Waterworks
-      - [ ] GITD Telvanni Dormers
-      - [ ] Guild of Vampire Hunters
-      - [ ] High Art
-      - [ ] Holidays Across Tamriel
-      - [ ] Illuminated Order Improved
-      - [ ] Imperial Employment Office (MD Edit)
-      - [ ] Imperial Legion Expansion
-      - [ ] Imperials Go Home
-      - [ ] Imperials Go Home - Gatehouses Expansion
-      - [ ] Julian the Ashlander Companion
-      - [ ] LGNPC FQ
-      - [ ] LGNPC Pax Redoran
-      - [ ] Lights Ald-ruhn
-      - [ ] Logs on fire
-      - [ ] Magical Missions Recharged
-      - [ ] Main Quest Enhancers
-      - [ ] Main Quest Enhancers - Waterworks
-      - [ ] Main Quest Overhaul
-      - [ ] Mamaea Awakened
-      - [ ] Mandas Manor
-      - [ ] Master Index Redux
-      - [ ] Moonlight on the Odai River
-      - [ ] Morag Tong Expanded
-      - [ ] Morrowind Anticheese
-      - [ ] Morrowind Crafting
-      - [ ] Morrowind Crafting - Waterworks
-      - [ ] MWSE Containers
-      - [ ] No Trespassing - Merged
-      - [ ] NPC Schedules
-      - [ ] OAAB Foyada Mamaea
-      - [ ] OAAB Pomegranates
-      - [x] Patch for Purists
-      - [x] Patch for Purists - Gatehouse Addon
-      - [ ] Pillow Mage Manor
-      - [ ] Province Cyrodiil
-      - [ ] Racer Dust Arms and Armor
-      - [ ] Realistic Repair Addon
-      - [ ] Red Mountain Reborn
-      - [ ] Red Mountain Reborn - Kogoruhn Expanded patch-fix
-      - [ ] Redoran Patrols
-      - [ ] Rise of House Telvanni
-      - [ ] Rise of House Telvanni 2.0
-      - [ ] Shabby Seyda Neen
-      - [ ] Siege at Firemoth
-      - [ ] Sload and Slavers
-      - [ ] Starfire npcs addition
-      - [ ] Starfire npcs addition - only interiors and telemages
-      - [ ] Store Entrance Chimes
-      - [ ] Striderport Lights
-      - [ ] Suran Underworld
-      - [ ] Suran Underworld - Dock Expansion Patch
-      - [ ] Suran Underworld - TOTSP
-      - [ ] Suran Underworld - TOTSP - Dock Expansion Patch
-      - [x] Tamriel Rebuilt
-      - [ ] Tel Aruhn Chronicles quest and Yasimarramus Overhaul addon
-      - [ ] The Cottage
-      - [ ] The Lamp
-      - [ ] The Publicans
-      - [ ] Travelling Merchants
-      - [ ] Travelling Merchants - Stonewood pass reworked
-      - [x] True Light and Darkness
-      - [ ] Unique Banners and Signs
-      - [ ] Unique Banners and Signs - Waterworks
-      - [ ] Uvirith Legacy Patch
-      - [ ] Vailty's Bitter Coast
-      - [ ] Vailty's Bitter Coast for Vurt's BC Trees
-      - [x] Velothi Wall Art
-      - [x] Velothi Wall Art - Re-addon
-      - [ ] Vivec City - Clutter
-      - [ ] Vivec City - Lights
-      - [ ] Vivec City - Street Vendors
-      - [ ] Vivec Illuminated Palace Redux
-      - [ ] Welcome Home
-      - [ ] Welcome Home - TOTSP
-      - [ ] Welcome to the Arena
-      - [ ] Welcome to the Arena - Open Arena
-      - [ ] Yet Another Guard Diversity - Cephalopod Armor
-      - [ ] Yet Another Guard Diversity - Cephalopod Armor - Waterworks
-      - [ ] Yet Another Guard Diversity - Regular
-      - [ ] Yet Another Guard Diversity - Regular - Waterworks
-      - [ ] Yet Another Guard Diversity - RR Cephalopod Armor
-      - [ ] Yet Another Guard Diversity - RR Cephalopod Armor - Waterworks
-    - [AATL Compatibility Patches](https://www.nexusmods.com/morrowind/mods/55361)
-      - [ ] Samarys the Sunken Tomb: ...
-      - [ ] Saturan Depths: Greymarch Dawn - Whispers of Jyggalyg
-      - Inter-ops
-        - [ ] From the Hand of God - Better Ring of Azura
-        - [x] Tamriel Data
-        - [ ] The Doors of Oblivion
-      - [x] `BCOM - Pots and Plans` file
+  - [Wares Ultimate](https://www.nexusmods.com/morrowind/mods/52013)
+    - modules:
+      - [x] 01 Wares Legacy
+      - [x] 04 OAAB to Wares
+      - [x] 03 TD to Wares
+      - [ ] 05 Hold it to Wares
+      - [x] 02 Wares to vanilla lists
+      - [x] 06 Wares to Traders
+      - [x] 07 Moar Wares to traders
+      - [x] 09 Wares to containers
+      - [x] 08 Wares to NPC
+      - [ ] 10 NOD Patch <!-- TODO: to be put after `NOD - NPC Outfit Diversity` mod -->
+      - [x] 11 TR plugins
+      - [ ] 12 SHOTH Plugins <!-- TODO: to be put after `Skyrim: Home of the Nords` mod -->
+      - [ ] 13 PC plugins <!-- TODO: to be put after `Project Cyrodiil` mod -->
 - **CRAFTING**
   - [Perfect Placement](https://www.nexusmods.com/morrowind/mods/46562)
 - **NPCs**
+  - [MDMD - More Deadly Morrowind Denizens](https://www.nexusmods.com/morrowind/mods/48745)
+    - esps:
+      - [x] `MDMD - More Deadly Morrowind Denizens`
+      - [x] `MDMD - Creatures Add-On`
+      - [ ] mdmd - uvirith legacy cooperation
+  - [Beware the Sixth House (Sixth House Overhaul)](https://www.nexusmods.com/morrowind/mods/46036)
+    - only main esp
   - [Old Blue Fin](https://www.nexusmods.com/morrowind/mods/49503)
   - [Mono's Minor Moddities](https://www.nexusmods.com/morrowind/mods/53027)
     - `Old Blue Fin Upscaled` file
   - [TriangleTooth's Missing Characters](https://www.nexusmods.com/morrowind/mods/46234)
+  - [Dead Mer Tell No Tales (OpenMW)](https://www.nexusmods.com/morrowind/mods/57431)
 - **ITEMS**
   - [Tales of the Mad God - The 16 Accords of Madness](https://www.nexusmods.com/morrowind/mods/58831)
 - **EQUIPMENT**
@@ -523,13 +393,26 @@
   - [Three Shades of Darkness](https://www.nexusmods.com/morrowind/mods/351)
 - **QUESTS**
 - **GAMEPLAY**
+  - [Time Flies (OpenMW)](https://www.nexusmods.com/morrowind/mods/58252)
   - [Skill Evolution (OpenMW)](https://www.nexusmods.com/morrowind/mods/57802)
   - [Ultimate Leveling (OpenMW)](https://www.nexusmods.com/morrowind/mods/58957)
+  - [Reading Overhaul (OpenMW)](https://www.nexusmods.com/morrowind/mods/59816)
   - [Pursuit (OpenMW)](https://www.nexusmods.com/morrowind/mods/50271)
+  - [Protective Guards (OpenMW)](https://www.nexusmods.com/morrowind/mods/46992)
+  - [Bullseye - Marksman Overhaul (OpenMW)](https://www.nexusmods.com/morrowind/mods/58511)
+  - [Shelf Control (OpenMW)](https://www.nexusmods.com/morrowind/mods/57441)
   - [Better Merchants Skills (OpenMW)](https://www.nexusmods.com/morrowind/mods/54337)
   - [Clear Your Name](https://www.nexusmods.com/morrowind/mods/43786)
   - [City Guide Menu (OpenMW)](https://www.nexusmods.com/morrowind/mods/58934)
   - [Higher Faction Requirements](https://www.nexusmods.com/morrowind/mods/53230)
+  - [Better Blight](https://www.nexusmods.com/morrowind/mods/48395)
+  - [Brute Force - Lockpicking for Barbarians (OpenMW)](https://www.nexusmods.com/morrowind/mods/57841)
+  - [(OpenMW 0.49) EasyHarvest](https://www.nexusmods.com/morrowind/mods/57039)
+  - [Enchanters Recharge (OpenMW)](https://www.nexusmods.com/morrowind/mods/58757)
+    - `ErnEnchantersRecharge` addon
+  - [Set Bonus](https://www.nexusmods.com/morrowind/mods/52911)
+  - [Harder Better Faster Stronger (HBFS)](https://www.nexusmods.com/morrowind/mods/55542)
+    - `HBFS-GMST.omwaddon` addon
 - **FOLLOWERS**
   - [Follower Commands (OpenMW)](https://www.nexusmods.com/morrowind/mods/58818)
   - [Paxon the Pack Rat](https://www.nexusmods.com/morrowind/mods/45669)
@@ -537,6 +420,8 @@
 - **MAGIC**
   - **Changes**
     - [Oblivion Style Spellcasting Quickcasting ( OpenMW )](https://www.nexusmods.com/morrowind/mods/58653)
+    - [Disobedient Summons (OpenMW)](https://www.nexusmods.com/morrowind/mods/58542)
+    - [Of Pestilence and Purification - Animal Disease Curing and More (OpenMW)](https://www.nexusmods.com/morrowind/mods/58929)
   - **New Magic**
     - [Daisy's Lua Multimark Mod](https://www.nexusmods.com/morrowind/mods/53260)
     - [Conjure Soul Wisp Spell (OpenMW 0.51)](https://www.nexusmods.com/morrowind/mods/58795)
@@ -581,35 +466,10 @@
     - Willpower, Intelligence
     - Destruction, Alteration, Conjuration, Mysticism, Illusion
     - Restoration, Acrobatics, Athletics, Sneak, Mercantile
-  - Sign:
-    - Almsivi: Almalexia
-    - Almsivi: Sotha Sil
-    - Divine: Mara
-    - Elven: Mara
-    - Nordic: Moth
-    - Nordic: Owl
-    - Prince: Mehrunes Dagon
-    - The Mage of Masser
-    - The Mage of Secunda
-    - The Ritual of Secunda
-    - The Steed of Masser
-    - The Tower of Masser
-  - Belief:
-    - Alduin
-    - **Auri-El**
-    - Ideal Masters
-    - Julianos
-    - Mehrunes Dagon
-    - Morihaus
-    - Morwa
-    - Xarxes
-  - Culture: Magocratic
-  - Background: Blood of the Dremora
-  - Lineage
-    - Duraki
-    - Harvester
-    - Imp
-    - **Perena**
+  - Sign: Elven, Magnus
+  - Lineage: Imp
+  - Culture: Nibenese
+  - Belief: Alduin
 
 ## Mod Ideas
 
