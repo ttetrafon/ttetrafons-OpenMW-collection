@@ -42,7 +42,6 @@
   - [Item Browser (OpenMW)](https://www.nexusmods.com/morrowind/mods/59080)
   - [Arrow Stick (OpenMW)](https://www.nexusmods.com/morrowind/mods/58299)
 - **BUG FIXES**
-  - [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096) <!-- TODO: may instead use Morrowind Rebirth? -->
   - [Float Script Fix](https://www.nexusmods.com/morrowind/mods/58815)
   - [No More Stage Diving - Desele's Dancing Girls](https://www.nexusmods.com/morrowind/mods/47738)
   - [Silt Strider Animation Restored](https://www.nexusmods.com/morrowind/mods/44150)
@@ -384,6 +383,11 @@
   - [Dead Mer Tell No Tales (OpenMW)](https://www.nexusmods.com/morrowind/mods/57431)
 - **ITEMS**
   - [Tales of the Mad God - The 16 Accords of Madness](https://www.nexusmods.com/morrowind/mods/58831)
+  - [Potions Refined - Improved Magical Item Loot](https://www.nexusmods.com/morrowind/mods/58808)
+    - esps:
+      - `Potions Refined`
+      - `Potions Refined - Tamriel`
+      - `Potions Refined - WARES`
 - **EQUIPMENT**
   - **New Equipment**
     - [Buoyant Armigers Armor](https://www.nexusmods.com/morrowind/mods/43143)
@@ -394,8 +398,8 @@
 - **QUESTS**
 - **GAMEPLAY**
   - [Time Flies (OpenMW)](https://www.nexusmods.com/morrowind/mods/58252)
+  - [Natural Character Growth (NCG)](https://www.nexusmods.com/morrowind/mods/57801)
   - [Skill Evolution (OpenMW)](https://www.nexusmods.com/morrowind/mods/57802)
-  - [Ultimate Leveling (OpenMW)](https://www.nexusmods.com/morrowind/mods/58957)
   - [Reading Overhaul (OpenMW)](https://www.nexusmods.com/morrowind/mods/59816)
   - [Pursuit (OpenMW)](https://www.nexusmods.com/morrowind/mods/50271)
   - [Protective Guards (OpenMW)](https://www.nexusmods.com/morrowind/mods/46992)
@@ -408,6 +412,14 @@
   - [Better Blight](https://www.nexusmods.com/morrowind/mods/48395)
   - [Brute Force - Lockpicking for Barbarians (OpenMW)](https://www.nexusmods.com/morrowind/mods/57841)
   - [(OpenMW 0.49) EasyHarvest](https://www.nexusmods.com/morrowind/mods/57039)
+  - [Toxicology - Custom Poisoning Skill (OpenMW)](https://www.nexusmods.com/morrowind/mods/58976)
+  - [FactionsPerks (OpenMW)](https://www.nexusmods.com/morrowind/mods/58651)
+  - [SkillPerks (OpenMW)](https://www.nexusmods.com/morrowind/mods/59676)
+    - files:
+      - SkillPerks Core 0 - Required
+      - SkillPerks Core 1 - Combat
+      - SkillPerks Core 2 - Stealth
+      - SkillPerks Core 3 - Magic
   - [Enchanters Recharge (OpenMW)](https://www.nexusmods.com/morrowind/mods/58757)
     - `ErnEnchantersRecharge` addon
   - [Set Bonus](https://www.nexusmods.com/morrowind/mods/52911)
@@ -422,6 +434,12 @@
     - [Oblivion Style Spellcasting Quickcasting ( OpenMW )](https://www.nexusmods.com/morrowind/mods/58653)
     - [Disobedient Summons (OpenMW)](https://www.nexusmods.com/morrowind/mods/58542)
     - [Of Pestilence and Purification - Animal Disease Curing and More (OpenMW)](https://www.nexusmods.com/morrowind/mods/58929)
+    - [Spellmaker (OpenMW)](https://www.nexusmods.com/morrowind/mods/59851)
+      - plus `Patches` file
+        - [ ] spellmaker_AIO <!-- TODO: ... combined patch for all three -->
+        - [x] spellmaker_TR
+        - [ ] spellmaker_SHOTN <!-- TODO: For Skyrim Home of the Nords -->
+        - [ ] spellmaker_PC <!-- TODO: For Project Cyrodiil -->
   - **New Magic**
     - [Daisy's Lua Multimark Mod](https://www.nexusmods.com/morrowind/mods/53260)
     - [Conjure Soul Wisp Spell (OpenMW 0.51)](https://www.nexusmods.com/morrowind/mods/58795)
@@ -462,11 +480,14 @@
 - **Mage**
   - Race: Imperial
   - Class:
-    - Magic
-    - Willpower, Intelligence
-    - Destruction, Alteration, Conjuration, Mysticism, Illusion
-    - Restoration, Acrobatics, Athletics, Sneak, Mercantile
-  - Sign: Elven, Magnus
+    - Magus
+      - Magic
+      - Willpower, Intelligence
+      - Destruction, Alteration, Conjuration, Mysticism, Illusion
+      - Restoration, Acrobatics, Athletics, Sneak, Mercantile
+  - Sign:
+    - The Dragon
+    - Elven, Magnus
   - Lineage: Imp
   - Culture: Nibenese
   - Belief: Alduin
