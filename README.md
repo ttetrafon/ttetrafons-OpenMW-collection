@@ -187,6 +187,7 @@
         - [ ] [Vivec and Velothi - Arkitektora Vol.2 Normal Maps](https://www.nexusmods.com/morrowind/mods/46398)
       - [x] [Vivec Normal Mapped for OpenMW](https://www.nexusmods.com/morrowind/mods/44259)
       - [x] [Clockwork City Reborn](https://www.nexusmods.com/morrowind/mods/38369)
+      - [ ] [Ald Redaynia Mod N. 147](https://www.nexusmods.com/morrowind/mods/50727)
     - **Additions**
     - **Changes**
       - [ ] [White Suran 2](https://www.nexusmods.com/morrowind/mods/44153)
@@ -203,7 +204,10 @@
       - [x] [Ghastly Glowyfence](https://www.nexusmods.com/morrowind/mods/47982)
     - **Additions**
       - [x] [Three Shades of Darkness](https://www.nexusmods.com/morrowind/mods/351)
+      - [ ] [Gray North - Ruined Redaynia - Dungeon Only](https://www.nexusmods.com/morrowind/mods/49862)
+      - [ ] [Whispers of Hermaeus Mora or Forgotten Depths of Ald Redaynia](https://www.nexusmods.com/morrowind/mods/57889)
     - **Changes**
+      - [ ] [Minor Tukushapal Refit](https://www.nexusmods.com/morrowind/mods/58218)
   - **Items**
     - **Models & Textures**
       - [x] [Improved Kwama Eggs and Egg Sacs](https://www.nexusmods.com/morrowind/mods/43555)
@@ -287,7 +291,7 @@
       - [x] [Tools of Kagrenac 2.0](https://www.nexusmods.com/morrowind/mods/44463): _heavy_ version
       - [x] [Actual Warlock's Ring](https://www.nexusmods.com/morrowind/mods/53270)
       - [x] [(OpenMW) Visible Morrowind finery](https://www.nexusmods.com/morrowind/mods/58504)
-  - **Creatures**
+  - **Creatures & NPCs**
     - **Models & Textures**
       - [x] [Better Bodies 3.2 (Better Beasts)](https://www.nexusmods.com/morrowind/mods/48387): Nude version
         - plus `Better Elven Bodies` optional file
@@ -320,6 +324,7 @@
       - [x] [One-handed animations and idle fixes](https://www.nexusmods.com/morrowind/mods/55059)
     - **Additions**
       - [x] [TriangleTooth's Missing Characters](https://www.nexusmods.com/morrowind/mods/46234)
+      - [ ] [Olive the Enchanter](https://www.nexusmods.com/morrowind/mods/45641)
       - [x] [Follower Commands (OpenMW)](https://www.nexusmods.com/morrowind/mods/58818)
       - [x] [Paxon the Pack Rat](https://www.nexusmods.com/morrowind/mods/45669)
         - plus `New Pack Rat Model` file
@@ -346,6 +351,7 @@
       - [x] [Actor Interactions - OpenMW](https://www.nexusmods.com/morrowind/mods/57955)
   - **Factions**
     - **Additions**
+      - [ ] [Temple Master](https://www.nexusmods.com/morrowind/mods/52749)
     - **Changes**
       - [ ] [Traitor among Vampires (OpenMW Only)](https://www.nexusmods.com/morrowind/mods/53522)
   - **Quests**
@@ -355,6 +361,7 @@
         - [ ] [Muffinwind Rebaked](https://www.nexusmods.com/morrowind/mods/59081)
       - [ ] [Flora and Fauna](https://www.nexusmods.com/morrowind/mods/56641)
         - plus patch from `Luce's Misc Mods and Patches`
+      - [ ] [Swamp Fever](https://www.nexusmods.com/morrowind/mods/46640)
     - **Changes**
     - **Patches**
       - [Luce's Misc Mods and Patches](https://www.nexusmods.com/morrowind/mods/47224)
