@@ -103,8 +103,15 @@
     - [ ] [Project Cyrodiil](https://www.nexusmods.com/morrowind/mods/44922)
     - [ ] [Mono's Minor Moddities](https://www.nexusmods.com/morrowind/mods/53027) <!-- FIXME: waiting update for Poison Song -->
       - `Tomb of the Snow Prince - PA and GitD Patch` file
+    - [ ] [Lyithdonea - The Azurian Isles](https://www.nexusmods.com/morrowind/mods/43749)
+  - **Quests**
+    - [ ] [The Doors of Oblivion](https://www.nexusmods.com/morrowind/mods/44398)
+      - [ ] [The Doors of Oblivion - Mesh Fixes](https://www.nexusmods.com/morrowind/mods/46374)
+      - [ ] [The Doors of Oblivion Full Upscale](https://www.nexusmods.com/morrowind/mods/53351)
+      - [ ] [Doors of Oblivion - Caprice Upscale and Extras](https://www.nexusmods.com/morrowind/mods/50291)
 - **CORE MODS**
   - **General**
+    - [ ] [Expansions Integrated](https://www.nexusmods.com/morrowind/mods/47861)
     - [x] [Better Dialogue Font](https://www.nexusmods.com/morrowind/mods/36873)
     - [x] [Morrowind Enhanced Textures](https://www.nexusmods.com/morrowind/mods/46221)
       - plus `Interface and main menu` optional files
@@ -133,6 +140,7 @@
         - Exclude Tel Uvirinth
         - Telvanni Tower Interior Glow: OpenMW
       - [x] [Glow in the Dahrk - Normal Specular PBR Maps](https://www.nexusmods.com/morrowind/mods/58029)
+    - [ ] [Normal Maps for Everything](https://www.nexusmods.com/morrowind/mods/52567)
     - [x] [Animated Morrowind - merged](https://abitoftaste.modlist.x10.mx/morrowind/index.php?option=downloads&task=info&id=39&Itemid=50&-Animated-Morrowind-merged)
       - [Animated Morrowind OpenMW Patch](https://www.nexusmods.com/morrowind/mods/48837)
   - **Environment**
@@ -141,7 +149,7 @@
       - [x] [True Lights and Darkness](https://www.nexusmods.com/morrowind/mods/39605): only the `True_Lights_And_Darkness_1.1.esp`
         - plus `TLAD Lights Only Necro Edit Logical Flicker ExpSnd` file: `TLAD Lights-LogicalFlicker-OriginalColors-ExpSnd.esp` only
       - [x] [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424)
-      - [x] [Glowing Flames](https://www.nexusmods.com/morrowind/mods/46124)
+      - [ ] [Improved Lights for All Shaders](https://www.nexusmods.com/morrowind/mods/51463)
       - [x] [Subtle Smoke](https://www.nexusmods.com/morrowind/mods/47341)
       - [x] [R-Zero's Random Retextures (and Replacers)](https://www.nexusmods.com/morrowind/mods/44025): `R-Zero&#39;s Random Replacers - Chimney Smoke`
     - **Constructed**
@@ -159,6 +167,7 @@
       - [x] [Swayland](https://www.nexusmods.com/morrowind/mods/48854)
   - **Items**
     - **Models & Textures**
+      - [ ] [OAAB Integrations](https://www.nexusmods.com/morrowind/mods/49045): `OAAB Leveled Lists`
       - [x] [Improved Kwama Eggs and Egg Sacs](https://www.nexusmods.com/morrowind/mods/43555)
       - [x] [R-Zero's Random Retextures (and Replacers)](https://www.nexusmods.com/morrowind/mods/44025)
         - `R-Zero&#39;s Random Replacers - Iron Towershield`
@@ -174,7 +183,6 @@
       - [x] [Dunmeri Urns - Aestetika of Vvardenfell](https://www.nexusmods.com/morrowind/mods/43541)
         - plus `Urns - AoVv Clutter - HQ - Normal Maps` optional file
       - [x] [Telvanni Fireplace Replacer](https://www.nexusmods.com/morrowind/mods/43232)
-      - [x] [Improved Better Skulls](https://www.nexusmods.com/morrowind/mods/46012)
       - [ ] [6th House - Glowing Things](https://www.nexusmods.com/morrowind/mods/48764)
       - [x] [OpenMW Containers Animated](https://www.nexusmods.com/morrowind/mods/46232)
     - **Additions**
@@ -185,7 +193,9 @@
           - `Potions Refined`
           - `Potions Refined - Tamriel`
           - `Potions Refined - WARES`
+      - [ ] [Booze for Purists](https://www.nexusmods.com/morrowind/mods/48914)
   - **Overland Areas**
+    - [ ] [Devilish Rocky Red Mountain](https://www.nexusmods.com/morrowind/mods/53473)
     - [x] [SM Bitter Coast Tree Replacer](https://www.nexusmods.com/morrowind/mods/49883)
     - [x] [Remiros' Ascadian Isles Trees 2](https://www.nexusmods.com/morrowind/mods/45779)
     - [x] [Vurts Solstheim Tree Replacer II](https://www.nexusmods.com/morrowind/mods/37856)
@@ -202,6 +212,21 @@
         - Patches:
           - `The Sable Dragon`
           - `Odai Lifeblood of Balmora`
+    - [ ] [Azura's Coast Redone](https://www.nexusmods.com/morrowind/mods/53466)
+    - [ ] [The Mountain of Fear](https://www.nexusmods.com/morrowind/mods/52859)
+    - [ ] [Ascadia - Land of Pilgrimage](https://www.nexusmods.com/morrowind/mods/55707)
+    - [ ] [Gates of Ascadia](https://www.nexusmods.com/morrowind/mods/53547)
+    - [ ] [OAAB Grazelands](https://www.nexusmods.com/morrowind/mods/49075)
+    - [ ] [Ashfront - Sheogorad](https://www.nexusmods.com/morrowind/mods/57944)
+    - [ ] [The Song of the Grazelands](https://www.nexusmods.com/morrowind/mods/54652)
+      - [ ] [Thickle-Lo Grove](https://www.nexusmods.com/morrowind/mods/51689)
+    - [ ] [Valley of the Wind Overhaul](https://www.nexusmods.com/morrowind/mods/46691)
+    - [ ] [Justice for Khartag (J.F.K.)](https://www.nexusmods.com/morrowind/mods/49832)
+    - [ ] [Compatible Odai River Upper Overhaul](https://www.nexusmods.com/morrowind/mods/53323)
+    - [ ] [Holamayan Island](https://www.nexusmods.com/morrowind/mods/50996)
+    - [ ] [Fishermans island](https://www.nexusmods.com/morrowind/mods/59134)
+    - [ ] [OAAB Shipwrecks](https://www.nexusmods.com/morrowind/mods/51364)
+    - [ ] [Hidden Sea Loot](https://www.nexusmods.com/morrowind/mods/52296): `Hidden Sea Loot` & `Hidden Grotto Loot`
   - **Settlements**
     - **Models & Textures**
       - [x] [Ashlanders textures](https://www.nexusmods.com/morrowind/mods/45162)
@@ -232,22 +257,88 @@
       - [ ] [Vivec and Velothi - Arkitektora Vol.2](https://www.nexusmods.com/morrowind/mods/46266)
         - [ ] [Vivec and Velothi - Arkitektora Vol.2 Normal Maps](https://www.nexusmods.com/morrowind/mods/46398)
       - [x] [Vivec Normal Mapped for OpenMW](https://www.nexusmods.com/morrowind/mods/44259)
+      - [ ] [Indoril Architecture Reimagined](https://www.nexusmods.com/morrowind/mods/60079)
+      - [ ] [Indoril and Mournhold Architecture Reimagined](https://www.nexusmods.com/morrowind/mods/56300)
       - [x] [Clockwork City Reborn](https://www.nexusmods.com/morrowind/mods/38369)
       - [ ] [Ald Redaynia Mod N. 147](https://www.nexusmods.com/morrowind/mods/50727)
       - [ ] [Shabby Gnaar Mok](https://www.nexusmods.com/morrowind/mods/53100)
     - **Additions**
+      - [ ] [Hla Odai](https://www.nexusmods.com/morrowind/mods/51942)
     - **Changes**
+      - _Ald'ruhn_
+        - [ ] [Living Ald'ruhn](https://www.nexusmods.com/morrowind/mods/59874)
+      - _Balmora_
+        - [ ] [Balmora - The City of Contrasts](https://www.nexusmods.com/morrowind/mods/51571)
+        - [ ] [Odai - Lifeblood of Balmora](https://www.nexusmods.com/morrowind/mods/55454)
+          - [ ] [OLOB - Balmora Red Lantern District](https://www.nexusmods.com/morrowind/mods/60016)
+          - [ ] [OLOB Odai Lifeblood of Balmora Patch Project](https://www.nexusmods.com/morrowind/mods/55536)
+        - [ ] [Balmora Outskirts - Stoneflower trading post](https://www.nexusmods.com/morrowind/mods/54534)
+          - [ ] [Stoneflower Trading Post - Odai Lifeblood of Balmora patch](https://www.nexusmods.com/morrowind/mods/60005)
+        - [ ] [Balmora Undermarket](https://www.nexusmods.com/morrowind/mods/53833)
+        - [ ] [Fabulous Hlaalo Manor](https://www.nexusmods.com/morrowind/mods/51438): plus `DOOR-HOTFIX`, `Downstairs Ralen`, `Fabulous Servant Quarters`
+      - _Dagon Fel_
+        - [ ] [Nordic Dagon Fel](https://www.nexusmods.com/morrowind/mods/49603)
+          - [ ] [Even More Nordic Dagon Fel](https://www.nexusmods.com/morrowind/mods/53486)
+          - [ ] [Foggy and Sinister Dagon Fel](https://www.nexusmods.com/morrowind/mods/49429)
+          - [ ] [Twilots Ultimate Dagon Fel Compatability](https://www.nexusmods.com/morrowind/mods/57642)
+        - [ ] [Nordic Dagon Fel NPCs](https://www.nexusmods.com/morrowind/mods/52390)
+        - [ ] [Dagon Fel Lighthouse](https://www.nexusmods.com/morrowind/mods/52291)
+      - _Ebonheart_
+        - [ ] [The Ebonheart Lighthouse()](https://www.nexusmods.com/morrowind/mods/53417)
+        - [ ] [Ebonheart Underworks](https://www.nexusmods.com/morrowind/mods/47272)
       - _Gnaar Mok_
         - [ ] [Wrack and Ruin - A Gnaar Mok Overhaul](https://www.nexusmods.com/morrowind/mods/59766)
+      - _Maar Gan_
+        - [ ] [Markgran Forest (Maar Gan Forest)](https://www.nexusmods.com/morrowind/mods/53627)
+          - [ ] [sams openmw height maps and normals for Markgran forest](https://www.nexusmods.com/morrowind/mods/54880)
+        - [ ] [Maar Gan - Town of Pilgrimage](https://www.nexusmods.com/morrowind/mods/53919)
       - _Mournhold_
         - [ ] [Immersive Mournhold](https://www.nexusmods.com/morrowind/mods/49353)
         - [ ] [Almalexia's Chamber Overhaul](https://www.nexusmods.com/morrowind/mods/52737)
+        - [ ] [Greater Mournhold Bazaar](https://www.nexusmods.com/morrowind/mods/58898)
       - _Port Telvanni_
         - [ ] [Telvanni Archmagister tower of power (Tel Thenim) - Port Telvannis Redux](https://www.nexusmods.com/morrowind/mods/59449?tab=description)
+      - _Raven Rock_
+        - [ ] [Factor's Estate Extended](https://www.nexusmods.com/morrowind/mods/56911): `GITD version`
+        - [ ] [Rather Nice Factor's Estate](https://www.nexusmods.com/morrowind/mods/47933)
+      - _Seyda Neen_
+        - [ ] [OAAB Seyda Neen - Damp Little Squat](https://www.nexusmods.com/morrowind/mods/53765): `Seyda Neen Damp Little Squat - No Anims` & `OpenMW version`
+      - _Solsteim_
+        - [ ] [Nordic Solstheim - Solstheim Interiors Overhaul](https://www.nexusmods.com/morrowind/mods/53121)
       - _Suran_
         - [ ] [White Suran 2](https://www.nexusmods.com/morrowind/mods/44153)
           - [ ] [Stylish Suran Bridge Updated](https://www.nexusmods.com/morrowind/mods/59699)
           - [ ] [Arkitektora White Suran](https://www.nexusmods.com/morrowind/mods/45101)
+        - [ ] [Suran Underworld 3](https://www.nexusmods.com/morrowind/mods/40299)
+          - [ ] [Missing icon fix for Suran Underworld 3](https://www.nexusmods.com/morrowind/mods/45720)
+          - [ ] [Suran Underworld V3 Corrections and Fixes](https://www.nexusmods.com/morrowind/mods/44382)
+          - [ ] [Suran Underworld V3 Corrections and Fixes - OpenMW Additional Fixes](https://www.nexusmods.com/morrowind/mods/49356)
+        - [ ] [Suran O Suran](https://www.nexusmods.com/morrowind/mods/59664)
+          - [ ] [Suran O Suran - The Floating Pearl](https://www.nexusmods.com/morrowind/mods/59883)
+          - [ ] [Suran O Suran - Compatibility Patches](https://www.nexusmods.com/morrowind/mods/59893): `Suran O Suran - White Suran Patch`, `Suran O Suran - PathGrid - SOS_Floating Pearl`
+      - _Tel Aruhn_
+        - [ ] [Tel Aruhn Chronicles](https://www.nexusmods.com/morrowind/mods/49171)
+      - _Tel Branora_
+        - [ ] [Fairy Tel Branora](https://www.nexusmods.com/morrowind/mods/49435)
+      - _Tel Fyr_
+        - [ ] [Corprusarium - Sorrow Heart of Tel Fyr](https://www.nexusmods.com/morrowind/mods/53280)
+          - [ ] [Luce's Misc Mods and Patches](https://www.nexusmods.com/morrowind/mods/47224): `Sorrow Heart of Tel Fyr Doors of Oblivion 1.4 patch`
+      - _Tel Mora_
+        - [ ] [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177)
+        - [ ] [Twilots OAAB Tel Mora Manor](https://www.nexusmods.com/morrowind/mods/59654)
+      - _Vivec_
+        - [ ] [Dramatic Vivec](https://www.nexusmods.com/morrowind/mods/43385)
+        - [ ] [Concept Art Palace (Vivec City)](https://www.nexusmods.com/morrowind/mods/48136)
+          - [ ] [Better Flames for Concept Art Palace (Vivec City) - OpenMW Version](https://www.nexusmods.com/morrowind/mods/52903)
+        - [ ] [Ordinator of Vehk - unique Vivec Palace guard](https://www.nexusmods.com/morrowind/mods/59995)
+        - [ ] [Baar Dau - Ministry of Truth](https://www.nexusmods.com/morrowind/mods/50877)
+        - [ ] [Meteorite Ministry](https://www.nexusmods.com/morrowind/mods/45506)
+          - [ ] [Dramatic Vivec and Meteorite Ministry compatibility patch](https://www.nexusmods.com/morrowind/mods/53614)
+        - [ ] [Library of Vivec Enhanced](https://www.nexusmods.com/morrowind/mods/50181)
+        - [ ] [House of Mannequins](https://www.nexusmods.com/morrowind/mods/3611)
+        - [ ] [Jobasha's Spell Tomes](https://www.nexusmods.com/morrowind/mods/49619)
+      - _Vos_
+        - [ ] [Red Vos](https://www.nexusmods.com/morrowind/mods/44729)
       - _misc_
         - [x] [Safety First - Silt Strider Ports with Railings](https://www.nexusmods.com/morrowind/mods/58948)
         - [ ] [Shipyards of Vvardenfell (Sadrith Mora - Seyda Neen - Gnaar Mok)](https://www.nexusmods.com/morrowind/mods/51928)
@@ -257,6 +348,8 @@
       - [x] [Dwemer Mesh Improvement](https://www.nexusmods.com/morrowind/mods/43101)
         - plus [Dwemer Mesh Improvement - Revamped](https://www.nexusmods.com/morrowind/mods/51525)
       - [x] [Aesthesia - Stronghold textures](https://www.nexusmods.com/morrowind/mods/46445)
+      - [ ] [Daedric Ruins Reimagined](https://www.nexusmods.com/morrowind/mods/59800)
+      - [ ] [Imperial Forts Reimagined](https://www.nexusmods.com/morrowind/mods/59631)
       - [x] [Dragon Statue Revisited](https://www.nexusmods.com/morrowind/mods/50561)
       - [x] [Ghastly Glowyfence](https://www.nexusmods.com/morrowind/mods/47982)
     - **Additions**
@@ -265,29 +358,70 @@
       - [ ] [Whispers of Hermaeus Mora or Forgotten Depths of Ald Redaynia](https://www.nexusmods.com/morrowind/mods/57889)
       - [ ] [Vivec Lighthouse](https://www.nexusmods.com/morrowind/mods/52019)
         - [ ] [Little Landscapes - Path to Vivec Lighthouse](https://www.nexusmods.com/morrowind/mods/53352)
+      - [ ] [Bal'laku - The Lonely Towers](https://www.nexusmods.com/morrowind/mods/51060)
+      - [ ] [Tales from the Ashlands - The Great Hive Baan Binif](https://www.nexusmods.com/morrowind/mods/51419)
+      - [ ] [Drethos Ancestral Tomb](https://www.nexusmods.com/morrowind/mods/53481)
+      - [ ] [The Beacon of St Rilms](https://www.nexusmods.com/morrowind/mods/49515)
+      - [ ] [The Sable Dragon](https://www.nexusmods.com/morrowind/mods/26870)
+        - [ ] [Odai and the Dragon](https://www.nexusmods.com/morrowind/mods/59143)
+      - [ ] [The Dungeoneering Journey](https://www.nexusmods.com/morrowind/mods/49821)
+    - **Player Houses**
+      - [ ] [The Adventurer's House](https://www.nexusmods.com/morrowind/mods/59886)
+      - [ ] [Indoril Mansion](https://www.nexusmods.com/morrowind/mods/53022)
+      - [ ] [Narsis Penthouse](https://www.nexusmods.com/morrowind/mods/59025)
+      - [ ] [Magical Mainland Homes](https://www.nexusmods.com/morrowind/mods/53681)
+      - [ ] [Mechanical Manor Complete - Tamriel Rebuilt Edition](https://www.nexusmods.com/morrowind/mods/49218)
+      - [ ] [Moonrose Estate](https://www.nexusmods.com/morrowind/mods/59585)
+      - [ ] [North Wall House](https://www.nexusmods.com/morrowind/mods/47309)
     - **Changes**
+      - _misc_
+        - [ ] [Arcane Accident](https://www.nexusmods.com/morrowind/mods/59956)
+        - [ ] [Uncharted Artifacts](https://www.nexusmods.com/morrowind/mods/49281)
+        - [ ] [Strider Burial](https://www.nexusmods.com/morrowind/mods/47661)
+      - _Ayleid_
+        - [ ] [Ayleid Remnants Redone](https://www.nexusmods.com/morrowind/mods/59199)
+      - _Daedric_
+        - [ ] [Azura's Shrine Overhaul](https://www.nexusmods.com/morrowind/mods/53277)
+        - [ ] [Daedric Shrine Overhaul FULL](https://www.nexusmods.com/morrowind/mods/54679)
+          - [ ] [Daedric Shrine Overhaul - Fropa's Fixes](https://www.nexusmods.com/morrowind/mods/58966)
+        - [ ] [Forge of Hilbongard Reignited](https://www.nexusmods.com/morrowind/mods/57968)
       - _Dwemer_
+        - [ ] [Darknut's Greater Dwemer Ruins version 1.2](https://www.nexusmods.com/morrowind/mods/43544)
         - [ ] [Arkngthand 2.0](https://www.nexusmods.com/morrowind/mods/43628)
         - [ ] [Aleft Overhaul](https://www.nexusmods.com/morrowind/mods/48260)
         - [ ] [Bthuand Expanded](https://www.nexusmods.com/morrowind/mods/46055)
         - [ ] [Druscashti Overhaul](https://www.nexusmods.com/morrowind/mods/47900)
         - [ ] [Galom Daeus Overhaul](https://www.nexusmods.com/morrowind/mods/48054)
+        - [ ] [Dwemer Legacy Reforged - Bthungthumz and Druscashti](https://www.nexusmods.com/morrowind/mods/55073)
+        - [ ] [Endusal and Tureynulal Redone](https://www.nexusmods.com/morrowind/mods/43399)
       - _Strongholds_
         - [ ] [Berandas Overhaul](https://www.nexusmods.com/morrowind/mods/48236)
         - [ ] [The Aetherius Altar - Enchantment Capacity Expansion (OpenMW) - Falensarano](https://www.nexusmods.com/morrowind/mods/56179)
+        - [ ] [Kogoruhn - Extinct City of Ash and Sulfur](https://www.nexusmods.com/morrowind/mods/51615)
       - _Mines_
-        - [Caldera Mine Expanded - Simplified and bug-free](https://www.nexusmods.com/morrowind/mods/52840)
+        - [ ] [Caldera Mine Expanded - Simplified and bug-free](https://www.nexusmods.com/morrowind/mods/52840)
+        - [ ] [Of Eggs and Dwarves - Gnisis Eggmine and Bethamez Overhaul](https://www.nexusmods.com/morrowind/mods/51171)
+        - [ ] [OAAB - Hawia Egg Mine](https://www.nexusmods.com/morrowind/mods/51846)
       - _Tombs_
+        - [ ] [OAAB - Tombs and Towers](https://www.nexusmods.com/morrowind/mods/49131)
+        - [ ] [OAAB - Tombs Extended](https://www.nexusmods.com/morrowind/mods/59110)
+        - [ ] [Loot Well Urned](https://www.nexusmods.com/morrowind/mods/44976)
         - [ ] [Andrano Ancestral Tomb Remastered](https://www.nexusmods.com/morrowind/mods/44672)
         - [ ] [Andrethi Tomb Overhaul](https://www.nexusmods.com/morrowind/mods/46217)
         - [ ] [OAAB Greater Samarys Tomb](https://www.nexusmods.com/morrowind/mods/52781)
         - [ ] [Arys-Zaintiraris Expanded](https://www.nexusmods.com/morrowind/mods/59865)
       - _Dungeons & Caves_
+        - [ ] [Mines and Caverns](https://www.nexusmods.com/morrowind/mods/44893)
+          - [ ] [OAAB Grazelands - Mines and Caverns Compatibility Patch](https://www.nexusmods.com/morrowind/mods/59794)
+        - [ ] [Adanumuran Reclaimed](https://www.nexusmods.com/morrowind/mods/43340)
         - [ ] [Minor Tukushapal Refit](https://www.nexusmods.com/morrowind/mods/58218)
         - [ ] [Zenarbael Overhaul](https://www.nexusmods.com/morrowind/mods/59992)
-      - _misc_
-        - [ ] [Arcane Accident](https://www.nexusmods.com/morrowind/mods/59956)
-        - [ ] [Uncharted Artifacts](https://www.nexusmods.com/morrowind/mods/49281)
+        - [ ] [Sinsibadon Overhaul](https://www.nexusmods.com/morrowind/mods/60092)
+        - [ ] [Vennin's Addamasartus Overhaul](https://www.nexusmods.com/morrowind/mods/52420)
+        - [ ] [Dubdilla Remade](https://www.nexusmods.com/morrowind/mods/59953)
+        - [ ] [Mamaea Awakened](https://www.nexusmods.com/morrowind/mods/46096)
+        - [ ] [New Ilunibi](https://www.nexusmods.com/morrowind/mods/50393)
+        - [ ] [Shal Overgrown](https://www.nexusmods.com/morrowind/mods/47219)
   - **Plants**
     - [x] [Epic Plants](https://www.nexusmods.com/morrowind/mods/46180)
       - plus `Misc Patches` optional file (for Mudcrab imports)
@@ -313,6 +447,7 @@
           - `06 HATV and POP`
       - [x] [Armors Retexture - Outlander Styles](https://www.nexusmods.com/morrowind/mods/44210)
       - [x] [Darknut's Armor Textures 1024 1.2](https://www.nexusmods.com/morrowind/mods/43416)
+      - [ ] [Common Shoe Pack](https://www.nexusmods.com/morrowind/mods/46815)
       - [x] [Better Clothes Complete](https://www.nexusmods.com/morrowind/mods/47549)
         - [x] [Better Clothes Retextured](https://www.nexusmods.com/morrowind/mods/47851)
         - [x] [Various tweaks and fixes](https://www.nexusmods.com/morrowind/mods/43795): `Better Clothes missing hands fix` file
@@ -324,9 +459,12 @@
       - [x] [Unique Jewelry and Accessories UJA](https://www.nexusmods.com/morrowind/mods/36711): `Unique Jewelry and Accessories.esp`
     - **Additions**
       - [ ] [Corporeal Carryable Containers](https://www.nexusmods.com/morrowind/mods/53772)
+      - [x] [Fresh Loot (OpenMW)](https://www.nexusmods.com/morrowind/mods/56005)
       - [x] [Diablo 2 Inspired Magic and Unique Items](https://www.nexusmods.com/morrowind/mods/42158)
       - [ ] [Aleanne's Mods for Wares](https://www.nexusmods.com/morrowind/mods/49732)
       - [ ] [Aoimevelho's Mods for Wares](https://www.nexusmods.com/morrowind/mods/49762)
+      - [ ] [Hilgya the Seamstress for Wares](https://www.nexusmods.com/morrowind/mods/49766)
+      - [ ] [Korana's Mods for Wares](https://www.nexusmods.com/morrowind/mods/49758)
       - [x] [Buoyant Armigers Armor](https://www.nexusmods.com/morrowind/mods/43143)
       - [x] [Mage Robes](https://www.nexusmods.com/morrowind/mods/45739)
         - options:
@@ -335,6 +473,7 @@
           - Texture Resolution: HD
       - [x] [Telvanni Magister Robes](https://www.nexusmods.com/morrowind/mods/52278)
       - [ ] [SM Telvanni Ceremonial Robe](https://www.nexusmods.com/morrowind/mods/55346)
+      - [ ] [Daedric Telvanni Robe V2](https://www.nexusmods.com/morrowind/mods/49652)
       - [ ] [Sacred Necromancer Armor](https://www.nexusmods.com/morrowind/mods/51651)
       - [x] [Argonian Full Helms Lore Integrated and Modders Resource v 1.1](https://www.nexusmods.com/morrowind/mods/53011)
         - [x] [Argonian Full Helms Lore Integrated v1.1 - Cleaned](https://www.nexusmods.com/morrowind/mods/57437)
@@ -344,6 +483,7 @@
       - [x] [Catalyst- Enchantable offhand staves for magic users (MWSE optional)](https://www.nexusmods.com/morrowind/mods/59891)
       - [x] [Weapons Expansion Project](https://www.nexusmods.com/morrowind/mods/5158)
       - [x] [The Assassin's Arsenal](https://www.nexusmods.com/morrowind/mods/49746)
+      - [ ] [Lucky Coins](https://www.nexusmods.com/morrowind/mods/44324)
       - [ ] [Adventurer's Backpacks](https://www.nexusmods.com/morrowind/mods/43213)
         - [ ] [(OpenMW) Danae's backpacks](https://www.nexusmods.com/morrowind/mods/58543)
       - [ ] [(OpenMW) Simply animated cloaks](https://www.nexusmods.com/morrowind/mods/58498)
@@ -355,17 +495,19 @@
       - [ ] [From the Hand of God - Better Ring of Azura](https://www.nexusmods.com/morrowind/mods/58516)
       - [ ] [Zoey's Hortator and Nerevarine Items Redone](https://www.nexusmods.com/morrowind/mods/59691)
       - [x] [(OpenMW) Visible Morrowind finery](https://www.nexusmods.com/morrowind/mods/58504)
+        - [x] plus `Autofit expansion` update file
   - **Creatures & NPCs**
     - **Models & Textures**
-      - [x] [Better Bodies 3.2 (Better Beasts)](https://www.nexusmods.com/morrowind/mods/48387): Nude version
-        - plus `Better Elven Bodies` optional file
+      - [ ] [OAAB Integrations](https://www.nexusmods.com/morrowind/mods/49045): `OAAB Leveled Creatures` & `OAAB Creature Loot`
+      - [x] [Better Bodies 3.2 (Better Beasts)](https://www.nexusmods.com/morrowind/mods/48387): Nude version & `Better Elven Bodies` optional file
+        - [ ] [Better Bodies - Lyithdonea](https://www.nexusmods.com/morrowind/mods/57100)
       - [x] [Better bodies 3.2 - HD Nude Textures](https://www.nexusmods.com/morrowind/mods/56739)
       - [x] [Westly's Hi-Res Better Bodies Textures](https://www.nexusmods.com/morrowind/mods/55566)
       - [ ] [Twilots Poison Song Heads and Hairs Unlocked](https://www.nexusmods.com/morrowind/mods/59958) <!-- TODO: waiting for updates on Project Cyrodiil & Skyrim Home of the Nords -->
       - [x] [Familiar Faces by Caleb (Updated)](https://www.nexusmods.com/morrowind/mods/50093)
       - [x] [Westlys Master Head Pack Prim and Proper](https://www.nexusmods.com/morrowind/mods/53026)
-      - [x] [Diverse Blood](https://www.nexusmods.com/morrowind/mods/45368)
-        - plus `Diverse Blood - NIF Replacer` update file
+      - [x] [Diverse Blood](https://www.nexusmods.com/morrowind/mods/45368): plus `Diverse Blood - NIF Replacer` update file
+        - [ ] [Diverse Blood for Tamriel Rebuilt and Project Tamriel](https://www.nexusmods.com/morrowind/mods/55687)
       - [x] [Darknut's Creature Textures](https://www.nexusmods.com/morrowind/mods/43420)
         - [x] [Darknut's Creature Textures BM](https://www.nexusmods.com/morrowind/mods/43422)
         - [x] [Darknut's Creature Textures TB](https://www.nexusmods.com/morrowind/mods/43421)
@@ -409,13 +551,20 @@
           - `Missing Meshes`
           - `NOD Patch`
       - [ ] [Atronach Expansion](https://www.nexusmods.com/morrowind/mods/22189)
+      - [ ] [Glowbugs](https://www.nexusmods.com/morrowind/mods/50538)
       - [x] [TriangleTooth's Missing Characters](https://www.nexusmods.com/morrowind/mods/46234)
+      - [ ] [Local Lore - Silt Striders and Caravaners](https://www.nexusmods.com/morrowind/mods/48063): `Silt Strider Animation Restored` option
       - [ ] [Olive the Enchanter](https://www.nexusmods.com/morrowind/mods/45641)
       - [ ] [Balmora toy merchant (OpenMW)](https://www.nexusmods.com/morrowind/mods/49054)
       - [x] [Follower Commands (OpenMW)](https://www.nexusmods.com/morrowind/mods/58818)
       - [x] [Paxon the Pack Rat](https://www.nexusmods.com/morrowind/mods/45669)
         - plus `New Pack Rat Model` file
+      - [ ] [OAAB Winged Twilight](https://www.nexusmods.com/morrowind/mods/51643)
+        - [ ] plus `Azura's Shrine by Duo Dinamico - Replacer Patch` patch
+      - [ ] [EKM Traveling Trader](https://www.nexusmods.com/morrowind/mods/58844)
     - **Changes**
+      - [ ] [Tribunal Rebalance](https://www.nexusmods.com/morrowind/mods/45713)
+      - [ ] [Bloodmoon Rebalance](https://www.nexusmods.com/morrowind/mods/45714)
       - [x] [NOD - NPC Outfit Diversity](https://www.nexusmods.com/morrowind/mods/52091)
         - modules:
           - `01 OAAB Hoods-n-Hats AR Value Patch`
@@ -427,12 +576,24 @@
           - `MDMD - More Deadly Morrowind Denizens`
           - `MDMD - Creatures Add-On`
           - [ ] mdmd - uvirith legacy cooperation
+      - [ ] [Creatures and Critters](https://www.nexusmods.com/morrowind/mods/54518)
+        - [ ] [Minor patches and fixes](https://www.nexusmods.com/morrowind/mods/53570): `Creatures and critters fixes`
+      - [ ] [Vanilla friendly creatures and undeads expansion](https://www.nexusmods.com/morrowind/mods/48818)
+      - [ ] [Devilishly Peaceful Wildlife (OpenMW)](https://www.nexusmods.com/morrowind/mods/58083)
+      - [ ] [Friends and Foes](https://www.nexusmods.com/morrowind/mods/49251)
+        - [ ] [openMW Patch For Morrowind Comes Alive and Danae's Friends and Foes](https://www.nexusmods.com/morrowind/mods/51824)
+      - [ ] [Friends and Frens](https://www.nexusmods.com/morrowind/mods/52763)
       - [x] [Beware the Sixth House (Sixth House Overhaul)](https://www.nexusmods.com/morrowind/mods/46036): only main esp
       - [x] [Divine Dagoths](https://www.nexusmods.com/morrowind/mods/45536)
         - esps:
           - `Bob's Diverse Dagoths` <!-- TODO: replace with `Bob's Diverse Dagoths - DNGDR` if using `Darknut's Greater Dwemer Ruins version 1.2` -->
           - `Unique Dagoth Brandy & Amulet`
         - plus `Divine Dagoths - Addendum` update
+      - [Concept Art Scamp Overhaul](https://www.nexusmods.com/morrowind/mods/57514)
+      - [Sigourn's Misc Mods and Patches](https://www.nexusmods.com/morrowind/mods/49232):
+        - [ ] `Bow to the Daedra`
+        - [ ] `MDMD - More Deadly Morrowind Denizens Patches`
+      - [ ] [Menacing Creatures and Bosses](https://www.nexusmods.com/morrowind/mods/59200): `Base Creatures Module`, `Special Creatures Module`, `VFCUE Menace Addon`, & `TR PT Creatures Module`
       - [x] [Diverse Khajiit](https://www.nexusmods.com/morrowind/mods/48832)
       - [x] [Dead Mer Tell No Tales (OpenMW)](https://www.nexusmods.com/morrowind/mods/57431)
       - [x] [Actor Interactions - OpenMW](https://www.nexusmods.com/morrowind/mods/57955)
@@ -441,32 +602,72 @@
       - [ ] [Astrologian's Guild](https://www.nexusmods.com/morrowind/mods/51216)
         - [ ] [Astrologian's Guild Arkngthand 2.0 Patch](https://www.nexusmods.com/morrowind/mods/58269)
       - [ ] [The Bards Guild A Cosmic Nightmare](https://www.nexusmods.com/morrowind/mods/58247)
+      - [ ] [Death and Taxes](https://www.nexusmods.com/morrowind/mods/58469)
+      - [ ] [The Imperial Dwemer Society](https://www.nexusmods.com/morrowind/mods/45225)
+        - [ ] [The Imperial Dwemer Society Refreshed](https://www.nexusmods.com/morrowind/mods/57848)
+      - [ ] [Talos Cult Conspiracy](https://www.nexusmods.com/morrowind/mods/47576)
+      - [ ] [Guild of Vampire Hunters](https://www.nexusmods.com/morrowind/mods/45832)
+        - [ ] [Vampire Hunter Faction](https://www.nexusmods.com/morrowind/mods/53811)
     - **Existing**
-      - _ashlanders_
+      - _Ashlanders_
         - [ ] [Ashlander Quests](https://www.nexusmods.com/morrowind/mods/46817)
-      - _vampires_
+      - _Vampires_
         - [ ] [Traitor among Vampires (OpenMW Only)](https://www.nexusmods.com/morrowind/mods/53522)
-      - _temple_
-        - [ ] [Temple Master](https://www.nexusmods.com/morrowind/mods/52749)
-      - _imperial legion_
+        - [ ] [Hiding Vampirism Under Helmets (OpenMW)](https://www.nexusmods.com/morrowind/mods/58216)
+        - [ ] [Quests for Clans and Vampire Legends (QCVL)](https://www.nexusmods.com/morrowind/mods/49486?tab=description)
+      - _Hlaalu_
+        - [ ] [OAAB Odai Plateau](https://www.nexusmods.com/morrowind/mods/56742)
+          - patches:
+            - [ ] `OAAB Odai Plateau Hotfix 3`
+            - [ ] `Odai Lifeblood of Balmora Compatibility Patch`
+        - [ ] [Dallara Odai Plateau](https://www.nexusmods.com/morrowind/mods/56243)
+      - _Redoran_
+        - [ ] [Ashfront - Rotheran Rebuilt](https://www.nexusmods.com/morrowind/mods/57943)
+          - [ ] [Death and Taxes - Ashfront Sheogorad Compatible](https://www.nexusmods.com/morrowind/mods/58887)
+        - [ ] [Fortified Bal Isra](https://www.nexusmods.com/morrowind/mods/55052)
+      - _Telvanni_
+        - [ ] [Telvanni Transportation Network](https://www.nexusmods.com/morrowind/mods/59886?tab=files): `Telvanni Transportation Network TR Restricted.esp`
+        - [ ] [Rise of House Telvanni](https://www.nexusmods.com/morrowind/mods/27545)
+          - [ ] [Rise of House Telvanni - 2.0](https://www.nexusmods.com/morrowind/mods/48225)
+          - [ ] [Rise of House Telvanni 2.0 - Balmora and Ald'ruhn Mages Guild Restored](https://www.nexusmods.com/morrowind/mods/58530?tab=description)
+          - [ ] [Roht - Tureynulal Redone Patch](https://www.nexusmods.com/morrowind/mods/43533)
+        - [ ] [Taskmaster of House Telvanni - Remastered (ToHT)](https://www.nexusmods.com/morrowind/mods/55132): plus `Rise of House Telvanni Patch`
+        - [ ] [Uvirith's Legacy - 3.53](https://www.nexusmods.com/morrowind/mods/53858)
+          - [ ] [Luce's Misc Mods and Patches](https://www.nexusmods.com/morrowind/mods/47224): `Uviriths Legacy 3.53 Sorrow heart of tel fyr patch`
+          - [ ] [Null's Minor Patches](https://www.nexusmods.com/morrowind/mods/55897): `Uvirith's Legacy - Tamriel Rebuilt 26.08 Add-on`
+        - [ ] [The Archmagister's Abode](https://www.nexusmods.com/morrowind/mods/53376)
+      - _Imperial Legion_
         - [ ] [Legion Papers](https://www.nexusmods.com/morrowind/mods/5512?tab=description)
-      - _mage guid_
+        - [ ] [Imperial Legion Basic Training()](https://www.nexusmods.com/morrowind/mods/56542)
+        - [ ] [Imperial Legion Expansion](https://www.nexusmods.com/morrowind/mods/44469)
+          - [ ] [Talos Cult Conspiracy-Imperial Legion Expansion - Talos Amulet Patch](https://www.nexusmods.com/morrowind/mods/52697)
+      - _Mage Guid_
         - [ ] [AFFiliates-Guild of Mages](https://www.nexusmods.com/morrowind/mods/58875)
         - [ ] [Ald-ruhn Mages guild expansion](https://www.nexusmods.com/morrowind/mods/48321)
+        - [ ] [Bodrum Guild of Mages](https://www.nexusmods.com/morrowind/mods/56308)
         - [ ] [Under Masser's Gaze](https://www.nexusmods.com/morrowind/mods/55445)
-      - _thieves guild_
+        - [ ] [Ethereal Magic](https://www.nexusmods.com/morrowind/mods/55443)
+        - [ ] [Mages Guild Stronghold - Nchagalelft](https://www.nexusmods.com/morrowind/mods/53342)
+      - _Morag Tong_
+        - [ ] [Morag Tong Polished](https://www.nexusmods.com/morrowind/mods/47041): plus `Rubberman's Black Hands Dagger` optional file
+          - [ ] [Non-Hostile Threads of the Webspinner](https://www.nexusmods.com/morrowind/mods/59847): `Morag Tong Polished` version
+          - [ ] [alvazir's various patches](https://www.nexusmods.com/morrowind/mods/48955): `Morag Tong Polished Compatibility Patch`
+      - _Thieves Guild_
         - [ ] [Thieves' Guild in Gnaar Mok](https://www.nexusmods.com/morrowind/mods/46754)
+      - _Temple_
+        - [ ] [Temple Master](https://www.nexusmods.com/morrowind/mods/52749)
   - **Quests**
     - **Additions**
       - _missions_
         - [ ] [AFFresh](https://www.nexusmods.com/morrowind/mods/53006)
         - [ ] [Saints and Sinners - Assorted Quests of Morrowind](https://www.nexusmods.com/morrowind/mods/47640)
-        - [ ] [Indoril Mansion](https://www.nexusmods.com/morrowind/mods/53022)
+        - [ ] [Better Bounties](https://www.nexusmods.com/morrowind/mods/59050)
+        - [ ] [Bitter and Blighted](https://www.nexusmods.com/morrowind/mods/47052)
         - [ ] [Mudcrab Imports](https://www.nexusmods.com/morrowind/mods/49463)
         - [ ] [The Soggy Muffin](https://www.nexusmods.com/morrowind/mods/56717)
           - [ ] [Muffinwind Rebaked](https://www.nexusmods.com/morrowind/mods/59081)
         - [ ] [Flora and Fauna](https://www.nexusmods.com/morrowind/mods/56641)
-          - plus patch from `Luce's Misc Mods and Patches`
+          - [ ] [Luce's Misc Mods and Patches](https://www.nexusmods.com/morrowind/mods/47224): `Flora and Fauna Soggy Muffin Patch`
         - [ ] [Swamp Fever](https://www.nexusmods.com/morrowind/mods/46640)
         - [ ] [A Strange Plant](https://www.nexusmods.com/morrowind/mods/42009)
         - [ ] [Ancient Foes](https://www.nexusmods.com/morrowind/mods/44705)
@@ -474,7 +675,6 @@
         - [ ] [Aetherium Forging](https://www.nexusmods.com/morrowind/mods/44436)
         - [ ] [Armun Ashlands Egg Mine](https://www.nexusmods.com/morrowind/mods/58624)
         - [ ] [A Cold Cell - A Quest Mod](https://www.nexusmods.com/morrowind/mods/52832)
-        - [ ] [Adanumuran Reclaimed](https://www.nexusmods.com/morrowind/mods/43340)
         - [ ] [Ald'Ruhn Outskirts - Ancestral Refuge](https://www.nexusmods.com/morrowind/mods/55944)
           - [ ] `Ald'Ruhn Outskirts - TR Addon` optional file
         - [ ] [Apothecary's Demise](https://www.nexusmods.com/morrowind/mods/44331)
@@ -485,6 +685,36 @@
         - [ ] [The Cheese Smugglers of Vos](https://www.nexusmods.com/morrowind/mods/58837)
         - [ ] [Sorcerer of Alteration](https://www.nexusmods.com/morrowind/mods/51224)
         - [ ] [Grahtwood Roost](https://www.nexusmods.com/morrowind/mods/52888)
+        - [ ] [Barilzar's Mazed Band X](https://www.nexusmods.com/morrowind/mods/57185)
+        - [ ] [Blackthorn Barrow](https://www.nexusmods.com/morrowind/mods/45280)
+          - [ ] [Sigourn's Misc Mods and Patches](https://www.nexusmods.com/morrowind/mods/49232): `Blackthorn Barrow STOTSP ESP Replacer`
+        - [ ] [Bloodwind](https://www.nexusmods.com/morrowind/mods/45344)
+        - [ ] [The White Wolf of the Lokken Mountain](https://www.nexusmods.com/morrowind/mods/27306)
+          - [ ] [Solstheim Tomb of the Snow Prince - White Wolf of Lokken Compatibility](https://www.nexusmods.com/morrowind/mods/44575)
+        - [ ] [The Wandering Shield](https://www.nexusmods.com/morrowind/mods/56485)
+        - [ ] [Caldera Priory and the Depths of Blood and Bone](https://www.nexusmods.com/morrowind/mods/52898): plus `HD Textures` & `Normal Maps for OpenMW`
+        - [ ] [The Legend of the Master Smith (Daedric Akaviri Armor)](https://www.nexusmods.com/morrowind/mods/56482)
+        - [ ] [Death of a Potter](https://www.nexusmods.com/morrowind/mods/57237)
+        - [ ] [Dwemer Sky Fortress](https://www.nexusmods.com/morrowind/mods/54747)
+        - [ ] [Family and House](https://www.nexusmods.com/morrowind/mods/59960)
+        - [ ] [Family Ties - A Modjam 2026 Mod](https://www.nexusmods.com/morrowind/mods/59951)
+        - [ ] [The Mycologist](https://www.nexusmods.com/morrowind/mods/54881)
+        - [ ] [Memento Mori](https://www.nexusmods.com/morrowind/mods/51940)
+          - [ ] [Memento Mori - Buried](https://www.nexusmods.com/morrowind/mods/55382)
+          - [ ] [Anthony's Minor Mods and Patches](https://www.nexusmods.com/morrowind/mods/57811): `Memento Mori Maar Gan Town of Pilgrimage Patch`
+        - [ ] [From Wind Into Stone](https://www.nexusmods.com/morrowind/mods/54753)
+        - [ ] [Frozen in Time](https://www.nexusmods.com/morrowind/mods/50077)
+        - [ ] [Galen's Quest for Truth](https://www.nexusmods.com/morrowind/mods/52884)
+        - [ ] [Quest For The Golden Mace - Daubeny's Adventure](https://www.nexusmods.com/morrowind/mods/46846)
+        - [ ] [Legend of Chemua](https://www.nexusmods.com/morrowind/mods/45253)
+        - [ ] [Miscellaneous Missions of Molag Mar](https://www.nexusmods.com/morrowind/mods/59220)
+        - [ ] [New Artifacts](https://www.nexusmods.com/morrowind/mods/45552)
+        - [ ] [Melie the Apostate](https://www.nexusmods.com/morrowind/mods/55962)
+        - [ ] [Of Dungeons and Abodes](https://www.nexusmods.com/morrowind/mods/44253?tab=description)
+          - [ ] [alvazir's various patches](https://www.nexusmods.com/morrowind/mods/48955): `Of Dungeons and Abodes - TeleportAmulet - Fix`
+        - [ ] [The Mysterious Affair of Sara Shenk](https://www.nexusmods.com/morrowind/mods/52968)
+        - [ ] [Prince of Fate](https://www.nexusmods.com/morrowind/mods/52294)
+        - [ ] [The Curse of The Silent Siren](https://www.nexusmods.com/morrowind/mods/54667)
       - _campaigns_
         - [ ] [Greymarch Dawn - Whispers of Jyggalag](https://www.nexusmods.com/morrowind/mods/53679)
           - [ ] [Sharper Normal Maps for Greymarch Dawn - Whispers of Jyggalag](https://www.nexusmods.com/morrowind/mods/53697)
@@ -507,11 +737,26 @@
           - [ ] [The Legend of Monkey Island](https://www.nexusmods.com/morrowind/mods/54057)
             - [ ] [The Legend of Monkey Island - Various patches](https://www.nexusmods.com/morrowind/mods/56925): `The Legend of Monkey Island - SSQN OpenMW`
             - [ ] [Shipyards of Vvardenfell - SSQN OpenMW](https://www.nexusmods.com/morrowind/mods/56966)
+          - [ ] [Illuminated Order Improved](https://www.nexusmods.com/morrowind/mods/47414)
+            - [ ] [Illuminated Order - More Fixes (.esp only)](https://www.nexusmods.com/morrowind/mods/54650)
+            - [ ] [Illuminated Order Improved Patch](https://www.nexusmods.com/morrowind/mods/51223)
+            - [ ] [Fire Particle Effect for Illuminated Order Improved](https://www.nexusmods.com/morrowind/mods/49593)
           - [ ] [God of Worms - Succession](https://www.nexusmods.com/morrowind/mods/48028)
+          - [ ] [Blademeister](https://www.nexusmods.com/morrowind/mods/52740)
+          - [ ] [The Demon of Knowledge](https://www.nexusmods.com/morrowind/mods/46126)
+          - [ ] [Estranged Spirits](https://www.nexusmods.com/morrowind/mods/56081)
+          - [ ] [Face Of Despair](https://www.nexusmods.com/morrowind/mods/46983)
+          - [ ] [Fire on the Mountain](https://www.nexusmods.com/morrowind/mods/59959)
+          - [ ] [The Reclamation of Hasimminus Mine](https://www.nexusmods.com/morrowind/mods/46095)
+          - [ ] [OAAB Brother Junipers Twin Lamps](https://www.nexusmods.com/morrowind/mods/51424)
+            - [ ] [Rise of House Telvanni and OAAB Juniper's Twin Lamps - Duchess Ilmeni Dren Compatibility Patch](https://www.nexusmods.com/morrowind/mods/57353)
+          - [ ] [Harold's Archipelago - Trouble in Paradise](https://www.nexusmods.com/morrowind/mods/54606)
+          - [ ] [Into the Void - Companion and Quests](https://www.nexusmods.com/morrowind/mods/59223)
+          - [ ] [Lord of Rebirth](https://www.nexusmods.com/morrowind/mods/53680)
+          - [ ] [Secrets of the Crystal City](https://www.nexusmods.com/morrowind/mods/51932)
     - **Changes**
-    - **Patches**
-      - [Luce's Misc Mods and Patches](https://www.nexusmods.com/morrowind/mods/47224)
-        - [ ] Flora and Fauna Soggy Muffin Patch
+      - [ ] [Main Quest for the Temple Faithful](https://www.nexusmods.com/morrowind/mods/55359)
+      - [ ] [Even More Mysterious Killings in Vivec](https://www.nexusmods.com/morrowind/mods/49661)
   - **Magic**
     - **Models & Textures**
       - [x] [Magic VFX Retexture by Articus](https://www.nexusmods.com/morrowind/mods/47702)
@@ -532,6 +777,7 @@
       - [x] [ZEF Focus Magicka](https://www.nexusmods.com/morrowind/mods/48431)
     - **Changes**
       - [x] [Oblivion Style Spellcasting Quickcasting ( OpenMW )](https://www.nexusmods.com/morrowind/mods/58653)
+      - [x] [State-Based Magicka Regen (SBMR)](https://www.nexusmods.com/morrowind/mods/58254)
       - [x] [(OpenMW) Fitting Soulgems](https://www.nexusmods.com/morrowind/mods/57405)
       - [x] [Disobedient Summons (OpenMW)](https://www.nexusmods.com/morrowind/mods/58542)
       - [x] [Of Pestilence and Purification - Animal Disease Curing and More (OpenMW)](https://www.nexusmods.com/morrowind/mods/58929)
@@ -542,6 +788,8 @@
           - spellmaker_TR
           - [ ] spellmaker_SHOTN <!-- TODO: For Skyrim Home of the Nords -->
           - [ ] spellmaker_PC <!-- TODO: For Project Cyrodiil -->
+- **LOW PRIORITY PATCHES**
+  - [AATL Compatibility Patches](https://www.nexusmods.com/morrowind/mods/55361)
 - **LOW PRIORITY OVERRIDES**
   - [x] [Wares Ultimate](https://www.nexusmods.com/morrowind/mods/52013)
     - modules:
@@ -557,10 +805,11 @@
 - **CHAR GEN**
   - **Races**
     - [x][Reincarnate - Races of Morrowind](https://www.nexusmods.com/morrowind/mods/52397)
-    - [ ] [Tamriel Data Races Playable (Continued)](https://www.nexusmods.com/morrowind/mods/58881) <!-- FIXME: waiting update for Poison Song -->
+    - [ ] [ARCE - All Races and Classes Enabled (Vanilla and Tamriel_Data)](https://www.nexusmods.com/morrowind/mods/53710)
     - [x] [Histborn Argonian - A Mystic Race Variant](https://www.nexusmods.com/morrowind/mods/58147)
   - **Classes**
     - [x] [Lore Class Expansion](https://www.nexusmods.com/morrowind/mods/56947)
+    - [ ] [OAAB Integrations](https://www.nexusmods.com/morrowind/mods/49045): `OAAB Classes`
   - **Signs**
     - [x] [Moonlight - Birthsigns of Morrowind](https://www.nexusmods.com/morrowind/mods/52456)
     - [x] [Daedric Birthsigns](https://www.nexusmods.com/morrowind/mods/52051)
@@ -574,6 +823,8 @@
       - [ ] `The Wretched And The Weird` <!-- FIXME: Fails to initialise -->
       - [ ] `Frana5u's Backgrounds` <!-- FIXME: Fails to initialise -->
       - [ ] `Oblivion Backgrounds` <!-- FIXME: Fails to initialise -->
+  - **Other**
+    - [ ] [Vampire and Werewolf Character Generation](https://www.nexusmods.com/morrowind/mods/47268)
 - **UI**
   - **General**
     - [x] [TrueType fonts for OpenMW](https://www.nexusmods.com/morrowind/mods/46854)
@@ -610,7 +861,6 @@
         - Telvanni Magister Robes
         - Mines and Caverns
       - Patches II
-        - Improved Better Skulls
         - Yet Another Guard Diversity
         - Eltonbrand Replacer
         - Divine Dagoths
@@ -640,6 +890,8 @@
     - [x] [Pursuit (OpenMW)](https://www.nexusmods.com/morrowind/mods/50271)
       - [x] [Protective Guards (OpenMW)](https://www.nexusmods.com/morrowind/mods/46992)
     - [x] [Attend Me](https://www.nexusmods.com/morrowind/mods/51232)
+      - [ ] [Companion Teleportation (OpenMW)](https://www.nexusmods.com/morrowind/mods/58229)
+    - [x] [Friendlier Fire (OpenMW)](https://www.nexusmods.com/morrowind/mods/57975)
     - [x] [Bullseye - Marksman Overhaul (OpenMW)](https://www.nexusmods.com/morrowind/mods/58511)
     - [x] [Shelf Control (OpenMW)](https://www.nexusmods.com/morrowind/mods/57441)
     - [x] [Better Merchants Skills (OpenMW)](https://www.nexusmods.com/morrowind/mods/54337)
@@ -650,6 +902,7 @@
     - [x] [(OpenMW 0.49) EasyHarvest](https://www.nexusmods.com/morrowind/mods/57039)
     - [x] [Enchanters Recharge (OpenMW)](https://www.nexusmods.com/morrowind/mods/58757): `ErnEnchantersRecharge` addon
     - [x] [Set Bonus](https://www.nexusmods.com/morrowind/mods/52911)
+    - [x] [Fair Care (OpenMW)](https://www.nexusmods.com/morrowind/mods/55293)
     - [x] [Harder Better Faster Stronger (HBFS)](https://www.nexusmods.com/morrowind/mods/55542): `HBFS-GMST.omwaddon` addon
 - **LATE LOADERS**
   - [Mutiny - Alternate Start](https://www.nexusmods.com/morrowind/mods/57702)
@@ -664,18 +917,16 @@
 ## Test Character
 
 - **Mage**
-  - Race: Imperial
+  - Race: Ayleid
   - Class:
     - Magus
       - Magic
       - Willpower, Intelligence
       - Destruction, Alteration, Conjuration, Mysticism, Illusion
       - Restoration, Acrobatics, Athletics, Sneak, Mercantile
-  - Sign:
-    - The Dragon
-    - Elven, Magnus
+  - Sign: Elven, Magnus
   - Lineage: Imp
-  - Culture: Nibenese
+  - Culture: Magocratic
   - Belief: Alduin
 
 ## Mod Ideas
@@ -685,7 +936,9 @@
   - teleport immediately towards where you are looking
   - distance dependent on skill level and/or magnitude?
 - Leech Effect
-  - absorb health/fatigue/magicka on hit while it lasts
+  - absorb health/fatigue/magicka on weapon hit while it lasts
 - Toggleable Spells
   - make versions of spells with duration that instead become permanent and drain magicka as long as they are in active
   - give good xp on the school on toggle
+- Exhaustion for not sleeping, eating, & drinking?
+  - very lightweight survival mechanic
