@@ -10,6 +10,7 @@ player->addspell "recall"
 player->addspell "water breathing"
 player->addspell "water walking"
 player->addspell "wild open"
+player->addspell "windwalker_blessing"
 
 player->additem gold_001 333333
 player->additem ring_mentor_unique 1

@@ -192,18 +192,17 @@
           - `Potions Refined`
           - `Potions Refined - Tamriel`
           - `Potions Refined - WARES`
-      - [ ] [Booze for Purists](https://www.nexusmods.com/morrowind/mods/48914)
-      - [ ] [Vintage Morrowind - Alcoholic beverage mod](https://www.nexusmods.com/morrowind/mods/54195)
+      - [x] [Booze for Purists](https://www.nexusmods.com/morrowind/mods/48914)
+      - [x] [Vintage Morrowind - Alcoholic beverage mod](https://www.nexusmods.com/morrowind/mods/54195)
   - **Overland Areas**
     - _general_
-      - [ ] [Waters of Morrowind](https://www.nexusmods.com/morrowind/mods/50203)
-      - [ ] [OAAB Shipwrecks](https://www.nexusmods.com/morrowind/mods/51364)
-      - [ ] [Hidden Sea Loot](https://www.nexusmods.com/morrowind/mods/52296): `Hidden Sea Loot` & `Hidden Grotto Loot`
+      - [x] [Waters of Morrowind](https://www.nexusmods.com/morrowind/mods/50203)
+      - [x] [OAAB Shipwrecks](https://www.nexusmods.com/morrowind/mods/51364): plus `01 Patch - Uncharted Artifacts` & `02 Patch - TR Patch`
+        - [x] [Uncharted Artifacts](https://www.nexusmods.com/morrowind/mods/49281): delete the esp
+      - [x] [Hidden Sea Loot](https://www.nexusmods.com/morrowind/mods/52296): `Hidden Sea Loot` & `Hidden Grotto Loot`
     - _Ascadian Isles_
-      - [ ] [Ascadia - Land of Pilgrimage](https://www.nexusmods.com/morrowind/mods/55707)
-      - [ ] [Gates of Ascadia](https://www.nexusmods.com/morrowind/mods/53547)
+      - [x] [Ascadia - Land of Pilgrimage](https://www.nexusmods.com/morrowind/mods/55707)
       - [x] [Remiros' Ascadian Isles Trees 2](https://www.nexusmods.com/morrowind/mods/45779)
-      - [ ] [The Fields of Humility](https://www.nexusmods.com/morrowind/mods/58820)
     - _Ashlands_
       - [ ] [Valley of the Wind Overhaul](https://www.nexusmods.com/morrowind/mods/46691)
     - _Azura's Coast_
@@ -342,6 +341,7 @@
         - [ ] [White Suran 2](https://www.nexusmods.com/morrowind/mods/44153)
           - [ ] [Stylish Suran Bridge Updated](https://www.nexusmods.com/morrowind/mods/59699)
           - [ ] [Arkitektora White Suran](https://www.nexusmods.com/morrowind/mods/45101)
+          - [ ] [Ascadia - Land of Pilgrimage](https://www.nexusmods.com/morrowind/mods/55707): `Suran Bridge (White Suran)`
         - [ ] [Suran Underworld 3](https://www.nexusmods.com/morrowind/mods/40299)
           - [ ] [Missing icon fix for Suran Underworld 3](https://www.nexusmods.com/morrowind/mods/45720)
           - [ ] [Suran Underworld V3 Corrections and Fixes](https://www.nexusmods.com/morrowind/mods/44382)
@@ -399,7 +399,6 @@
       - [ ] [Gray North - Ruined Redaynia - Dungeon Only](https://www.nexusmods.com/morrowind/mods/49862)
       - [ ] [Whispers of Hermaeus Mora or Forgotten Depths of Ald Redaynia](https://www.nexusmods.com/morrowind/mods/57889)
       - [ ] [Vivec Lighthouse](https://www.nexusmods.com/morrowind/mods/52019)
-        - [ ] [Little Landscapes - Path to Vivec Lighthouse](https://www.nexusmods.com/morrowind/mods/53352)
       - [ ] [Bal'laku - The Lonely Towers](https://www.nexusmods.com/morrowind/mods/51060)
       - [ ] [Tales from the Ashlands - The Great Hive Baan Binif](https://www.nexusmods.com/morrowind/mods/51419)
       - [ ] [Drethos Ancestral Tomb](https://www.nexusmods.com/morrowind/mods/53481)
@@ -437,7 +436,6 @@
     - **Changes**
       - _misc_
         - [ ] [Arcane Accident](https://www.nexusmods.com/morrowind/mods/59956)
-        - [ ] [Uncharted Artifacts](https://www.nexusmods.com/morrowind/mods/49281)
         - [ ] [Strider Burial](https://www.nexusmods.com/morrowind/mods/47661)
       - _Ayleid_
         - [ ] [Ayleid Remnants Redone](https://www.nexusmods.com/morrowind/mods/59199)
@@ -564,6 +562,7 @@
       - [x] [Catalyst- Enchantable offhand staves for magic users (MWSE optional)](https://www.nexusmods.com/morrowind/mods/59891)
       - [x] [Weapons Expansion Project](https://www.nexusmods.com/morrowind/mods/5158)
       - [x] [The Assassin's Arsenal](https://www.nexusmods.com/morrowind/mods/49746)
+      - [ ] [Unique Weapon Resource - HELLUVA Custom Selection](https://www.nexusmods.com/morrowind/mods/60115)
       - [ ] [Lucky Coins](https://www.nexusmods.com/morrowind/mods/44324)
       - [ ] [Adventurer's Backpacks](https://www.nexusmods.com/morrowind/mods/43213)
         - [ ] [(OpenMW) Danae's backpacks](https://www.nexusmods.com/morrowind/mods/58543)
