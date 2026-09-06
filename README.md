@@ -204,7 +204,7 @@
       - [x] [Ascadia - Land of Pilgrimage](https://www.nexusmods.com/morrowind/mods/55707)
       - [x] [Remiros' Ascadian Isles Trees 2](https://www.nexusmods.com/morrowind/mods/45779)
     - _Ashlands_
-      - [ ] [Valley of the Wind Overhaul](https://www.nexusmods.com/morrowind/mods/46691)
+      - [x] [Valley of the Wind Overhaul](https://www.nexusmods.com/morrowind/mods/46691)
     - _Azura's Coast_
       - [ ] [Azura's Coast Redone](https://www.nexusmods.com/morrowind/mods/53466)
       - [ ] [Holamayan Island](https://www.nexusmods.com/morrowind/mods/50996)
@@ -340,17 +340,12 @@
       - _Sotha Sil_
         - [ ] [Sotha Sil Expanded](https://www.nexusmods.com/morrowind/mods/42347)
       - _Suran_
-        - [ ] [White Suran 2](https://www.nexusmods.com/morrowind/mods/44153)
-          - [ ] [Stylish Suran Bridge Updated](https://www.nexusmods.com/morrowind/mods/59699)
-          - [ ] [Arkitektora White Suran](https://www.nexusmods.com/morrowind/mods/45101)
-          - [ ] [Ascadia - Land of Pilgrimage](https://www.nexusmods.com/morrowind/mods/55707): `Suran Bridge (White Suran)`
-        - [ ] [Suran Underworld 3](https://www.nexusmods.com/morrowind/mods/40299)
-          - [ ] [Missing icon fix for Suran Underworld 3](https://www.nexusmods.com/morrowind/mods/45720)
-          - [ ] [Suran Underworld V3 Corrections and Fixes](https://www.nexusmods.com/morrowind/mods/44382)
-          - [ ] [Suran Underworld V3 Corrections and Fixes - OpenMW Additional Fixes](https://www.nexusmods.com/morrowind/mods/49356)
-        - [ ] [Suran O Suran](https://www.nexusmods.com/morrowind/mods/59664)
-          - [ ] [Suran O Suran - The Floating Pearl](https://www.nexusmods.com/morrowind/mods/59883)
-          - [ ] [Suran O Suran - Compatibility Patches](https://www.nexusmods.com/morrowind/mods/59893): `Suran O Suran - White Suran Patch`, `Suran O Suran - PathGrid - SOS_Floating Pearl`
+        - [x] [Hanging Gardens of Suran](https://www.nexusmods.com/morrowind/mods/53316)
+        - [x] [White Suran 2](https://www.nexusmods.com/morrowind/mods/44153)
+          - [x] [Arkitektora White Suran](https://www.nexusmods.com/morrowind/mods/45101)
+          - [x] [Ascadia - Land of Pilgrimage](https://www.nexusmods.com/morrowind/mods/55707): `Suran Bridge (White Suran)`
+        - [x] [Suran sewers](https://www.nexusmods.com/morrowind/mods/51499)
+        - [x] [Suran O Suran - The Floating Pearl](https://www.nexusmods.com/morrowind/mods/59883)
       - _Tel Aruhn_
         - [ ] [Tel Aruhn Chronicles](https://www.nexusmods.com/morrowind/mods/49171)
       - _Tel Branora_
@@ -374,9 +369,9 @@
           - [x] [Better Flames for Concept Art Palace (Vivec City) - OpenMW Version](https://www.nexusmods.com/morrowind/mods/52903)
         - [x] [Ordinator of Vehk - unique Vivec Palace guard](https://www.nexusmods.com/morrowind/mods/59995)
         - [x] [Library of Vivec Enhanced](https://www.nexusmods.com/morrowind/mods/50181)
-        - [ ] [Roaring Arena - Betting and Bloodletting](https://www.nexusmods.com/morrowind/mods/50954)
-        - [ ] [House of Mannequins](https://www.nexusmods.com/morrowind/mods/3611)
-        - [ ] [Jobasha's Spell Tomes](https://www.nexusmods.com/morrowind/mods/49619)
+        - [x] [Roaring Arena - Betting and Bloodletting](https://www.nexusmods.com/morrowind/mods/50954)
+        - [x] [House of Mannequins](https://www.nexusmods.com/morrowind/mods/3611)
+        - [x] [Jobasha's Spell Tomes](https://www.nexusmods.com/morrowind/mods/49619)
       - _Vos_
         - [ ] [Red Vos](https://www.nexusmods.com/morrowind/mods/44729)
       - _misc_
@@ -881,6 +876,10 @@
           - [ ] [Investigations at Tel Eurus](https://www.nexusmods.com/morrowind/mods/51938)
           - [ ] [The Garden of Dreams](https://www.nexusmods.com/morrowind/mods/57831)
           - [ ] [Agent of Change](https://www.nexusmods.com/morrowind/mods/57223)
+          - [ ] [Suran Underworld 3](https://www.nexusmods.com/morrowind/mods/40299)
+            - [ ] [Missing icon fix for Suran Underworld 3](https://www.nexusmods.com/morrowind/mods/45720)
+            - [ ] [Suran Underworld V3 Corrections and Fixes](https://www.nexusmods.com/morrowind/mods/44382)
+            - [ ] [Suran Underworld V3 Corrections and Fixes - OpenMW Additional Fixes](https://www.nexusmods.com/morrowind/mods/49356)
   - **Magic**
     - **Models & Textures**
       - [x] [Magic VFX Retexture by Articus](https://www.nexusmods.com/morrowind/mods/47702)
