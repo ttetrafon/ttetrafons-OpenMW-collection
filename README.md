@@ -307,6 +307,8 @@
         - [ ] [Ebonheart Underworks](https://www.nexusmods.com/morrowind/mods/47272)
       - _Gnaar Mok_
         - [ ] [Wrack and Ruin - A Gnaar Mok Overhaul](https://www.nexusmods.com/morrowind/mods/59766)
+      - _Helnim_
+        - [ ] [Helnim Wooden Walls - Telvannis frontier town (Tamriel Rebuilt)](https://www.nexusmods.com/morrowind/mods/59382)
       - _Maar Gan_
         - [ ] [Markgran Forest (Maar Gan Forest)](https://www.nexusmods.com/morrowind/mods/53627)
           - [ ] [sams openmw height maps and normals for Markgran forest](https://www.nexusmods.com/morrowind/mods/54880)
@@ -367,15 +369,11 @@
       - _Urshilaku Camp_
         - [ ] [Urshilaku Spiritual](https://www.nexusmods.com/morrowind/mods/48699)
       - _Vivec_
-        - [ ] [Vivec - God the City](https://www.nexusmods.com/morrowind/mods/51777)
-        - [ ] [Dramatic Vivec](https://www.nexusmods.com/morrowind/mods/43385)
-        - [ ] [Concept Art Palace (Vivec City)](https://www.nexusmods.com/morrowind/mods/48136)
-          - [ ] [Better Flames for Concept Art Palace (Vivec City) - OpenMW Version](https://www.nexusmods.com/morrowind/mods/52903)
-        - [ ] [Ordinator of Vehk - unique Vivec Palace guard](https://www.nexusmods.com/morrowind/mods/59995)
-        - [ ] [Baar Dau - Ministry of Truth](https://www.nexusmods.com/morrowind/mods/50877)
-        - [ ] [Meteorite Ministry](https://www.nexusmods.com/morrowind/mods/45506)
-          - [ ] [Dramatic Vivec and Meteorite Ministry compatibility patch](https://www.nexusmods.com/morrowind/mods/53614)
-        - [ ] [Library of Vivec Enhanced](https://www.nexusmods.com/morrowind/mods/50181)
+        - [x] [Dramatic Vivec](https://www.nexusmods.com/morrowind/mods/43385)
+        - [x] [Concept Art Palace (Vivec City)](https://www.nexusmods.com/morrowind/mods/48136)
+          - [x] [Better Flames for Concept Art Palace (Vivec City) - OpenMW Version](https://www.nexusmods.com/morrowind/mods/52903)
+        - [x] [Ordinator of Vehk - unique Vivec Palace guard](https://www.nexusmods.com/morrowind/mods/59995)
+        - [x] [Library of Vivec Enhanced](https://www.nexusmods.com/morrowind/mods/50181)
         - [ ] [Roaring Arena - Betting and Bloodletting](https://www.nexusmods.com/morrowind/mods/50954)
         - [ ] [House of Mannequins](https://www.nexusmods.com/morrowind/mods/3611)
         - [ ] [Jobasha's Spell Tomes](https://www.nexusmods.com/morrowind/mods/49619)
@@ -753,11 +751,18 @@
         - [ ] [Morag Tong Polished](https://www.nexusmods.com/morrowind/mods/47041): plus `Rubberman's Black Hands Dagger` optional file
           - [ ] [Non-Hostile Threads of the Webspinner](https://www.nexusmods.com/morrowind/mods/59847): `Morag Tong Polished` version
           - [ ] [alvazir's various patches](https://www.nexusmods.com/morrowind/mods/48955): `Morag Tong Polished Compatibility Patch`
+        - [ ] [Morag Tong Attacks](https://www.nexusmods.com/morrowind/mods/54524)
       - _Thieves Guild_
         - [ ] [Thieves' Guild in Gnaar Mok](https://www.nexusmods.com/morrowind/mods/46754)
       - _Temple_
         - [ ] [Temple Master](https://www.nexusmods.com/morrowind/mods/52749)
   - **Quests**
+    - **Changes**
+      - [ ] [Tribunal Main Quest Reforged](https://www.nexusmods.com/morrowind/mods/54743)
+        - [ ] [A Collection of Small Mods Addons and Patches - by Sweezly](Patch - Tribunal Reforged And Tamriel Rebuilt)
+      - [ ] [Main Quest for the Temple Faithful](https://www.nexusmods.com/morrowind/mods/55359)
+      - [ ] [Even More Mysterious Killings in Vivec](https://www.nexusmods.com/morrowind/mods/49661)
+      - [ ] [The Patchwork Airship - Fleshing out a vanilla quest](https://www.nexusmods.com/morrowind/mods/53133)
     - **Additions**
       - _missions_
         - [ ] [AFFresh](https://www.nexusmods.com/morrowind/mods/53006)
@@ -830,6 +835,7 @@
         - [ ] [The Search for the White Wave](https://www.nexusmods.com/morrowind/mods/52301)
         - [ ] [Effigy](https://www.nexusmods.com/morrowind/mods/58933)
         - [ ] [Velothi tomb on Solstheim TOTSP](https://www.nexusmods.com/morrowind/mods/59906)
+        - [ ] [Dissident Ordinators](https://www.nexusmods.com/morrowind/mods/52874)
       - _campaigns_
         - [ ] [Greymarch Dawn - Whispers of Jyggalag](https://www.nexusmods.com/morrowind/mods/53679)
           - [ ] [Sharper Normal Maps for Greymarch Dawn - Whispers of Jyggalag](https://www.nexusmods.com/morrowind/mods/53697)
@@ -875,12 +881,6 @@
           - [ ] [Investigations at Tel Eurus](https://www.nexusmods.com/morrowind/mods/51938)
           - [ ] [The Garden of Dreams](https://www.nexusmods.com/morrowind/mods/57831)
           - [ ] [Agent of Change](https://www.nexusmods.com/morrowind/mods/57223)
-    - **Changes**
-      - [ ] [Tribunal Main Quest Reforged](https://www.nexusmods.com/morrowind/mods/54743)
-        - [ ] [A Collection of Small Mods Addons and Patches - by Sweezly](Patch - Tribunal Reforged And Tamriel Rebuilt)
-      - [ ] [Main Quest for the Temple Faithful](https://www.nexusmods.com/morrowind/mods/55359)
-      - [ ] [Even More Mysterious Killings in Vivec](https://www.nexusmods.com/morrowind/mods/49661)
-      - [ ] [The Patchwork Airship - Fleshing out a vanilla quest](https://www.nexusmods.com/morrowind/mods/53133)
   - **Magic**
     - **Models & Textures**
       - [x] [Magic VFX Retexture by Articus](https://www.nexusmods.com/morrowind/mods/47702)
