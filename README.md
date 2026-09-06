@@ -206,11 +206,11 @@
     - _Ashlands_
       - [x] [Valley of the Wind Overhaul](https://www.nexusmods.com/morrowind/mods/46691)
     - _Azura's Coast_
-      - [ ] [Azura's Coast Redone](https://www.nexusmods.com/morrowind/mods/53466)
-      - [ ] [Holamayan Island](https://www.nexusmods.com/morrowind/mods/50996)
+      - [x] [Azura's Coast Redone](https://www.nexusmods.com/morrowind/mods/53466)
+      - [x] [Holamayan Island](https://www.nexusmods.com/morrowind/mods/50996)
     - _Bitter Coast_
       - [x] [SM Bitter Coast Tree Replacer](https://www.nexusmods.com/morrowind/mods/49883)
-      - [ ] [Graht Morrowind Swamp Trees](https://www.nexusmods.com/morrowind/mods/49771)
+      - [x] [Graht Morrowind Swamp Trees](https://www.nexusmods.com/morrowind/mods/49771)
         - install options:
           - Textures: HD
           - Tree replacers: Other
@@ -219,27 +219,27 @@
           - Patches:
             - `The Sable Dragon`
             - `Odai Lifeblood of Balmora`
-      - [ ] [Resdayn Revival - Bitter Coast](https://www.nexusmods.com/morrowind/mods/47772)
-      - [ ] [Compatible Odai River Upper Overhaul](https://www.nexusmods.com/morrowind/mods/53323)
-      - [ ] [Justice for Khartag (J.F.K.)](https://www.nexusmods.com/morrowind/mods/49832)
-      - [ ] [Fishermans island](https://www.nexusmods.com/morrowind/mods/59134)
+      - [x] [Resdayn Revival - Bitter Coast](https://www.nexusmods.com/morrowind/mods/47772)
+      - [x] [Justice for Khartag (J.F.K.)](https://www.nexusmods.com/morrowind/mods/49832)
     - _Grazelands_
-      - [ ] [OAAB Grazelands](https://www.nexusmods.com/morrowind/mods/49075)
+      - [x] [OAAB Grazelands](https://www.nexusmods.com/morrowind/mods/49075)
       - [x] [Melchior's Excellent Grazelands Acacia](https://www.nexusmods.com/morrowind/mods/51058)
         - Patches:
           - [x] OAAB Data
-      - [ ] [The Song of the Grazelands](https://www.nexusmods.com/morrowind/mods/54652)
-        - [ ] [Thickle-Lo Grove](https://www.nexusmods.com/morrowind/mods/51689)
+      - [x] [The Song of the Grazelands](https://www.nexusmods.com/morrowind/mods/54652)
     - _Molag Amur_
-      - [ ] [The Mountain of Fear](https://www.nexusmods.com/morrowind/mods/52859)
+      - [x] [The Mountain of Fear](https://www.nexusmods.com/morrowind/mods/52859)
     - _Red Mountain_
-      - [ ] [Devilish Rocky Red Mountain](https://www.nexusmods.com/morrowind/mods/53473)
+      - [x] [Devilish Rocky Red Mountain](https://www.nexusmods.com/morrowind/mods/53473)
     - _Sheogorad_
-      - [ ] [Ashfront - Sheogorad](https://www.nexusmods.com/morrowind/mods/57944)
+      - [x] [Ashfront - Sheogorad](https://www.nexusmods.com/morrowind/mods/57944): plus `02 OAAB Shipwrecks Patch`
+        - [x] [Ashfront - Ruined Redaynia](https://www.nexusmods.com/morrowind/mods/57947)
     - _Solsteim
       - [x] [Vurts Solstheim Tree Replacer II](https://www.nexusmods.com/morrowind/mods/37856)
         - [x] [Vurts Solstheim Tree Replacer II Fix](https://www.nexusmods.com/morrowind/mods/45941)
+    - _West Gash_
     - _Zafirbel Bay_
+      - [x] [Marbled Zafirbel Bay](https://www.nexusmods.com/morrowind/mods/53126): plus `update` & `2k textures`
   - **Settlements**
     - **Models & Textures**
       - [x] [Ashlanders textures](https://www.nexusmods.com/morrowind/mods/45162)
@@ -408,6 +408,7 @@
       - [ ] [The Hex Weaver](https://www.nexusmods.com/morrowind/mods/59843)
       - [ ] [UNDERTOW - A Fin Gleam Dungeon (OpenMW)](https://www.nexusmods.com/morrowind/mods/57549)
       - [ ] [Veteran Dungeon Pack](https://www.nexusmods.com/morrowind/mods/46882)
+      - [ ] [Thickle-Lo Grove](https://www.nexusmods.com/morrowind/mods/51689)
     - **Player Houses**
       - [ ] [The Adventurer's House](https://www.nexusmods.com/morrowind/mods/59886)
       - [ ] [Indoril Mansion](https://www.nexusmods.com/morrowind/mods/53022)
