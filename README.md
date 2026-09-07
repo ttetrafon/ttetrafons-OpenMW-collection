@@ -233,7 +233,6 @@
       - [x] [Devilish Rocky Red Mountain](https://www.nexusmods.com/morrowind/mods/53473)
     - _Sheogorad_
       - [x] [Ashfront - Sheogorad](https://www.nexusmods.com/morrowind/mods/57944): plus `02 OAAB Shipwrecks Patch`
-        - [x] [Ashfront - Ruined Redaynia](https://www.nexusmods.com/morrowind/mods/57947)
     - _Solsteim
       - [x] [Vurts Solstheim Tree Replacer II](https://www.nexusmods.com/morrowind/mods/37856)
         - [x] [Vurts Solstheim Tree Replacer II Fix](https://www.nexusmods.com/morrowind/mods/45941)
@@ -243,7 +242,7 @@
   - **Settlements**
     - **Models & Textures**
       - [x] [Ashlanders textures](https://www.nexusmods.com/morrowind/mods/45162)
-        - [ ] [Ashlander Lanterns Retexture - Aestetika of Vvardenfell](https://www.nexusmods.com/morrowind/mods/52723): `HQ` & `OpenMW Normal-Height Maps` files
+        - [x] [Ashlander Lanterns Retexture - Aestetika of Vvardenfell](https://www.nexusmods.com/morrowind/mods/52723): `HQ` & `OpenMW Normal-Height Maps` files
       - [x] [RR Mod Series - Morrowind Statues Replacer](https://www.nexusmods.com/morrowind/mods/43348)
       - [x] [Necrom - Arkitektora of Morrowind](https://www.nexusmods.com/morrowind/mods/46289)
         - `Necrom Arkitektora - HQ` option plus `Necrom Minor Meshes Fixes` update
@@ -253,8 +252,8 @@
       - [x] [Telvanni Mesh Improvement](https://www.nexusmods.com/morrowind/mods/42343)
       - [x] [Telvanni - Arkitektora of Vvardenfell](https://www.nexusmods.com/morrowind/mods/43530): `AoVv Telvanni HQ` option & `Missed texture` update
         - [x] [Mono's Minor Moddities](https://www.nexusmods.com/morrowind/mods/53027): `Telvanni Mesh Improvement - Arkitektora Patch` file
-      - [ ] [Hlaalu - Arkitektora Vol.2](https://www.nexusmods.com/morrowind/mods/46246)
-        - [ ] [Hlaalu - Arkitektora Vol.2 Normal Maps](https://www.nexusmods.com/morrowind/mods/46400)
+      - [x] [Hlaalu - Arkitektora Vol.2](https://www.nexusmods.com/morrowind/mods/46246)
+        - [x] [Hlaalu - Arkitektora Vol.2 Normal Maps](https://www.nexusmods.com/morrowind/mods/46400)
       - [x] [Hlaalu Normal Mapped for OpenMW](https://www.nexusmods.com/morrowind/mods/44297)
       - [x] [RR Mod Series - Better Meshes](https://www.nexusmods.com/morrowind/mods/43266)
         - `RR - Better Redoran Architecture V1.2.2`
@@ -266,21 +265,21 @@
           - `Redoran Arkitektora - Carapace of Ald Skar HD`
           - `Redoran Arkitektora - Buildings HQ`
           - `Redoran Arkitektora for Tamriel Rebuilt - HQ`
-      - [ ] [Ald'ruhn-under-Skar](https://www.nexusmods.com/morrowind/mods/50332)
-      - [ ] [Ald'Ruhn Manor Banners](https://www.nexusmods.com/morrowind/mods/51527)
-      - [ ] [Vivec and Velothi - Arkitektora Vol.2](https://www.nexusmods.com/morrowind/mods/46266)
-        - [ ] [Vivec and Velothi - Arkitektora Vol.2 Normal Maps](https://www.nexusmods.com/morrowind/mods/46398)
+      - [x] [Vivec and Velothi - Arkitektora Vol.2](https://www.nexusmods.com/morrowind/mods/46266)
+        - [x] [Vivec and Velothi - Arkitektora Vol.2 Normal Maps](https://www.nexusmods.com/morrowind/mods/46398)
       - [x] [Vivec Normal Mapped for OpenMW](https://www.nexusmods.com/morrowind/mods/44259)
-      - [ ] [Indoril Architecture Reimagined](https://www.nexusmods.com/morrowind/mods/60079)
-      - [ ] [Indoril and Mournhold Architecture Reimagined](https://www.nexusmods.com/morrowind/mods/56300)
+      - [x] [Indoril and Mournhold Architecture Reimagined](https://www.nexusmods.com/morrowind/mods/56300)
+      - [x] [Indoril Architecture Reimagined](https://www.nexusmods.com/morrowind/mods/60079)
       - [x] [Clockwork City Reborn](https://www.nexusmods.com/morrowind/mods/38369)
-      - [ ] [Ald Redaynia Mod N. 147](https://www.nexusmods.com/morrowind/mods/50727)
-      - [ ] [Shabby Gnaar Mok](https://www.nexusmods.com/morrowind/mods/53100)
     - **Additions**
-      - [ ] [Hla Odai](https://www.nexusmods.com/morrowind/mods/51942)
+      - [x] [Hla Odai](https://www.nexusmods.com/morrowind/mods/51942)
     - **Changes**
       - _Ald'ruhn_
-        - [ ] [Living Ald'ruhn](https://www.nexusmods.com/morrowind/mods/59874)
+        - [x] [Living Ald'ruhn](https://www.nexusmods.com/morrowind/mods/59874)
+        - [x] [Ald'ruhn-under-Skar](https://www.nexusmods.com/morrowind/mods/50332)
+        - [x] [Ald'Ruhn Manor Banners](https://www.nexusmods.com/morrowind/mods/51527)
+      - _Ald Redaynia_
+        - [x] [Ald Redaynia Mod N. 147](https://www.nexusmods.com/morrowind/mods/50727)
       - _Balmora_
         - [ ] [Balmora - The City of Contrasts](https://www.nexusmods.com/morrowind/mods/51571)
         - [ ] [Odai - Lifeblood of Balmora](https://www.nexusmods.com/morrowind/mods/55454)
@@ -306,9 +305,10 @@
         - [ ] [The Ebonheart Lighthouse()](https://www.nexusmods.com/morrowind/mods/53417)
         - [ ] [Ebonheart Underworks](https://www.nexusmods.com/morrowind/mods/47272)
       - _Gnaar Mok_
+        - [ ] [Shabby Gnaar Mok](https://www.nexusmods.com/morrowind/mods/53100)
         - [ ] [Wrack and Ruin - A Gnaar Mok Overhaul](https://www.nexusmods.com/morrowind/mods/59766)
       - _Helnim_
-        - [ ] [Helnim Wooden Walls - Telvannis frontier town (Tamriel Rebuilt)](https://www.nexusmods.com/morrowind/mods/59382)
+        - [x] [Helnim Wooden Walls - Telvannis frontier town (Tamriel Rebuilt)](https://www.nexusmods.com/morrowind/mods/59382)
       - _Maar Gan_
         - [ ] [Markgran Forest (Maar Gan Forest)](https://www.nexusmods.com/morrowind/mods/53627)
           - [ ] [sams openmw height maps and normals for Markgran forest](https://www.nexusmods.com/morrowind/mods/54880)
@@ -376,7 +376,6 @@
         - [ ] [Red Vos](https://www.nexusmods.com/morrowind/mods/44729)
       - _misc_
         - [x] [Safety First - Silt Strider Ports with Railings](https://www.nexusmods.com/morrowind/mods/58948)
-        - [ ] [Shipyards of Vvardenfell (Sadrith Mora - Seyda Neen - Gnaar Mok)](https://www.nexusmods.com/morrowind/mods/51928)
   - **Points of Interest**
     - **Models & Textures**
       - [x] [Full Dwemer Retexture](https://www.nexusmods.com/morrowind/mods/44264)
@@ -681,6 +680,7 @@
       - [x] [Diverse Khajiit](https://www.nexusmods.com/morrowind/mods/48832)
       - [x] [Dead Mer Tell No Tales (OpenMW)](https://www.nexusmods.com/morrowind/mods/57431)
       - [x] [Actor Interactions - OpenMW](https://www.nexusmods.com/morrowind/mods/57955)
+      - [ ] [OpenMW NPC Personality - Dynamic gestures](https://www.nexusmods.com/morrowind/mods/60121)
   - **Factions**
     - **General**
       - [ ] [Privileges And Services](https://www.nexusmods.com/morrowind/mods/50403)
@@ -1073,3 +1073,7 @@
   - give good xp on the school on toggle
 - Exhaustion for not sleeping, eating, & drinking?
   - very lightweight survival mechanic
+
+## Patches Needed
+
+- Hla Odai & Three Shades of Darkness: crypt within Hla Odai should be moved a bit...
