@@ -180,6 +180,8 @@
         - plus `Urns - AoVv Clutter - HQ - Normal Maps` optional file
       - [x] [Telvanni Fireplace Replacer](https://www.nexusmods.com/morrowind/mods/43232)
       - [x] [6th House - Glowing Things](https://www.nexusmods.com/morrowind/mods/48764)
+      - [x] [Epic Plants](https://www.nexusmods.com/morrowind/mods/46180)
+        - plus `Misc Patches` optional file (for Mudcrab imports)
       - [x] [Temple Shrines Glow](https://www.nexusmods.com/morrowind/mods/51895)
       - [x] [OpenMW Containers Animated](https://www.nexusmods.com/morrowind/mods/46232)
     - **Additions**
@@ -218,7 +220,6 @@
           - Platforms and Walkways
           - Patches:
             - `The Sable Dragon`
-            - `Odai Lifeblood of Balmora`
       - [x] [Resdayn Revival - Bitter Coast](https://www.nexusmods.com/morrowind/mods/47772)
       - [x] [Justice for Khartag (J.F.K.)](https://www.nexusmods.com/morrowind/mods/49832)
     - _Grazelands_
@@ -281,16 +282,14 @@
       - _Ald Redaynia_
         - [x] [Ald Redaynia Mod N. 147](https://www.nexusmods.com/morrowind/mods/50727)
       - _Balmora_
-        - [ ] [Balmora - The City of Contrasts](https://www.nexusmods.com/morrowind/mods/51571)
-        - [ ] [Odai - Lifeblood of Balmora](https://www.nexusmods.com/morrowind/mods/55454)
-          - [ ] [OLOB - Balmora Red Lantern District](https://www.nexusmods.com/morrowind/mods/60016)
-          - [ ] [OLOB Odai Lifeblood of Balmora Patch Project](https://www.nexusmods.com/morrowind/mods/55536)
-        - [ ] [Balmora Outskirts - Stoneflower trading post](https://www.nexusmods.com/morrowind/mods/54534)
-          - [ ] [Stoneflower Trading Post - Odai Lifeblood of Balmora patch](https://www.nexusmods.com/morrowind/mods/60005)
-        - [ ] [Balmora Undermarket](https://www.nexusmods.com/morrowind/mods/53833)
-        - [ ] [Balmora Waterworks](https://www.nexusmods.com/morrowind/mods/51327)
-          - [ ] [Quests in Balmora Waterworks](https://www.nexusmods.com/morrowind/mods/52758)
-        - [ ] [Balmora Guilds Expanded](https://www.nexusmods.com/morrowind/mods/46859)
+        - [x] [Balmora Gravemarket](https://www.nexusmods.com/morrowind/mods/51696): `BalmoraGravemarket` file
+        - [x] [Balmora Outskirts - Stoneflower trading post](https://www.nexusmods.com/morrowind/mods/54534): plus `` optional file
+        - [x] [Balmora Waterworks](https://www.nexusmods.com/morrowind/mods/51327)
+          - [x] [Quests in Balmora Waterworks](https://www.nexusmods.com/morrowind/mods/52758)
+        - [x] [Balmora Undermarket](https://www.nexusmods.com/morrowind/mods/53833): `Balmoral Waterworks` option
+        - [x] [Balmora Temple Redone](https://www.nexusmods.com/morrowind/mods/52724)
+          - [x] [Balmora Temple Redone Reintegrated](https://www.nexusmods.com/morrowind/mods/55483)
+        - [x] [Balmora Guilds Expanded](https://www.nexusmods.com/morrowind/mods/46859)
         - [ ] [Fabulous Hlaalo Manor](https://www.nexusmods.com/morrowind/mods/51438): plus `DOOR-HOTFIX`, `Downstairs Ralen`, `Fabulous Servant Quarters`
       - _Caldera_
         - [x] [Caldera](https://www.nexusmods.com/morrowind/mods/50314)
@@ -480,10 +479,6 @@
         - [ ] [Shal Overgrown](https://www.nexusmods.com/morrowind/mods/47219)
         - [ ] [The Wake of Hanin - Ibar-Dad Overhaul](https://www.nexusmods.com/morrowind/mods/56206)
         - [ ] [Vennin's Pulk Overhaul](https://www.nexusmods.com/morrowind/mods/52616)
-  - **Plants**
-    - [x] [Epic Plants](https://www.nexusmods.com/morrowind/mods/46180)
-      - plus `Misc Patches` optional file (for Mudcrab imports)
-    - [x] [Perfect Scum](https://www.nexusmods.com/morrowind/mods/51355)
   - **Equipment**
     - **Models & Textures**
       - [x] [Remiros' Uniques](https://www.nexusmods.com/morrowind/mods/49674)
@@ -539,7 +534,6 @@
           - Carnithus Armamentarium
           - Aradia's Needle
           - Amulets and Rings Daduke
-      - [x] [Buoyant Armigers Armor](https://www.nexusmods.com/morrowind/mods/43143)
       - [x] [Mage Robes](https://www.nexusmods.com/morrowind/mods/45739)
         - options:
           - Game Engine: OpenMW
@@ -551,7 +545,6 @@
       - [ ] [Sacred Necromancer Armor](https://www.nexusmods.com/morrowind/mods/51651)
       - [x] [Argonian Full Helms Lore Integrated and Modders Resource v 1.1](https://www.nexusmods.com/morrowind/mods/53011)
         - [x] [Argonian Full Helms Lore Integrated v1.1 - Cleaned](https://www.nexusmods.com/morrowind/mods/57437)
-      - [x] [Concept Art Daedric Helmets](https://www.nexusmods.com/morrowind/mods/49534)
       - [x] [Many Cloth Helms](https://www.nexusmods.com/morrowind/mods/49282): `ManyClothHelmsWaresAware` file only
       - [ ] [Concept Art Dunmer Helmets](https://www.nexusmods.com/morrowind/mods/52043)
       - [x] [Catalyst- Enchantable offhand staves for magic users (MWSE optional)](https://www.nexusmods.com/morrowind/mods/59891)
@@ -697,6 +690,7 @@
       - [ ] [Talos Cult Conspiracy](https://www.nexusmods.com/morrowind/mods/47576)
       - [ ] [Guild of Vampire Hunters](https://www.nexusmods.com/morrowind/mods/45832)
         - [ ] [Vampire Hunter Faction](https://www.nexusmods.com/morrowind/mods/53811)
+      - [ ] [Wishmaster - A Clavicus Vile Daedric Questline](https://www.nexusmods.com/morrowind/mods/55613)
     - **Existing**
       - _Ashlanders_
         - [ ] [Ashlander Quests](https://www.nexusmods.com/morrowind/mods/46817)
@@ -729,6 +723,8 @@
         - [ ] [Telvanni Staff for the Telvanni Staff](https://www.nexusmods.com/morrowind/mods/47869)
       - _Dark Brotherhood_
         - [ ] [The War for the Vvardenfell Brotherhood](https://www.nexusmods.com/morrowind/mods/47314)
+      - _Imperial Cult_
+        - [ ] [Imperial Cult Quest Expansion](https://www.nexusmods.com/morrowind/mods/54157)
       - _Imperial Legion_
         - [ ] [Imperial Legion Basic Training()](https://www.nexusmods.com/morrowind/mods/56542)
         - [ ] [Imperial Legion Expansion](https://www.nexusmods.com/morrowind/mods/44469)
@@ -755,6 +751,7 @@
         - [ ] [Thieves' Guild in Gnaar Mok](https://www.nexusmods.com/morrowind/mods/46754)
       - _Temple_
         - [ ] [Temple Master](https://www.nexusmods.com/morrowind/mods/52749)
+        - [ ] [Balmora Temple Questline](https://www.nexusmods.com/morrowind/mods/54211)
   - **Quests**
     - **Changes**
       - [ ] [Tribunal Main Quest Reforged](https://www.nexusmods.com/morrowind/mods/54743)
