@@ -293,7 +293,7 @@
         - [ ] [Balmora Guilds Expanded](https://www.nexusmods.com/morrowind/mods/46859)
         - [ ] [Fabulous Hlaalo Manor](https://www.nexusmods.com/morrowind/mods/51438): plus `DOOR-HOTFIX`, `Downstairs Ralen`, `Fabulous Servant Quarters`
       - _Caldera_
-        - [ ] [Caldera Governors Manor Redone](https://www.nexusmods.com/morrowind/mods/53220)
+        - [x] [Caldera](https://www.nexusmods.com/morrowind/mods/50314)
       - _Dagon Fel_
         - [ ] [Nordic Dagon Fel](https://www.nexusmods.com/morrowind/mods/49603)
           - [ ] [Even More Nordic Dagon Fel](https://www.nexusmods.com/morrowind/mods/53486)
@@ -332,7 +332,7 @@
         - [ ] [Factor's Estate Extended](https://www.nexusmods.com/morrowind/mods/56911): `GITD version`
         - [ ] [Rather Nice Factor's Estate](https://www.nexusmods.com/morrowind/mods/47933)
       - _Sadrith Mora_
-        - [ ] [Wolverine Hall Interior Expansion](https://www.nexusmods.com/morrowind/mods/44965)
+        - [x] [Sadrith Mora - Seat of Power of House Telvanni](https://www.nexusmods.com/morrowind/mods/48689): plus `04 ROHT Patch` module
       - _Seyda Neen_
         - [ ] [OAAB Seyda Neen - Damp Little Squat](https://www.nexusmods.com/morrowind/mods/53765): `Seyda Neen Damp Little Squat - No Anims` & `OpenMW version`
       - _Solsteim_
@@ -347,7 +347,7 @@
         - [x] [Suran sewers](https://www.nexusmods.com/morrowind/mods/51499)
         - [x] [Suran O Suran - The Floating Pearl](https://www.nexusmods.com/morrowind/mods/59883)
       - _Tel Aruhn_
-        - [ ] [Tel Aruhn Chronicles](https://www.nexusmods.com/morrowind/mods/49171)
+        - [x] [Tel Aruhn Chronicles](https://www.nexusmods.com/morrowind/mods/49171): plus `04 Rise of House Telvanni 2.0 Patch` module
       - _Tel Branora_
         - [ ] [Fairy Tel Branora](https://www.nexusmods.com/morrowind/mods/49435)
         - [ ] [RR Mod Series - Telvanni Lighthouse Tel Branora](https://www.nexusmods.com/morrowind/mods/42664)
@@ -737,6 +737,7 @@
         - [ ] [AFFiliates-Guild of Mages](https://www.nexusmods.com/morrowind/mods/58875)
         - [ ] [Vivec Guild of Mages Expansion](https://www.nexusmods.com/morrowind/mods/44935)
         - [ ] [Ald-ruhn Mages guild expansion](https://www.nexusmods.com/morrowind/mods/48321)
+        - [ ] [Caldera Mages Guild Expanded](https://www.nexusmods.com/morrowind/mods/45750)
         - [ ] [Bodrum Guild of Mages](https://www.nexusmods.com/morrowind/mods/56308)
         - [ ] [Under Masser's Gaze](https://www.nexusmods.com/morrowind/mods/55445)
         - [ ] [Ethereal Magic](https://www.nexusmods.com/morrowind/mods/55443)
