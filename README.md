@@ -302,8 +302,10 @@
         - [ ] [Nordic Dagon Fel NPCs](https://www.nexusmods.com/morrowind/mods/52390)
         - [ ] [Dagon Fel Lighthouse](https://www.nexusmods.com/morrowind/mods/52291)
       - _Ebonheart_
-        - [ ] [The Ebonheart Lighthouse()](https://www.nexusmods.com/morrowind/mods/53417)
-        - [ ] [Ebonheart Underworks](https://www.nexusmods.com/morrowind/mods/47272)
+        - [x] [Imperium - Castle Ebonheart](https://www.nexusmods.com/morrowind/mods/51120)
+        - [x] [Ebonheart outskirt 'n' Lighthouse district](https://www.nexusmods.com/morrowind/mods/44994)
+        - [x] [The Ebonheart Lighthouse()](https://www.nexusmods.com/morrowind/mods/53417)
+        - [x] [Ebonheart Underworks](https://www.nexusmods.com/morrowind/mods/47272)
       - _Gnaar Mok_
         - [ ] [Shabby Gnaar Mok](https://www.nexusmods.com/morrowind/mods/53100)
         - [ ] [Wrack and Ruin - A Gnaar Mok Overhaul](https://www.nexusmods.com/morrowind/mods/59766)
