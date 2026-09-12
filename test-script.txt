@@ -1,4 +1,5 @@
 player->addspell "almsivi intervention"
+player->addspell "daedric bite"
 player->addspell "divine intervention"
 player->addspell "dispel"
 player->addspell "draconic_blood"
