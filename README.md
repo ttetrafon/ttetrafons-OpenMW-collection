@@ -47,6 +47,23 @@
       - All labelled options
     - [Immersive Loading Screens (OpenMW)](https://www.nexusmods.com/morrowind/mods/58749)
     - [Complementary Splash Screens](https://www.nexusmods.com/morrowind/mods/58323)
+  - _models & textures_
+    - [Morrowind Enhanced Textures](https://www.nexusmods.com/morrowind/mods/46221)
+      - plus `Interface and main menu` optional files
+    - [Landscape Retexture](https://www.nexusmods.com/morrowind/mods/42575): `Landscape Retexture 2K`
+      - plus `Landscape retexture - OpenMW Normal map and Parallax patch` and `Bloodmoon Landscape Retexture` optional files
+    - [Properly Smoothed Meshes](https://www.nexusmods.com/morrowind/mods/46747)
+    - [RR Mod Series - Better Meshes](https://www.nexusmods.com/morrowind/mods/43266)
+      - `RR - Better Meshes V1.4`
+        - options:
+          - `Optimised Melchior's Dunmer Lanterns`
+          - `Animation Fix for Dwemer Mesh Improvement mod`
+      - `RR - Better Crystals 1.0`
+      - `RR - Better Skulls and Bones`
+      - `RR - Better Crates and Barrels V1.1`
+    - [Darknut's World Textures 1.1](https://www.nexusmods.com/morrowind/mods/45056)
+    - [Correct Meshes](https://www.nexusmods.com/morrowind/mods/39348)
+    - [Correct UV Rocks](https://www.nexusmods.com/morrowind/mods/46104)
 - **UNDERRIDES**
   - [OpenMW Impact Effects](https://www.nexusmods.com/morrowind/mods/55508)
     - [Lua Physics Engine -- OpenMW](https://www.nexusmods.com/morrowind/mods/56589)
@@ -77,6 +94,11 @@
       - 01 Wares Legacy
       - 04 OAAB to Wares
       - 03 TD to Wares
+  - [The Doors of Oblivion](https://www.nexusmods.com/morrowind/mods/44398): delete `.esp`
+    - plus `version 1.4` & `The Doors of Oblivion 1.4 missing files plus extras`
+    - [The Doors of Oblivion Full Upscale](https://www.nexusmods.com/morrowind/mods/53351): all files
+    - [Doors of Oblivion - Caprice Upscale and Extras](https://www.nexusmods.com/morrowind/mods/50291)
+  - [Expansions Integrated](https://www.nexusmods.com/morrowind/mods/47861)
 - **WORLD**
   - _Tamriel Rebuilt_
     - [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145) plus `TRMusic`
@@ -85,8 +107,18 @@
   - _Cyrodiil_
     - [Project Cyrodiil](https://www.nexusmods.com/morrowind/mods/44922)
   - _other_
+    - [Lyithdonea - The Azurian Isles](https://www.nexusmods.com/morrowind/mods/43749)
+    - [Wyrmhaven](https://www.nexusmods.com/morrowind/mods/42933)
+    - [The Manifold Spires](https://www.nexusmods.com/morrowind/mods/46128)
   - _Vvardenfell_
   - _Solsteim_
+    - [Solstheim - Tomb of the Snow Prince](https://www.nexusmods.com/morrowind/mods/46810) plus `Solstheim Graphical Replacer`
+      - Patches:
+        - Glow in the Dahrk
+        - Missing snow armor
+        - TOTSP TD Content Integration - Spiders
+  - _general_
+    - [Bethesda Official Plugins Naturalized](https://www.nexusmods.com/morrowind/mods/51107)
 - **CREATURES**
   - _changes_
   - _additions_
