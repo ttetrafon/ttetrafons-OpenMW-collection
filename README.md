@@ -93,14 +93,43 @@
     - [Ashlanders textures](https://www.nexusmods.com/morrowind/mods/45162)
       - [Ashlander Lanterns Retexture - Aestetika of Vvardenfell](https://www.nexusmods.com/morrowind/mods/52723): `HQ` & `OpenMW Normal-Height Maps` files
     - [RR Mod Series - Morrowind Statues Replacer](https://www.nexusmods.com/morrowind/mods/43348): `01 - Azura Marble` & `02 - Vivec Statues` modules
+    - [Shacks Docks and Ships - Arkitektora of Vvardenfell](https://www.nexusmods.com/morrowind/mods/43520)
+    - [Telvanni Mesh Improvement](https://www.nexusmods.com/morrowind/mods/42343)
+    - [Telvanni - Arkitektora of Vvardenfell](https://www.nexusmods.com/morrowind/mods/43530): `AoVv Telvanni HQ` option & `Missed texture` update
+      - [Mono's Minor Moddities](https://www.nexusmods.com/morrowind/mods/53027): `Telvanni Mesh Improvement - Arkitektora Patch` file
+    - [Hlaalu - Arkitektora Vol.2](https://www.nexusmods.com/morrowind/mods/46246): `Hlaalu Arkitektora - HQ` file
+      - [Hlaalu - Arkitektora Vol.2 Normal Maps](https://www.nexusmods.com/morrowind/mods/46400)
+    - [Hlaalu Normal Mapped for OpenMW](https://www.nexusmods.com/morrowind/mods/44297)
+    - [RR Mod Series - Better Meshes](https://www.nexusmods.com/morrowind/mods/43266): `RR - Better Redoran Architecture V1.2.2`
+        - options:
+          - `Vanilla GITD Patch`
+          - `Better Aldruhn-under-Skar HD`
+    - [Redoran - Arkitektora Vol.2](https://www.nexusmods.com/morrowind/mods/46235)
+      - files:
+        - `Redoran Arkitektora - Carapace of Ald Skar HD`
+        - `Redoran Arkitektora - Buildings HQ`
+        - `Redoran Arkitektora for Tamriel Rebuilt - HQ`
+    - [Vivec and Velothi - Arkitektora Vol.2](https://www.nexusmods.com/morrowind/mods/46266)
+      - [Vivec and Velothi - Arkitektora Vol.2 Normal Maps](https://www.nexusmods.com/morrowind/mods/46398)
+    - [Vivec Normal Mapped for OpenMW](https://www.nexusmods.com/morrowind/mods/44259)
+    - [Indoril and Mournhold Architecture Reimagined](https://www.nexusmods.com/morrowind/mods/56300)
+    - [Indoril Architecture Reimagined](https://www.nexusmods.com/morrowind/mods/60079)
+    - [Clockwork City Reborn](https://www.nexusmods.com/morrowind/mods/38369)
     - [Epic Plants](https://www.nexusmods.com/morrowind/mods/46180)
     - [Familiar Faces by Caleb (Updated)](https://www.nexusmods.com/morrowind/mods/50093)
+    - [Darknut's Creature Textures](https://www.nexusmods.com/morrowind/mods/43420)
+      - [Darknut's Creature Textures BM](https://www.nexusmods.com/morrowind/mods/43422)
+      - [Darknut's Creature Textures TB](https://www.nexusmods.com/morrowind/mods/43421)
+      - [Darknut's Creature Textures addendum](https://www.nexusmods.com/morrowind/mods/43441)
+    - [4thUnknowns Creatures Morrowind Edition](https://www.nexusmods.com/morrowind/mods/50137): `CreaturesMeshes` & `CreaturesTexturesOpenMW` files
   - _animations_
     - [Animated Morrowind - merged](https://abitoftaste.modlist.x10.mx/morrowind/index.php?option=downloads&task=info&id=39&Itemid=50&-Animated-Morrowind-merged)
       - [Animated Morrowind OpenMW Patch](https://www.nexusmods.com/morrowind/mods/48837)
     - [Animated Lanterns and Signs -- OpenMW](https://www.nexusmods.com/morrowind/mods/58443)
     - [Swayland](https://www.nexusmods.com/morrowind/mods/48854)
     - [OpenMW Containers Animated](https://www.nexusmods.com/morrowind/mods/46232)
+    - [One-handed animations and idle fixes](https://www.nexusmods.com/morrowind/mods/55059)
+    - [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
   - _light_
     - [Improved Lights for All Shaders](https://www.nexusmods.com/morrowind/mods/51463)
     - [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886)
@@ -157,6 +186,8 @@
       - plus `TLAD Lights Only Necro Edit Logical Flicker ExpSnd` file: `TLAD Lights-LogicalFlicker-OriginalColors-ExpSnd.esp` only
   - _Tamriel Rebuilt_
     - [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145) plus `TRMusic`
+    _Necrom_
+      - [Necrom - Arkitektora of Morrowind](https://www.nexusmods.com/morrowind/mods/46289): `Necrom Arkitektora - HQ` option plus `Necrom Minor Meshes Fixes` update
   - _Skyrim_
     - [Skyrim Home Of The Nords](https://www.nexusmods.com/morrowind/mods/44921)
   - _Cyrodiil_
@@ -177,6 +208,10 @@
       - [Remiros' Ascadian Isles Trees 2](https://www.nexusmods.com/morrowind/mods/45779)
     - _Ashlands_
       - [Valley of the Wind Overhaul](https://www.nexusmods.com/morrowind/mods/46691)
+      - _Ald'ruhn_
+        - [Living Ald'ruhn](https://www.nexusmods.com/morrowind/mods/59874)
+        - [Ald'ruhn-under-Skar](https://www.nexusmods.com/morrowind/mods/50332)
+        - [Ald'Ruhn Manor Banners](https://www.nexusmods.com/morrowind/mods/51527)
     - _Azura's Coast_
       - [Azura's Coast Redone](https://www.nexusmods.com/morrowind/mods/53466): `AzurasCoastRedone4MarbledZafirbel` option
       - [Holamayan Island](https://www.nexusmods.com/morrowind/mods/50996)
@@ -190,6 +225,19 @@
           - Platforms and Walkways
       - [Resdayn Revival - Bitter Coast](https://www.nexusmods.com/morrowind/mods/47772)
       - [Justice for Khartag (J.F.K.)](https://www.nexusmods.com/morrowind/mods/49832)
+      - [Hla Odai](https://www.nexusmods.com/morrowind/mods/51942)
+      - _Balmora_
+        - [Balmora Gravemarket](https://www.nexusmods.com/morrowind/mods/51696): `BalmoraGravemarket` file
+        - [Balmora Outskirts - Stoneflower trading post](https://www.nexusmods.com/morrowind/mods/54534)
+        - [Balmora Waterworks](https://www.nexusmods.com/morrowind/mods/51327)
+          - [Quests in Balmora Waterworks](https://www.nexusmods.com/morrowind/mods/52758)
+        - [Balmora Undermarket](https://www.nexusmods.com/morrowind/mods/53833): `Balmoral Waterworks` option
+        - [Balmora Temple Redone](https://www.nexusmods.com/morrowind/mods/52724)
+          - [Balmora Temple Redone Reintegrated](https://www.nexusmods.com/morrowind/mods/55483)
+        - [Balmora Guilds Expanded](https://www.nexusmods.com/morrowind/mods/46859)
+        - [Fabulous Hlaalo Manor](https://www.nexusmods.com/morrowind/mods/51438): with all options, but keep only `Fabulous Clutter`
+      - _Caldera_
+        - [Caldera](https://www.nexusmods.com/morrowind/mods/50314)
     - _Grazelands_
       - [OAAB Grazelands](https://www.nexusmods.com/morrowind/mods/49075)
       - [Melchior's Excellent Grazelands Acacia](https://www.nexusmods.com/morrowind/mods/51058)
@@ -201,6 +249,8 @@
     - _Red Mountain_
       - [Devilish Rocky Red Mountain](https://www.nexusmods.com/morrowind/mods/53473) plus `Devilish Rocky Red Mountain Vanilla Textures` optional file
     - _Sheogorad_
+      - _Ald Redaynia_
+        - [Ald Redaynia Mod N. 147](https://www.nexusmods.com/morrowind/mods/50727)
     - _West Gash_
     - _Zafirbel Bay_
       - [Marbled Zafirbel Bay](https://www.nexusmods.com/morrowind/mods/53126): plus `update` & `2k textures`
@@ -212,6 +262,7 @@
         - TOTSP TD Content Integration - Spiders
     - [Vurts Solstheim Tree Replacer II](https://www.nexusmods.com/morrowind/mods/37856)
       - [Vurts Solstheim Tree Replacer II Fix](https://www.nexusmods.com/morrowind/mods/45941)
+    - [High-res Skaal Retex](https://www.nexusmods.com/morrowind/mods/25650): plus `Raven Rock textures` optional file
   - _general_
     - [Bethesda Official Plugins Naturalized](https://www.nexusmods.com/morrowind/mods/51107)
   - _patches_
@@ -243,6 +294,18 @@
     - [Westlys Master Head Pack Prim and Proper](https://www.nexusmods.com/morrowind/mods/53026)
     - [Diverse Blood](https://www.nexusmods.com/morrowind/mods/45368): plus `Diverse Blood - NIF Replacer` update file
       - [Diverse Blood for Tamriel Rebuilt and Project Tamriel](https://www.nexusmods.com/morrowind/mods/55687)
+    - [Better Almalexia](https://www.nexusmods.com/morrowind/mods/23388)
+    - [VEHK - Concept art Vivec replacer](https://www.nexusmods.com/morrowind/mods/53367)
+    - [Hunger Replacer](https://www.nexusmods.com/morrowind/mods/49866)
+    - [Alternate Spriggans](https://www.nexusmods.com/morrowind/mods/44271)
+    - [Mudcrab Replacer](https://www.nexusmods.com/morrowind/mods/46765)
+    - [Silt Strider](https://www.nexusmods.com/morrowind/mods/48664)
+    - [Skylamp retex](https://www.nexusmods.com/morrowind/mods/60071)
+    - [Old Blue Fin](https://www.nexusmods.com/morrowind/mods/49503)
+      - [Mono's Minor Moddities](https://www.nexusmods.com/morrowind/mods/53027): `Old Blue Fin Upscaled` file
+    - [Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069)
+      - [Animated Morrowind and Weapon Sheathing patch for OpenMW](https://www.nexusmods.com/morrowind/mods/53479): plus `Animated Morrowind_Only resources for overwriting` optional file
+    - [Hit Reactions Animated -- OpenMW](https://www.nexusmods.com/morrowind/mods/56594)
   - _additions_
   - _patches_
 - **FACTIONS**
@@ -257,11 +320,11 @@
   - _patches_
     - [Epic Plants](https://www.nexusmods.com/morrowind/mods/46180): `Misc Patches` optional file (for Mudcrab imports)
     - [Graht Morrowind Swamp Trees](https://www.nexusmods.com/morrowind/mods/49771): `The Sable Dragon` patch
+    - [Balmora Outskirts - Stoneflower trading post](https://www.nexusmods.com/morrowind/mods/54534): `Stoneflower_Illuminated Order Improved More Fixes` optional file
 - **UI**
   - **General**
     - [TrueType fonts for OpenMW](https://www.nexusmods.com/morrowind/mods/46854)
     - [Better Dialogue Font](https://www.nexusmods.com/morrowind/mods/36873)
-    - [Retextured Buttons for Journal and Books (OpenMW)](https://www.nexusmods.com/morrowind/mods/55333)
   - **HUD**
     - [OpenMW Modern UI Overhaul (Mashup)](https://www.nexusmods.com/morrowind/mods/54393)
     - [Arukinns Better UI](https://www.nexusmods.com/morrowind/mods/42139)
