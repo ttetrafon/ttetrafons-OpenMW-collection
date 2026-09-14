@@ -64,9 +64,56 @@
     - [Darknut's World Textures 1.1](https://www.nexusmods.com/morrowind/mods/45056)
     - [Correct Meshes](https://www.nexusmods.com/morrowind/mods/39348)
     - [Correct UV Rocks](https://www.nexusmods.com/morrowind/mods/46104)
+    - [New Starfields](https://www.nexusmods.com/morrowind/mods/43246)
+    - [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424)
+    - [Dunmer Lanterns Replacer](https://www.nexusmods.com/morrowind/mods/43219)
+    - [Improved Lights for All Shaders](https://www.nexusmods.com/morrowind/mods/51463)
+    - [HD Imperial and Royal Flags and Banners](https://www.nexusmods.com/morrowind/mods/48853)
+    - [Guar Skin Banners for OpenMW and Vanilla Morrowind](https://www.nexusmods.com/morrowind/mods/44355)
+    - [One True Faith - Saints and Frescoes Retexture](https://www.nexusmods.com/morrowind/mods/43810)
+    - [Road Marker retextured](https://www.nexusmods.com/morrowind/mods/28311)
+    - [Better Telvanni Crystal](https://www.nexusmods.com/morrowind/mods/50818)
+      - [Normal and Specular maps for Better Telvanni Crystal](https://www.nexusmods.com/morrowind/mods/54928)
+    - [Vurt's Lava and Smoke](https://www.nexusmods.com/morrowind/mods/28519)
+    - [Improved Kwama Eggs and Egg Sacs](https://www.nexusmods.com/morrowind/mods/43555)
+    - [R-Zero's Random Retextures (and Replacers)](https://www.nexusmods.com/morrowind/mods/44025)
+      - `R-Zero&#39;s Random Replacers - Iron Towershield`
+      - `R-Zero&#39;s Random Retextures - Quill`
+      - `R-Zero&#39;s Random Retextures - Dwemer Coin`
+    - [HD Forge](https://www.nexusmods.com/morrowind/mods/46738)
+      - plus `HD Bloodmoon Forge` update
+    - [AST Beds Remastered](https://www.nexusmods.com/morrowind/mods/45206)
+    - [Ket's Swirlwood Furniture retexture](https://www.nexusmods.com/morrowind/mods/45127)
+    - [Long Live The Glassware - Retexture](https://www.nexusmods.com/morrowind/mods/44016)
+    - [Long Live The Limeware - Retexture](https://www.nexusmods.com/morrowind/mods/44045)
+    - [Long Live The Plates - Retexture](https://www.nexusmods.com/morrowind/mods/43935)
+    - [Dunmeri Urns - Aestetika of Vvardenfell](https://www.nexusmods.com/morrowind/mods/43541)
+      - plus `Urns - AoVv Clutter - HQ - Normal Maps` optional file
+    - [Telvanni Fireplace Replacer](https://www.nexusmods.com/morrowind/mods/43232)
+    - [Epic Plants](https://www.nexusmods.com/morrowind/mods/46180)
+  - _animations_
+    - [Animated Morrowind - merged](https://abitoftaste.modlist.x10.mx/morrowind/index.php?option=downloads&task=info&id=39&Itemid=50&-Animated-Morrowind-merged)
+      - [Animated Morrowind OpenMW Patch](https://www.nexusmods.com/morrowind/mods/48837)
+    - [Animated Lanterns and Signs -- OpenMW](https://www.nexusmods.com/morrowind/mods/58443)
+    - [Swayland](https://www.nexusmods.com/morrowind/mods/48854)
+    - [OpenMW Containers Animated](https://www.nexusmods.com/morrowind/mods/46232)
+  - _light_
+    - [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886)
+      - Options:
+        - Optional Files:
+          - Hi Res Window Texture Replacer
+          - Raven Rock Glass Windows
+          - Nord Glass Windows
+          - Dark Molag Mar
+        - Telvanni Dormers: none
+        - Telvanni Tower Interior Glow: OpenMW
+      - [Glow in the Dahrk - Normal Specular PBR Maps](https://www.nexusmods.com/morrowind/mods/58029)
+    - [6th House - Glowing Things](https://www.nexusmods.com/morrowind/mods/48764)
+    - [Temple Shrines Glow](https://www.nexusmods.com/morrowind/mods/51895)
 - **UNDERRIDES**
   - [OpenMW Impact Effects](https://www.nexusmods.com/morrowind/mods/55508)
     - [Lua Physics Engine -- OpenMW](https://www.nexusmods.com/morrowind/mods/56589)
+  - [Zerkish ModUtils (OpenMW)](https://www.nexusmods.com/morrowind/mods/56795)
   - [Follower Detection Util (OpenMW)](https://www.nexusmods.com/morrowind/mods/58053)
   - [Stats Window Extender (OpenMW)](https://www.nexusmods.com/morrowind/mods/57727)
     - [Character Traits Framework (OpenMW)](https://www.nexusmods.com/morrowind/mods/58703)
@@ -100,6 +147,9 @@
     - [Doors of Oblivion - Caprice Upscale and Extras](https://www.nexusmods.com/morrowind/mods/50291)
   - [Expansions Integrated](https://www.nexusmods.com/morrowind/mods/47861)
 - **WORLD**
+  - _general_
+    - [True Lights and Darkness](https://www.nexusmods.com/morrowind/mods/39605): only the `True_Lights_And_Darkness_1.1.esp`
+      - plus `TLAD Lights Only Necro Edit Logical Flicker ExpSnd` file: `TLAD Lights-LogicalFlicker-OriginalColors-ExpSnd.esp` only
   - _Tamriel Rebuilt_
     - [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145) plus `TRMusic`
   - _Skyrim_
@@ -111,6 +161,7 @@
     - [Wyrmhaven](https://www.nexusmods.com/morrowind/mods/42933)
     - [The Manifold Spires](https://www.nexusmods.com/morrowind/mods/46128)
   - _Vvardenfell_
+    - [Velothi Wall Art](https://www.nexusmods.com/morrowind/mods/46454)
   - _Solsteim_
     - [Solstheim - Tomb of the Snow Prince](https://www.nexusmods.com/morrowind/mods/46810) plus `Solstheim Graphical Replacer`
       - Patches:
@@ -119,17 +170,26 @@
         - TOTSP TD Content Integration - Spiders
   - _general_
     - [Bethesda Official Plugins Naturalized](https://www.nexusmods.com/morrowind/mods/51107)
+  - _patches_
+- **EQUIPMENT**
+  - _changes_
+  - _additions_
+  - _patches_
 - **CREATURES**
   - _changes_
   - _additions_
+  - _patches_
 - **FACTIONS**
   - _existing_
   - _new_
+  - _patches_
 - **QUESTING**
+  - [Completionist - A Morrowind Quest Tracker](https://www.nexusmods.com/morrowind/mods/58020)
   - _changes_
   - _minor_
   - _major_
   - _patches_
+    - [Epic Plants](https://www.nexusmods.com/morrowind/mods/46180): `Misc Patches` optional file (for Mudcrab imports)
 - **UI**
   - **General**
     - [TrueType fonts for OpenMW](https://www.nexusmods.com/morrowind/mods/46854)
