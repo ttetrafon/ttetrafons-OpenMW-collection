@@ -29,6 +29,7 @@
         - Glow in the Dahrk
         - Telvanni Crystal Replacer: Better telvanni crystals
       - [OAAB Full Upscale](https://www.nexusmods.com/morrowind/mods/53379): `OAAB Full Upscale 4x scale` and `OAAB Full Upscale Normal Specular Maps` files
+      - [OAAB Integrations](https://www.nexusmods.com/morrowind/mods/49045): `OAAB Leveled Lists`
     - [AATL Data](https://www.nexusmods.com/morrowind/mods/50647)
       - options:
         - Normals: 1k
@@ -67,7 +68,6 @@
     - [New Starfields](https://www.nexusmods.com/morrowind/mods/43246)
     - [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424)
     - [Dunmer Lanterns Replacer](https://www.nexusmods.com/morrowind/mods/43219)
-    - [Improved Lights for All Shaders](https://www.nexusmods.com/morrowind/mods/51463)
     - [HD Imperial and Royal Flags and Banners](https://www.nexusmods.com/morrowind/mods/48853)
     - [Guar Skin Banners for OpenMW and Vanilla Morrowind](https://www.nexusmods.com/morrowind/mods/44355)
     - [One True Faith - Saints and Frescoes Retexture](https://www.nexusmods.com/morrowind/mods/43810)
@@ -90,6 +90,9 @@
     - [Dunmeri Urns - Aestetika of Vvardenfell](https://www.nexusmods.com/morrowind/mods/43541)
       - plus `Urns - AoVv Clutter - HQ - Normal Maps` optional file
     - [Telvanni Fireplace Replacer](https://www.nexusmods.com/morrowind/mods/43232)
+    - [Ashlanders textures](https://www.nexusmods.com/morrowind/mods/45162)
+      - [Ashlander Lanterns Retexture - Aestetika of Vvardenfell](https://www.nexusmods.com/morrowind/mods/52723): `HQ` & `OpenMW Normal-Height Maps` files
+    - [RR Mod Series - Morrowind Statues Replacer](https://www.nexusmods.com/morrowind/mods/43348): `01 - Azura Marble` & `02 - Vivec Statues` modules
     - [Epic Plants](https://www.nexusmods.com/morrowind/mods/46180)
   - _animations_
     - [Animated Morrowind - merged](https://abitoftaste.modlist.x10.mx/morrowind/index.php?option=downloads&task=info&id=39&Itemid=50&-Animated-Morrowind-merged)
@@ -98,6 +101,7 @@
     - [Swayland](https://www.nexusmods.com/morrowind/mods/48854)
     - [OpenMW Containers Animated](https://www.nexusmods.com/morrowind/mods/46232)
   - _light_
+    - [Improved Lights for All Shaders](https://www.nexusmods.com/morrowind/mods/51463)
     - [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886)
       - Options:
         - Optional Files:
@@ -160,20 +164,72 @@
     - [Lyithdonea - The Azurian Isles](https://www.nexusmods.com/morrowind/mods/43749)
     - [Wyrmhaven](https://www.nexusmods.com/morrowind/mods/42933)
     - [The Manifold Spires](https://www.nexusmods.com/morrowind/mods/46128)
+  - _Inner Sea_
+    - [Waters of Morrowind](https://www.nexusmods.com/morrowind/mods/50203)
+    - [OAAB Shipwrecks](https://www.nexusmods.com/morrowind/mods/51364): `01 Patch - Uncharted Artifacts` & `02 Patch - TR Patch` modules
+      - [Uncharted Artifacts](https://www.nexusmods.com/morrowind/mods/49281): delete the esp
+    - [Hidden Sea Loot](https://www.nexusmods.com/morrowind/mods/52296): `Hidden Sea Loot` & `Hidden Grotto Loot`
   - _Vvardenfell_
     - [Velothi Wall Art](https://www.nexusmods.com/morrowind/mods/46454)
+    - _Ascadian Isles_
+      - [Ascadia - Land of Pilgrimage](https://www.nexusmods.com/morrowind/mods/55707)
+      - [Remiros' Ascadian Isles Trees 2](https://www.nexusmods.com/morrowind/mods/45779)
+    - _Ashlands_
+      - [Valley of the Wind Overhaul](https://www.nexusmods.com/morrowind/mods/46691)
+    - _Azura's Coast_
+      - [Azura's Coast Redone](https://www.nexusmods.com/morrowind/mods/53466): `AzurasCoastRedone4MarbledZafirbel` option
+      - [Holamayan Island](https://www.nexusmods.com/morrowind/mods/50996)
+    - _Bitter Coast_
+      - [SM Bitter Coast Tree Replacer](https://www.nexusmods.com/morrowind/mods/49883)
+      - [Graht Morrowind Swamp Trees](https://www.nexusmods.com/morrowind/mods/49771)
+        - install options:
+          - Textures: HD
+          - Tree replacers: Other
+          - Mod Compatibility: OAAB Data
+          - Platforms and Walkways
+      - [Resdayn Revival - Bitter Coast](https://www.nexusmods.com/morrowind/mods/47772)
+      - [Justice for Khartag (J.F.K.)](https://www.nexusmods.com/morrowind/mods/49832)
+    - _Grazelands_
+      - [OAAB Grazelands](https://www.nexusmods.com/morrowind/mods/49075)
+      - [Melchior's Excellent Grazelands Acacia](https://www.nexusmods.com/morrowind/mods/51058)
+        - Patches:
+          - OAAB Data
+      - [The Song of the Grazelands](https://www.nexusmods.com/morrowind/mods/54652)
+    - _Molag Amur_
+      - [The Mountain of Fear](https://www.nexusmods.com/morrowind/mods/52859)
+    - _Red Mountain_
+      - [Devilish Rocky Red Mountain](https://www.nexusmods.com/morrowind/mods/53473) plus `Devilish Rocky Red Mountain Vanilla Textures` optional file
+    - _Sheogorad_
+    - _West Gash_
+    - _Zafirbel Bay_
+      - [Marbled Zafirbel Bay](https://www.nexusmods.com/morrowind/mods/53126): plus `update` & `2k textures`
   - _Solsteim_
     - [Solstheim - Tomb of the Snow Prince](https://www.nexusmods.com/morrowind/mods/46810) plus `Solstheim Graphical Replacer`
       - Patches:
         - Glow in the Dahrk
         - Missing snow armor
         - TOTSP TD Content Integration - Spiders
+    - [Vurts Solstheim Tree Replacer II](https://www.nexusmods.com/morrowind/mods/37856)
+      - [Vurts Solstheim Tree Replacer II Fix](https://www.nexusmods.com/morrowind/mods/45941)
   - _general_
     - [Bethesda Official Plugins Naturalized](https://www.nexusmods.com/morrowind/mods/51107)
   - _patches_
 - **EQUIPMENT**
   - _changes_
+    - _alchemy_
+      - [Potions Refined - Improved Magical Item Loot](https://www.nexusmods.com/morrowind/mods/58808)
+        - esps:
+          - `Potions Refined`
+          - `Potions Refined - Tamriel`
+          - `Potions Refined - WARES`
+      - [Booze for Purists](https://www.nexusmods.com/morrowind/mods/48914)
   - _additions_
+    - _alchemy_
+      - [Vintage Morrowind - Alcoholic beverage mod](https://www.nexusmods.com/morrowind/mods/54195)
+    - _books_
+      - [Tales of the Mad God - The 16 Accords of Madness](https://www.nexusmods.com/morrowind/mods/58831)
+    - _tools_
+      - [Tools of the Secret Master](https://www.nexusmods.com/morrowind/mods/51415)
   - _patches_
 - **CREATURES**
   - _changes_
@@ -190,6 +246,7 @@
   - _major_
   - _patches_
     - [Epic Plants](https://www.nexusmods.com/morrowind/mods/46180): `Misc Patches` optional file (for Mudcrab imports)
+    - [Graht Morrowind Swamp Trees](https://www.nexusmods.com/morrowind/mods/49771): `The Sable Dragon` patch
 - **UI**
   - **General**
     - [TrueType fonts for OpenMW](https://www.nexusmods.com/morrowind/mods/46854)
