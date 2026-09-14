@@ -29,7 +29,7 @@
         - Glow in the Dahrk
         - Telvanni Crystal Replacer: Better telvanni crystals
       - [OAAB Full Upscale](https://www.nexusmods.com/morrowind/mods/53379): `OAAB Full Upscale 4x scale` and `OAAB Full Upscale Normal Specular Maps` files
-      - [OAAB Integrations](https://www.nexusmods.com/morrowind/mods/49045): `OAAB Leveled Lists`
+      - [OAAB Integrations](https://www.nexusmods.com/morrowind/mods/49045): `OAAB Leveled Lists`, `OAAB Leveled Creatures`, & `OAAB Creature Loot`
     - [AATL Data](https://www.nexusmods.com/morrowind/mods/50647)
       - options:
         - Normals: 1k
@@ -94,6 +94,7 @@
       - [Ashlander Lanterns Retexture - Aestetika of Vvardenfell](https://www.nexusmods.com/morrowind/mods/52723): `HQ` & `OpenMW Normal-Height Maps` files
     - [RR Mod Series - Morrowind Statues Replacer](https://www.nexusmods.com/morrowind/mods/43348): `01 - Azura Marble` & `02 - Vivec Statues` modules
     - [Epic Plants](https://www.nexusmods.com/morrowind/mods/46180)
+    - [Familiar Faces by Caleb (Updated)](https://www.nexusmods.com/morrowind/mods/50093)
   - _animations_
     - [Animated Morrowind - merged](https://abitoftaste.modlist.x10.mx/morrowind/index.php?option=downloads&task=info&id=39&Itemid=50&-Animated-Morrowind-merged)
       - [Animated Morrowind OpenMW Patch](https://www.nexusmods.com/morrowind/mods/48837)
@@ -233,6 +234,15 @@
   - _patches_
 - **CREATURES**
   - _changes_
+    - [Better Bodies 3.2 (Better Beasts)](https://www.nexusmods.com/morrowind/mods/48387): Nude version & `Better Elven Bodies` optional file
+      - [Better Bodies for Tamriel Data](https://www.nexusmods.com/morrowind/mods/56715): `Better TR Bodies` (`Better TR Bodies Nude` directory), `Better TR Bodies Optional Nude` files
+      - [Better Bodies - Lyithdonea](https://www.nexusmods.com/morrowind/mods/57100): `Lyithdonea Better Bodies - Nude` file
+    - [Better bodies 3.2 - HD Nude Textures](https://www.nexusmods.com/morrowind/mods/56739)
+    - [Westly's Hi-Res Better Bodies Textures](https://www.nexusmods.com/morrowind/mods/55566)
+    - [Twilots Poison Song Heads and Hairs Unlocked](https://www.nexusmods.com/morrowind/mods/59958)
+    - [Westlys Master Head Pack Prim and Proper](https://www.nexusmods.com/morrowind/mods/53026)
+    - [Diverse Blood](https://www.nexusmods.com/morrowind/mods/45368): plus `Diverse Blood - NIF Replacer` update file
+      - [Diverse Blood for Tamriel Rebuilt and Project Tamriel](https://www.nexusmods.com/morrowind/mods/55687)
   - _additions_
   - _patches_
 - **FACTIONS**
