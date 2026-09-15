@@ -185,20 +185,28 @@
     - [True Lights and Darkness](https://www.nexusmods.com/morrowind/mods/39605): only the `True_Lights_And_Darkness_1.1.esp`
       - plus `TLAD Lights Only Necro Edit Logical Flicker ExpSnd` file: `TLAD Lights-LogicalFlicker-OriginalColors-ExpSnd.esp` only
     - [Bethesda Official Plugins Naturalized](https://www.nexusmods.com/morrowind/mods/51107)
+  - _other_
+    - [Lyithdonea - The Azurian Isles](https://www.nexusmods.com/morrowind/mods/43749)
+    - [Wyrmhaven](https://www.nexusmods.com/morrowind/mods/42933)
+    - [The Manifold Spires](https://www.nexusmods.com/morrowind/mods/46128)
   - _Tamriel Rebuilt_
     - [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145) plus `TRMusic`
     - _Helnim_
       - [Helnim Wooden Walls - Telvannis frontier town (Tamriel Rebuilt)](https://www.nexusmods.com/morrowind/mods/59382)
     - _Necrom_
       - [Necrom - Arkitektora of Morrowind](https://www.nexusmods.com/morrowind/mods/46289): `Necrom Arkitektora - HQ` option plus `Necrom Minor Meshes Fixes` update
+    - _Old Ebonheart_
+      - [Tamriel Rebuilt - Hall of Justice Overhaul](https://www.nexusmods.com/morrowind/mods/52224)
+      - [Tamrielic Treasures - A Caldera shop with mannequins](https://www.nexusmods.com/morrowind/mods/53487) plus `Tamrielic Treasures - Templar Helmet Update` optional file
+        - [Tamrielic Treasures moved to the mainland (Old Ebonheart)](https://www.nexusmods.com/morrowind/mods/60013)
+      - [Old Ebonheart slum sprawl - Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/59807)
+      - [Old Ebonheart Alchemist's Tower](https://www.nexusmods.com/morrowind/mods/51421)
+    - _Port Telvanni_
+      - [Port Telvannis Redux (Tamriel Rebuilt submod) - Telvanni capital of power](https://www.nexusmods.com/morrowind/mods/59449)
   - _Skyrim_
     - [Skyrim Home Of The Nords](https://www.nexusmods.com/morrowind/mods/44921)
   - _Cyrodiil_
     - [Project Cyrodiil](https://www.nexusmods.com/morrowind/mods/44922)
-  - _other_
-    - [Lyithdonea - The Azurian Isles](https://www.nexusmods.com/morrowind/mods/43749)
-    - [Wyrmhaven](https://www.nexusmods.com/morrowind/mods/42933)
-    - [The Manifold Spires](https://www.nexusmods.com/morrowind/mods/46128)
   - _Inner Sea_
     - [Waters of Morrowind](https://www.nexusmods.com/morrowind/mods/50203)
     - [OAAB Shipwrecks](https://www.nexusmods.com/morrowind/mods/51364): `01 Patch - Uncharted Artifacts` & `02 Patch - TR Patch` modules
@@ -206,6 +214,7 @@
     - [Hidden Sea Loot](https://www.nexusmods.com/morrowind/mods/52296): `Hidden Sea Loot` & `Hidden Grotto Loot`
   - _Vvardenfell_
     - [Velothi Wall Art](https://www.nexusmods.com/morrowind/mods/46454)
+    - [Safety First - Silt Strider Ports with Railings](https://www.nexusmods.com/morrowind/mods/58948)
     - _Ascadian Isles_
       - [Ascadia - Land of Pilgrimage](https://www.nexusmods.com/morrowind/mods/55707)
       - [Remiros' Ascadian Isles Trees 2](https://www.nexusmods.com/morrowind/mods/45779)
@@ -214,6 +223,25 @@
         - [Ebonheart outskirt 'n' Lighthouse district](https://www.nexusmods.com/morrowind/mods/44994)
         - [The Ebonheart Lighthouse](https://www.nexusmods.com/morrowind/mods/53417)
         - [Ebonheart Underworks](https://www.nexusmods.com/morrowind/mods/47272)
+      - _Pelagiad_
+        - [The Quiet Imperial Pelagiad](https://www.nexusmods.com/morrowind/mods/49378)
+      - _Seyda Neen_
+      - _Suran_
+        - [Hanging Gardens of Suran](https://www.nexusmods.com/morrowind/mods/53316)
+        - [White Suran 2](https://www.nexusmods.com/morrowind/mods/44153)
+          - [Arkitektora White Suran](https://www.nexusmods.com/morrowind/mods/45101)
+          - [Ascadia - Land of Pilgrimage](https://www.nexusmods.com/morrowind/mods/55707): `Suran Bridge (White Suran)`
+        - [Suran sewers](https://www.nexusmods.com/morrowind/mods/51499)
+        - [Suran O Suran - The Floating Pearl](https://www.nexusmods.com/morrowind/mods/59883)
+      - _Vivec_
+        - [Dramatic Vivec](https://www.nexusmods.com/morrowind/mods/43385)
+        - [Concept Art Palace (Vivec City)](https://www.nexusmods.com/morrowind/mods/48136)
+          - [Better Flames for Concept Art Palace (Vivec City) - OpenMW Version](https://www.nexusmods.com/morrowind/mods/52903)
+        - [Ordinator of Vehk - unique Vivec Palace guard](https://www.nexusmods.com/morrowind/mods/59995)
+        - [Library of Vivec Enhanced](https://www.nexusmods.com/morrowind/mods/50181)
+        - [Roaring Arena - Betting and Bloodletting](https://www.nexusmods.com/morrowind/mods/50954)
+        - [House of Mannequins](https://www.nexusmods.com/morrowind/mods/3611)
+        - [Jobasha's Spell Tomes](https://www.nexusmods.com/morrowind/mods/49619)
     - _Ashlands_
       - [Valley of the Wind Overhaul](https://www.nexusmods.com/morrowind/mods/46691)
       - [Markgran Forest (Maar Gan Forest)](https://www.nexusmods.com/morrowind/mods/53627)
@@ -225,12 +253,16 @@
       - _Maar Gan_
         - [The magic rock of Maar Gan](https://www.nexusmods.com/morrowind/mods/50763)
         - [Maar Gan - Town of Pilgrimage](https://www.nexusmods.com/morrowind/mods/53919)
+      - _Urshilaku Camp_
+        - [Urshilaku Spiritual](https://www.nexusmods.com/morrowind/mods/48699): `OpenMW Urshilaku Spiritual` file only
     - _Azura's Coast_
       - [Azura's Coast Redone](https://www.nexusmods.com/morrowind/mods/53466): `AzurasCoastRedone4MarbledZafirbel` option
       - [Holamayan Island](https://www.nexusmods.com/morrowind/mods/50996)
       - _Molag Mar_
         - [Sacred Molag Mar - Town of Piligrims](https://www.nexusmods.com/morrowind/mods/49392)
-        - []()
+      - _Tel Branora_
+        - [Fairy Tel Branora](https://www.nexusmods.com/morrowind/mods/49435)
+        - [RR Mod Series - Telvanni Lighthouse Tel Branora](https://www.nexusmods.com/morrowind/mods/42664)
     - _Bitter Coast_
       - [SM Bitter Coast Tree Replacer](https://www.nexusmods.com/morrowind/mods/49883)
       - [Graht Morrowind Swamp Trees](https://www.nexusmods.com/morrowind/mods/49771)
@@ -263,6 +295,13 @@
         - Patches:
           - OAAB Data
       - [The Song of the Grazelands](https://www.nexusmods.com/morrowind/mods/54652)
+      - _Tel Mora_
+        - [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177)
+        - [Twilots OAAB Tel Mora Manor](https://www.nexusmods.com/morrowind/mods/59654)
+      - _Tel Vos_
+      - _Vos_
+        - [Red Vos](https://www.nexusmods.com/morrowind/mods/44729)
+        - [Romantic Vos](https://www.nexusmods.com/morrowind/mods/49418)
     - _Molag Amur_
       - [The Mountain of Fear](https://www.nexusmods.com/morrowind/mods/52859)
     - _Red Mountain_
@@ -281,6 +320,11 @@
         - [Heart of the Velothi - Gnisis](https://www.nexusmods.com/morrowind/mods/47978)
     - _Zafirbel Bay_
       - [Marbled Zafirbel Bay](https://www.nexusmods.com/morrowind/mods/53126): plus `update` & `2k textures`
+      - _Sadrith Mora_
+        - [Sadrith Mora - Seat of Power of House Telvanni](https://www.nexusmods.com/morrowind/mods/48689): plus `04 ROHT Patch` module (put as a patch in **questing**)
+      - _Tel Aruhn_
+        - [Tel Aruhn Chronicles](https://www.nexusmods.com/morrowind/mods/49171): plus `04 Rise of House Telvanni Patch` module (put as a patch in **questing**)
+      - _Tel Fyr_
   - _Tribunal Mournhold_
     - [Immersive Mournhold](https://www.nexusmods.com/morrowind/mods/49353)
     - [Greater Mournhold Bazaar](https://www.nexusmods.com/morrowind/mods/58898)
@@ -296,6 +340,12 @@
     - [Vurts Solstheim Tree Replacer II](https://www.nexusmods.com/morrowind/mods/37856)
       - [Vurts Solstheim Tree Replacer II Fix](https://www.nexusmods.com/morrowind/mods/45941)
     - [High-res Skaal Retex](https://www.nexusmods.com/morrowind/mods/25650): plus `Raven Rock textures` optional file
+    - [Nordic Solstheim - Solstheim Interiors Overhaul](https://www.nexusmods.com/morrowind/mods/53121)
+    - _Raven Rock_
+      - [Factor's Estate Extended](https://www.nexusmods.com/morrowind/mods/56911): `GITD version`
+      - [Raven Rock Smithy](https://www.nexusmods.com/morrowind/mods/56937)
+      - [Raven Rock Trader](https://www.nexusmods.com/morrowind/mods/56928)
+      - [Raven Rock All Stores](https://www.nexusmods.com/morrowind/mods/47207)
   - _patches_
 - **EQUIPMENT**
   - _changes_
@@ -340,8 +390,10 @@
   - _additions_
   - _patches_
 - **FACTIONS**
-  - _existing_
-  - _new_
+  _Telvanni_
+    - ... Rise of the House Telvanni
+      - ... Uvirinth's Legacy
+      - [The Corprusarium experience](https://www.nexusmods.com/morrowind/mods/49738): `Doors of Oblivion` patch
   - _patches_
 - **QUESTING**
   - [Completionist - A Morrowind Quest Tracker](https://www.nexusmods.com/morrowind/mods/58020)
@@ -350,11 +402,13 @@
       - [A Collection of Small Mods Addons and Patches - by Sweezly](Patch - Tribunal Reforged And Tamriel Rebuilt) // TODO
       - [Almalexia's Chamber Overhaul](https://www.nexusmods.com/morrowind/mods/52737): `04 OpenMW NormalMaps` & `05 TMQR Patch` modules // TODO
   - _minor_
+    - [Plunder the Dungeon](https://www.nexusmods.com/morrowind/mods/46977)
   - _major_
   - _patches_
     - [Epic Plants](https://www.nexusmods.com/morrowind/mods/46180): `Misc Patches` optional file (for Mudcrab imports)
     - [Graht Morrowind Swamp Trees](https://www.nexusmods.com/morrowind/mods/49771): `The Sable Dragon` patch
     - [Balmora Outskirts - Stoneflower trading post](https://www.nexusmods.com/morrowind/mods/54534): `Stoneflower_Illuminated Order Improved More Fixes` optional file
+    - [The Quiet Imperial Pelagiad](https://www.nexusmods.com/morrowind/mods/49378): `Magical Missions Patch` optional file
 - **UI**
   - **General**
     - [TrueType fonts for OpenMW](https://www.nexusmods.com/morrowind/mods/46854)
@@ -475,3 +529,4 @@
 - Nordic Dagon Fel & base game: replaced house appears as duplicate
 - Ascadia Land of Pilgrimage & Ebonheart Outskirts and lighthouse district: lighthouse is blocked by a rock
 - Molag Mar Waistworks Shop & Illuminated Order: Molag Mar bar is hidden by the sanctum entrance
+- Tamrielic Treasures: propylon index is out of bounds
