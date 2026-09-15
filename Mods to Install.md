@@ -3,40 +3,12 @@
 - **CORE MODS**
   - **Settlements**
     - **Changes**
-      - _Dagon Fel_
-        - [Nordic Dagon Fel](https://www.nexusmods.com/morrowind/mods/49603): `More Nordic` option
-          - [Even More Nordic Dagon Fel](https://www.nexusmods.com/morrowind/mods/53486): `bloated version`
-          - [Foggy and Sinister Dagon Fel](https://www.nexusmods.com/morrowind/mods/49429)
-        - [Nordic Dagon Fel NPCs](https://www.nexusmods.com/morrowind/mods/52390)
-        - [Dagon Fel Lighthouse](https://www.nexusmods.com/morrowind/mods/52291): `01 Nordic Interior Detailing` option
-      - _Ebonheart_
-        - [Imperium - Castle Ebonheart](https://www.nexusmods.com/morrowind/mods/51120)
-        - [Ebonheart outskirt 'n' Lighthouse district](https://www.nexusmods.com/morrowind/mods/44994)
-        - [The Ebonheart Lighthouse()](https://www.nexusmods.com/morrowind/mods/53417)
-        - [Ebonheart Underworks](https://www.nexusmods.com/morrowind/mods/47272)
-      - _Gnaar Mok_
-        - [Shabby Gnaar Mok](https://www.nexusmods.com/morrowind/mods/53100)
-        - [Wrack and Ruin - A Gnaar Mok Overhaul](https://www.nexusmods.com/morrowind/mods/59766)
-      - _Gnisis_
-        - [Blessed Gnisis](https://www.nexusmods.com/morrowind/mods/49423)
-      - _Helnim_
-        - [Helnim Wooden Walls - Telvannis frontier town (Tamriel Rebuilt)](https://www.nexusmods.com/morrowind/mods/59382)
-      - _Maar Gan_
-        - [Markgran Forest (Maar Gan Forest)](https://www.nexusmods.com/morrowind/mods/53627)
-          - [sams openmw height maps and normals for Markgran forest](https://www.nexusmods.com/morrowind/mods/54880)
-        - [Maar Gan - Town of Pilgrimage](https://www.nexusmods.com/morrowind/mods/53919)
-      - _Molag Mar_
-        - [Dark Molag Mar](https://www.nexusmods.com/morrowind/mods/32101)
-      - _Mournhold_
-        - [Immersive Mournhold](https://www.nexusmods.com/morrowind/mods/49353)
-        - [Almalexia's Chamber Overhaul](https://www.nexusmods.com/morrowind/mods/52737)
-        - [Greater Mournhold Bazaar](https://www.nexusmods.com/morrowind/mods/58898)
-        - [Tamriel Rebuilt - Museum of Artifacts](https://www.nexusmods.com/morrowind/mods/59077)
-        - [UnderCity](https://www.nexusmods.com/morrowind/mods/54773)
       - _Old Ebonheart_
         - [Tamriel Rebuilt - Hall of Justice Overhaul](https://www.nexusmods.com/morrowind/mods/52224)
         - [Tamrielic Treasures - A Caldera shop with mannequins](https://www.nexusmods.com/morrowind/mods/53487) plus `Tamrielic Treasures - Templar Helmet Update` optional file
           - [Tamrielic Treasures moved to the mainland (Old Ebonheart)](https://www.nexusmods.com/morrowind/mods/60013)
+      - _Pelagiad_
+        [The Quiet Imperial Pelagiad](https://www.nexusmods.com/morrowind/mods/49378)
       - _Port Telvanni_
         - [Port Telvannis Redux (Tamriel Rebuilt submod) - Telvanni capital of power](https://www.nexusmods.com/morrowind/mods/59449)
         - [Telvanni Archmagister tower of power (Tel Thenim) - Port Telvannis Redux](https://www.nexusmods.com/morrowind/mods/59449)
@@ -49,8 +21,6 @@
         - [OAAB Seyda Neen - Damp Little Squat](https://www.nexusmods.com/morrowind/mods/53765): `Seyda Neen Damp Little Squat - No Anims` & `OpenMW version`
       - _Solsteim_
         - [Nordic Solstheim - Solstheim Interiors Overhaul](https://www.nexusmods.com/morrowind/mods/53121)
-      - _Sotha Sil_
-        - [Sotha Sil Expanded](https://www.nexusmods.com/morrowind/mods/42347)
       - _Suran_
         - [Hanging Gardens of Suran](https://www.nexusmods.com/morrowind/mods/53316)
         - [White Suran 2](https://www.nexusmods.com/morrowind/mods/44153)
@@ -86,6 +56,7 @@
         - [Jobasha's Spell Tomes](https://www.nexusmods.com/morrowind/mods/49619)
       - _Vos_
         - [Red Vos](https://www.nexusmods.com/morrowind/mods/44729)
+        - [Romantic Vos](https://www.nexusmods.com/morrowind/mods/49418)
       - _misc_
         - [Safety First - Silt Strider Ports with Railings](https://www.nexusmods.com/morrowind/mods/58948)
   - **Points of Interest**
@@ -185,7 +156,6 @@
         - [Sinsibadon Overhaul](https://www.nexusmods.com/morrowind/mods/60092)
         - [Vennin's Addamasartus Overhaul](https://www.nexusmods.com/morrowind/mods/52420)
         - [Dubdilla Remade](https://www.nexusmods.com/morrowind/mods/59953)
-        - [Mamaea Awakened](https://www.nexusmods.com/morrowind/mods/46096)
         - [New Ilunibi](https://www.nexusmods.com/morrowind/mods/50393)
         - [Shal Overgrown](https://www.nexusmods.com/morrowind/mods/47219)
         - [The Wake of Hanin - Ibar-Dad Overhaul](https://www.nexusmods.com/morrowind/mods/56206)
@@ -431,8 +401,6 @@
         - [Balmora Temple Questline](https://www.nexusmods.com/morrowind/mods/54211)
   - **Quests**
     - **Changes**
-      - [Tribunal Main Quest Reforged](https://www.nexusmods.com/morrowind/mods/54743)
-        - [A Collection of Small Mods Addons and Patches - by Sweezly](Patch - Tribunal Reforged And Tamriel Rebuilt)
       - [Main Quest for the Temple Faithful](https://www.nexusmods.com/morrowind/mods/55359)
       - [Even More Mysterious Killings in Vivec](https://www.nexusmods.com/morrowind/mods/49661)
       - [The Patchwork Airship - Fleshing out a vanilla quest](https://www.nexusmods.com/morrowind/mods/53133)

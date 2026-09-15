@@ -184,9 +184,12 @@
   - _general_
     - [True Lights and Darkness](https://www.nexusmods.com/morrowind/mods/39605): only the `True_Lights_And_Darkness_1.1.esp`
       - plus `TLAD Lights Only Necro Edit Logical Flicker ExpSnd` file: `TLAD Lights-LogicalFlicker-OriginalColors-ExpSnd.esp` only
+    - [Bethesda Official Plugins Naturalized](https://www.nexusmods.com/morrowind/mods/51107)
   - _Tamriel Rebuilt_
     - [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145) plus `TRMusic`
-    _Necrom_
+    - _Helnim_
+      - [Helnim Wooden Walls - Telvannis frontier town (Tamriel Rebuilt)](https://www.nexusmods.com/morrowind/mods/59382)
+    - _Necrom_
       - [Necrom - Arkitektora of Morrowind](https://www.nexusmods.com/morrowind/mods/46289): `Necrom Arkitektora - HQ` option plus `Necrom Minor Meshes Fixes` update
   - _Skyrim_
     - [Skyrim Home Of The Nords](https://www.nexusmods.com/morrowind/mods/44921)
@@ -206,15 +209,28 @@
     - _Ascadian Isles_
       - [Ascadia - Land of Pilgrimage](https://www.nexusmods.com/morrowind/mods/55707)
       - [Remiros' Ascadian Isles Trees 2](https://www.nexusmods.com/morrowind/mods/45779)
+      - _Ebonheart_
+        - [Imperium - Castle Ebonheart](https://www.nexusmods.com/morrowind/mods/51120)
+        - [Ebonheart outskirt 'n' Lighthouse district](https://www.nexusmods.com/morrowind/mods/44994)
+        - [The Ebonheart Lighthouse](https://www.nexusmods.com/morrowind/mods/53417)
+        - [Ebonheart Underworks](https://www.nexusmods.com/morrowind/mods/47272)
     - _Ashlands_
       - [Valley of the Wind Overhaul](https://www.nexusmods.com/morrowind/mods/46691)
+      - [Markgran Forest (Maar Gan Forest)](https://www.nexusmods.com/morrowind/mods/53627)
+        - [sams openmw height maps and normals for Markgran forest](https://www.nexusmods.com/morrowind/mods/54880)
       - _Ald'ruhn_
         - [Living Ald'ruhn](https://www.nexusmods.com/morrowind/mods/59874)
         - [Ald'ruhn-under-Skar](https://www.nexusmods.com/morrowind/mods/50332)
         - [Ald'Ruhn Manor Banners](https://www.nexusmods.com/morrowind/mods/51527)
+      - _Maar Gan_
+        - [The magic rock of Maar Gan](https://www.nexusmods.com/morrowind/mods/50763)
+        - [Maar Gan - Town of Pilgrimage](https://www.nexusmods.com/morrowind/mods/53919)
     - _Azura's Coast_
       - [Azura's Coast Redone](https://www.nexusmods.com/morrowind/mods/53466): `AzurasCoastRedone4MarbledZafirbel` option
       - [Holamayan Island](https://www.nexusmods.com/morrowind/mods/50996)
+      - _Molag Mar_
+        - [Sacred Molag Mar - Town of Piligrims](https://www.nexusmods.com/morrowind/mods/49392)
+        - []()
     - _Bitter Coast_
       - [SM Bitter Coast Tree Replacer](https://www.nexusmods.com/morrowind/mods/49883)
       - [Graht Morrowind Swamp Trees](https://www.nexusmods.com/morrowind/mods/49771)
@@ -238,6 +254,9 @@
         - [Fabulous Hlaalo Manor](https://www.nexusmods.com/morrowind/mods/51438): with all options, but keep only `Fabulous Clutter`
       - _Caldera_
         - [Caldera](https://www.nexusmods.com/morrowind/mods/50314)
+      - _Gnaar Mok_
+        - [Shabby Gnaar Mok](https://www.nexusmods.com/morrowind/mods/53100)
+        - [Wrack and Ruin - A Gnaar Mok Overhaul](https://www.nexusmods.com/morrowind/mods/59766)
     - _Grazelands_
       - [OAAB Grazelands](https://www.nexusmods.com/morrowind/mods/49075)
       - [Melchior's Excellent Grazelands Acacia](https://www.nexusmods.com/morrowind/mods/51058)
@@ -251,9 +270,23 @@
     - _Sheogorad_
       - _Ald Redaynia_
         - [Ald Redaynia Mod N. 147](https://www.nexusmods.com/morrowind/mods/50727)
+      - _Dagon Fel_
+        - [Nordic Dagon Fel](https://www.nexusmods.com/morrowind/mods/49603): `More Nordic` option
+          - [Even More Nordic Dagon Fel](https://www.nexusmods.com/morrowind/mods/53486): `bloated version`
+          - [Foggy and Sinister Dagon Fel](https://www.nexusmods.com/morrowind/mods/49429)
+        - [Nordic Dagon Fel NPCs](https://www.nexusmods.com/morrowind/mods/52390)
     - _West Gash_
+      - [Mamaea Awakened](https://www.nexusmods.com/morrowind/mods/46096)
+      - _Gnisis_
+        - [Heart of the Velothi - Gnisis](https://www.nexusmods.com/morrowind/mods/47978)
     - _Zafirbel Bay_
       - [Marbled Zafirbel Bay](https://www.nexusmods.com/morrowind/mods/53126): plus `update` & `2k textures`
+  - _Tribunal Mournhold_
+    - [Immersive Mournhold](https://www.nexusmods.com/morrowind/mods/49353)
+    - [Greater Mournhold Bazaar](https://www.nexusmods.com/morrowind/mods/58898)
+    - [Tamriel Rebuilt - Museum of Artifacts](https://www.nexusmods.com/morrowind/mods/59077)
+    - [UnderCity](https://www.nexusmods.com/morrowind/mods/54773)
+    - [Sotha Sil Expanded](https://www.nexusmods.com/morrowind/mods/42347)
   - _Solsteim_
     - [Solstheim - Tomb of the Snow Prince](https://www.nexusmods.com/morrowind/mods/46810) plus `Solstheim Graphical Replacer`
       - Patches:
@@ -263,8 +296,6 @@
     - [Vurts Solstheim Tree Replacer II](https://www.nexusmods.com/morrowind/mods/37856)
       - [Vurts Solstheim Tree Replacer II Fix](https://www.nexusmods.com/morrowind/mods/45941)
     - [High-res Skaal Retex](https://www.nexusmods.com/morrowind/mods/25650): plus `Raven Rock textures` optional file
-  - _general_
-    - [Bethesda Official Plugins Naturalized](https://www.nexusmods.com/morrowind/mods/51107)
   - _patches_
 - **EQUIPMENT**
   - _changes_
@@ -315,6 +346,9 @@
 - **QUESTING**
   - [Completionist - A Morrowind Quest Tracker](https://www.nexusmods.com/morrowind/mods/58020)
   - _changes_
+    - [Tribunal Main Quest Reforged](https://www.nexusmods.com/morrowind/mods/54743): `Tribunal Main Quest Reforged - SSE.esp` only // TODO
+      - [A Collection of Small Mods Addons and Patches - by Sweezly](Patch - Tribunal Reforged And Tamriel Rebuilt) // TODO
+      - [Almalexia's Chamber Overhaul](https://www.nexusmods.com/morrowind/mods/52737): `04 OpenMW NormalMaps` & `05 TMQR Patch` modules // TODO
   - _minor_
   - _major_
   - _patches_
@@ -438,4 +472,6 @@
 ## Patches Needed
 
 - Hla Odai & Three Shades of Darkness: crypt within Hla Odai should be moved a bit...
-- Nordic Dagon Fel with base game: replaced house appears as duplicate
+- Nordic Dagon Fel & base game: replaced house appears as duplicate
+- Ascadia Land of Pilgrimage & Ebonheart Outskirts and lighthouse district: lighthouse is blocked by a rock
+- Molag Mar Waistworks Shop & Illuminated Order: Molag Mar bar is hidden by the sanctum entrance

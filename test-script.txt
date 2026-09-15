@@ -16,3 +16,4 @@ player->additem gold_001 333333
 player->setmysticism 50
 player->setalteration 50
 tgm
+tcl
