@@ -194,6 +194,7 @@
     - [Lyithdonea - The Azurian Isles](https://www.nexusmods.com/morrowind/mods/43749)
     - [Wyrmhaven](https://www.nexusmods.com/morrowind/mods/42933)
     - [The Manifold Spires](https://www.nexusmods.com/morrowind/mods/46128)
+    - [Tel Isatumu (Telvanni Village)](https://www.nexusmods.com/morrowind/mods/53182)
   - _Tamriel Rebuilt_
     - [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145) plus `TRMusic`
     - _Helnim_
@@ -217,9 +218,15 @@
     - [OAAB Shipwrecks](https://www.nexusmods.com/morrowind/mods/51364): `01 Patch - Uncharted Artifacts` & `02 Patch - TR Patch` modules
       - [Uncharted Artifacts](https://www.nexusmods.com/morrowind/mods/49281): delete the esp
     - [Hidden Sea Loot](https://www.nexusmods.com/morrowind/mods/52296): `Hidden Sea Loot` & `Hidden Grotto Loot`
+    - [Sea Forts of Morrowind](https://www.nexusmods.com/morrowind/mods/54700)
   - _Vvardenfell_
     - [Velothi Wall Art](https://www.nexusmods.com/morrowind/mods/46454)
     - [Safety First - Silt Strider Ports with Railings](https://www.nexusmods.com/morrowind/mods/58948)
+    - [The Dungeoneering Journey](https://www.nexusmods.com/morrowind/mods/49821)
+    - [Veteran Dungeon Pack](https://www.nexusmods.com/morrowind/mods/46882)
+    - [Sload and Slavers](https://www.nexusmods.com/morrowind/mods/49074) plus `Sload and Slavers Upscaled Textures`
+      - [Sloadic Transports](https://www.nexusmods.com/morrowind/mods/50546)
+      - [Sloadic Transports Upscaled](https://www.nexusmods.com/morrowind/mods/53412)
     - _Ascadian Isles_
       - [Ascadia - Land of Pilgrimage](https://www.nexusmods.com/morrowind/mods/55707)
       - [Remiros' Ascadian Isles Trees 2](https://www.nexusmods.com/morrowind/mods/45779)
@@ -248,10 +255,14 @@
         - [Roaring Arena - Betting and Bloodletting](https://www.nexusmods.com/morrowind/mods/50954)
         - [House of Mannequins](https://www.nexusmods.com/morrowind/mods/3611)
         - [Jobasha's Spell Tomes](https://www.nexusmods.com/morrowind/mods/49619)
+        - [Vivec Lighthouse](https://www.nexusmods.com/morrowind/mods/52019)
     - _Ashlands_
       - [Valley of the Wind Overhaul](https://www.nexusmods.com/morrowind/mods/46691)
       - [Markgran Forest (Maar Gan Forest)](https://www.nexusmods.com/morrowind/mods/53627)
         - [sams openmw height maps and normals for Markgran forest](https://www.nexusmods.com/morrowind/mods/54880)
+      - [Bal'laku - The Lonely Towers](https://www.nexusmods.com/morrowind/mods/51060)
+      - [Tales from the Ashlands - The Great Hive Baan Binif](https://www.nexusmods.com/morrowind/mods/51419)
+      - [The Beacon of St Rilms](https://www.nexusmods.com/morrowind/mods/49515)
       - _Ald'ruhn_
         - [Living Ald'ruhn](https://www.nexusmods.com/morrowind/mods/59874)
         - [Ald'ruhn-under-Skar](https://www.nexusmods.com/morrowind/mods/50332)
@@ -280,6 +291,10 @@
       - [Resdayn Revival - Bitter Coast](https://www.nexusmods.com/morrowind/mods/47772)
       - [Justice for Khartag (J.F.K.)](https://www.nexusmods.com/morrowind/mods/49832)
       - [Hla Odai](https://www.nexusmods.com/morrowind/mods/51942)
+      - [Drethos Ancestral Tomb](https://www.nexusmods.com/morrowind/mods/53481)
+      - [The Sable Dragon](https://www.nexusmods.com/morrowind/mods/26870)
+        - [Odai and the Dragon](https://www.nexusmods.com/morrowind/mods/59143)
+        - [Graht Morrowind Swamp Trees](https://www.nexusmods.com/morrowind/mods/49771): `The Sable Dragon` patch
       - _Balmora_
         - [Balmora Gravemarket](https://www.nexusmods.com/morrowind/mods/51696): `BalmoraGravemarket` file
         - [Balmora Outskirts - Stoneflower trading post](https://www.nexusmods.com/morrowind/mods/54534)
@@ -301,6 +316,8 @@
         - Patches:
           - OAAB Data
       - [The Song of the Grazelands](https://www.nexusmods.com/morrowind/mods/54652)
+      - [Sur's Depths](https://www.nexusmods.com/morrowind/mods/56134)
+      - [Thickle-Lo Grove](https://www.nexusmods.com/morrowind/mods/51689)
       - _Tel Mora_
         - [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177)
         - [Twilots OAAB Tel Mora Manor](https://www.nexusmods.com/morrowind/mods/59654)
@@ -323,6 +340,8 @@
         - [Nordic Dagon Fel NPCs](https://www.nexusmods.com/morrowind/mods/52390)
     - _West Gash_
       - [Mamaea Awakened](https://www.nexusmods.com/morrowind/mods/46096)
+      - [The Hex Weaver](https://www.nexusmods.com/morrowind/mods/59843)
+      - [UNDERTOW - A Fin Gleam Dungeon (OpenMW)](https://www.nexusmods.com/morrowind/mods/57549)
       - _Gnisis_
         - [Heart of the Velothi - Gnisis](https://www.nexusmods.com/morrowind/mods/47978)
     - _Zafirbel Bay_
@@ -414,7 +433,6 @@
   - _major_
   - _patches_
     - [Epic Plants](https://www.nexusmods.com/morrowind/mods/46180): `Misc Patches` optional file (for Mudcrab imports)
-    - [Graht Morrowind Swamp Trees](https://www.nexusmods.com/morrowind/mods/49771): `The Sable Dragon` patch
     - [Balmora Outskirts - Stoneflower trading post](https://www.nexusmods.com/morrowind/mods/54534): `Stoneflower_Illuminated Order Improved More Fixes` optional file
     - [The Quiet Imperial Pelagiad](https://www.nexusmods.com/morrowind/mods/49378): `Magical Missions Patch` optional file
 - **UI**
@@ -537,3 +555,4 @@
 - Ascadia Land of Pilgrimage & Ebonheart Outskirts and lighthouse district: lighthouse is blocked by a rock
 - Molag Mar Waistworks Shop & Illuminated Order: Molag Mar bar is hidden by the sanctum entrance
 - Tamrielic Treasures: propylon index is out of bounds
+- The Beacon of St Rilms: wrong entrance on top

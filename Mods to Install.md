@@ -3,25 +3,6 @@
 - **CORE MODS**
   - **Settlements**
   - **Points of Interest**
-    - **Additions**
-      - [Vivec Lighthouse](https://www.nexusmods.com/morrowind/mods/52019)
-      - [Bal'laku - The Lonely Towers](https://www.nexusmods.com/morrowind/mods/51060)
-      - [Tales from the Ashlands - The Great Hive Baan Binif](https://www.nexusmods.com/morrowind/mods/51419)
-      - [Drethos Ancestral Tomb](https://www.nexusmods.com/morrowind/mods/53481)
-      - [The Beacon of St Rilms](https://www.nexusmods.com/morrowind/mods/49515)
-      - [The Sable Dragon](https://www.nexusmods.com/morrowind/mods/26870)
-        - [Odai and the Dragon](https://www.nexusmods.com/morrowind/mods/59143)
-      - [The Dungeoneering Journey](https://www.nexusmods.com/morrowind/mods/49821)
-      - [Sea Forts of Morrowind](https://www.nexusmods.com/morrowind/mods/54700)
-      - [Sload and Slavers](https://www.nexusmods.com/morrowind/mods/49074) plus `Sload and Slavers Upscaled Textures`
-        - [Sloadic Transports](https://www.nexusmods.com/morrowind/mods/50546)
-        - [Sloadic Transports Upscaled](https://www.nexusmods.com/morrowind/mods/53412)
-      - [Sur's Depths](https://www.nexusmods.com/morrowind/mods/56134)
-      - [Tel Isatumu (Telvanni Village)](https://www.nexusmods.com/morrowind/mods/53182)
-      - [The Hex Weaver](https://www.nexusmods.com/morrowind/mods/59843)
-      - [UNDERTOW - A Fin Gleam Dungeon (OpenMW)](https://www.nexusmods.com/morrowind/mods/57549)
-      - [Veteran Dungeon Pack](https://www.nexusmods.com/morrowind/mods/46882)
-      - [Thickle-Lo Grove](https://www.nexusmods.com/morrowind/mods/51689)
     - **Player Houses**
       - [The Adventurer's House](https://www.nexusmods.com/morrowind/mods/59886)
       - [Indoril Mansion](https://www.nexusmods.com/morrowind/mods/53022)
@@ -564,3 +545,5 @@
 - [Canonical Gear (OpenMW)](https://www.nexusmods.com/morrowind/mods/57661)
 - [Cult of the Flesh God](https://www.nexusmods.com/morrowind/mods/60217)
 - [Magical Missions](https://www.nexusmods.com/morrowind/mods/38773)
+- [Clayby's Cream Cheese and Cherry Cake](https://www.nexusmods.com/morrowind/mods/55915)
+- [Gah Sadrith redux (Tamriel Rebuilt) Telvanni town clutter](https://www.nexusmods.com/morrowind/mods/60206)
