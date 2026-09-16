@@ -79,7 +79,6 @@
     - [R-Zero's Random Retextures (and Replacers)](https://www.nexusmods.com/morrowind/mods/44025)
       - `R-Zero&#39;s Random Replacers - Iron Towershield`
       - `R-Zero&#39;s Random Retextures - Quill`
-      - `R-Zero&#39;s Random Retextures - Dwemer Coin`
     - [HD Forge](https://www.nexusmods.com/morrowind/mods/46738)
       - plus `HD Bloodmoon Forge` update
     - [AST Beds Remastered](https://www.nexusmods.com/morrowind/mods/45206)
@@ -115,6 +114,12 @@
     - [Indoril and Mournhold Architecture Reimagined](https://www.nexusmods.com/morrowind/mods/56300)
     - [Indoril Architecture Reimagined](https://www.nexusmods.com/morrowind/mods/60079)
     - [Clockwork City Reborn](https://www.nexusmods.com/morrowind/mods/38369)
+    - [Full Dwemer Retexture](https://www.nexusmods.com/morrowind/mods/44264)
+    - [Dwemer Mesh Improvement](https://www.nexusmods.com/morrowind/mods/43101)
+      - plus [Dwemer Mesh Improvement - Revamped](https://www.nexusmods.com/morrowind/mods/51525)
+    - [Aesthesia - Stronghold textures](https://www.nexusmods.com/morrowind/mods/46445)
+    - [Daedric Ruins Reimagined](https://www.nexusmods.com/morrowind/mods/59800)
+    - [Imperial Forts Reimagined](https://www.nexusmods.com/morrowind/mods/59631)
     - [Epic Plants](https://www.nexusmods.com/morrowind/mods/46180)
     - [Familiar Faces by Caleb (Updated)](https://www.nexusmods.com/morrowind/mods/50093)
     - [Darknut's Creature Textures](https://www.nexusmods.com/morrowind/mods/43420)
@@ -223,6 +228,7 @@
         - [Ebonheart outskirt 'n' Lighthouse district](https://www.nexusmods.com/morrowind/mods/44994)
         - [The Ebonheart Lighthouse](https://www.nexusmods.com/morrowind/mods/53417)
         - [Ebonheart Underworks](https://www.nexusmods.com/morrowind/mods/47272)
+        - [Dragon Statue Revisited](https://www.nexusmods.com/morrowind/mods/50561)
       - _Pelagiad_
         - [The Quiet Imperial Pelagiad](https://www.nexusmods.com/morrowind/mods/49378)
       - _Seyda Neen_
@@ -306,6 +312,7 @@
       - [The Mountain of Fear](https://www.nexusmods.com/morrowind/mods/52859)
     - _Red Mountain_
       - [Devilish Rocky Red Mountain](https://www.nexusmods.com/morrowind/mods/53473) plus `Devilish Rocky Red Mountain Vanilla Textures` optional file
+      - [Ghastly Glowyfence](https://www.nexusmods.com/morrowind/mods/47982)
     - _Sheogorad_
       - _Ald Redaynia_
         - [Ald Redaynia Mod N. 147](https://www.nexusmods.com/morrowind/mods/50727)
@@ -403,6 +410,7 @@
       - [Almalexia's Chamber Overhaul](https://www.nexusmods.com/morrowind/mods/52737): `04 OpenMW NormalMaps` & `05 TMQR Patch` modules // TODO
   - _minor_
     - [Plunder the Dungeon](https://www.nexusmods.com/morrowind/mods/46977)
+    - [Whispers of Hermaeus Mora or Forgotten Depths of Ald Redaynia](https://www.nexusmods.com/morrowind/mods/57889)
   - _major_
   - _patches_
     - [Epic Plants](https://www.nexusmods.com/morrowind/mods/46180): `Misc Patches` optional file (for Mudcrab imports)
@@ -525,7 +533,6 @@
 
 ## Patches Needed
 
-- Hla Odai & Three Shades of Darkness: crypt within Hla Odai should be moved a bit...
 - Nordic Dagon Fel & base game: replaced house appears as duplicate
 - Ascadia Land of Pilgrimage & Ebonheart Outskirts and lighthouse district: lighthouse is blocked by a rock
 - Molag Mar Waistworks Shop & Illuminated Order: Molag Mar bar is hidden by the sanctum entrance
