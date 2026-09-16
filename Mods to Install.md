@@ -4,22 +4,15 @@
   - **Settlements**
   - **Points of Interest**
     - **Player Houses**
-      - [The Adventurer's House](https://www.nexusmods.com/morrowind/mods/59886)
-      - [Indoril Mansion](https://www.nexusmods.com/morrowind/mods/53022)
-      - [Narsis Penthouse](https://www.nexusmods.com/morrowind/mods/59025)
-      - [Magical Mainland Homes](https://www.nexusmods.com/morrowind/mods/53681)
-      - [Mechanical Manor Complete - Tamriel Rebuilt Edition](https://www.nexusmods.com/morrowind/mods/49218)
+      - [Villa Stellaris](https://www.nexusmods.com/morrowind/mods/58877)
+      - [Underharbor Flat - Anvil Player Home](https://www.nexusmods.com/morrowind/mods/59017)
+
       - [Moonrose Estate](https://www.nexusmods.com/morrowind/mods/59585)
       - [North Wall House](https://www.nexusmods.com/morrowind/mods/47309)
-      - [Gorne Conservatory - A Player Home for TR](https://www.nexusmods.com/morrowind/mods/60082)
-      - [Keelhouse - A quest and house mod for Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/53395)
       - [The Cottage](https://www.nexusmods.com/morrowind/mods/49660)
-      - [Villa Stellaris](https://www.nexusmods.com/morrowind/mods/58877)
-      - [Solstheim Mage Tower Lite for TOTSP](https://www.nexusmods.com/morrowind/mods/48276)
       - [Tel Chendzel](https://www.nexusmods.com/morrowind/mods/46857)
       - [OAAB - Tel Raloran](https://www.nexusmods.com/morrowind/mods/46841)
       - [Telvanni Rootmaster's Boat](https://www.nexusmods.com/morrowind/mods/59934)
-      - [Underharbor Flat - Anvil Player Home](https://www.nexusmods.com/morrowind/mods/59017)
       - [Where the Clouds Rest](https://www.nexusmods.com/morrowind/mods/59702) plus `AI` and `TR` addons
     - **Changes**
       - _misc_

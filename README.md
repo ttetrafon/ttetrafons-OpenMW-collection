@@ -197,8 +197,14 @@
     - [Tel Isatumu (Telvanni Village)](https://www.nexusmods.com/morrowind/mods/53182)
   - _Tamriel Rebuilt_
     - [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145) plus `TRMusic`
+    - [Magical Mainland Homes](https://www.nexusmods.com/morrowind/mods/53681)
+    - [Keelhouse - A quest and house mod for Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/53395)
+    - _Gorne_
+      - [Gorne Conservatory - A Player Home for TR](https://www.nexusmods.com/morrowind/mods/60082)
     - _Helnim_
       - [Helnim Wooden Walls - Telvannis frontier town (Tamriel Rebuilt)](https://www.nexusmods.com/morrowind/mods/59382)
+    - _Narsis_
+      - [Narsis Penthouse](https://www.nexusmods.com/morrowind/mods/59025)
     - _Necrom_
       - [Necrom - Arkitektora of Morrowind](https://www.nexusmods.com/morrowind/mods/46289): `Necrom Arkitektora - HQ` option plus `Necrom Minor Meshes Fixes` update
     - _Old Ebonheart_
@@ -207,6 +213,7 @@
         - [Tamrielic Treasures moved to the mainland (Old Ebonheart)](https://www.nexusmods.com/morrowind/mods/60013)
       - [Old Ebonheart slum sprawl - Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/59807)
       - [Old Ebonheart Alchemist's Tower](https://www.nexusmods.com/morrowind/mods/51421)
+      - [The Adventurer's House](https://www.nexusmods.com/morrowind/mods/59886)
     - _Port Telvanni_
       - [Port Telvannis Redux (Tamriel Rebuilt submod) - Telvanni capital of power](https://www.nexusmods.com/morrowind/mods/59449)
   - _Skyrim_
@@ -275,6 +282,7 @@
     - _Azura's Coast_
       - [Azura's Coast Redone](https://www.nexusmods.com/morrowind/mods/53466): `AzurasCoastRedone4MarbledZafirbel` option
       - [Holamayan Island](https://www.nexusmods.com/morrowind/mods/50996)
+      - [Mechanical Manor Complete - Tamriel Rebuilt Edition](https://www.nexusmods.com/morrowind/mods/49218)
       - _Molag Mar_
         - [Sacred Molag Mar - Town of Piligrims](https://www.nexusmods.com/morrowind/mods/49392)
       - _Tel Branora_
@@ -357,6 +365,7 @@
     - [Tamriel Rebuilt - Museum of Artifacts](https://www.nexusmods.com/morrowind/mods/59077)
     - [UnderCity](https://www.nexusmods.com/morrowind/mods/54773)
     - [Sotha Sil Expanded](https://www.nexusmods.com/morrowind/mods/42347)
+    - [Indoril Mansion](https://www.nexusmods.com/morrowind/mods/53022)
   - _Solsteim_
     - [Solstheim - Tomb of the Snow Prince](https://www.nexusmods.com/morrowind/mods/46810) plus `Solstheim Graphical Replacer`
       - Patches:
@@ -367,6 +376,7 @@
       - [Vurts Solstheim Tree Replacer II Fix](https://www.nexusmods.com/morrowind/mods/45941)
     - [High-res Skaal Retex](https://www.nexusmods.com/morrowind/mods/25650): plus `Raven Rock textures` optional file
     - [Nordic Solstheim - Solstheim Interiors Overhaul](https://www.nexusmods.com/morrowind/mods/53121)
+    - [Solstheim Mage Tower Lite for TOTSP](https://www.nexusmods.com/morrowind/mods/48276)
     - _Raven Rock_
       - [Factor's Estate Extended](https://www.nexusmods.com/morrowind/mods/56911): `GITD version`
       - [Raven Rock Smithy](https://www.nexusmods.com/morrowind/mods/56937)
