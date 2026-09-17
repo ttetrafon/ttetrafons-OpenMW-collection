@@ -8,7 +8,6 @@
 
 - **MASTER PLUGINS**
   - `esm` files from all other plugins
-- **UNOFFICIAL PATCHES**
 - **FIXES & OPTIMISATION**
   - [Float Script Fix](https://www.nexusmods.com/morrowind/mods/58815)
   - [No More Stage Diving - Desele's Dancing Girls](https://www.nexusmods.com/morrowind/mods/47738)
@@ -18,6 +17,8 @@
     - modules:
       - 04 Better Vanilla Textures
 - **RESOURCES & FRAMEWORKS**
+  - _scripting_
+    - [Max Yari's Script Services](https://www.nexusmods.com/morrowind/mods/60256)
   - _main packs_
     - [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537): HD Version
     - [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
@@ -242,6 +243,7 @@
     - _Ascadian Isles_
       - [Ascadia - Land of Pilgrimage](https://www.nexusmods.com/morrowind/mods/55707)
       - [Remiros' Ascadian Isles Trees 2](https://www.nexusmods.com/morrowind/mods/45779)
+      - [OAAB - Hawia Egg Mine](https://www.nexusmods.com/morrowind/mods/51846)
       - _Ebonheart_
         - [Imperium - Castle Ebonheart](https://www.nexusmods.com/morrowind/mods/51120)
         - [Ebonheart outskirt 'n' Lighthouse district](https://www.nexusmods.com/morrowind/mods/44994)
@@ -278,6 +280,7 @@
       - [The Beacon of St Rilms](https://www.nexusmods.com/morrowind/mods/49515)
       - [Strider Burial](https://www.nexusmods.com/morrowind/mods/47661)
       - [Bthuand Expanded](https://www.nexusmods.com/morrowind/mods/46055)
+      - [Kogoruhn - Extinct City of Ash and Sulfur](https://www.nexusmods.com/morrowind/mods/51615)
       - _Ald'ruhn_
         - [Living Ald'ruhn](https://www.nexusmods.com/morrowind/mods/59874)
         - [Ald'ruhn-under-Skar](https://www.nexusmods.com/morrowind/mods/50332)
@@ -335,6 +338,7 @@
         - [Fabulous Hlaalo Manor](https://www.nexusmods.com/morrowind/mods/51438): with all options, but keep only `Fabulous Clutter`
       - _Caldera_
         - [Caldera](https://www.nexusmods.com/morrowind/mods/50314)
+        - [Caldera Mine Expanded - Simplified and bug-free](https://www.nexusmods.com/morrowind/mods/52840)
       - _Gnaar Mok_
         - [Shabby Gnaar Mok](https://www.nexusmods.com/morrowind/mods/53100)
         - [Wrack and Ruin - A Gnaar Mok Overhaul](https://www.nexusmods.com/morrowind/mods/59766)
@@ -378,6 +382,7 @@
       - _Gnisis_
         - [Heart of the Velothi - Gnisis](https://www.nexusmods.com/morrowind/mods/47978)
         - [The Cottage](https://www.nexusmods.com/morrowind/mods/49660)
+        - [Of Eggs and Dwarves - Gnisis Eggmine and Bethamez Overhaul](https://www.nexusmods.com/morrowind/mods/51171)
     - _Zafirbel Bay_
       - [Marbled Zafirbel Bay](https://www.nexusmods.com/morrowind/mods/53126): plus `update` & `2k textures`
       - [Tel Chendzel](https://www.nexusmods.com/morrowind/mods/46857)
@@ -546,6 +551,8 @@
       - 13 PC plugins
 - **MAGIC**
 - **GAMEPLAY**
+  - _exploration_
+    - [Loot Well Urned](https://www.nexusmods.com/morrowind/mods/44976)
   - _character_
     - [Natural Character Growth (NCG)](https://www.nexusmods.com/morrowind/mods/57801)
     - [Skill Evolution (OpenMW)](https://www.nexusmods.com/morrowind/mods/57802)
