@@ -3,17 +3,7 @@
 - **CORE MODS**
   - **Points of Interest**
     - **Changes**
-      - _Dwemer_
-        - [Arkngthand 2.0](https://www.nexusmods.com/morrowind/mods/43628)
-        - [Aleft Overhaul](https://www.nexusmods.com/morrowind/mods/48260)
-        - [Bthuand Expanded](https://www.nexusmods.com/morrowind/mods/46055)
-        - [Druscashti Overhaul](https://www.nexusmods.com/morrowind/mods/47900)
-        - [Galom Daeus Overhaul](https://www.nexusmods.com/morrowind/mods/48054)
-        - [Dwemer Legacy Reforged - Bthungthumz and Druscashti](https://www.nexusmods.com/morrowind/mods/55073)
-        - [Endusal and Tureynulal Redone](https://www.nexusmods.com/morrowind/mods/43399)
       - _Strongholds_
-        - [Berandas Overhaul](https://www.nexusmods.com/morrowind/mods/48236)
-        - [The Aetherius Altar - Enchantment Capacity Expansion (OpenMW) - Falensarano](https://www.nexusmods.com/morrowind/mods/56179)
         - [Kogoruhn - Extinct City of Ash and Sulfur](https://www.nexusmods.com/morrowind/mods/51615)
       - _Mines_
         - [Caldera Mine Expanded - Simplified and bug-free](https://www.nexusmods.com/morrowind/mods/52840)
@@ -23,10 +13,7 @@
         - [OAAB - Tombs and Towers](https://www.nexusmods.com/morrowind/mods/49131)
         - [OAAB - Tombs Extended](https://www.nexusmods.com/morrowind/mods/59110)
         - [Loot Well Urned](https://www.nexusmods.com/morrowind/mods/44976)
-        - [Andrano Ancestral Tomb Remastered](https://www.nexusmods.com/morrowind/mods/44672)
         - [Andrethi Tomb Overhaul](https://www.nexusmods.com/morrowind/mods/46217)
-        - [OAAB Greater Samarys Tomb](https://www.nexusmods.com/morrowind/mods/52781)
-        - [Samarys Ancestral Tomb Expanded](https://www.nexusmods.com/morrowind/mods/45612)
         - [Arys-Zaintiraris Expanded](https://www.nexusmods.com/morrowind/mods/59865)
       - _Dungeons & Caverns_
         - [Mines and Caverns](https://www.nexusmods.com/morrowind/mods/44893)
@@ -517,3 +504,7 @@
 - [Magical Missions](https://www.nexusmods.com/morrowind/mods/38773)
 - [Clayby's Cream Cheese and Cherry Cake](https://www.nexusmods.com/morrowind/mods/55915)
 - [Gah Sadrith redux (Tamriel Rebuilt) Telvanni town clutter](https://www.nexusmods.com/morrowind/mods/60206)
+- [Druscashti Overhaul](https://www.nexusmods.com/morrowind/mods/47900)
+- [Galom Daeus Overhaul](https://www.nexusmods.com/morrowind/mods/48054)
+- [Dwemer Legacy Reforged - Bthungthumz and Druscashti](https://www.nexusmods.com/morrowind/mods/55073)
+- [Berandas Overhaul](https://www.nexusmods.com/morrowind/mods/48236) -> needs patch for Sabre Dragon quests

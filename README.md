@@ -277,6 +277,7 @@
       - [Tales from the Ashlands - The Great Hive Baan Binif](https://www.nexusmods.com/morrowind/mods/51419)
       - [The Beacon of St Rilms](https://www.nexusmods.com/morrowind/mods/49515)
       - [Strider Burial](https://www.nexusmods.com/morrowind/mods/47661)
+      - [Bthuand Expanded](https://www.nexusmods.com/morrowind/mods/46055)
       - _Ald'ruhn_
         - [Living Ald'ruhn](https://www.nexusmods.com/morrowind/mods/59874)
         - [Ald'ruhn-under-Skar](https://www.nexusmods.com/morrowind/mods/50332)
@@ -307,6 +308,15 @@
           - Mod Compatibility: OAAB Data
           - Platforms and Walkways
       - [Resdayn Revival - Bitter Coast](https://www.nexusmods.com/morrowind/mods/47772)
+        - affects:
+          - settlements: `Seyda Neen`, `Hla Oad`, `Gnaar Mok`
+          - tombs: `Andrano`, `Andrethi`, `Heran`, `Norvayn`, `Samarys`, `Sarys`, `Thelas`
+          - dungeons: `Abernanit` ,`Addamasartus` ,`Aharunartus` ,`Akimaes Grotto` ,`Assemanu` ,`Ilunibi` ,`Mallapi` ,`Nimawia Grotto` ,`Sennananit` ,`Shal` ,`Shurinbaal` ,`Yasamsi` ,`Zainsipilu` ,`Zanabi`
+          - daedric ruins: `Addadshashanammu`, `Ashalmimilkala`, `Ashurnibibi`
+          - dwemer ruins: `Aleft`
+          - egg mines: `Abaesen-Pulu`, `Band`
+          - shipwrecks: `Neglected Shipwreck`, `Remote Shipwreck`
+          - strongholds: `Hlormaren`
       - [Justice for Khartag (J.F.K.)](https://www.nexusmods.com/morrowind/mods/49832)
       - [Hla Odai](https://www.nexusmods.com/morrowind/mods/51942)
       - [Drethos Ancestral Tomb](https://www.nexusmods.com/morrowind/mods/53481)
@@ -336,6 +346,7 @@
       - [The Song of the Grazelands](https://www.nexusmods.com/morrowind/mods/54652)
       - [Sur's Depths](https://www.nexusmods.com/morrowind/mods/56134)
       - [Thickle-Lo Grove](https://www.nexusmods.com/morrowind/mods/51689)
+      - [The Aetherius Altar - Enchantment Capacity Expansion (OpenMW) - Falensarano](https://www.nexusmods.com/morrowind/mods/56179)
       - [Where the Clouds Rest](https://www.nexusmods.com/morrowind/mods/59702) plus `AI` and `TR` addons
       - _Tel Mora_
         - [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177)
@@ -346,10 +357,12 @@
         - [Romantic Vos](https://www.nexusmods.com/morrowind/mods/49418)
     - _Molag Amur_
       - [The Mountain of Fear](https://www.nexusmods.com/morrowind/mods/52859)
+      - [Arkngthand 2.0](https://www.nexusmods.com/morrowind/mods/43628)
     - _Red Mountain_
       - [Devilish Rocky Red Mountain](https://www.nexusmods.com/morrowind/mods/53473) plus `Devilish Rocky Red Mountain Vanilla Textures` optional file
       - [Ghastly Glowyfence](https://www.nexusmods.com/morrowind/mods/47982)
       - [Darknut's Greater Dwemer Ruins version 1.2](https://www.nexusmods.com/morrowind/mods/43544): overhauls `Odrosal`, `Vemynal`, and `Dagoth Ur`
+      - [Endusal and Tureynulal Redone](https://www.nexusmods.com/morrowind/mods/43399): delete `GDR_MasterFile.esm`
     - _Sheogorad_
       - _Ald Redaynia_
         - [Ald Redaynia Mod N. 147](https://www.nexusmods.com/morrowind/mods/50727)
