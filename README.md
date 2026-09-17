@@ -215,11 +215,13 @@
       - [Old Ebonheart Alchemist's Tower](https://www.nexusmods.com/morrowind/mods/51421)
       - [The Adventurer's House](https://www.nexusmods.com/morrowind/mods/59886)
     - _Port Telvanni_
-      - [Port Telvannis Redux (Tamriel Rebuilt submod) - Telvanni capital of power](https://www.nexusmods.com/morrowind/mods/59449)
+      <!-- FIXME - [Port Telvannis Redux (Tamriel Rebuilt submod) - Telvanni capital of power](https://www.nexusmods.com/morrowind/mods/59449) -->
   - _Skyrim_
     - [Skyrim Home Of The Nords](https://www.nexusmods.com/morrowind/mods/44921)
   - _Cyrodiil_
     - [Project Cyrodiil](https://www.nexusmods.com/morrowind/mods/44922)
+    - [Villa Stellaris](https://www.nexusmods.com/morrowind/mods/58877)
+    - [Underharbor Flat - Anvil Player Home](https://www.nexusmods.com/morrowind/mods/59017)
   - _Inner Sea_
     - [Waters of Morrowind](https://www.nexusmods.com/morrowind/mods/50203)
     - [OAAB Shipwrecks](https://www.nexusmods.com/morrowind/mods/51364): `01 Patch - Uncharted Artifacts` & `02 Patch - TR Patch` modules
@@ -234,6 +236,9 @@
     - [Sload and Slavers](https://www.nexusmods.com/morrowind/mods/49074) plus `Sload and Slavers Upscaled Textures`
       - [Sloadic Transports](https://www.nexusmods.com/morrowind/mods/50546)
       - [Sloadic Transports Upscaled](https://www.nexusmods.com/morrowind/mods/53412)
+    - [Daedric Shrine Overhaul FULL](https://www.nexusmods.com/morrowind/mods/54679)
+      - modifies the shrines of `Vaermina`, `Sheogorath (exterior + interior)`, `Malacath (exterior + interior)`, `Mehrunes Dagon (exterior + interior)`, `Molag Bal (exterior + interior)`
+      - [Daedric Shrine Overhaul - Fropa's Fixes](https://www.nexusmods.com/morrowind/mods/58966)
     - _Ascadian Isles_
       - [Ascadia - Land of Pilgrimage](https://www.nexusmods.com/morrowind/mods/55707)
       - [Remiros' Ascadian Isles Trees 2](https://www.nexusmods.com/morrowind/mods/45779)
@@ -263,6 +268,7 @@
         - [House of Mannequins](https://www.nexusmods.com/morrowind/mods/3611)
         - [Jobasha's Spell Tomes](https://www.nexusmods.com/morrowind/mods/49619)
         - [Vivec Lighthouse](https://www.nexusmods.com/morrowind/mods/52019)
+        - [Arcane Accident](https://www.nexusmods.com/morrowind/mods/59956)
     - _Ashlands_
       - [Valley of the Wind Overhaul](https://www.nexusmods.com/morrowind/mods/46691)
       - [Markgran Forest (Maar Gan Forest)](https://www.nexusmods.com/morrowind/mods/53627)
@@ -270,6 +276,7 @@
       - [Bal'laku - The Lonely Towers](https://www.nexusmods.com/morrowind/mods/51060)
       - [Tales from the Ashlands - The Great Hive Baan Binif](https://www.nexusmods.com/morrowind/mods/51419)
       - [The Beacon of St Rilms](https://www.nexusmods.com/morrowind/mods/49515)
+      - [Strider Burial](https://www.nexusmods.com/morrowind/mods/47661)
       - _Ald'ruhn_
         - [Living Ald'ruhn](https://www.nexusmods.com/morrowind/mods/59874)
         - [Ald'ruhn-under-Skar](https://www.nexusmods.com/morrowind/mods/50332)
@@ -283,6 +290,9 @@
       - [Azura's Coast Redone](https://www.nexusmods.com/morrowind/mods/53466): `AzurasCoastRedone4MarbledZafirbel` option
       - [Holamayan Island](https://www.nexusmods.com/morrowind/mods/50996)
       - [Mechanical Manor Complete - Tamriel Rebuilt Edition](https://www.nexusmods.com/morrowind/mods/49218)
+      - [OAAB - Tel Raloran](https://www.nexusmods.com/morrowind/mods/46841)
+      - [Azura's Shrine Overhaul](https://www.nexusmods.com/morrowind/mods/53277)
+      - [Forge of Hilbongard Reignited)](https://www.nexusmods.com/morrowind/mods/57968): modifies the `Omaren Ancestral Tomb` too
       - _Molag Mar_
         - [Sacred Molag Mar - Town of Piligrims](https://www.nexusmods.com/morrowind/mods/49392)
       - _Tel Branora_
@@ -326,6 +336,7 @@
       - [The Song of the Grazelands](https://www.nexusmods.com/morrowind/mods/54652)
       - [Sur's Depths](https://www.nexusmods.com/morrowind/mods/56134)
       - [Thickle-Lo Grove](https://www.nexusmods.com/morrowind/mods/51689)
+      - [Where the Clouds Rest](https://www.nexusmods.com/morrowind/mods/59702) plus `AI` and `TR` addons
       - _Tel Mora_
         - [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177)
         - [Twilots OAAB Tel Mora Manor](https://www.nexusmods.com/morrowind/mods/59654)
@@ -338,6 +349,7 @@
     - _Red Mountain_
       - [Devilish Rocky Red Mountain](https://www.nexusmods.com/morrowind/mods/53473) plus `Devilish Rocky Red Mountain Vanilla Textures` optional file
       - [Ghastly Glowyfence](https://www.nexusmods.com/morrowind/mods/47982)
+      - [Darknut's Greater Dwemer Ruins version 1.2](https://www.nexusmods.com/morrowind/mods/43544): overhauls `Odrosal`, `Vemynal`, and `Dagoth Ur`
     - _Sheogorad_
       - _Ald Redaynia_
         - [Ald Redaynia Mod N. 147](https://www.nexusmods.com/morrowind/mods/50727)
@@ -352,8 +364,11 @@
       - [UNDERTOW - A Fin Gleam Dungeon (OpenMW)](https://www.nexusmods.com/morrowind/mods/57549)
       - _Gnisis_
         - [Heart of the Velothi - Gnisis](https://www.nexusmods.com/morrowind/mods/47978)
+        - [The Cottage](https://www.nexusmods.com/morrowind/mods/49660)
     - _Zafirbel Bay_
       - [Marbled Zafirbel Bay](https://www.nexusmods.com/morrowind/mods/53126): plus `update` & `2k textures`
+      - [Tel Chendzel](https://www.nexusmods.com/morrowind/mods/46857)
+      - [Telvanni Rootmaster's Boat](https://www.nexusmods.com/morrowind/mods/59934)
       - _Sadrith Mora_
         - [Sadrith Mora - Seat of Power of House Telvanni](https://www.nexusmods.com/morrowind/mods/48689): plus `04 ROHT Patch` module (put as a patch in **questing**)
       - _Tel Aruhn_
@@ -377,6 +392,7 @@
     - [High-res Skaal Retex](https://www.nexusmods.com/morrowind/mods/25650): plus `Raven Rock textures` optional file
     - [Nordic Solstheim - Solstheim Interiors Overhaul](https://www.nexusmods.com/morrowind/mods/53121)
     - [Solstheim Mage Tower Lite for TOTSP](https://www.nexusmods.com/morrowind/mods/48276)
+    - [Ayleid Remnants Redone](https://www.nexusmods.com/morrowind/mods/59199)
     - _Raven Rock_
       - [Factor's Estate Extended](https://www.nexusmods.com/morrowind/mods/56911): `GITD version`
       - [Raven Rock Smithy](https://www.nexusmods.com/morrowind/mods/56937)
@@ -432,7 +448,6 @@
       - [The Corprusarium experience](https://www.nexusmods.com/morrowind/mods/49738): `Doors of Oblivion` patch
   - _patches_
 - **QUESTING**
-  - [Completionist - A Morrowind Quest Tracker](https://www.nexusmods.com/morrowind/mods/58020)
   - _changes_
     - [Tribunal Main Quest Reforged](https://www.nexusmods.com/morrowind/mods/54743): `Tribunal Main Quest Reforged - SSE.esp` only // TODO
       - [A Collection of Small Mods Addons and Patches - by Sweezly](Patch - Tribunal Reforged And Tamriel Rebuilt) // TODO
