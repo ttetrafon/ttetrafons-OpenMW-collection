@@ -529,7 +529,7 @@
       - [Corporeal Carryable Containers](https://www.nexusmods.com/morrowind/mods/53772)
   - _patches_
 - **CREATURES**
-  - _changes_
+  - _base_
     - [Better Bodies 3.2 (Better Beasts)](https://www.nexusmods.com/morrowind/mods/48387): Nude version & `Better Elven Bodies` optional file
       - [Better Bodies for Tamriel Data](https://www.nexusmods.com/morrowind/mods/56715): `Better TR Bodies` (`Better TR Bodies Nude` directory), `Better TR Bodies Optional Nude` files
       - [Better Bodies - Lyithdonea](https://www.nexusmods.com/morrowind/mods/57100): `Lyithdonea Better Bodies - Nude` file
@@ -579,8 +579,37 @@
     - [Olive the Enchanter](https://www.nexusmods.com/morrowind/mods/45641)
     - [Balmora toy merchant (OpenMW)](https://www.nexusmods.com/morrowind/mods/49054)
     - [Paxon the Pack Rat](https://www.nexusmods.com/morrowind/mods/45669): plus `New Pack Rat Model` file
-    - [Squire](https://www.nexusmods.com/morrowind/mods/59621) plus `SquireHBFs`
+    <!-- - [Squire](https://www.nexusmods.com/morrowind/mods/59621) plus `SquireHBFs` // FIXME: initial dialog does not appear -->
     - [EKM Traveling Trader](https://www.nexusmods.com/morrowind/mods/58844)
+  - _changes_
+    - [Tribunal Rebalance](https://www.nexusmods.com/morrowind/mods/45713)
+    - [Bloodmoon Rebalance](https://www.nexusmods.com/morrowind/mods/45714)
+    - [NOD - NPC Outfit Diversity](https://www.nexusmods.com/morrowind/mods/52091)
+      - modules:
+        - `01 OAAB Hoods-n-Hats AR Value Patch`
+        - `05 Cinia Urtius Addon`
+      - [NOD - NPC Outfit Diversity Gigapixel Upscale](https://www.nexusmods.com/morrowind/mods/55292)
+    - [Yet Another Guard Diversity](https://www.nexusmods.com/morrowind/mods/45894): `regular` version
+      - [Library of Vivec Enhanced](https://www.nexusmods.com/morrowind/mods/50181): `Yet Another Guard Diversity - Regular Patch` optional file
+    - [MDMD - More Deadly Morrowind Denizens](https://www.nexusmods.com/morrowind/mods/48745)
+      - esps:
+        - `MDMD - More Deadly Morrowind Denizens`
+        - `MDMD - Creatures Add-On`
+        - `mdmd - uvirith legacy cooperation`
+    - [Creatures and Critters](https://www.nexusmods.com/morrowind/mods/54518)
+    - [Vanilla friendly creatures and undeads expansion](https://www.nexusmods.com/morrowind/mods/48818): `00 Core` & `01 Glowing Netch and Netch Betty` modules
+    - [Devilishly Peaceful Wildlife (OpenMW)](https://www.nexusmods.com/morrowind/mods/58083)
+    - [Friends and Foes](https://www.nexusmods.com/morrowind/mods/49251): `01 Vvardenfell addon`, `02 Mainland addon`, `03 Prim & Proper addon`
+      - [openMW Patch For Morrowind Comes Alive and Danae's Friends and Foes](https://www.nexusmods.com/morrowind/mods/51824)
+    - [Friends and Frens](https://www.nexusmods.com/morrowind/mods/52763): `01 Vvardenfell`, `02 Mainland`, `03 Prim & Proper addon for Vv`, `04 Bantam Guar`
+    - [Beware the Sixth House (Sixth House Overhaul)](https://www.nexusmods.com/morrowind/mods/46036): only main esp
+    - [Riekling Expansion](https://www.nexusmods.com/morrowind/mods/50036): `02 Bloodmoon Rebalance - Eng`
+    - [Sigourn's Misc Mods and Patches](https://www.nexusmods.com/morrowind/mods/49232):
+      - `Bow to the Daedra`: plus `01 OAAB Add-on` & `02 MDMD Creatures Add-on` modules
+      - `MDMD - More Deadly Morrowind Denizens Patches`
+    - [Menacing Creatures and Bosses](https://www.nexusmods.com/morrowind/mods/59200): `Base Creatures Module`, `Special Creatures Module`, `VFCUE Menace Addon`, & `TR PT Creatures Module`
+    - [Wandering Umbra](https://www.nexusmods.com/morrowind/mods/44913)
+      - [Ultimate Umbra](https://www.nexusmods.com/morrowind/mods/58973)
   - _patches_
 - **FACTIONS**
   _Telvanni_

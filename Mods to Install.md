@@ -1,46 +1,9 @@
 # Mods to Install!
 
 - **CORE MODS**
-  - **Creatures & NPCs**
-    - **Changes**
-      - [Tribunal Rebalance](https://www.nexusmods.com/morrowind/mods/45713)
-      - [Bloodmoon Rebalance](https://www.nexusmods.com/morrowind/mods/45714)
-      - [NOD - NPC Outfit Diversity](https://www.nexusmods.com/morrowind/mods/52091)
-        - modules:
-          - `01 OAAB Hoods-n-Hats AR Value Patch`
-          - `05 Cinia Urtius Addon`
-        - [NOD - NPC Outfit Diversity Gigapixel Upscale](https://www.nexusmods.com/morrowind/mods/55292)
-      - [Yet Another Guard Diversity](https://www.nexusmods.com/morrowind/mods/45894): `regular` version
-        - [Library of Vivec Enhanced](https://www.nexusmods.com/morrowind/mods/50181): `Yet Another Guard Diversity - Regular Patch` optional file
-      - [MDMD - More Deadly Morrowind Denizens](https://www.nexusmods.com/morrowind/mods/48745)
-        - esps:
-          - `MDMD - More Deadly Morrowind Denizens`
-          - `MDMD - Creatures Add-On`
-          - mdmd - uvirith legacy cooperation
-      - [Creatures and Critters](https://www.nexusmods.com/morrowind/mods/54518)
-        - [Minor patches and fixes](https://www.nexusmods.com/morrowind/mods/53570): `Creatures and critters fixes`
-      - [Vanilla friendly creatures and undeads expansion](https://www.nexusmods.com/morrowind/mods/48818)
-      - [Devilishly Peaceful Wildlife (OpenMW)](https://www.nexusmods.com/morrowind/mods/58083)
-      - [Friends and Foes](https://www.nexusmods.com/morrowind/mods/49251)
-        - [openMW Patch For Morrowind Comes Alive and Danae's Friends and Foes](https://www.nexusmods.com/morrowind/mods/51824)
-      - [Friends and Frens](https://www.nexusmods.com/morrowind/mods/52763)
-      - [Beware the Sixth House (Sixth House Overhaul)](https://www.nexusmods.com/morrowind/mods/46036): only main esp
-      - [Divine Dagoths](https://www.nexusmods.com/morrowind/mods/45536)
-        - esps:
-          - `Bob's Diverse Dagoths` <!-- TODO: replace with `Bob's Diverse Dagoths - DNGDR` if using `Darknut's Greater Dwemer Ruins version 1.2` -->
-          - `Unique Dagoth Brandy & Amulet`
-        - plus `Divine Dagoths - Addendum` update
-      - [Concept Art Scamp Overhaul](https://www.nexusmods.com/morrowind/mods/57514)
-      - [Riekling Expansion](https://www.nexusmods.com/morrowind/mods/50036)
-      - [Sigourn's Misc Mods and Patches](https://www.nexusmods.com/morrowind/mods/49232):
-        - `Bow to the Daedra`
-        - `MDMD - More Deadly Morrowind Denizens Patches`
-      - [Menacing Creatures and Bosses](https://www.nexusmods.com/morrowind/mods/59200): `Base Creatures Module`, `Special Creatures Module`, `VFCUE Menace Addon`, & `TR PT Creatures Module`
-      - [Wandering Umbra](https://www.nexusmods.com/morrowind/mods/44913)
-        - [Ultimate Umbra](https://www.nexusmods.com/morrowind/mods/58973)
-      - [Dead Mer Tell No Tales (OpenMW)](https://www.nexusmods.com/morrowind/mods/57431)
-      - [Actor Interactions - OpenMW](https://www.nexusmods.com/morrowind/mods/57955)
-      - [OpenMW NPC Personality - Dynamic gestures](https://www.nexusmods.com/morrowind/mods/60121)
+    - [Dead Mer Tell No Tales (OpenMW)](https://www.nexusmods.com/morrowind/mods/57431)
+    - [Actor Interactions - OpenMW](https://www.nexusmods.com/morrowind/mods/57955)
+    - [OpenMW NPC Personality - Dynamic gestures](https://www.nexusmods.com/morrowind/mods/60121)
   - **Factions**
     - **General**
       - [Privileges And Services](https://www.nexusmods.com/morrowind/mods/50403)
