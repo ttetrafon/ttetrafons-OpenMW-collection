@@ -552,6 +552,35 @@
       - [Animated Morrowind and Weapon Sheathing patch for OpenMW](https://www.nexusmods.com/morrowind/mods/53479): plus `Animated Morrowind_Only resources for overwriting` optional file
     - [Hit Reactions Animated -- OpenMW](https://www.nexusmods.com/morrowind/mods/56594)
   - _additions_
+    - [Repopulated Morrowind](https://www.nexusmods.com/morrowind/mods/51174)
+      - installation settings:
+        - Bloodmoon: TOTSP
+        - Plugins:
+          - Tamriel Rebuilt
+          - Skyrim Home of the Nords
+          - Province Cyrodiil
+          - Mage Robes
+          <!-- - Morag Tong Polished // TODO -->
+          - Weapons Expansion Project
+          - Immersive Mournhold
+          - OAAB Data
+          - Concept Art Dunmer Helmets
+          - Caldera Mine Expanded
+        - Animated Morrowind
+        - Redaynia: none
+      - optional files:
+        - `Immersive Mournhold Hotfix`
+        - `Missing Meshes`
+        - `NOD Patch`
+    - [Atronach Expansion](https://www.nexusmods.com/morrowind/mods/22189): `leveled creatures option`
+    - [The Undead](https://www.nexusmods.com/morrowind/mods/43030)
+    - [TriangleTooth's Missing Characters](https://www.nexusmods.com/morrowind/mods/46234)
+    - [Local Lore - Silt Striders and Caravaners](https://www.nexusmods.com/morrowind/mods/48063): `Silt Strider Animation Restored` option
+    - [Olive the Enchanter](https://www.nexusmods.com/morrowind/mods/45641)
+    - [Balmora toy merchant (OpenMW)](https://www.nexusmods.com/morrowind/mods/49054)
+    - [Paxon the Pack Rat](https://www.nexusmods.com/morrowind/mods/45669): plus `New Pack Rat Model` file
+    - [Squire](https://www.nexusmods.com/morrowind/mods/59621) plus `SquireHBFs`
+    - [EKM Traveling Trader](https://www.nexusmods.com/morrowind/mods/58844)
   - _patches_
 - **FACTIONS**
   _Telvanni_
@@ -689,6 +718,7 @@
     - [Tabletop Alchemy](https://www.nexusmods.com/morrowind/mods/52891)
     - [Attend Me](https://www.nexusmods.com/morrowind/mods/51232)
       <!-- - [Companion Teleportation (OpenMW)](https://www.nexusmods.com/morrowind/mods/58229) TODO: probably not needed because of `Attend Me`-->
+    - [Follower Commands (OpenMW)](https://www.nexusmods.com/morrowind/mods/58818)
   - _character creation_
     - [Reincarnate - Races of Morrowind](https://www.nexusmods.com/morrowind/mods/52397)
     - [ARCE - All Races and Classes Enabled (Vanilla and Tamriel_Data)](https://www.nexusmods.com/morrowind/mods/53710)
@@ -765,12 +795,13 @@
   - teleport immediately towards where you are looking
   - distance dependent on skill level and/or magnitude?
 - Leech Effect
-  - absorb health/fatigue/magicka on weapon hit while it lasts
+  - absorb health/fatigue/magicka on weapon hit while it the effect lasts
 - Toggleable Spells
   - make versions of spells with duration that instead become permanent and drain magicka as long as they are in active
-  - give good xp on the school on toggle
+  - give xp on the school on toggle or slow overtime xp while they are in effect?
 - Exhaustion for not sleeping, eating, & drinking?
   - very lightweight survival mechanic
+- In-game notes?
 
 ## Patches Needed
 
