@@ -680,22 +680,21 @@
     - [Traitor among Vampires (OpenMW Only)](https://www.nexusmods.com/morrowind/mods/53522)
     - [Hiding Vampirism Under Helmets (OpenMW)](https://www.nexusmods.com/morrowind/mods/58216)
     - [Protection From Sun Damage (OpenMW)](https://www.nexusmods.com/morrowind/mods/58399)
-    - [Quests for Clans and Vampire Legends (QCVL)](https://www.nexusmods.com/morrowind/mods/49486)
+    <!-- - [Quests for Clans and Vampire Legends (QCVL)](https://www.nexusmods.com/morrowind/mods/49486) // FIXME: note in Seyda Neen Census and Excise Office is unreadable?  -->
   - _Vampire Hunters_
     - [Guild of Vampire Hunters](https://www.nexusmods.com/morrowind/mods/45832)
       - [Vampire Hunter Faction](https://www.nexusmods.com/morrowind/mods/53811)
 - **QUESTING**
-  - _changes_
+  - _existing_
     - [Main Quest for the Temple Faithful](https://www.nexusmods.com/morrowind/mods/55359)
     - [Tribunal Main Quest Reforged](https://www.nexusmods.com/morrowind/mods/54743): `Tribunal Main Quest Reforged - SSE.esp`
       - [A Collection of Small Mods Addons and Patches - by Sweezly](https://www.nexusmods.com/morrowind/mods/58759): `Tribunal Reforged And Tamriel Rebuilt` file
       - [Almalexia's Chamber Overhaul](https://www.nexusmods.com/morrowind/mods/52737): `04 OpenMW NormalMaps` & `05 TMQR Patch` modules
     - [Even More Mysterious Killings in Vivec](https://www.nexusmods.com/morrowind/mods/49661)
     - [The Patchwork Airship - Fleshing out a vanilla quest](https://www.nexusmods.com/morrowind/mods/53133): `01 Tomb of the Snow Prince Patch` module
-  - _minor_
     - [Plunder the Dungeon](https://www.nexusmods.com/morrowind/mods/46977)
+  - _new_
     - [Whispers of Hermaeus Mora or Forgotten Depths of Ald Redaynia](https://www.nexusmods.com/morrowind/mods/57889)
-  - _major_
     - [Illuminated Order Improved](https://www.nexusmods.com/morrowind/mods/47414)
       - affects:
         - settlements: `Balmora`, `Molag Mar: Waistworks & Underworks & Armigers Stronghold`, `Tel Vos: Central Tower`, `Tel Branora: Upper Tower, Therana's Chamber`, `Khuul: Miron Garer's Shack`, `Gnisis: Temple`, `Ald-ruhn: Venim Manor Bedrooms & Ald Skar Inn`, `Sadrith Mora`
@@ -704,6 +703,9 @@
         - dwemer: `Mzahnch: Lower Level`, `Aleft`
       - [Illuminated Order - More Fixes (.esp only)](https://www.nexusmods.com/morrowind/mods/54650)
       - [Illuminated Order Improved Patch](https://www.nexusmods.com/morrowind/mods/51223)
+      - [AFFresh](https://www.nexusmods.com/morrowind/mods/53006)
+      - [Saints and Sinners - Assorted Quests of Morrowind](https://www.nexusmods.com/morrowind/mods/47640)
+      - [To save a falling wizard (alternate) Fixed For OpenMW and Delta Plugin](https://www.nexusmods.com/morrowind/mods/49685)
   - _patches_
     - [Epic Plants](https://www.nexusmods.com/morrowind/mods/46180): `Misc Patches` optional file (for Mudcrab imports)
     - [Balmora Outskirts - Stoneflower trading post](https://www.nexusmods.com/morrowind/mods/54534): `Stoneflower_Illuminated Order Improved More Fixes` optional file
@@ -769,6 +771,7 @@
     - [Of Bead and Feather - Custom Potion Sorter (OpenMW)](https://www.nexusmods.com/morrowind/mods/57782)
       - `256x256` and `Vanilla size` options
 - **LOW PRIORITY PATCHES**
+  - [x] Seyda Neen: floating warehouse door!
 - **LOW PRIORITY OVERRIDES**
   - [Wares Ultimate](https://www.nexusmods.com/morrowind/mods/52013)
     - modules:
@@ -847,7 +850,7 @@
       - `Frana5u's Backgrounds` <!-- FIXME: Fails to initialise -->
       - `Oblivion Backgrounds` <!-- FIXME: Fails to initialise -->
     - [FactionsPerks (OpenMW)](https://www.nexusmods.com/morrowind/mods/58651)
-    <!-- - [SkillPerks (OpenMW)](https://www.nexusmods.com/morrowind/mods/59676) // FIXME: fails on load... -->
+    - [SkillPerks (OpenMW)](https://www.nexusmods.com/morrowind/mods/59676)
       - files:
         - SkillPerks Core 0 - Required
         - SkillPerks Core 1 - Combat
@@ -878,7 +881,6 @@
     - [(OpenMW) Protective Guards - Factions Addon](https://www.nexusmods.com/morrowind/mods/60065)
     - [Harder Better Faster Stronger (HBFS)](https://www.nexusmods.com/morrowind/mods/55542): `HBFS-GMST.omwaddon` addon
 - **LATE PATCHES**
-- **LATE FIXES & CHANGES**
 - **LATE LOADERS**
   <!-- - [Vampire and Werewolf Character Generation](https://www.nexusmods.com/morrowind/mods/47268) -->
   - [Mutiny - Alternate Start](https://www.nexusmods.com/morrowind/mods/57702)
@@ -891,11 +893,13 @@
 
 - **Mage**
   - Race: Altmer
-  - Class: Astrologer / Witch
+  - Class: Shaman
   - Sign: Elven, Magnus
   - Lineage: Imp
   - Culture: Magocratic
-  - Belief: Alduin
+  - Belief: Azura
+- **Thief**
+- **Warrior**
 
 ### Randomiser
 
@@ -925,8 +929,8 @@
 
 ## Patches Needed
 
-- Ascadia Land of Pilgrimage & Ebonheart Outskirts and lighthouse district: lighthouse is blocked by a rock
-- Molag Mar Waistworks Shop & Illuminated Order: Molag Mar bar is hidden by the sanctum entrance
-- Stoneflower Trading Post & Illuminated Order: tree blocking the the balcony
-- Tamrielic Treasures: propylon index is out of bounds
-- The Beacon of St Rilms: wrong entrance on top
+- [ ] Ascadia Land of Pilgrimage & Ebonheart Outskirts and lighthouse district: lighthouse is blocked by a rock
+- [ ] Molag Mar Waistworks Shop & Illuminated Order: Molag Mar bar is hidden by the sanctum entrance
+- [ ] Stoneflower Trading Post & Illuminated Order: tree blocking the the balcony
+- [ ] Tamrielic Treasures: propylon index is out of bounds
+- [ ] The Beacon of St Rilms: wrong entrance on top

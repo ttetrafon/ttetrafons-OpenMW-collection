@@ -2,9 +2,6 @@
 
 ## QUESTS
 
-- [AFFresh](https://www.nexusmods.com/morrowind/mods/53006)
-- [Saints and Sinners - Assorted Quests of Morrowind](https://www.nexusmods.com/morrowind/mods/47640)
-- [To save a falling wizard (alternate) Fixed For OpenMW and Delta Plugin](https://www.nexusmods.com/morrowind/mods/49685)
 - [Better Bounties](https://www.nexusmods.com/morrowind/mods/59050)
 - [Bitter and Blighted](https://www.nexusmods.com/morrowind/mods/47052)
 - [Mudcrab Imports](https://www.nexusmods.com/morrowind/mods/49463)
