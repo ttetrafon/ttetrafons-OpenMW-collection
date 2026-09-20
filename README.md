@@ -364,7 +364,7 @@
       - [Justice for Khartag (J.F.K.)](https://www.nexusmods.com/morrowind/mods/49832)
       - [Hla Odai](https://www.nexusmods.com/morrowind/mods/51942)
       - [Drethos Ancestral Tomb](https://www.nexusmods.com/morrowind/mods/53481)
-      - [The Sable Dragon](https://www.nexusmods.com/morrowind/mods/26870)
+      - [The Sable Dragon](https://www.nexusmods.com/morrowind/mods/26870): delete `esp`
         - [Odai and the Dragon](https://www.nexusmods.com/morrowind/mods/59143)
         - [Graht Morrowind Swamp Trees](https://www.nexusmods.com/morrowind/mods/49771): `The Sable Dragon` patch
       - _Balmora_
@@ -929,11 +929,17 @@
 
 ## Patches & Fixes
 
-- [ ] Ascadia Land of Pilgrimage & Ebonheart Outskirts and lighthouse district: lighthouse is blocked by a rock
+- Ascadia Land of Pilgrimage &
+  - [ ] Ebonheart Outskirts and lighthouse district: lighthouse is blocked by a rock
+  - [ ] Veteran Dungeons: Fungal Grotto, Everglow Exit is blocked by a shrine
 - [ ] Molag Mar Waistworks Shop & Illuminated Order: Molag Mar bar is hidden by the sanctum entrance
 - [ ] Stoneflower Trading Post & Illuminated Order: tree blocking the the balcony
 - [ ] Tamrielic Treasures: propylon index is out of bounds
 - [ ] The Beacon of St Rilms: wrong entrance on top
-- [ ] Bitter Coast: Samarys Tomb, wall blocking path
+- RR Bitter Coast
+  - [ ] Samarys Tomb, wall blocking path
+  - [ ] Hla Oad: tree covering small key
 - [ ] Dungeoneering Journey & Graht Morrowind Swamp Trees: Tomb of the Fallen inside a tree
 - [ ] Cozy Pelagiad & Wishmaster: rocks blocking entrance to Constantius Vintinius' House
+- [ ] Imperial Castle Ebonheart: Ebonheart, Imperial Chapels: floating objects beside main altar
+- [ ] Hla Oad: door to Relien Rirne's House is floating
