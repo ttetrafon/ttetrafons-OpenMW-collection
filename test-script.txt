@@ -1,4 +1,5 @@
 player->addspell "almsivi intervention"
+player->addspell "azura ability"
 player->addspell "daedric bite"
 player->addspell "divine intervention"
 player->addspell "dispel"

@@ -156,7 +156,8 @@
       - [Darknut's Creature Textures TB](https://www.nexusmods.com/morrowind/mods/43421)
       - [Darknut's Creature Textures addendum](https://www.nexusmods.com/morrowind/mods/43441)
     - [4thUnknowns Creatures Morrowind Edition](https://www.nexusmods.com/morrowind/mods/50137): `CreaturesMeshes` & `CreaturesTexturesOpenMW` files
-    - [Magic VFX Retexture by Articus](https://www.nexusmods.com/morrowind/mods/47702): plus `ENG esp` optional file
+    <!-- - [Magic VFX Retexture by Articus](https://www.nexusmods.com/morrowind/mods/47702): plus `ENG esp` optional file // replaced with Magic Diversity-->
+    - [Magic Diversity -COMPLETE-](https://www.nexusmods.com/morrowind/mods/43380): plus `Vanilla sounds for Magic Diversity` optional file
     <!-- - [Normal Maps for Everything](https://www.nexusmods.com/morrowind/mods/52567) // TODO: select modules... -->
   - _animations_
     - [Animated Morrowind - merged](https://abitoftaste.modlist.x10.mx/morrowind/index.php?option=downloads&task=info&id=39&Itemid=50&-Animated-Morrowind-merged)
@@ -371,7 +372,6 @@
         - [Balmora Outskirts - Stoneflower trading post](https://www.nexusmods.com/morrowind/mods/54534)
         - [Balmora Waterworks](https://www.nexusmods.com/morrowind/mods/51327)
           - [Quests in Balmora Waterworks](https://www.nexusmods.com/morrowind/mods/52758)
-        - [Balmora Undermarket](https://www.nexusmods.com/morrowind/mods/53833): `Balmoral Waterworks` option
         - [Balmora Temple Redone](https://www.nexusmods.com/morrowind/mods/52724)
           - [Balmora Temple Redone Reintegrated](https://www.nexusmods.com/morrowind/mods/55483)
         - [Fabulous Hlaalo Manor](https://www.nexusmods.com/morrowind/mods/51438): with all options, but keep only `Fabulous Clutter`
@@ -514,17 +514,16 @@
       - [Telvanni Magister Robes](https://www.nexusmods.com/morrowind/mods/52278) plus `TMR Patch for OAAB Tel Mora` optional file
       - [SM Telvanni Ceremonial Robe](https://www.nexusmods.com/morrowind/mods/55346)
       - [Daedric Telvanni Robe V2](https://www.nexusmods.com/morrowind/mods/49652)
-      - [Sacred Necromancer Armor](https://www.nexusmods.com/morrowind/mods/51651)
       - [Many Cloth Helms](https://www.nexusmods.com/morrowind/mods/49282): `ManyClothHelmsWaresAware` file only
       - [Concept Art Dunmer Helmets](https://www.nexusmods.com/morrowind/mods/52043)
       - [Catalyst- Enchantable offhand staves for magic users (MWSE optional)](https://www.nexusmods.com/morrowind/mods/59891)
+      - [Enchanted Batons](https://www.nexusmods.com/morrowind/mods/60054)
       - [Weapons Expansion Project](https://www.nexusmods.com/morrowind/mods/51587)
       - [The Assassin's Arsenal](https://www.nexusmods.com/morrowind/mods/49746)
       - [Unique Weapon Resource - HELLUVA Custom Selection](https://www.nexusmods.com/morrowind/mods/60115)
       - [Lucky Coins](https://www.nexusmods.com/morrowind/mods/44324)
       - [Adventurer's Backpacks](https://www.nexusmods.com/morrowind/mods/43213)
         - [(OpenMW) Danae's backpacks](https://www.nexusmods.com/morrowind/mods/58543)
-      - [(OpenMW) Simply animated cloaks](https://www.nexusmods.com/morrowind/mods/58498)
     - _tools_
       - [Tools of the Secret Master](https://www.nexusmods.com/morrowind/mods/51415)
       - [Corporeal Carryable Containers](https://www.nexusmods.com/morrowind/mods/53772)
@@ -578,7 +577,6 @@
     - [TriangleTooth's Missing Characters](https://www.nexusmods.com/morrowind/mods/46234)
     - [Local Lore - Silt Striders and Caravaners](https://www.nexusmods.com/morrowind/mods/48063): `Silt Strider Animation Restored` option
     - [Olive the Enchanter](https://www.nexusmods.com/morrowind/mods/45641)
-    - [Balmora toy merchant (OpenMW)](https://www.nexusmods.com/morrowind/mods/49054)
     - [Paxon the Pack Rat](https://www.nexusmods.com/morrowind/mods/45669): plus `New Pack Rat Model` file
     <!-- - [Squire](https://www.nexusmods.com/morrowind/mods/59621) plus `SquireHBFs` // FIXME: initial dialog does not appear -->
     - [EKM Traveling Trader](https://www.nexusmods.com/morrowind/mods/58844)
@@ -772,6 +770,7 @@
       - `256x256` and `Vanilla size` options
 - **LOW PRIORITY PATCHES**
   - [x] Seyda Neen: floating warehouse door!
+  - [ ] Balmora: `Tsiya's House` doors out of place?
 - **LOW PRIORITY OVERRIDES**
   - [Wares Ultimate](https://www.nexusmods.com/morrowind/mods/52013)
     - modules:
@@ -882,6 +881,7 @@
     - [Harder Better Faster Stronger (HBFS)](https://www.nexusmods.com/morrowind/mods/55542): `HBFS-GMST.omwaddon` addon
 - **LATE PATCHES**
 - **LATE LOADERS**
+  - [Jammings off](https://www.nexusmods.com/morrowind/mods/44523): `ver1.0(only_Xnif_files)` module
   <!-- - [Vampire and Werewolf Character Generation](https://www.nexusmods.com/morrowind/mods/47268) -->
   - [Mutiny - Alternate Start](https://www.nexusmods.com/morrowind/mods/57702)
 - **AUTOMATED**
@@ -927,10 +927,13 @@
   - very lightweight survival mechanic
 - In-game notes?
 
-## Patches Needed
+## Patches & Fixes
 
 - [ ] Ascadia Land of Pilgrimage & Ebonheart Outskirts and lighthouse district: lighthouse is blocked by a rock
 - [ ] Molag Mar Waistworks Shop & Illuminated Order: Molag Mar bar is hidden by the sanctum entrance
 - [ ] Stoneflower Trading Post & Illuminated Order: tree blocking the the balcony
 - [ ] Tamrielic Treasures: propylon index is out of bounds
 - [ ] The Beacon of St Rilms: wrong entrance on top
+- [ ] Bitter Coast: Samarys Tomb, wall blocking path
+- [ ] Dungeoneering Journey & Graht Morrowind Swamp Trees: Tomb of the Fallen inside a tree
+- [ ] Cozy Pelagiad & Wishmaster: rocks blocking entrance to Constantius Vintinius' House
