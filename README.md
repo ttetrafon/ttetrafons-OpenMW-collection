@@ -350,7 +350,7 @@
           - Tree replacers: Other
           - Mod Compatibility: OAAB Data
           - Platforms and Walkways
-        - [Grahtwood Roost](Grahtwood Roost)
+        - [Grahtwood Roost](https://www.nexusmods.com/morrowind/mods/52888)
       - [Resdayn Revival - Bitter Coast](https://www.nexusmods.com/morrowind/mods/47772)
         - affects:
           - settlements: `Seyda Neen`, `Hla Oad`, `Gnaar Mok`
@@ -365,7 +365,6 @@
       - [Hla Odai](https://www.nexusmods.com/morrowind/mods/51942)
       - [Drethos Ancestral Tomb](https://www.nexusmods.com/morrowind/mods/53481)
       - [The Sable Dragon](https://www.nexusmods.com/morrowind/mods/26870): delete `esp`
-        - [Odai and the Dragon](https://www.nexusmods.com/morrowind/mods/59143)
         - [Graht Morrowind Swamp Trees](https://www.nexusmods.com/morrowind/mods/49771): `The Sable Dragon` patch
       - _Balmora_
         - [Balmora Gravemarket](https://www.nexusmods.com/morrowind/mods/51696): `BalmoraGravemarket` file
@@ -849,12 +848,12 @@
       - `Frana5u's Backgrounds` <!-- FIXME: Fails to initialise -->
       - `Oblivion Backgrounds` <!-- FIXME: Fails to initialise -->
     - [FactionsPerks (OpenMW)](https://www.nexusmods.com/morrowind/mods/58651)
-    - [SkillPerks (OpenMW)](https://www.nexusmods.com/morrowind/mods/59676)
-      - files:
-        - SkillPerks Core 0 - Required
-        - SkillPerks Core 1 - Combat
-        - SkillPerks Core 2 - Stealth
-        - SkillPerks Core 3 - Magic
+    <!-- - [SkillPerks (OpenMW)](https://www.nexusmods.com/morrowind/mods/59676) // FIXME: something not working? -->
+      <!-- - files: -->
+        <!-- - SkillPerks Core 0 - Required -->
+        <!-- - SkillPerks Core 1 - Combat -->
+        <!-- - SkillPerks Core 2 - Stealth -->
+        <!-- - SkillPerks Core 3 - Magic -->
   - _combat_
     - [Bullseye - Marksman Overhaul (OpenMW)](https://www.nexusmods.com/morrowind/mods/58511)
     - [Friendlier Fire (OpenMW)](https://www.nexusmods.com/morrowind/mods/57975)
@@ -939,7 +938,11 @@
 - RR Bitter Coast
   - [ ] Samarys Tomb, wall blocking path
   - [ ] Hla Oad: tree covering small key
-- [ ] Dungeoneering Journey & Graht Morrowind Swamp Trees: Tomb of the Fallen inside a tree
+- Dungeoneering Journey &
+  - [ ] Graht Morrowind Swamp Trees: Tomb of the Fallen inside a tree
+  - [ ] Hla Odai: guard tower hides Eckguay Cavity entrance
 - [ ] Cozy Pelagiad & Wishmaster: rocks blocking entrance to Constantius Vintinius' House
 - [ ] Imperial Castle Ebonheart: Ebonheart, Imperial Chapels: floating objects beside main altar
 - [ ] Hla Oad: door to Relien Rirne's House is floating
+- Death and Taxes &
+  - [ ] Hla Oda (probably RR Bitter Coast): Galendrus Mero hidden within a rock (terrain_rock_bc_15)
