@@ -322,6 +322,7 @@
         - [Living Ald'ruhn](https://www.nexusmods.com/morrowind/mods/59874)
         - [Ald'ruhn-under-Skar](https://www.nexusmods.com/morrowind/mods/50332)
         - [Ald'Ruhn Manor Banners](https://www.nexusmods.com/morrowind/mods/51527)
+        - [Ald'Ruhn Outskirts - Ancestral Refuge](https://www.nexusmods.com/morrowind/mods/55944): plus `Ald'Ruhn Outskirts - TR Addon` optional file
       - _Maar Gan_
         - [The magic rock of Maar Gan](https://www.nexusmods.com/morrowind/mods/50763)
         - [Maar Gan - Town of Pilgrimage](https://www.nexusmods.com/morrowind/mods/53919)
@@ -946,3 +947,7 @@
 - [ ] Hla Oad: door to Relien Rirne's House is floating
 - Death and Taxes &
   - [ ] Hla Oda (probably RR Bitter Coast): Galendrus Mero hidden within a rock (terrain_rock_bc_15)
+- Gnisis
+  - [ ] Silt Strider out of place?
+  - [ ] & The Imperial Legion Badge: notice fallen underground
+  - [ ] & Saints and Sinners: temple conflict
