@@ -34,5 +34,8 @@ with open("all_mods.txt", "r") as all_mods:
         else:
           cells_by_plugin[current_cell] = [current_plugin]
 
+cells_by_plugin = {k: v for k, v in cells_by_plugin.items() if len(v) != 1}
+print("Cells modified by multiple plugins:", len(cells_by_plugin))
+
 with open("cells.json", 'w') as data:
   json.dump(cells_by_plugin, data, indent=2)
