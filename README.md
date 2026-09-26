@@ -807,6 +807,9 @@
     - [Suran Underworld 3](https://www.nexusmods.com/morrowind/mods/40299)
       - [Suran Underworld V3 Corrections and Fixes](https://www.nexusmods.com/morrowind/mods/44382)
       - [Suran Underworld V3 Corrections and Fixes - OpenMW Additional Fixes](https://www.nexusmods.com/morrowind/mods/49356)
+    - [The Rise of the Tribe Unmourned](https://www.nexusmods.com/morrowind/mods/45165): `Crown Edition`
+    - [The Unhatched](https://www.nexusmods.com/morrowind/mods/57826)
+    - [The Crown Act](https://www.nexusmods.com/morrowind/mods/56847): modules `01 Normals for OpenMW (Optional)`, `02 Mamaea Awakened Patch (Optional)`, `03 The Unhatched Patch (Optional)`
   - _patches_
     - [Epic Plants](https://www.nexusmods.com/morrowind/mods/46180): `Misc Patches` optional file (for Mudcrab imports)
     - [Balmora Outskirts - Stoneflower trading post](https://www.nexusmods.com/morrowind/mods/54534): `Stoneflower_Illuminated Order Improved More Fixes` optional file
