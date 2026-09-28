@@ -242,7 +242,6 @@
       - [Necrom - Arkitektora of Morrowind](https://www.nexusmods.com/morrowind/mods/46289): `Necrom Arkitektora - HQ` option plus `Necrom Minor Meshes Fixes` update
     - _Old Ebonheart_
       - [Tamrielic Treasures - A Caldera shop with mannequins](https://www.nexusmods.com/morrowind/mods/53487) plus `Tamrielic Treasures - Templar Helmet Update` optional file
-        - [Tamrielic Treasures moved to the mainland (Old Ebonheart)](https://www.nexusmods.com/morrowind/mods/60013)
       - [Old Ebonheart slum sprawl - Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/59807)
       - [Old Ebonheart Alchemist's Tower](https://www.nexusmods.com/morrowind/mods/51421)
       - [The Adventurer's House](https://www.nexusmods.com/morrowind/mods/59886)
