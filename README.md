@@ -336,7 +336,7 @@
       - [Forge of Hilbongard Reignited)](https://www.nexusmods.com/morrowind/mods/57968): modifies the `Omaren Ancestral Tomb` too
       - [OAAB - Tombs and Towers Separated](https://www.nexusmods.com/morrowind/mods/59402?tab=files): `Arano`, `Malwia`, `Redas`
       - [The Vestiges of Tukushapal](https://www.nexusmods.com/morrowind/mods/56829)
-      - [Arnchenzel - Dwemer Underwater House](https://www.nexusmods.com/morrowind/mods/52838)
+      - [Arnchenzel - Dwemer Underwater House](https://www.nexusmods.com/morrowind/mods/52838): plus `Arnchezel - OAAB Mannequins Addon` & `No Stupid Purple Box For Bubbles Mesh` optional files
       - _Molag Mar_
         - [Sacred Molag Mar - Town of Piligrims](https://www.nexusmods.com/morrowind/mods/49392)
       - _Tel Branora_

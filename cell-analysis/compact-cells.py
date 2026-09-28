@@ -28,14 +28,16 @@ with open("all_mods.txt", "r") as all_mods:
       closing_quote_index: int = line.rindex("\"")
 
       if marker_index > 0 and closing_quote_index > 0 and closing_quote_index > marker_index:
-        current_cell = line[marker_index + 2 : closing_quote_index]
+        current_cell = line[marker_index + 2 : closing_quote_index].strip()
         if current_cell in cells_by_plugin:
           cells_by_plugin[current_cell].append(current_plugin)
         else:
           cells_by_plugin[current_cell] = [current_plugin]
 
 cells_by_plugin = {k: v for k, v in cells_by_plugin.items() if len(v) != 1}
+sorted_cells: dict[str, list[str]] = dict(sorted(cells_by_plugin.items(), key=lambda kv: kv[0]))
+
 print("Cells modified by multiple plugins:", len(cells_by_plugin))
 
-with open("cells.json", 'w') as data:
-  json.dump(cells_by_plugin, data, indent=2)
+with open("cells.jsonc", 'w') as data:
+  json.dump(sorted_cells, data, indent=2)
