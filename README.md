@@ -13,14 +13,13 @@
   - [No More Stage Diving - Desele's Dancing Girls](https://www.nexusmods.com/morrowind/mods/47738)
   - [Silt Strider Animation Restored](https://www.nexusmods.com/morrowind/mods/44150)
   - [Expansion Resource Conflicts](https://www.nexusmods.com/morrowind/mods/44532)
-  - [Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384)
-    - modules:
-      - 04 Better Vanilla Textures
+  - [Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384): `04 Better Vanilla Textures` module
 - **RESOURCES & FRAMEWORKS**
   - _scripting_
     - [Max Yari's Script Services](https://www.nexusmods.com/morrowind/mods/60256)
     - [Script Effect Resource for OpenMW (Replaces Resist Corprus)](https://www.nexusmods.com/morrowind/mods/58109)
     - [H3lp Yours3lf - OpenMW Helper Interfaces](https://www.nexusmods.com/morrowind/mods/56417)
+    - [(OpenMW) UI Toolkit](https://www.nexusmods.com/morrowind/mods/60303)
   - _main packs_
     - [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537): HD Version
     - [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
@@ -246,7 +245,7 @@
       - [Old Ebonheart Alchemist's Tower](https://www.nexusmods.com/morrowind/mods/51421)
       - [The Adventurer's House](https://www.nexusmods.com/morrowind/mods/59886)
     - _Port Telvanni_
-      <!-- FIXME - [Port Telvannis Redux (Tamriel Rebuilt submod) - Telvanni capital of power](https://www.nexusmods.com/morrowind/mods/59449) -->
+      - [Port Telvannis Redux (Tamriel Rebuilt submod) - Telvanni capital of power](https://www.nexusmods.com/morrowind/mods/59449)
   - _Skyrim_
     - [Skyrim Home Of The Nords](https://www.nexusmods.com/morrowind/mods/44921)
   - _Cyrodiil_
@@ -397,6 +396,7 @@
         - [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177)
         - [Twilots OAAB Tel Mora Manor](https://www.nexusmods.com/morrowind/mods/59654)
       - _Tel Vos_
+        - [RR Mod Series - Telvanni Lighthouse Tel Vos](https://www.nexusmods.com/morrowind/mods/42744): plus `Telvanni Lighthouse - Tel Vos Patch` update file
       - _Vos_
         - [Red Vos](https://www.nexusmods.com/morrowind/mods/44729)
         - [Romantic Vos](https://www.nexusmods.com/morrowind/mods/49418)
@@ -869,6 +869,7 @@
   - **Inventory**
     - [(OpenMW 0.49) QuickLoot](https://www.nexusmods.com/morrowind/mods/54950)
       - plus `Pickpocket Overhaul` optional file
+    - [Don't Sell That S'wit - Marked Quest Items (OpenMW)](https://www.nexusmods.com/morrowind/mods/60372)
     - [Pretty Loot (OpenMW)](https://www.nexusmods.com/morrowind/mods/58167)
       - plus `Pretty Loot No Pickup Messages by therealralts` optional file
     - [Of Bead and Feather - Custom Potion Sorter (OpenMW)](https://www.nexusmods.com/morrowind/mods/57782)
