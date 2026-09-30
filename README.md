@@ -466,21 +466,22 @@
   - _patches_
 - **EQUIPMENT**
   - _changes_
-    - _alchemy_
-      - [Potions Refined - Improved Magical Item Loot](https://www.nexusmods.com/morrowind/mods/58808)
-        - esps:
-          - `Potions Refined`
-          - `Potions Refined - Tamriel`
-          - `Potions Refined - WARES`
-      - [Booze for Purists](https://www.nexusmods.com/morrowind/mods/48914)
-      - [Playable Vivec Armor Vanilla](https://www.nexusmods.com/morrowind/mods/59911)
-      - [Hircine's Artifacts](https://www.nexusmods.com/morrowind/mods/47671)
-      - [Tools of Kagrenac 2.0](https://www.nexusmods.com/morrowind/mods/44463): _heavy_ version
-      - [Actual Warlock's Ring](https://www.nexusmods.com/morrowind/mods/53270)
-      - [From the Hand of God - Better Ring of Azura](https://www.nexusmods.com/morrowind/mods/58516)
-      - [Zoey's Hortator and Nerevarine Items Redone](https://www.nexusmods.com/morrowind/mods/59691)
-      - [Solthas Sixth House Amulet](https://www.nexusmods.com/morrowind/mods/52401)
-      - [Mehrunes' Razor Teleportation and Pocket Realm](https://www.nexusmods.com/morrowind/mods/58622)
+    - [Enchantments Refined - Improved Magical Item Loot](https://www.nexusmods.com/morrowind/mods/58809)
+    - [Potions Refined - Improved Magical Item Loot](https://www.nexusmods.com/morrowind/mods/58808)
+      - esps:
+        - `Potions Refined`
+        - `Potions Refined - Tamriel`
+        - `Potions Refined - OAAB`
+        - `Potions Refined - WARES`
+    - [Booze for Purists](https://www.nexusmods.com/morrowind/mods/48914)
+    - [Playable Vivec Armor Vanilla](https://www.nexusmods.com/morrowind/mods/59911)
+    - [Hircine's Artifacts](https://www.nexusmods.com/morrowind/mods/47671)
+    - [Tools of Kagrenac 2.0](https://www.nexusmods.com/morrowind/mods/44463): _heavy_ version
+    - [Actual Warlock's Ring](https://www.nexusmods.com/morrowind/mods/53270)
+    - [From the Hand of God - Better Ring of Azura](https://www.nexusmods.com/morrowind/mods/58516)
+    - [Zoey's Hortator and Nerevarine Items Redone](https://www.nexusmods.com/morrowind/mods/59691)
+    - [Solthas Sixth House Amulet](https://www.nexusmods.com/morrowind/mods/52401)
+    - [Mehrunes' Razor Teleportation and Pocket Realm](https://www.nexusmods.com/morrowind/mods/58622)
   - _additions_
     - _alchemy_
       - [Vintage Morrowind - Alcoholic beverage mod](https://www.nexusmods.com/morrowind/mods/54195)

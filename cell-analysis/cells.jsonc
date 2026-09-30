@@ -79,7 +79,6 @@
     "Wishmaster Clavicus Vile Questline.esp",
     "Ownership Overhaul.esp"
   ],
-  // TODO ...
   "-10x12": [
     "Library_AM_addon.ESP",
     "HotV - Gnisis.ESP",
@@ -125,6 +124,7 @@
     "RR - Bitter Coast.esp",
     "Justice4Khartag.esp"
   ],
+  // TODO ... shipwreck doubled?
   "-10x4": [
     "OAAB - Shipwrecks.esm",
     "Uncharted Artifacts.esp",
@@ -4633,9 +4633,14 @@
     "Uncharted Artifacts.esp",
     "Hidden Sea Loot.ESP",
     "OAAB_Tel Mora.esm",
+    "RR_Telvanni_Lighthouse_Tel Vos_Eng.ESP",
     "Creatures and Critters.ESP",
     "Creatures_RP_Purist.ESP",
     "DemonOfKnowledge.ESP"
+  ],
+  "13x16": [
+    "Hidden Sea Loot.ESP",
+    "RR_Telvanni_Lighthouse_Tel Vos_Eng.ESP"
   ],
   "13x18": [
     "Hidden Sea Loot.ESP",
@@ -4798,6 +4803,14 @@
     "Hidden Sea Loot.ESP",
     "OAAB_Tel Mora.esm",
     "Treasures of Magic.ESP"
+  ],
+  "14x15": [
+    "Hidden Sea Loot.ESP",
+    "RR_Telvanni_Lighthouse_Tel Vos_Eng.ESP"
+  ],
+  "14x16": [
+    "Hidden Sea Loot.ESP",
+    "RR_Telvanni_Lighthouse_Tel Vos_Eng.ESP"
   ],
   "14x17": [
     "TR_Mainland.esm",
@@ -7121,6 +7134,14 @@
     "TR_Mainland.esm",
     "F&F_Mainland.ESP"
   ],
+  "34x16": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "34x18": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
   "34x6": [
     "TR_Mainland.esm",
     "F&F_Mainland.ESP"
@@ -7147,6 +7168,10 @@
     "RepopulatedMainland.ESP",
     "F&F_Mainland.ESP",
     "Wares_TR_traders.esp"
+  ],
+  "35x15": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
   ],
   "35x17": [
     "TR_Mainland.esm",
@@ -7185,6 +7210,14 @@
     "TR_Mainland.esm",
     "Death and Taxes.esm",
     "F&F_Mainland.ESP"
+  ],
+  "36x14": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "36x18": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
   ],
   "36x4": [
     "TR_Mainland.esm",
@@ -7266,6 +7299,14 @@
     "TR_Mainland.esm",
     "F&F_Mainland.ESP"
   ],
+  "38x14": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "38x19": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
   "39x-11": [
     "TR_Mainland.esm",
     "AATL Mini Mods - Family Ties.ESP"
@@ -7273,6 +7314,10 @@
   "39x17": [
     "TR_Mainland.esm",
     "F&F_Mainland.ESP"
+  ],
+  "39x20": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
   ],
   "3x-10": [
     "RepopulatedMorrowind.ESM",
@@ -7569,9 +7614,29 @@
     "TR_Mainland.esm",
     "F&F_Mainland.ESP"
   ],
+  "40x15": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "40x16": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "40x17": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "40x18": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
   "40x19": [
     "TR_Mainland.esm",
     "F&F_Mainland.ESP"
+  ],
+  "40x20": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
   ],
   "41x-10": [
     "TR_Mainland.esm",
@@ -7586,15 +7651,33 @@
     "RepopulatedMainland.ESP",
     "F&F_Mainland.ESP"
   ],
+  "41x14": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "41x15": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
   "41x16": [
     "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP",
     "RepopulatedMainland.ESP",
     "F&F_Mainland.ESP"
   ],
   "41x17": [
     "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP",
     "F&F_Mainland.ESP",
     "Wares_TR_traders.esp"
+  ],
+  "41x18": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "41x20": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
   ],
   "42x-10": [
     "TR_Mainland.esm",
@@ -7612,17 +7695,31 @@
   ],
   "42x15": [
     "TR_Mainland.esm",
-    "Magical Mainland Homes.ESP"
+    "Magical Mainland Homes.ESP",
+    "PortTelvannisRedux.ESP"
+  ],
+  "42x16": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
   ],
   "42x17": [
     "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP",
     "RepopulatedMainland.ESP",
     "F&F_Mainland.ESP",
     "UL_3.5_TR_26.08_Add-on.esp"
   ],
+  "42x18": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
   "42x19": [
     "TR_Mainland.esm",
     "UL_3.5_TR_26.08_Add-on.esp"
+  ],
+  "42x20": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
   ],
   "43x-11": [
     "TR_Mainland.esm",
@@ -7642,8 +7739,21 @@
     "TR_Mainland.esm",
     "F&F_Mainland.ESP"
   ],
+  "43x15": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "43x16": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "43x17": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
   "43x18": [
     "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP",
     "F&F_Mainland.ESP"
   ],
   "44x-11": [
@@ -7656,9 +7766,61 @@
     "RepopulatedMainland.ESP",
     "F&F_Mainland.ESP"
   ],
+  "44x14": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "44x15": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "44x16": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "44x17": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "44x21": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "45x17": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "45x18": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
   "46x-17": [
     "TR_Mainland.esm",
     "F&F_Mainland.ESP"
+  ],
+  "46x16": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "46x21": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "48x13": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "48x15": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "48x18": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "48x20": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
   ],
   "4x-1": [
     "Creatures and Critters.ESP",
@@ -11697,6 +11859,10 @@
     "OAAB_Grazelands.ESP",
     "Yet Another Guard Diversity - Regular.ESP",
     "Ownership Overhaul.esp"
+  ],
+  "Dr_Test": [
+    "Dr_Data.esm",
+    "PortTelvannisRedux.ESP"
   ],
   "Dragonstar East, Ildgar's Alehouse": [
     "Sky_Main.ESM",
@@ -16216,12 +16382,21 @@
     "Creatures and Critters.ESP",
     "Creatures_RP_Purist.ESP"
   ],
+  "Port Telvannis, Aghzank gro-Zurgh's House": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "Port Telvannis, Andrin Vari's House": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
   "Port Telvannis, Aresthi Brendu: Trader": [
     "TR_Mainland.esm",
     "Wares_TR_traders.esp"
   ],
   "Port Telvannis, Bren Galdis: General Store": [
     "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP",
     "F&F_Mainland.ESP",
     "Wares_TR_traders.esp"
   ],
@@ -16231,21 +16406,25 @@
   ],
   "Port Telvannis, Cerul Arnem: Enchanter": [
     "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP",
     "Wares_TR_traders.esp"
   ],
   "Port Telvannis, Deram Drelas: Armorer": [
     "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP",
     "F&F_Mainland.ESP",
     "Wares_TR_traders.esp"
   ],
   "Port Telvannis, Felisel Gavos: Bookseller": [
     "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP",
     "RepopulatedMainland.ESP",
     "F&F_Mainland.ESP",
     "Wares_TR_traders.esp"
   ],
   "Port Telvannis, Gali Therinyth: Alchemist": [
     "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP",
     "Wares_TR_traders.esp"
   ],
   "Port Telvannis, Llathros Edri: Pawnbroker": [
@@ -16260,37 +16439,53 @@
   ],
   "Port Telvannis, Tel Thenim: Archmagister's Chamber": [
     "TR_Mainland.esm",
-    "TR_Factions.esp"
+    "TR_Factions.esp",
+    "PortTelvannisRedux.ESP"
   ],
   "Port Telvannis, Tel Thenim: Lower Tower": [
     "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP",
     "Wares_TR_traders.esp"
   ],
   "Port Telvannis, Tel Thenim: Upper Tower": [
     "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP",
     "Telvanni Transportation Network TR Restricted.esp"
   ],
   "Port Telvannis, Telvanni Council House: Chambers": [
     "TR_Mainland.esm",
-    "TR_Factions.esp"
+    "TR_Factions.esp",
+    "PortTelvannisRedux.ESP"
   ],
   "Port Telvannis, Telvanni Council House: Entrance": [
     "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP",
     "Wares_TR_traders.esp"
+  ],
+  "Port Telvannis, Telvanni Council House: Vaults": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "Port Telvannis, The Avenue": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
   ],
   "Port Telvannis, The Avenue: Subterranean Balconies": [
     "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP",
     "RepopulatedMainland.ESP",
     "F&F_Mainland.ESP",
     "Wares_TR_traders.esp"
   ],
   "Port Telvannis, The Lost Crab Tavern": [
     "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP",
     "RepopulatedMainland.ESP",
     "Wares_TR_traders.esp"
   ],
   "Port Telvannis, Turosi Salvel: Enchanter": [
     "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP",
     "F&F_Mainland.ESP",
     "Wares_TR_traders.esp"
   ],
