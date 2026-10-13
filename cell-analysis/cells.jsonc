@@ -350,6 +350,7 @@
   "-12x1": [
     "Tribunal.esm",
     "Bloodmoon.esm",
+    "Unique Uniques.ESP",
     "Villa_Stellaris.esp",
     "The Dungeoneering Journey.ESP",
     "Ascadia Land of Pilgrimage.ESP",
@@ -410,6 +411,7 @@
   "-12x2": [
     "Tribunal.esm",
     "Bloodmoon.esm",
+    "Unique Uniques.ESP",
     "Villa_Stellaris.esp",
     "The Dungeoneering Journey.ESP",
     "Ascadia Land of Pilgrimage.ESP",
@@ -435,6 +437,7 @@
   "-12x3": [
     "Tribunal.esm",
     "Bloodmoon.esm",
+    "Unique Uniques.ESP",
     "Villa_Stellaris.esp",
     "The Dungeoneering Journey.ESP",
     "Ascadia Land of Pilgrimage.ESP",
@@ -491,6 +494,7 @@
   "-13x1": [
     "Tribunal.esm",
     "Bloodmoon.esm",
+    "Unique Uniques.ESP",
     "Villa_Stellaris.esp",
     "The Dungeoneering Journey.ESP",
     "Ascadia Land of Pilgrimage.ESP",
@@ -539,6 +543,7 @@
   "-13x2": [
     "Tribunal.esm",
     "Bloodmoon.esm",
+    "Unique Uniques.ESP",
     "Villa_Stellaris.esp",
     "The Dungeoneering Journey.ESP",
     "Ascadia Land of Pilgrimage.ESP",
@@ -556,6 +561,7 @@
   "-13x3": [
     "Tribunal.esm",
     "Bloodmoon.esm",
+    "Unique Uniques.ESP",
     "Villa_Stellaris.esp",
     "The Dungeoneering Journey.ESP",
     "Ascadia Land of Pilgrimage.ESP",
@@ -569,6 +575,7 @@
   "-13x4": [
     "Tribunal.esm",
     "Bloodmoon.esm",
+    "Unique Uniques.ESP",
     "Villa_Stellaris.esp",
     "The Dungeoneering Journey.ESP",
     "Ascadia Land of Pilgrimage.ESP",
@@ -625,6 +632,7 @@
   "-14x2": [
     "Tribunal.esm",
     "Bloodmoon.esm",
+    "Unique Uniques.ESP",
     "Villa_Stellaris.esp",
     "The Dungeoneering Journey.ESP",
     "Ascadia Land of Pilgrimage.ESP",
@@ -638,6 +646,7 @@
   "-14x4": [
     "Tribunal.esm",
     "Bloodmoon.esm",
+    "Unique Uniques.ESP",
     "Villa_Stellaris.esp",
     "The Dungeoneering Journey.ESP",
     "Ascadia Land of Pilgrimage.ESP",
@@ -651,6 +660,7 @@
   "-14x5": [
     "Tribunal.esm",
     "Bloodmoon.esm",
+    "Unique Uniques.ESP",
     "Villa_Stellaris.esp",
     "The Dungeoneering Journey.ESP",
     "Ascadia Land of Pilgrimage.ESP",
@@ -672,6 +682,7 @@
   "-15x-8": [
     "Tribunal.esm",
     "Bloodmoon.esm",
+    "Unique Uniques.ESP",
     "Villa_Stellaris.esp",
     "The Dungeoneering Journey.ESP",
     "Ascadia Land of Pilgrimage.ESP",
@@ -719,6 +730,7 @@
   "-15x7": [
     "Tribunal.esm",
     "Bloodmoon.esm",
+    "Unique Uniques.ESP",
     "Villa_Stellaris.esp",
     "The Dungeoneering Journey.ESP",
     "Ascadia Land of Pilgrimage.ESP",
@@ -759,6 +771,7 @@
   "-16x7": [
     "Tribunal.esm",
     "Bloodmoon.esm",
+    "Unique Uniques.ESP",
     "Villa_Stellaris.esp",
     "The Dungeoneering Journey.ESP",
     "Ascadia Land of Pilgrimage.ESP",
@@ -772,6 +785,7 @@
   "-16x8": [
     "Tribunal.esm",
     "Bloodmoon.esm",
+    "Unique Uniques.ESP",
     "Villa_Stellaris.esp",
     "The Dungeoneering Journey.ESP",
     "Ascadia Land of Pilgrimage.ESP",
@@ -918,6 +932,7 @@
   ],
   "-19x14": [
     "Bloodmoon.esm",
+    "Unique Uniques.ESP",
     "Villa_Stellaris.esp",
     "Ascadia Land of Pilgrimage.ESP",
     "Where the Clouds Rest.ESP",
@@ -930,6 +945,7 @@
   ],
   "-19x15": [
     "Bloodmoon.esm",
+    "Unique Uniques.ESP",
     "Villa_Stellaris.esp",
     "Ascadia Land of Pilgrimage.ESP",
     "Where the Clouds Rest.ESP",
@@ -1279,6 +1295,7 @@
   ],
   "-20x15": [
     "Bloodmoon.esm",
+    "Unique Uniques.ESP",
     "Villa_Stellaris.esp",
     "Ascadia Land of Pilgrimage.ESP",
     "Where the Clouds Rest.ESP",
@@ -1514,7 +1531,7 @@
   "-23x23": [
     "Bloodmoon.esm",
     "Solstheim Tomb of The Snow Prince.esm",
-    "Unique Uniques - Items.esp"
+    "Unique Uniques.ESP"
   ],
   "-23x24": [
     "Bloodmoon.esm",
@@ -1779,6 +1796,7 @@
   "-28x24": [
     "Bloodmoon.esm",
     "Solstheim Tomb of The Snow Prince.esm",
+    "Unique Uniques.ESP",
     "Villa_Stellaris.esp",
     "Ascadia Land of Pilgrimage.ESP",
     "Where the Clouds Rest.ESP",
@@ -1790,6 +1808,7 @@
   "-29x23": [
     "Bloodmoon.esm",
     "Solstheim Tomb of The Snow Prince.esm",
+    "Unique Uniques.ESP",
     "Villa_Stellaris.esp",
     "Ascadia Land of Pilgrimage.ESP",
     "Where the Clouds Rest.ESP",
@@ -2233,6 +2252,7 @@
   ],
   "-3x-8": [
     "Better Sounds_Fixed.esp",
+    "Unique Uniques.ESP",
     "BC Sounds Naturalized.esp",
     "The Dungeoneering Journey.ESP",
     "RR - Bitter Coast.esp",
@@ -3834,6 +3854,7 @@
     "Daedric Shrine Overhaul FULL.esp",
     "GMST The Sable Dragon 1.7.esp",
     "DevilishRockyRedMountain.esp",
+    "Arvesa - An Armigers Tale.ESP",
     "Creatures and Critters.ESP",
     "Creatures_RP_Purist.ESP",
     "F&F_Vvardenfell.ESP",
@@ -7367,6 +7388,7 @@
     "Dramatic Vivec.esp",
     "Concept art palace.ESP",
     "CAP_Illuminated Staircase.ESP",
+    "CAP_Bridge.ESP",
     "Treasures of Magic.ESP",
     "Yet Another Guard Diversity - Regular.ESP",
     "F&F_Vvardenfell.ESP",
@@ -7862,6 +7884,7 @@
     "CAP_Door.ESP",
     "CAP_Illuminated Staircase.ESP",
     "CAP_Interior_Cluttering.ESP",
+    "CAP_Bridge.ESP",
     "Library_AM_addon.ESP",
     "Treasures of Magic.ESP",
     "Yet Another Guard Diversity - Regular.ESP",
@@ -7885,6 +7908,7 @@
     "CAP_Illuminated Staircase.ESP",
     "CAP_Rotating_Planets.ESP",
     "CAP_Interior_Cluttering.ESP",
+    "CAP_Bridge.ESP",
     "OrdinatorOfVehk.ESP",
     "Treasures of Magic.ESP",
     "Shadows of Indoril.ESP",
@@ -8755,7 +8779,8 @@
   ],
   "7x4": [
     "DevilishRockyRedMountain.esp",
-    "Arvesa - An Armigers Tale.ESP"
+    "Arvesa - An Armigers Tale.ESP",
+    "Arvesa - Tamriel Rebuilt.ESP"
   ],
   "7x5": [
     "DevilishRockyRedMountain.esp",
@@ -9638,7 +9663,7 @@
     "Ownership Overhaul.esp"
   ],
   "Ald-ruhn, Dandera Selaro: Smith": [
-    "Unique Uniques - Items.esp",
+    "Unique Uniques.ESP",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Ald-ruhn, Daynes Redothril: Pawnbroker": [
@@ -10152,7 +10177,7 @@
     "LootWellUrned.ESP"
   ],
   "Andrano Ancestral Tomb": [
-    "Unique Uniques - Items.esp",
+    "Unique Uniques.ESP",
     "True_Lights_And_Darkness_1.1.esp",
     "RR - Bitter Coast.esp",
     "Creatures and Critters.ESP",
@@ -10442,7 +10467,7 @@
     "Wares_PC_traders.esp"
   ],
   "Arenim Ancestral Tomb": [
-    "Unique Uniques - Items.esp",
+    "Unique Uniques.ESP",
     "True_Lights_And_Darkness_1.1.esp",
     "Creatures and Critters.ESP",
     "Creatures_RP_Purist.ESP",
@@ -10516,6 +10541,10 @@
   "Armun Pass Outpost, The Guar With No Name": [
     "TR_Mainland.esm",
     "Wares_TR_traders.esp"
+  ],
+  "Arnchenzel, Depth 21226": [
+    "Arnchenzel_Dwemer Underwater House.ESP",
+    "Arnchezel - OAAB Mannequins Addon.ESP"
   ],
   "Arrow, Cabin": [
     "Death and Taxes.esm",
@@ -11126,7 +11155,7 @@
   ],
   "Balmora, The Razor Hole": [
     "Ownership Overhaul.esm",
-    "Unique Uniques - Items.esp",
+    "Unique Uniques.ESP",
     "True_Lights_And_Darkness_1.1.esp",
     "D2Items.esp",
     "Enchanted Batons.ESP",
@@ -12635,7 +12664,7 @@
     "Uncharted Artifacts.esp"
   ],
   "Forgotten Vaults of Anudnabia, Forge of Hilbongard": [
-    "Unique Uniques - Items.esp",
+    "Unique Uniques.ESP",
     "True_Lights_And_Darkness_1.1.esp",
     "Forge of Hilbongard Reignited.ESP",
     "Forgotten Depths of Ald Redaynia.ESP"
@@ -13230,7 +13259,7 @@
     "Ownership Overhaul.esp"
   ],
   "Hassour, Shrine": [
-    "Unique Uniques - Items.esp",
+    "Unique Uniques.ESP",
     "True_Lights_And_Darkness_1.1.esp",
     "Creatures and Critters.ESP",
     "Creatures_RP_Purist.ESP"
@@ -14774,7 +14803,7 @@
     "Tribunal.esm",
     "RepopulatedMorrowind.ESM",
     "Ownership Overhaul.esm",
-    "Unique Uniques - Items.esp",
+    "Unique Uniques.ESP",
     "True_Lights_And_Darkness_1.1.esp",
     "Immersive Mournhold.esp",
     "TR_MuseumofArtifacts.esp",
@@ -15002,6 +15031,14 @@
     "ASH - UNDERTOW AFGD.ESP",
     "The Imperial Dwemer Society.ESP",
     "Ownership Overhaul.esp"
+  ],
+  "Nadram Manor": [
+    "Arvesa - An Armigers Tale.ESP",
+    "Arvesa - Tamriel Rebuilt.ESP"
+  ],
+  "Nadram Manor, Upper Quarters": [
+    "Arvesa - An Armigers Tale.ESP",
+    "Arvesa - Tamriel Rebuilt.ESP"
   ],
   "Nalmunabi": [
     "TR_Mainland.esm",
@@ -16231,7 +16268,7 @@
     "ROHT_2_0_8.ESP"
   ],
   "Palansour": [
-    "Unique Uniques - Items.esp",
+    "Unique Uniques.ESP",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Panat": [
@@ -16392,7 +16429,12 @@
   ],
   "Port Telvannis, Aresthi Brendu: Trader": [
     "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP",
     "Wares_TR_traders.esp"
+  ],
+  "Port Telvannis, Bevasea Thareloth's House": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
   ],
   "Port Telvannis, Bren Galdis: General Store": [
     "TR_Mainland.esm",
@@ -16402,6 +16444,7 @@
   ],
   "Port Telvannis, Calbin Ragis: Clothier": [
     "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP",
     "Wares_TR_traders.esp"
   ],
   "Port Telvannis, Cerul Arnem: Enchanter": [
@@ -16415,6 +16458,30 @@
     "F&F_Mainland.ESP",
     "Wares_TR_traders.esp"
   ],
+  "Port Telvannis, Dirnitha Aserath's House": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "Port Telvannis, Drero Eram's House": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "Port Telvannis, Dro'Khatsir's House": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "Port Telvannis, Dunel Varys' House": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "Port Telvannis, Ero Endravel's House": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "Port Telvannis, Fedryn Morvayn's House": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
   "Port Telvannis, Felisel Gavos: Bookseller": [
     "TR_Mainland.esm",
     "PortTelvannisRedux.ESP",
@@ -16422,15 +16489,35 @@
     "F&F_Mainland.ESP",
     "Wares_TR_traders.esp"
   ],
+  "Port Telvannis, Ferala Aranith's House": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
   "Port Telvannis, Gali Therinyth: Alchemist": [
     "TR_Mainland.esm",
     "PortTelvannisRedux.ESP",
     "Wares_TR_traders.esp"
   ],
+  "Port Telvannis, Gulael Timys' House": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "Port Telvannis, Hinon Meraram's House": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
+  "Port Telvannis, Ilneram Manor": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
+  ],
   "Port Telvannis, Llathros Edri: Pawnbroker": [
     "TR_Mainland.esm",
     "F&F_Mainland.ESP",
     "Wares_TR_traders.esp"
+  ],
+  "Port Telvannis, Odrethi Manor": [
+    "TR_Mainland.esm",
+    "PortTelvannisRedux.ESP"
   ],
   "Port Telvannis, Sendal Tithres: Weaponsmith": [
     "TR_Mainland.esm",
@@ -16535,7 +16622,7 @@
     "Wares_TR_traders.esp"
   ],
   "Ramimilk, Shrine": [
-    "Unique Uniques - Items.esp",
+    "Unique Uniques.ESP",
     "True_Lights_And_Darkness_1.1.esp",
     "Daedric Shrine Overhaul FULL.esp"
   ],
@@ -16685,7 +16772,7 @@
     "Bloodmoon.esm",
     "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
-    "Unique Uniques - Items.esp",
+    "Unique Uniques.ESP",
     "True_Lights_And_Darkness_1.1.esp",
     "GITD_WL_RR_Interiors.esp",
     "Raven Rock Smithy.esp",
@@ -16744,7 +16831,7 @@
     "LootWellUrned.ESP"
   ],
   "Redas Ancestral Tomb": [
-    "Unique Uniques - Items.esp",
+    "Unique Uniques.ESP",
     "True_Lights_And_Darkness_1.1.esp",
     "OAAB - Redas Ancestral Tomb.ESP",
     "LootWellUrned.ESP"
@@ -17074,7 +17161,7 @@
     "RepopulatedMorrowind.ESM",
     "Rise of House Telvanni.esm",
     "Ownership Overhaul.esm",
-    "Unique Uniques - Items.esp",
+    "Unique Uniques.ESP",
     "Animated_Morrowind - merged.esp",
     "True_Lights_And_Darkness_1.1.esp",
     "Wishmaster Clavicus Vile Questline.esp",
@@ -17655,7 +17742,7 @@
     "Bloodmoon.esm",
     "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
-    "Unique Uniques - Items.esp",
+    "Unique Uniques.ESP",
     "True_Lights_And_Darkness_1.1.esp",
     "Solstheim Interior Overhaul Project.ESP",
     "Ownership Overhaul.esp"
@@ -17814,7 +17901,7 @@
   "Solstheim, Frykte": [
     "Bloodmoon.esm",
     "Solstheim Tomb of The Snow Prince.esm",
-    "Unique Uniques - Items.esp",
+    "Unique Uniques.ESP",
     "True_Lights_And_Darkness_1.1.esp",
     "Creatures and Critters.ESP"
   ],
@@ -17885,7 +17972,7 @@
   "Solstheim, Jolgeirr Barrow": [
     "Bloodmoon.esm",
     "Solstheim Tomb of The Snow Prince.esm",
-    "Unique Uniques - Items.esp",
+    "Unique Uniques.ESP",
     "True_Lights_And_Darkness_1.1.esp",
     "Stone Halls of Solstheim.ESP"
   ],
@@ -18376,7 +18463,7 @@
   ],
   "Tel Aruhn, Tower Living Quarters": [
     "Ownership Overhaul.esm",
-    "Unique Uniques - Items.esp",
+    "Unique Uniques.ESP",
     "Unique Jewelry and Accessories.esp",
     "True_Lights_And_Darkness_1.1.esp",
     "Tel_Aruhn_Chronicles.ESP",
@@ -18707,7 +18794,7 @@
   ],
   "Tel Uvirith, Menas' House": [
     "Ownership Overhaul.esm",
-    "Unique Uniques - Items.esp",
+    "Unique Uniques.ESP",
     "True_Lights_And_Darkness_1.1.esp",
     "Uvirith's Legacy_3.53.esp",
     "Wares_traders.ESP",
@@ -18722,7 +18809,7 @@
   ],
   "Tel Uvirith, Seleth's House": [
     "Ownership Overhaul.esm",
-    "Unique Uniques - Items.esp",
+    "Unique Uniques.ESP",
     "True_Lights_And_Darkness_1.1.esp",
     "Uvirith's Legacy_3.53.esp",
     "Scrolls of The Nine Barriers.ESP",
@@ -18813,7 +18900,7 @@
   "Tel Vos, Services Tower": [
     "RepopulatedMorrowind.ESM",
     "Ownership Overhaul.esm",
-    "Unique Uniques - Items.esp",
+    "Unique Uniques.ESP",
     "Animated_Morrowind - merged.esp",
     "True_Lights_And_Darkness_1.1.esp",
     "OAAB_Grazelands.ESP",
@@ -19157,7 +19244,7 @@
     "Creatures_RP_Purist.ESP"
   ],
   "Urshilaku, Laterus Burial": [
-    "Unique Uniques - Items.esp",
+    "Unique Uniques.ESP",
     "True_Lights_And_Darkness_1.1.esp",
     "OAAB - Urshilaku Burial Caverns.ESP"
   ],
@@ -19972,6 +20059,7 @@
   "Vivec, St. Delyn Canal North-Two": [
     "Ownership Overhaul.esm",
     "True_Lights_And_Darkness_1.1.esp",
+    "Arvesa - An Armigers Tale.ESP",
     "Ownership Overhaul.esp"
   ],
   "Vivec, St. Delyn Canal South-One": [
@@ -20238,7 +20326,7 @@
     "Ownership Overhaul.esp"
   ],
   "Vivec, Telvanni Monster Lab": [
-    "Unique Uniques - Items.esp",
+    "Unique Uniques.ESP",
     "True_Lights_And_Darkness_1.1.esp",
     "Illuminated Order Improved.ESP"
   ],

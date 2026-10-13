@@ -736,7 +736,7 @@
         - `Buffed Spell Breaker (OpenMW)`
     - [Mudcrab Imports](https://www.nexusmods.com/morrowind/mods/49463)
     - [The Soggy Muffin](https://www.nexusmods.com/morrowind/mods/56717)
-      - [Muffinwind Rebaked](https://www.nexusmods.com/morrowind/mods/59081)
+      - [Muffinwind Rebaked](https://www.nexusmods.com/morrowind/mods/59081): `Muffinwind Rebaked.esp` only
     - [A Strange Plant](https://www.nexusmods.com/morrowind/mods/42009)
     - [Ancient Foes](https://www.nexusmods.com/morrowind/mods/44705)
     - [Quest For The Golden Mace - Daubeny's Adventure](https://www.nexusmods.com/morrowind/mods/46846)
