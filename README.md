@@ -295,6 +295,17 @@
       - _Vivec_
         - [Dramatic Vivec](https://www.nexusmods.com/morrowind/mods/43385)
         - [Concept Art Palace (Vivec City)](https://www.nexusmods.com/morrowind/mods/48136)
+          - options:
+            - Symmetrical palace
+            - Interior cluttering
+            - Big flame (texture 2)
+            - Rotating planets
+            - Doorstep: Vanilla hand
+            - Dunmer letters: columns & railing
+            - Bridge decorations
+            - Decorated staircase: Illuminated
+            - Unique door
+            - TR water: symmetric
           - [Better Flames for Concept Art Palace (Vivec City) - OpenMW Version](https://www.nexusmods.com/morrowind/mods/52903)
         - [Ordinator of Vehk - unique Vivec Palace guard](https://www.nexusmods.com/morrowind/mods/59995)
         - [Library of Vivec Enhanced](https://www.nexusmods.com/morrowind/mods/50181)
@@ -875,19 +886,6 @@
       - plus `Pretty Loot No Pickup Messages by therealralts` optional file
     - [Of Bead and Feather - Custom Potion Sorter (OpenMW)](https://www.nexusmods.com/morrowind/mods/57782)
       - `256x256` and `Vanilla size` options
-- **LOW PRIORITY PATCHES**
-- **LOW PRIORITY OVERRIDES**
-  - [Wares Ultimate](https://www.nexusmods.com/morrowind/mods/52013)
-    - modules:
-      - 02 Wares to vanilla lists
-      - 06 Wares to Traders
-      - 07 Moar Wares to traders
-      - 09 Wares to containers
-      - 08 Wares to NPC
-      - 10 NOD Patch
-      - 11 TR plugins
-      - 12 SHOTH Plugins
-      - 13 PC plugins
 - **MAGIC**
   - _Additions_
     - [Daisy's Lua Multimark Mod](https://www.nexusmods.com/morrowind/mods/53260)
@@ -913,6 +911,26 @@
     - [Of Pestilence and Purification - Animal Disease Curing and More (OpenMW)](https://www.nexusmods.com/morrowind/mods/58929)
     - [Arcane Implements - Cantrips Spellbooks and Runes](https://www.nexusmods.com/morrowind/mods/55836)
     - [Spellmaker (OpenMW)](https://www.nexusmods.com/morrowind/mods/59851): plus `Patches` file: `spellmaker_AIO` combined patch for all three
+- **LOW PRIORITY PATCHES**
+  - `Patch, Cell, -10x4`: shipwreck duplication
+  - `Patch, Cell, -11x10`: silt strider position
+  - `Patch, Cell, -11x11`:
+    - imperial legion notice dropped underground
+    - seam towards -11x12
+    - NPCs underground
+    - crates underground
+- **LOW PRIORITY OVERRIDES**
+  - [Wares Ultimate](https://www.nexusmods.com/morrowind/mods/52013)
+    - modules:
+      - 02 Wares to vanilla lists
+      - 06 Wares to Traders
+      - 07 Moar Wares to traders
+      - 09 Wares to containers
+      - 08 Wares to NPC
+      - 10 NOD Patch
+      - 11 TR plugins
+      - 12 SHOTH Plugins
+      - 13 PC plugins
 - **GAMEPLAY**
   - _exploration_
     - [Ownership Overhaul](https://www.nexusmods.com/morrowind/mods/48051)
@@ -922,7 +940,7 @@
     - [Fresh Loot (OpenMW)](https://www.nexusmods.com/morrowind/mods/56005)
     - [Set Bonus](https://www.nexusmods.com/morrowind/mods/52911)
     - [City Guide Menu (OpenMW)](https://www.nexusmods.com/morrowind/mods/58934)
-    - [Tabletop Alchemy](https://www.nexusmods.com/morrowind/mods/52891)
+    - [(OpenMW) Alchemy Redone](https://www.nexusmods.com/morrowind/mods/59559)
     - [Actor Interactions - OpenMW](https://www.nexusmods.com/morrowind/mods/57955)
     - [Attend Me](https://www.nexusmods.com/morrowind/mods/51232)
       <!-- - [Companion Teleportation (OpenMW)](https://www.nexusmods.com/morrowind/mods/58229) TODO: probably not needed because of `Attend Me`-->
@@ -1034,5 +1052,4 @@
   - very lightweight survival mechanic
 - In-game notes?
 
-## Patches & Fixes
-
+## Patches & Fixes Needed

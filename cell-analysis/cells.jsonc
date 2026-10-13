@@ -124,7 +124,6 @@
     "RR - Bitter Coast.esp",
     "Justice4Khartag.esp"
   ],
-  // TODO ... shipwreck doubled?
   "-10x4": [
     "OAAB - Shipwrecks.esm",
     "Uncharted Artifacts.esp",
@@ -195,6 +194,7 @@
     "Wishmaster Clavicus Vile Questline.esp",
     "Ethereal Magic.ESP"
   ],
+  // TODO ...
   "-11x11": [
     "RepopulatedMorrowind.ESM",
     "Rise of House Telvanni.esm",
