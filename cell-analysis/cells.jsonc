@@ -40,11 +40,15 @@
     "F&F_Mainland.ESP"
   ],
   "-10x1": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "-10x10": [
     "RepopulatedMorrowind.ESM",
+    "Uncharted Artifacts.esp",
     "Treasures of Magic.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -70,17 +74,31 @@
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
+  "-10x16": [
+    "Hidden Sea Loot.ESP",
+    "F&F_Vvardenfell.ESP"
+  ],
+  "-10x18": [
+    "RepopulatedMorrowind.ESM",
+    "Hidden Sea Loot.ESP"
+  ],
   "-10x2": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "-10x4": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "-10x5": [
+    "OAAB - Shipwrecks.esm",
     "Better Sounds_Fixed.esp",
-    "BC Sounds Naturalized.esp"
+    "BC Sounds Naturalized.esp",
+    "Hidden Sea Loot.ESP"
   ],
   "-110x-53": [
     "Cyr_Main.ESM",
@@ -118,7 +136,6 @@
     "TR_Mainland.esm",
     "F&F_Mainland.ESP"
   ],
-  // TODO
   "-11x10": [
     "RepopulatedMorrowind.ESM",
     "Treasures of Magic.ESP",
@@ -161,7 +178,21 @@
     "Yet Another Guard Diversity - Regular.ESP",
     "Ownership Overhaul.esp"
   ],
+  "-11x17": [
+    "Sea Forts of Morrowind 1.0v.ESP",
+    "Hidden Sea Loot.ESP"
+  ],
+  "-11x7": [
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP"
+  ],
+  "-11x8": [
+    "Hidden Sea Loot.ESP",
+    "Creatures_RP_Purist.ESP"
+  ],
   "-11x9": [
+    "OAAB - Shipwrecks.esm",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
@@ -242,6 +273,7 @@
     "Creatures and Critters.ESP"
   ],
   "-12x15": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -260,6 +292,7 @@
     "FactionPerkSpells.ESP"
   ],
   "-12x9": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -286,6 +319,10 @@
     "WarlockRing.ESP",
     "FactionPerkSpells.ESP"
   ],
+  "-13x11": [
+    "Hidden Sea Loot.ESP",
+    "F&F_Vvardenfell.ESP"
+  ],
   "-13x12": [
     "Ownership Overhaul.esm",
     "F&F_Vvardenfell.ESP",
@@ -294,15 +331,20 @@
     "Ownership Overhaul.esp"
   ],
   "-13x13": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
   ],
   "-13x14": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "-13x15": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -339,7 +381,16 @@
     "TR_Mainland.esm",
     "F&F_Mainland.ESP"
   ],
+  "-14x10": [
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP"
+  ],
+  "-14x12": [
+    "Hidden Sea Loot.ESP",
+    "Creatures and Critters.ESP"
+  ],
   "-14x13": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
@@ -347,6 +398,7 @@
   "-14x14": [
     "RepopulatedMorrowind.ESM",
     "Animated_Morrowind - merged.esp",
+    "Hidden Sea Loot.ESP",
     "Friends & Frens - Vvardenfell.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -378,12 +430,24 @@
     "WarlockRing.ESP",
     "FactionPerkSpells.ESP"
   ],
+  "-15x10": [
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP"
+  ],
+  "-15x13": [
+    "Hidden Sea Loot.ESP",
+    "Creatures_RP_Purist.ESP"
+  ],
   "-15x14": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "-15x15": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -399,8 +463,25 @@
     "F&F_Mainland.ESP"
   ],
   "-16x14": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
+  ],
+  "-16x23": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-16x24": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-16x25": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-16x26": [
+    "Solstheim Tomb of The Snow Prince.esm",
+    "Creatures_RP_Purist.ESP"
   ],
   "-16x7": [
     "Tribunal.esm",
@@ -425,6 +506,50 @@
     "TR_Mainland.esm",
     "F&F_Mainland.ESP"
   ],
+  "-17x17": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-17x18": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-17x19": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-17x20": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-17x21": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-17x22": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-17x23": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-17x24": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-17x25": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-17x26": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-17x32": [
+    "Solstheim Tomb of The Snow Prince.esm",
+    "Creatures_RP_Purist.ESP"
+  ],
   "-18x-24": [
     "TR_Mainland.esm",
     "F&F_Mainland.ESP"
@@ -432,6 +557,62 @@
   "-18x-25": [
     "TR_Mainland.esm",
     "F&F_Mainland.ESP"
+  ],
+  "-18x16": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-18x17": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-18x18": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-18x19": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-18x20": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-18x21": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-18x22": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-18x23": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-18x24": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-18x25": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-18x26": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-18x27": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-18x28": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-18x30": [
+    "Solstheim Tomb of The Snow Prince.esm",
+    "Creatures_RP_Purist.ESP"
   ],
   "-19x14": [
     "Bloodmoon.esm",
@@ -445,12 +626,61 @@
     "WarlockRing.ESP",
     "FactionPerkSpells.ESP"
   ],
+  "-19x16": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-19x17": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-19x18": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-19x19": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-19x20": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-19x21": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-19x22": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
   "-19x23": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "Wares_traders.ESP",
     "RepopulatedBloodmoon.ESP",
     "Ownership Overhaul.esp"
+  ],
+  "-19x24": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-19x25": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-19x26": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-19x27": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-19x28": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
   ],
   "-1x-1": [
     "Creatures_RP_Purist.ESP",
@@ -459,12 +689,15 @@
   "-1x-10": [
     "Better Sounds_Fixed.esp",
     "BC Sounds Naturalized.esp",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "-1x-11": [
+    "OAAB - Shipwrecks.esm",
     "Better Sounds_Fixed.esp",
     "BC Sounds Naturalized.esp",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
@@ -502,6 +735,7 @@
     "Creatures and Critters Light the Path.ESP"
   ],
   "-1x-5": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP",
@@ -516,6 +750,7 @@
     "F&F_Mainland.ESP"
   ],
   "-1x-6": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP",
     "Creatures and Critters Light the Path.ESP"
@@ -540,6 +775,7 @@
     "Ownership Overhaul.esm",
     "Better Sounds_Fixed.esp",
     "BC Sounds Naturalized.esp",
+    "Uncharted Artifacts.esp",
     "Treasures of Magic.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP",
@@ -562,24 +798,38 @@
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
+  "-1x20": [
+    "Hidden Sea Loot.ESP",
+    "F&F_Vvardenfell.ESP"
+  ],
   "-1x21": [
     "AATL Mini Integration - Static Encounters.ESP",
+    "Hidden Sea Loot.ESP",
     "Creatures and Critters.ESP"
   ],
   "-1x22": [
     "AATL Mini Integration - Static Encounters.ESP",
     "Helm of Tohan Naturalized.esp",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "-1x23": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "-1x24": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
+  ],
+  "-1x25": [
+    "Sea Forts of Morrowind 1.0v.ESP",
+    "Hidden Sea Loot.ESP"
   ],
   "-1x3": [
     "F&F_Vvardenfell.ESP",
@@ -608,12 +858,46 @@
     "WarlockRing.ESP",
     "FactionPerkSpells.ESP"
   ],
+  "-20x16": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-20x17": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-20x18": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-20x19": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-20x20": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-20x21": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-20x22": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
   "-20x23": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "RepopulatedBloodmoon.ESP"
+  ],
+  "-20x24": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
   ],
   "-20x25": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "Animated_Morrowind - merged.esp",
     "RepopulatedBloodmoon.ESP",
@@ -621,21 +905,81 @@
   ],
   "-20x26": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "Ownership Overhaul.esp"
   ],
+  "-20x27": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-21x15": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-21x16": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-21x17": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-21x18": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-21x19": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-21x20": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-21x21": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-21x22": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-21x23": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-21x24": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
   "-21x25": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "RepopulatedBloodmoon.ESP",
     "Ownership Overhaul.esp"
   ],
   "-21x26": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Animated_Morrowind - merged.esp"
+  ],
+  "-21x27": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-21x28": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-22x15": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
   ],
   "-22x16": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "Animated_Morrowind - merged.esp",
     "RepopulatedBloodmoon.ESP",
@@ -643,65 +987,355 @@
   ],
   "-22x17": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "RepopulatedBloodmoon.ESP",
     "Ownership Overhaul.esp"
   ],
+  "-22x18": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-22x19": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-22x20": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-22x21": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-22x22": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-22x23": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
   "-22x24": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "Ownership Overhaul.esp"
   ],
+  "-22x25": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-22x26": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-22x27": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-23x15": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-23x16": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-23x17": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-23x18": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
   "-23x19": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "The Doors of Oblivion 1.4.esp"
+  ],
+  "-23x20": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-23x21": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-23x22": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
   ],
   "-23x23": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Unique Uniques.ESP"
+  ],
+  "-23x24": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
   ],
   "-23x25": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "RepopulatedBloodmoon.ESP"
   ],
   "-23x26": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Creatures_RP_Purist.ESP"
+  ],
+  "-23x27": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-24x14": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-24x15": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-24x16": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-24x17": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-24x18": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
   ],
   "-24x19": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "RepopulatedBloodmoon.ESP"
+  ],
+  "-24x20": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-24x21": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-24x22": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-24x23": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-24x24": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-24x25": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-24x26": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-24x27": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-25x14": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-25x15": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-25x16": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-25x17": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-25x18": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
   ],
   "-25x19": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "RepopulatedBloodmoon.ESP",
     "Ownership Overhaul.esp"
   ],
+  "-25x20": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
   "-25x21": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "RepopulatedBloodmoon.ESP"
+  ],
+  "-25x22": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-25x23": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-25x24": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-25x25": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-25x26": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-25x27": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-25x28": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-26x17": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-26x18": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-26x19": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-26x20": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-26x21": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-26x22": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-26x23": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
   ],
   "-26x24": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Creatures_RP_Purist.ESP"
   ],
   "-26x25": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Creatures_RP_Purist.ESP"
+  ],
+  "-26x26": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-26x27": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-26x28": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-27x18": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-27x19": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-27x20": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-27x21": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-27x22": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
   ],
   "-27x23": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "RepopulatedBloodmoon.ESP"
+  ],
+  "-27x24": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-27x25": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-27x26": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-27x27": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-28x18": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-28x19": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-28x20": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-28x21": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-28x22": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
+  "-28x23": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
   ],
   "-28x24": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Unique Uniques.ESP",
     "WarlockRing.ESP",
     "FactionPerkSpells.ESP"
   ],
   "-29x23": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Unique Uniques.ESP",
     "WarlockRing.ESP",
     "FactionPerkSpells.ESP"
@@ -713,6 +1347,7 @@
   ],
   "-2x-10": [
     "Tribunal.esm",
+    "OAAB - Shipwrecks.esm",
     "RepopulatedMorrowind.ESM",
     "Ownership Overhaul.esm",
     "Better Sounds_Fixed.esp",
@@ -722,7 +1357,10 @@
     "Ownership Overhaul.esp"
   ],
   "-2x-11": [
+    "OAAB - Shipwrecks.esm",
     "RepopulatedMorrowind.ESM",
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -795,6 +1433,7 @@
     "F&F_Vvardenfell.ESP",
     "Friends & Frens - Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
+    "PaxonRat.esp",
     "Local Lore - Silt Striders and Caravaners - Silt Strider Animation Restored.ESP",
     "Creatures and Critters.ESP",
     "Creatures and Critters Light the Path.ESP",
@@ -838,16 +1477,23 @@
     "Yet Another Guard Diversity - Regular.ESP",
     "Ownership Overhaul.esp"
   ],
+  "-2x20": [
+    "Hidden Sea Loot.ESP",
+    "F&F_Vvardenfell.ESP"
+  ],
   "-2x21": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "-2x23": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "-2x24": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -898,6 +1544,7 @@
     "Better Sounds_Fixed.esp",
     "AATL Mini Integration - Static Encounters.ESP",
     "BC Sounds Naturalized.esp",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP"
   ],
   "-3x-13": [
@@ -1011,6 +1658,7 @@
     "Creatures_RP_Purist.ESP"
   ],
   "-3x19": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -1022,6 +1670,7 @@
   ],
   "-3x21": [
     "AATL Mini Integration - Static Encounters.ESP",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -1052,6 +1701,10 @@
     "Better Sounds_Fixed.esp",
     "BC Sounds Naturalized.esp",
     "Creatures and Critters.ESP"
+  ],
+  "-4x-10": [
+    "Hidden Sea Loot.ESP",
+    "Treasures of Magic.ESP"
   ],
   "-4x-14": [
     "TR_Mainland.esm",
@@ -1107,11 +1760,14 @@
     "Better Sounds_Fixed.esp",
     "AATL Mini Integration - Static Encounters.ESP",
     "BC Sounds Naturalized.esp",
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP",
     "Creatures and Critters.ESP"
   ],
   "-4x-9": [
     "Better Sounds_Fixed.esp",
     "BC Sounds Naturalized.esp",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
@@ -1138,12 +1794,17 @@
     "Ownership Overhaul.esp"
   ],
   "-4x19": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "-4x2": [
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters Light the Path.ESP"
+  ],
+  "-4x21": [
+    "Uncharted Artifacts.esp",
+    "Creatures_RP_Purist.ESP"
   ],
   "-4x3": [
     "F&F_Vvardenfell.ESP",
@@ -1175,7 +1836,8 @@
   ],
   "-5x-10": [
     "Better Sounds_Fixed.esp",
-    "BC Sounds Naturalized.esp"
+    "BC Sounds Naturalized.esp",
+    "Hidden Sea Loot.ESP"
   ],
   "-5x-16": [
     "TR_Mainland.esm",
@@ -1228,8 +1890,11 @@
     "Creatures and Critters Light the Path.ESP"
   ],
   "-5x-7": [
+    "OAAB - Shipwrecks.esm",
     "Better Sounds_Fixed.esp",
     "BC Sounds Naturalized.esp",
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters Light the Path.ESP"
   ],
@@ -1242,6 +1907,7 @@
   "-5x-9": [
     "Better Sounds_Fixed.esp",
     "BC Sounds Naturalized.esp",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -1325,11 +1991,13 @@
   "-6x-1": [
     "Better Sounds_Fixed.esp",
     "BC Sounds Naturalized.esp",
+    "Uncharted Artifacts.esp",
     "Creatures_RP_Purist.ESP"
   ],
   "-6x-10": [
     "TR_Mainland.esm",
-    "Siege at Firemoth Naturalized.esp"
+    "Siege at Firemoth Naturalized.esp",
+    "Hidden Sea Loot.ESP"
   ],
   "-6x-15": [
     "TR_Mainland.esm",
@@ -1392,17 +2060,24 @@
     "Creatures and Critters.ESP"
   ],
   "-6x-7": [
+    "OAAB - Shipwrecks.esm",
     "RepopulatedMorrowind.ESM",
     "Better Sounds_Fixed.esp",
     "BC Sounds Naturalized.esp",
+    "Uncharted Artifacts.esp",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "-6x-8": [
+    "Hidden Sea Loot.ESP",
     "Treasures of Magic.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
+  ],
+  "-6x-9": [
+    "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP"
   ],
   "-6x0": [
     "Better Sounds_Fixed.esp",
@@ -1413,6 +2088,7 @@
   "-6x1": [
     "Better Sounds_Fixed.esp",
     "BC Sounds Naturalized.esp",
+    "Hidden Sea Loot.ESP",
     "Creatures and Critters.ESP"
   ],
   "-6x10": [
@@ -1441,9 +2117,14 @@
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
+  "-6x18": [
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP"
+  ],
   "-6x2": [
     "Better Sounds_Fixed.esp",
     "BC Sounds Naturalized.esp",
+    "Hidden Sea Loot.ESP",
     "Creatures and Critters.ESP"
   ],
   "-6x3": [
@@ -1475,7 +2156,8 @@
   ],
   "-7x-1": [
     "Better Sounds_Fixed.esp",
-    "BC Sounds Naturalized.esp"
+    "BC Sounds Naturalized.esp",
+    "Hidden Sea Loot.ESP"
   ],
   "-7x-10": [
     "TR_Mainland.esm",
@@ -1506,6 +2188,7 @@
   "-7x-2": [
     "Better Sounds_Fixed.esp",
     "BC Sounds Naturalized.esp",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -1520,6 +2203,7 @@
   "-7x-3": [
     "Better Sounds_Fixed.esp",
     "BC Sounds Naturalized.esp",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP"
   ],
   "-7x-4": [
@@ -1537,6 +2221,7 @@
     "Ownership Overhaul.esm",
     "Better Sounds_Fixed.esp",
     "BC Sounds Naturalized.esp",
+    "Hidden Sea Loot.ESP",
     "Treasures of Magic.ESP",
     "Creatures and Critters.ESP",
     "Ownership Overhaul.esp"
@@ -1545,11 +2230,13 @@
     "Ownership Overhaul.esm",
     "Better Sounds_Fixed.esp",
     "BC Sounds Naturalized.esp",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP",
     "Ownership Overhaul.esp"
   ],
   "-7x-7": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -1559,12 +2246,14 @@
   ],
   "-7x0": [
     "Better Sounds_Fixed.esp",
-    "BC Sounds Naturalized.esp"
+    "BC Sounds Naturalized.esp",
+    "Hidden Sea Loot.ESP"
   ],
   "-7x1": [
     "RepopulatedMorrowind.ESM",
     "Better Sounds_Fixed.esp",
     "BC Sounds Naturalized.esp",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -1590,10 +2279,13 @@
     "F&F_Vvardenfell.ESP"
   ],
   "-7x18": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "-7x19": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -1663,6 +2355,7 @@
   "-8x-2": [
     "Better Sounds_Fixed.esp",
     "BC Sounds Naturalized.esp",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
@@ -1677,11 +2370,13 @@
   ],
   "-8x-3": [
     "Better Sounds_Fixed.esp",
-    "BC Sounds Naturalized.esp"
+    "BC Sounds Naturalized.esp",
+    "Hidden Sea Loot.ESP"
   ],
   "-8x-4": [
     "Better Sounds_Fixed.esp",
-    "BC Sounds Naturalized.esp"
+    "BC Sounds Naturalized.esp",
+    "Hidden Sea Loot.ESP"
   ],
   "-8x-43": [
     "TR_Mainland.esm",
@@ -1706,13 +2401,15 @@
   "-8x0": [
     "Better Sounds_Fixed.esp",
     "BC Sounds Naturalized.esp",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "-8x1": [
     "Better Sounds_Fixed.esp",
-    "BC Sounds Naturalized.esp"
+    "BC Sounds Naturalized.esp",
+    "Hidden Sea Loot.ESP"
   ],
   "-8x10": [
     "Creatures_RP_Purist.ESP",
@@ -1750,6 +2447,7 @@
   "-8x2": [
     "Better Sounds_Fixed.esp",
     "BC Sounds Naturalized.esp",
+    "Hidden Sea Loot.ESP",
     "Olive the Enchanter.esp",
     "Creatures and Critters.ESP"
   ],
@@ -1759,6 +2457,7 @@
     "Better Sounds_Fixed.esp",
     "Animated_Morrowind - merged.esp",
     "BC Sounds Naturalized.esp",
+    "Hidden Sea Loot.ESP",
     "Treasures of Magic.ESP",
     "EKM Traveling Trader.ESP",
     "F&F_Vvardenfell.ESP",
@@ -1770,6 +2469,7 @@
   "-8x4": [
     "Better Sounds_Fixed.esp",
     "BC Sounds Naturalized.esp",
+    "Hidden Sea Loot.ESP",
     "Creatures and Critters.ESP"
   ],
   "-8x5": [
@@ -1786,12 +2486,14 @@
     "Creatures and Critters Light the Path.ESP"
   ],
   "-8x9": [
+    "Uncharted Artifacts.esp",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "-9x-1": [
     "Better Sounds_Fixed.esp",
-    "BC Sounds Naturalized.esp"
+    "BC Sounds Naturalized.esp",
+    "Hidden Sea Loot.ESP"
   ],
   "-9x-10": [
     "TR_Mainland.esm",
@@ -1801,6 +2503,10 @@
     "TR_Mainland.esm",
     "Siege at Firemoth Naturalized.esp"
   ],
+  "-9x-2": [
+    "Sea Forts of Morrowind 1.0v.ESP",
+    "Hidden Sea Loot.ESP"
+  ],
   "-9x-21": [
     "TR_Mainland.esm",
     "F&F_Mainland.ESP"
@@ -1808,6 +2514,14 @@
   "-9x-26": [
     "TR_Mainland.esm",
     "F&F_Mainland.ESP"
+  ],
+  "-9x-3": [
+    "Sea Forts of Morrowind 1.0v.ESP",
+    "Hidden Sea Loot.ESP"
+  ],
+  "-9x-4": [
+    "RepopulatedMorrowind.ESM",
+    "Hidden Sea Loot.ESP"
   ],
   "-9x-43": [
     "TR_Mainland.esm",
@@ -1852,9 +2566,11 @@
   ],
   "-9x17": [
     "Bloodmoon.esm",
+    "OAAB - Shipwrecks.esm",
     "RepopulatedMorrowind.ESM",
     "Ownership Overhaul.esm",
     "Animated_Morrowind - merged.esp",
+    "Hidden Sea Loot.ESP",
     "Treasures of Magic.ESP",
     "Elynda's Winter Wear Wares.esp",
     "EKM Traveling Trader.ESP",
@@ -1863,25 +2579,33 @@
     "Ownership Overhaul.esp"
   ],
   "-9x2": [
+    "OAAB - Shipwrecks.esm",
     "Better Sounds_Fixed.esp",
     "BC Sounds Naturalized.esp",
+    "Hidden Sea Loot.ESP",
     "Olive the Enchanter.esp"
   ],
   "-9x3": [
     "Better Sounds_Fixed.esp",
     "BC Sounds Naturalized.esp",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "-9x4": [
+    "OAAB - Shipwrecks.esm",
     "Ownership Overhaul.esm",
     "Better Sounds_Fixed.esp",
     "BC Sounds Naturalized.esp",
+    "Uncharted Artifacts.esp",
+    "OAAB - Shipwrecks - TR Patch.ESP",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP",
     "Ownership Overhaul.esp"
   ],
   "-9x5": [
+    "OAAB - Shipwrecks.esm",
     "Better Sounds_Fixed.esp",
     "BC Sounds Naturalized.esp",
     "EKM Traveling Trader.ESP"
@@ -1910,24 +2634,30 @@
   ],
   "0x-11": [
     "Better Sounds_Fixed.esp",
-    "BC Sounds Naturalized.esp"
+    "BC Sounds Naturalized.esp",
+    "Hidden Sea Loot.ESP"
   ],
   "0x-12": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "0x-13": [
     "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "0x-14": [
     "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "0x-15": [
     "TR_Mainland.esm",
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -1966,11 +2696,13 @@
     "F&F_Mainland.ESP"
   ],
   "0x-5": [
+    "Hidden Sea Loot.ESP",
     "Treasures of Magic.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "0x-6": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -1987,6 +2719,7 @@
   ],
   "0x-8": [
     "Ownership Overhaul.esm",
+    "Hidden Sea Loot.ESP",
     "Treasures of Magic.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
@@ -2008,6 +2741,7 @@
   ],
   "0x14": [
     "RepopulatedMorrowind.ESM",
+    "Uncharted Artifacts.esp",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -2021,17 +2755,32 @@
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
+  "0x20": [
+    "Hidden Sea Loot.ESP",
+    "F&F_Vvardenfell.ESP"
+  ],
   "0x21": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP"
   ],
+  "0x22": [
+    "Hidden Sea Loot.ESP",
+    "Creatures_RP_Purist.ESP"
+  ],
   "0x23": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "0x24": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
+  ],
+  "0x25": [
+    "Sea Forts of Morrowind 1.0v.ESP",
+    "Hidden Sea Loot.ESP"
   ],
   "0x4": [
     "Aoimevelho Wares with ALL NPCs.ESP",
@@ -2044,8 +2793,17 @@
     "Ownership Overhaul.esp"
   ],
   "10x-10": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
+    "Creatures and Critters.ESP"
+  ],
+  "10x-11": [
+    "Hidden Sea Loot.ESP",
+    "F&F_Vvardenfell.ESP"
+  ],
+  "10x-12": [
+    "Hidden Sea Loot.ESP",
     "Creatures and Critters.ESP"
   ],
   "10x-21": [
@@ -2075,6 +2833,7 @@
     "F&F_Mainland.ESP"
   ],
   "10x-9": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -2117,6 +2876,10 @@
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
   ],
+  "10x20": [
+    "RepopulatedMorrowind.ESM",
+    "Hidden Sea Loot.ESP"
+  ],
   "10x3": [
     "RepopulatedMorrowind_OAAB_Data.ESP",
     "F&F_Vvardenfell.ESP"
@@ -2129,14 +2892,19 @@
     "Creatures and Critters.ESP"
   ],
   "11x-10": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP"
   ],
   "11x-12": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "11x-13": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -2157,6 +2925,7 @@
     "Creatures and Critters Light the Path.ESP"
   ],
   "11x-8": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -2184,6 +2953,7 @@
     "Ownership Overhaul.esp"
   ],
   "11x17": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -2197,24 +2967,48 @@
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
+  "11x21": [
+    "Hidden Sea Loot.ESP",
+    "The Undead - TR Addon.esp"
+  ],
+  "11x22": [
+    "Hidden Sea Loot.ESP",
+    "The Undead - TR Addon.esp"
+  ],
+  "11x5": [
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP"
+  ],
   "11x9": [
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP"
   ],
   "12x-1": [
+    "Uncharted Artifacts.esp",
     "Aoimevelho Wares with ALL NPCs.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
   ],
   "12x-10": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
+  "12x-11": [
+    "Hidden Sea Loot.ESP",
+    "Creatures and Critters.ESP"
+  ],
   "12x-12": [
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP",
     "Treasures of Magic.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
+  ],
+  "12x-13": [
+    "Hidden Sea Loot.ESP",
+    "Treasures of Magic.ESP"
   ],
   "12x-27": [
     "TR_Mainland.esm",
@@ -2264,17 +3058,27 @@
   "12x13": [
     "RepopulatedMorrowind.ESM",
     "Ownership Overhaul.esm",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Ownership Overhaul.esp"
   ],
+  "12x16": [
+    "Hidden Sea Loot.ESP",
+    "Creatures_RP_Purist.ESP"
+  ],
   "12x17": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "12x2": [
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP"
+  ],
+  "12x22": [
+    "Hidden Sea Loot.ESP",
+    "The Undead - TR Addon.esp"
   ],
   "12x27": [
     "TR_Mainland.esm",
@@ -2314,7 +3118,12 @@
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP"
   ],
+  "13x-12": [
+    "Hidden Sea Loot.ESP",
+    "Creatures and Critters.ESP"
+  ],
   "13x-13": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -2370,10 +3179,26 @@
     "Yet Another Guard Diversity - Regular.ESP"
   ],
   "13x15": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
+  "13x20": [
+    "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP"
+  ],
+  "13x21": [
+    "Hidden Sea Loot.ESP",
+    "The Undead - TR Addon.esp"
+  ],
+  "13x3": [
+    "Hidden Sea Loot.ESP",
+    "Aoimevelho Wares with ALL NPCs.ESP"
+  ],
   "13x7": [
+    "Hidden Sea Loot.ESP",
     "Aoimevelho Wares with ALL NPCs.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -2387,10 +3212,12 @@
     "Creatures and Critters.ESP"
   ],
   "14x-10": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
   ],
   "14x-12": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -2398,6 +3225,7 @@
     "TR_Mainland.esm",
     "RepopulatedMorrowind.ESM",
     "Animated_Morrowind - merged.esp",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP"
   ],
   "14x-2": [
@@ -2416,12 +3244,14 @@
     "Creatures and Critters.ESP"
   ],
   "14x0": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP"
   ],
   "14x1": [
     "RepopulatedMorrowind.ESM",
     "Ownership Overhaul.esm",
+    "Hidden Sea Loot.ESP",
     "Wares_traders.ESP",
     "Aoimevelho Wares with ALL NPCs.ESP",
     "Creatures_RP_Purist.ESP",
@@ -2431,19 +3261,66 @@
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP"
   ],
+  "14x13": [
+    "Hidden Sea Loot.ESP",
+    "Creatures_RP_Purist.ESP"
+  ],
+  "14x14": [
+    "Hidden Sea Loot.ESP",
+    "Treasures of Magic.ESP"
+  ],
+  "14x17": [
+    "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP"
+  ],
+  "14x2": [
+    "Hidden Sea Loot.ESP",
+    "Creatures_RP_Purist.ESP"
+  ],
+  "14x3": [
+    "Hidden Sea Loot.ESP",
+    "Creatures and Critters.ESP"
+  ],
   "14x5": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
+  "14x7": [
+    "AATL Mini Integration - Static Encounters.ESP",
+    "Hidden Sea Loot.ESP"
+  ],
+  "14x8": [
+    "Hidden Sea Loot.ESP",
+    "Friends & Frens - Vvardenfell.ESP"
+  ],
+  "15x-10": [
+    "Hidden Sea Loot.ESP",
+    "Creatures and Critters.ESP"
+  ],
   "15x-11": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
   ],
   "15x-13": [
+    "Hidden Sea Loot.ESP",
     "Treasures of Magic.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
+  ],
+  "15x-14": [
+    "Hidden Sea Loot.ESP",
+    "Creatures and Critters.ESP"
+  ],
+  "15x-15": [
+    "Hidden Sea Loot.ESP",
+    "Creatures and Critters.ESP"
+  ],
+  "15x-16": [
+    "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP"
   ],
   "15x-20": [
     "TR_Mainland.esm",
@@ -2462,18 +3339,27 @@
     "Friends & Frens - Vvardenfell.ESP"
   ],
   "15x-9": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
+  "15x0": [
+    "Hidden Sea Loot.ESP",
+    "Creatures_RP_Purist.ESP"
+  ],
   "15x1": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "NOD - Cinia Urtius Addon.ESP",
     "Creatures and Critters.ESP"
   ],
   "15x11": [
+    "OAAB - Shipwrecks.esm",
     "Unique Jewelry and Accessories.esp",
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -2487,6 +3373,7 @@
     "F&F_Mainland.ESP"
   ],
   "15x4": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -2503,8 +3390,17 @@
   ],
   "15x8": [
     "AATL Mini Integration - Static Encounters.ESP",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
+  ],
+  "16x-1": [
+    "Hidden Sea Loot.ESP",
+    "F&F_Vvardenfell.ESP"
+  ],
+  "16x-15": [
+    "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP"
   ],
   "16x-19": [
     "TR_Mainland.esm",
@@ -2527,9 +3423,15 @@
   ],
   "16x-6": [
     "Ownership Overhaul.esm",
+    "Hidden Sea Loot.ESP",
     "Ownership Overhaul.esp"
   ],
+  "16x-7": [
+    "Hidden Sea Loot.ESP",
+    "Creatures and Critters.ESP"
+  ],
   "16x-8": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
@@ -2540,36 +3442,68 @@
     "Creatures and Critters.ESP"
   ],
   "16x0": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
+  ],
+  "16x13": [
+    "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP"
   ],
   "16x15": [
     "TR_Mainland.esm",
     "RepopulatedMainland.ESP"
   ],
   "16x3": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "16x4": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "16x5": [
     "Ownership Overhaul.esm",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP",
     "Ownership Overhaul.esp"
   ],
   "16x7": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
+  ],
+  "17x-1": [
+    "Hidden Sea Loot.ESP",
+    "Creatures and Critters.ESP"
+  ],
+  "17x-12": [
+    "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP"
+  ],
+  "17x-13": [
+    "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP"
+  ],
+  "17x-14": [
+    "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP"
   ],
   "17x-20": [
     "TR_Mainland.esm",
     "F&F_Mainland.ESP"
   ],
+  "17x-3": [
+    "Hidden Sea Loot.ESP",
+    "Creatures_RP_Purist.ESP"
+  ],
   "17x-4": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP"
   ],
@@ -2577,11 +3511,21 @@
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP"
   ],
+  "17x-6": [
+    "Uncharted Artifacts.esp",
+    "F&F_Vvardenfell.ESP"
+  ],
+  "17x-7": [
+    "Hidden Sea Loot.ESP",
+    "Creatures and Critters.ESP"
+  ],
   "17x-8": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
   ],
   "17x0": [
+    "Hidden Sea Loot.ESP",
     "Wares_traders.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -2594,6 +3538,14 @@
   "17x18": [
     "TR_Mainland.esm",
     "F&F_Mainland.ESP"
+  ],
+  "17x2": [
+    "Hidden Sea Loot.ESP",
+    "Creatures_RP_Purist.ESP"
+  ],
+  "17x3": [
+    "Hidden Sea Loot.ESP",
+    "Creatures_RP_Purist.ESP"
   ],
   "17x4": [
     "TR_Mainland.esm",
@@ -2614,18 +3566,30 @@
     "TR_Mainland.esm",
     "RepopulatedMorrowind.ESM",
     "Ownership Overhaul.esm",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Ownership Overhaul.esp"
   ],
   "17x6": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
   ],
   "18x-1": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
+  "18x-11": [
+    "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP"
+  ],
   "18x-2": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
@@ -2635,14 +3599,21 @@
     "Creatures_RP_Purist.ESP"
   ],
   "18x-4": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "18x-5": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
   ],
+  "18x-8": [
+    "Hidden Sea Loot.ESP",
+    "F&F_Vvardenfell.ESP"
+  ],
   "18x0": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
@@ -2682,12 +3653,23 @@
     "Ownership Overhaul.esp"
   ],
   "18x6": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
+  "18x9": [
+    "Sea Forts of Morrowind 1.0v.ESP",
+    "Hidden Sea Loot.ESP"
+  ],
   "19x-1": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
+  ],
+  "19x-11": [
+    "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP"
   ],
   "19x-21": [
     "TR_Mainland.esm",
@@ -2695,13 +3677,16 @@
   ],
   "19x-4": [
     "RepopulatedMorrowind.ESM",
+    "Hidden Sea Loot.ESP",
     "Creatures and Critters.ESP"
   ],
   "19x-5": [
     "Ownership Overhaul.esm",
+    "Hidden Sea Loot.ESP",
     "Ownership Overhaul.esp"
   ],
   "19x-6": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -2711,8 +3696,21 @@
     "Creatures and Critters.ESP"
   ],
   "19x-8": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
+  ],
+  "19x0": [
+    "Hidden Sea Loot.ESP",
+    "Creatures and Critters.ESP"
+  ],
+  "19x1": [
+    "Hidden Sea Loot.ESP",
+    "Creatures and Critters.ESP"
+  ],
+  "19x10": [
+    "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP"
   ],
   "19x15": [
     "TR_Mainland.esm",
@@ -2722,6 +3720,10 @@
     "TR_Mainland.esm",
     "F&F_Mainland.ESP"
   ],
+  "19x2": [
+    "Hidden Sea Loot.ESP",
+    "Creatures and Critters.ESP"
+  ],
   "19x4": [
     "TR_Mainland.esm",
     "F&F_Vvardenfell.ESP",
@@ -2729,26 +3731,37 @@
     "Creatures and Critters.ESP"
   ],
   "19x5": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "19x6": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
+  "19x7": [
+    "Hidden Sea Loot.ESP",
+    "Creatures and Critters.ESP"
+  ],
   "1x-10": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP",
     "Creatures and Critters Light the Path.ESP"
   ],
   "1x-11": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP",
     "Creatures and Critters Light the Path.ESP"
   ],
   "1x-12": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP",
@@ -2764,11 +3777,13 @@
     "Ownership Overhaul.esp"
   ],
   "1x-14": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "1x-15": [
     "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -2836,6 +3851,7 @@
   "1x-5": [
     "RepopulatedMorrowind.ESM",
     "Animated_Morrowind - merged.esp",
+    "Hidden Sea Loot.ESP",
     "Treasures of Magic.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
@@ -2849,18 +3865,23 @@
     "F&F_Mainland.ESP"
   ],
   "1x-6": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "1x-7": [
     "Ownership Overhaul.esm",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP",
     "Ownership Overhaul.esp"
   ],
   "1x-8": [
     "Ownership Overhaul.esm",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP",
@@ -2868,6 +3889,7 @@
   ],
   "1x-9": [
     "Ownership Overhaul.esm",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP",
     "Creatures and Critters Light the Path.ESP",
@@ -2883,21 +3905,35 @@
     "Aoimevelho Wares with ALL NPCs.ESP",
     "Ownership Overhaul.esp"
   ],
+  "1x18": [
+    "Hidden Sea Loot.ESP",
+    "F&F_Vvardenfell.ESP"
+  ],
   "1x19": [
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
+  "1x20": [
+    "Hidden Sea Loot.ESP",
+    "Creatures and Critters.ESP"
+  ],
   "1x21": [
     "RepopulatedMorrowind.ESM",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "1x22": [
+    "OAAB - Shipwrecks.esm",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "1x23": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -2905,9 +3941,30 @@
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
+  "20x-10": [
+    "Hidden Sea Loot.ESP",
+    "The Undead - TR Addon.esp"
+  ],
   "20x-11": [
     "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP",
     "The Undead - TR Addon.esp"
+  ],
+  "20x-4": [
+    "Hidden Sea Loot.ESP",
+    "Creatures and Critters.ESP"
+  ],
+  "20x-5": [
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP"
+  ],
+  "20x-9": [
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP"
+  ],
+  "20x1": [
+    "AATL Mini Integration - Static Encounters.ESP",
+    "Hidden Sea Loot.ESP"
   ],
   "20x14": [
     "TR_Mainland.esm",
@@ -2921,29 +3978,54 @@
     "TR_Mainland.esm",
     "F&F_Mainland.ESP"
   ],
+  "20x2": [
+    "AATL Mini Integration - Static Encounters.ESP",
+    "Hidden Sea Loot.ESP"
+  ],
   "20x4": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
   ],
   "21x-1": [
     "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP",
     "The Undead - TR Addon.esp"
   ],
   "21x-10": [
     "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP",
     "The Undead - TR Addon.esp"
   ],
   "21x-11": [
     "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP",
     "The Undead - TR Addon.esp"
   ],
   "21x-20": [
     "TR_Mainland.esm",
     "F&F_Mainland.ESP"
   ],
+  "21x-3": [
+    "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP"
+  ],
+  "21x-5": [
+    "TR_Mainland.esm",
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP"
+  ],
+  "21x-6": [
+    "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP"
+  ],
   "21x-7": [
     "TR_Mainland.esm",
     "The Undead - TR Addon.esp"
+  ],
+  "21x-8": [
+    "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP"
   ],
   "21x12": [
     "TR_Mainland.esm",
@@ -2957,8 +4039,13 @@
     "TR_Mainland.esm",
     "F&F_Mainland.ESP"
   ],
+  "22x-1": [
+    "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP"
+  ],
   "22x-10": [
     "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP",
     "The Undead - TR Addon.esp"
   ],
   "22x-17": [
@@ -2988,10 +4075,16 @@
   ],
   "22x-5": [
     "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP",
     "The Undead - TR Addon.esp"
+  ],
+  "22x-6": [
+    "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP"
   ],
   "22x-9": [
     "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP",
     "RepopulatedMainland.ESP"
   ],
   "22x0": [
@@ -3004,6 +4097,7 @@
   ],
   "22x4": [
     "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP",
     "The Undead - TR Addon.esp"
   ],
   "22x8": [
@@ -3366,6 +4460,7 @@
     "F&F_Mainland.ESP"
   ],
   "2x-10": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
@@ -3380,6 +4475,7 @@
     "Yet Another Guard Diversity - Regular.ESP"
   ],
   "2x-12": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
@@ -3399,12 +4495,14 @@
     "Ownership Overhaul.esp"
   ],
   "2x-14": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "2x-15": [
     "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -3465,6 +4563,7 @@
   "2x-5": [
     "RepopulatedMorrowind.ESM",
     "Ownership Overhaul.esm",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP",
     "Creatures and Critters Light the Path.ESP",
@@ -3497,12 +4596,14 @@
   ],
   "2x-8": [
     "RepopulatedMorrowind.ESM",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "2x-9": [
     "AATL Mini Integration - Static Encounters.ESP",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP",
@@ -3517,6 +4618,7 @@
     "Creatures and Critters.ESP"
   ],
   "2x20": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -3525,8 +4627,13 @@
     "Creatures and Critters.ESP"
   ],
   "2x22": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
+  ],
+  "2x25": [
+    "Hidden Sea Loot.ESP",
+    "Treasures of Magic.ESP"
   ],
   "2x4": [
     "RepopulatedMorrowind.ESM",
@@ -3931,6 +5038,10 @@
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP"
   ],
+  "3x-15": [
+    "TR_Mainland.esm",
+    "Hidden Sea Loot.ESP"
+  ],
   "3x-17": [
     "TR_Mainland.esm",
     "RepopulatedMainland.ESP"
@@ -3981,6 +5092,7 @@
     "F&F_Mainland.ESP"
   ],
   "3x-5": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP",
@@ -4006,11 +5118,13 @@
     "RepopulatedMorrowind.ESM",
     "Ownership Overhaul.esm",
     "Animated_Morrowind - merged.esp",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP",
     "Ownership Overhaul.esp"
   ],
   "3x-7": [
+    "Hidden Sea Loot.ESP",
     "Wares_traders.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
@@ -4018,6 +5132,7 @@
   "3x-8": [
     "RepopulatedMorrowind.ESM",
     "Ownership Overhaul.esm",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP",
@@ -4026,6 +5141,7 @@
   "3x-9": [
     "RepopulatedMorrowind.ESM",
     "A Merchant's Whim.ESP",
+    "Hidden Sea Loot.ESP",
     "Wares_traders.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
@@ -4037,8 +5153,20 @@
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP"
   ],
+  "3x17": [
+    "Hidden Sea Loot.ESP",
+    "Creatures_RP_Purist.ESP"
+  ],
   "3x2": [
     "F&F_Vvardenfell.ESP",
+    "Creatures and Critters.ESP"
+  ],
+  "3x20": [
+    "Hidden Sea Loot.ESP",
+    "Creatures and Critters.ESP"
+  ],
+  "3x24": [
+    "Hidden Sea Loot.ESP",
     "Creatures and Critters.ESP"
   ],
   "40x-30": [
@@ -4128,6 +5256,7 @@
   "4x-10": [
     "TR_Mainland.esm",
     "RepopulatedMorrowind.ESM",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP"
   ],
   "4x-11": [
@@ -4143,6 +5272,7 @@
     "RepopulatedMorrowind.ESM",
     "NOD - Core.esm",
     "Ownership Overhaul.esm",
+    "Hidden Sea Loot.ESP",
     "Wares_traders.ESP",
     "Treasures of Magic.ESP",
     "F&F_Vvardenfell.ESP",
@@ -4154,10 +5284,14 @@
     "NOD - Core.esm",
     "Ownership Overhaul.esm",
     "True_Lights_And_Darkness_1.1.esp",
+    "Hidden Sea Loot.ESP",
     "Treasures of Magic.ESP",
     "Ownership Overhaul.esp"
   ],
   "4x-15": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -4195,6 +5329,7 @@
     "Wares_TR_traders.esp"
   ],
   "4x-6": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP",
@@ -4202,6 +5337,7 @@
   ],
   "4x-7": [
     "Ownership Overhaul.esm",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP",
     "Ownership Overhaul.esp"
@@ -4214,6 +5350,7 @@
     "Ownership Overhaul.esp"
   ],
   "4x-9": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -4232,6 +5369,7 @@
   ],
   "4x18": [
     "Ownership Overhaul.esm",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP",
     "Ownership Overhaul.esp"
@@ -4240,6 +5378,10 @@
     "Aoimevelho Wares with ALL NPCs.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
+  ],
+  "4x22": [
+    "Hidden Sea Loot.ESP",
+    "F&F_Vvardenfell.ESP"
   ],
   "4x23": [
     "F&F_Vvardenfell.ESP",
@@ -4251,6 +5393,7 @@
   ],
   "5x-10": [
     "RepopulatedMorrowind.ESM",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP",
     "Yet Another Guard Diversity - Regular.ESP"
@@ -4263,6 +5406,7 @@
     "Yet Another Guard Diversity - Regular.ESP"
   ],
   "5x-12": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
@@ -4282,6 +5426,7 @@
     "RepopulatedMainland.ESP"
   ],
   "5x-5": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -4308,6 +5453,7 @@
   ],
   "5x-7": [
     "Ownership Overhaul.esm",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP",
     "Ownership Overhaul.esp"
@@ -4330,7 +5476,12 @@
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
+  "5x16": [
+    "Hidden Sea Loot.ESP",
+    "Creatures and Critters.ESP"
+  ],
   "5x19": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
@@ -4342,8 +5493,13 @@
   ],
   "5x23": [
     "An Addendum to Tamrielic Lore - The Imperial Archivist.ESP",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
+  ],
+  "5x24": [
+    "An Addendum to Tamrielic Lore - The Imperial Archivist.ESP",
+    "Hidden Sea Loot.ESP"
   ],
   "5x3": [
     "Ownership Overhaul.esm",
@@ -4361,17 +5517,24 @@
     "Creatures and Critters.ESP"
   ],
   "6x-11": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "6x-12": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "6x-13": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
+  ],
+  "6x-14": [
+    "Hidden Sea Loot.ESP",
+    "Friends & Frens - Vvardenfell.ESP"
   ],
   "6x-19": [
     "TR_Mainland.esm",
@@ -4418,6 +5581,7 @@
   ],
   "6x-6": [
     "RepopulatedMorrowind.ESM",
+    "Hidden Sea Loot.ESP",
     "Treasures of Magic.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
@@ -4439,7 +5603,12 @@
     "Yet Another Guard Diversity - Regular.ESP",
     "Ownership Overhaul.esp"
   ],
+  "6x-8": [
+    "Hidden Sea Loot.ESP",
+    "Creatures and Critters Light the Path.ESP"
+  ],
   "6x-9": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Friends & Frens - Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
@@ -4450,7 +5619,12 @@
     "F&F_Vvardenfell.ESP"
   ],
   "6x16": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
+    "Creatures and Critters.ESP"
+  ],
+  "6x17": [
+    "Hidden Sea Loot.ESP",
     "Creatures and Critters.ESP"
   ],
   "6x18": [
@@ -4469,8 +5643,13 @@
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
   ],
+  "6x23": [
+    "OAAB - Shipwrecks.esm",
+    "Hidden Sea Loot.ESP"
+  ],
   "6x24": [
     "An Addendum to Tamrielic Lore - The Imperial Archivist.ESP",
+    "Hidden Sea Loot.ESP",
     "Treasures of Magic.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
@@ -4480,16 +5659,19 @@
     "Creatures and Critters.ESP"
   ],
   "7x-10": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "7x-11": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "7x-12": [
     "Ownership Overhaul.esm",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP",
     "Yet Another Guard Diversity - Regular.ESP",
@@ -4536,6 +5718,7 @@
     "Creatures and Critters Light the Path.ESP"
   ],
   "7x-9": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
@@ -4548,7 +5731,12 @@
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
   ],
+  "7x17": [
+    "Hidden Sea Loot.ESP",
+    "Creatures and Critters.ESP"
+  ],
   "7x19": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -4563,10 +5751,12 @@
   "7x22": [
     "TR_Mainland.esm",
     "Sky_Main.ESM",
+    "OAAB - Shipwrecks.esm",
     "RepopulatedMorrowind.ESM",
     "Ownership Overhaul.esm",
     "Animated_Morrowind - merged.esp",
     "The Doors of Oblivion 1.4.esp",
+    "Hidden Sea Loot.ESP",
     "Treasures of Magic.ESP",
     "F&F_Vvardenfell.ESP",
     "Friends & Frens - Vvardenfell.ESP",
@@ -4575,6 +5765,7 @@
     "Ownership Overhaul.esp"
   ],
   "7x23": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -4586,13 +5777,24 @@
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP"
   ],
+  "8x-10": [
+    "Hidden Sea Loot.ESP",
+    "Creatures and Critters.ESP"
+  ],
   "8x-11": [
+    "OAAB - Shipwrecks.esm",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "8x-12": [
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
+    "Creatures and Critters.ESP"
+  ],
+  "8x-13": [
+    "Hidden Sea Loot.ESP",
     "Creatures and Critters.ESP"
   ],
   "8x-22": [
@@ -4644,6 +5846,7 @@
     "Creatures and Critters.ESP"
   ],
   "8x-9": [
+    "Hidden Sea Loot.ESP",
     "Treasures of Magic.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP"
@@ -4669,32 +5872,51 @@
     "Creatures and Critters.ESP"
   ],
   "8x18": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
   ],
   "8x20": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "8x21": [
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
+  "8x22": [
+    "Hidden Sea Loot.ESP",
+    "F&F_Vvardenfell.ESP"
+  ],
   "9x-10": [
+    "Hidden Sea Loot.ESP",
     "Special_Artifacts.esp",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "9x-11": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp",
+    "Hidden Sea Loot.ESP",
     "Special_Artifacts.esp",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "9x-12": [
+    "Hidden Sea Loot.ESP",
     "Friends & Frens - Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP"
+  ],
+  "9x-13": [
+    "Hidden Sea Loot.ESP",
+    "Creatures and Critters.ESP"
   ],
   "9x-2": [
     "F&F_Vvardenfell.ESP",
@@ -4740,6 +5962,7 @@
     "Wares_TR_traders.esp"
   ],
   "9x-9": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -4750,6 +5973,7 @@
     "Ownership Overhaul.esp"
   ],
   "9x11": [
+    "Uncharted Artifacts.esp",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
@@ -4774,19 +5998,28 @@
     "Creatures and Critters.ESP"
   ],
   "9x16": [
+    "Hidden Sea Loot.ESP",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
+  "9x19": [
+    "Hidden Sea Loot.ESP",
+    "Creatures and Critters.ESP"
+  ],
   "9x20": [
+    "OAAB - Shipwrecks.esm",
+    "Hidden Sea Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
   "9x21": [
     "Ownership Overhaul.esm",
+    "Hidden Sea Loot.ESP",
     "Ownership Overhaul.esp"
   ],
   "9x3": [
+    "Uncharted Artifacts.esp",
     "F&F_Vvardenfell.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -4810,6 +6043,10 @@
     "AATL Mini Integration - Static Encounters.ESP",
     "True_Lights_And_Darkness_1.1.esp",
     "Creatures_RP_Purist.ESP"
+  ],
+  "Abandoned Shipwreck, Cabin": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp"
   ],
   "Abebaal Egg Mine": [
     "Ownership Overhaul.esm",
@@ -4965,6 +6202,7 @@
   ],
   "Akimaes Grotto": [
     "True_Lights_And_Darkness_1.1.esp",
+    "Hidden Grotto Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -5554,8 +6792,14 @@
     "Wares_TR_traders.esp"
   ],
   "Ancient Shipwreck, Cabin": [
+    "OAAB - Shipwrecks.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Special_Artifacts.esp"
+  ],
+  "Ancient Shipwreck, Upper Level": [
+    "OAAB - Shipwrecks.esm",
+    "True_Lights_And_Darkness_1.1.esp",
+    "Uncharted Artifacts.esp"
   ],
   "Andalen Ancestral Tomb": [
     "AATL Mini Integration - Static Encounters.ESP",
@@ -6306,6 +7550,7 @@
     "Better Sounds_Fixed.esp",
     "Animated_Morrowind - merged.esp",
     "True_Lights_And_Darkness_1.1.esp",
+    "Greater Mournhold Bazaar.esp",
     "Wares_traders.ESP",
     "Treasures of Magic.ESP",
     "Privileges&Services 1.1.esp",
@@ -6818,6 +8063,19 @@
     "Creatures and Critters.ESP",
     "LootWellUrned.ESP"
   ],
+  "Derelict Shipwreck, Cabin": [
+    "OAAB - Shipwrecks.esm",
+    "True_Lights_And_Darkness_1.1.esp",
+    "Uncharted Artifacts.esp"
+  ],
+  "Deserted Shipwreck, Lower Level": [
+    "Uncharted Artifacts.esp",
+    "Special_Artifacts.esp"
+  ],
+  "Desolate Shipwreck, Lower Level": [
+    "Uncharted Artifacts.esp",
+    "Treasures of Magic.ESP"
+  ],
   "Dissapla Mine": [
     "RepopulatedMorrowind.ESM",
     "Ownership Overhaul.esm",
@@ -7144,6 +8402,7 @@
   ],
   "Eluba-Addon Grotto": [
     "True_Lights_And_Darkness_1.1.esp",
+    "Hidden Grotto Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -7439,6 +8698,10 @@
     "TR_Mainland.esm",
     "RepopulatedMainland.ESP"
   ],
+  "Forgotten Shipwreck": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp"
+  ],
   "Forgotten Vaults of Anudnabia, Forge of Hilbongard": [
     "Unique Uniques.ESP",
     "True_Lights_And_Darkness_1.1.esp"
@@ -7453,6 +8716,7 @@
   ],
   "Fort Frostmoth, Armory": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "NOD - Core.esm",
     "Ownership Overhaul.esm",
     "AATL Mini Integration - Static Encounters.ESP",
@@ -7468,12 +8732,14 @@
   ],
   "Fort Frostmoth, Curtain Wall": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Ownership Overhaul.esp"
   ],
   "Fort Frostmoth, General Quarters": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "RepopulatedMorrowind.ESM",
     "Ownership Overhaul.esm",
     "Animated_Morrowind - merged.esp",
@@ -7489,6 +8755,7 @@
   ],
   "Fort Frostmoth, Imperial Cult Shrine": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Wares_traders.ESP",
@@ -8203,6 +9470,10 @@
     "True_Lights_And_Darkness_1.1.esp",
     "Treasures of Magic.ESP"
   ],
+  "Ilanipu Grotto": [
+    "True_Lights_And_Darkness_1.1.esp",
+    "Hidden Grotto Loot.ESP"
+  ],
   "Ilunibi, Blackened Heart": [
     "True_Lights_And_Darkness_1.1.esp",
     "Creatures_RP_Purist.ESP",
@@ -8425,6 +9696,7 @@
     "Wares_traders.ESP"
   ],
   "Koal Cave": [
+    "OAAB - Shipwrecks.esm",
     "RepopulatedMorrowind.ESM",
     "True_Lights_And_Darkness_1.1.esp",
     "Creatures_RP_Purist.ESP",
@@ -8537,6 +9809,18 @@
     "True_Lights_And_Darkness_1.1.esp",
     "Ownership Overhaul.esp"
   ],
+  "Lonesome Shipwreck, Cabin": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp"
+  ],
+  "Lonesome Shipwreck, Upper Level": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp"
+  ],
+  "Lost Shipwreck, Upper Level": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp"
+  ],
   "Maar Gan, Andus Tradehouse": [
     "RepopulatedMorrowind.ESM",
     "Ownership Overhaul.esm",
@@ -8622,6 +9906,7 @@
   ],
   "Madas Grotto": [
     "True_Lights_And_Darkness_1.1.esp",
+    "Hidden Grotto Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -8636,6 +9921,7 @@
   ],
   "Malmus Grotto": [
     "True_Lights_And_Darkness_1.1.esp",
+    "Hidden Grotto Loot.ESP",
     "Creatures_RP_Purist.ESP"
   ],
   "Mamaea, Sanctum of Awakening": [
@@ -9027,6 +10313,7 @@
     "Ownership Overhaul.esm",
     "Animated_Morrowind - merged.esp",
     "Immersive Mournhold.esp",
+    "Greater Mournhold Bazaar.esp",
     "Wares_traders.ESP",
     "Friends & Frens - Vvardenfell.ESP",
     "Creatures and Critters.ESP",
@@ -9216,6 +10503,7 @@
   ],
   "Mudan Grotto": [
     "True_Lights_And_Darkness_1.1.esp",
+    "Hidden Grotto Loot.ESP",
     "Creatures_RP_Purist.ESP"
   ],
   "Mudan, Lost Dwemer Checkpoint": [
@@ -9224,6 +10512,7 @@
   ],
   "Mul Grotto": [
     "True_Lights_And_Darkness_1.1.esp",
+    "Hidden Grotto Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -9664,6 +10953,14 @@
     "RepopulatedMainland.ESP",
     "F&F_Mainland.ESP"
   ],
+  "Neglected Shipwreck, Cabin": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp"
+  ],
+  "Neglected Shipwreck, Upper Level": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp"
+  ],
   "Nelas Ancestral Tomb": [
     "True_Lights_And_Darkness_1.1.esp",
     "Creatures_RP_Purist.ESP",
@@ -9677,6 +10974,7 @@
   ],
   "Nimawia Grotto": [
     "True_Lights_And_Darkness_1.1.esp",
+    "Hidden Grotto Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -9748,6 +11046,14 @@
   "Obainat Camp, Zassar's Yurt": [
     "TR_Mainland.esm",
     "Wares_TR_traders.esp"
+  ],
+  "Obscure Shipwreck, Cabin": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp"
+  ],
+  "Obscure Shipwreck, Upper Level": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp"
   ],
   "Ocsenna": [
     "Sky_Main.ESM",
@@ -10372,6 +11678,14 @@
     "Wares_TR_traders.esp",
     "F&F_Mainland.ESP"
   ],
+  "Prelude Shipwreck, Cabin": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp"
+  ],
+  "Prelude Shipwreck, Lower Level": [
+    "Uncharted Artifacts.esp",
+    "Wares_traders.ESP"
+  ],
   "Pudai Egg Mine": [
     "Ownership Overhaul.esm",
     "True_Lights_And_Darkness_1.1.esp",
@@ -10443,6 +11757,7 @@
   ],
   "Raven Rock, Afer Flaccus' House": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "GITD_WL_RR_Interiors.esp",
     "True_Lights_And_Darkness_1.1.esp",
@@ -10450,6 +11765,7 @@
   ],
   "Raven Rock, Bar": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "RepopulatedMorrowind.ESM",
     "Ownership Overhaul.esm",
     "Animated_Morrowind - merged.esp",
@@ -10460,8 +11776,13 @@
     "Privileges&Services 1.1.esp",
     "Ownership Overhaul.esp"
   ],
+  "Raven Rock, East Empire Company": [
+    "Solstheim Tomb of The Snow Prince.esm",
+    "GITD_WL_RR_Interiors.esp"
+  ],
   "Raven Rock, Factor's Estate": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "GITD_WL_RR_Interiors.esp",
     "True_Lights_And_Darkness_1.1.esp",
@@ -10469,6 +11790,7 @@
   ],
   "Raven Rock, Garnas Uvalen's House": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "GITD_WL_RR_Interiors.esp",
     "True_Lights_And_Darkness_1.1.esp",
@@ -10476,6 +11798,7 @@
   ],
   "Raven Rock, Gidar Verothan's House": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "GITD_WL_RR_Interiors.esp",
     "True_Lights_And_Darkness_1.1.esp",
@@ -10483,6 +11806,7 @@
   ],
   "Raven Rock, Gratian Caerellius' House": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "GITD_WL_RR_Interiors.esp",
     "True_Lights_And_Darkness_1.1.esp",
@@ -10490,37 +11814,51 @@
   ],
   "Raven Rock, Mine": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "RepopulatedBloodmoon.ESP",
     "Ownership Overhaul.esp"
   ],
   "Raven Rock, Mine Entrance": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "GITD_WL_RR_Interiors.esp",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Raven Rock, North Storehouse": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Ownership Overhaul.esp"
   ],
   "Raven Rock, Sabinus Oranius' House": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "GITD_WL_RR_Interiors.esp",
     "True_Lights_And_Darkness_1.1.esp",
     "Ownership Overhaul.esp"
+  ],
+  "Raven Rock, Sabrina Vitellia: Smith": [
+    "Solstheim Tomb of The Snow Prince.esm",
+    "GITD_WL_RR_Interiors.esp"
   ],
   "Raven Rock, Sados Relothan's House": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "GITD_WL_RR_Interiors.esp",
     "True_Lights_And_Darkness_1.1.esp",
     "Ownership Overhaul.esp"
   ],
+  "Raven Rock, Sathyn Andrano: Trader": [
+    "Solstheim Tomb of The Snow Prince.esm",
+    "GITD_WL_RR_Interiors.esp"
+  ],
   "Raven Rock, Seler Favelnim's House": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "GITD_WL_RR_Interiors.esp",
     "True_Lights_And_Darkness_1.1.esp",
@@ -10528,9 +11866,9 @@
   ],
   "Raven Rock, Smith": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "Unique Uniques.ESP",
-    "GITD_WL_RR_Interiors.esp",
     "True_Lights_And_Darkness_1.1.esp",
     "Wares_traders.ESP",
     "F&F_Vvardenfell.ESP",
@@ -10539,20 +11877,26 @@
   ],
   "Raven Rock, South Storehouse": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Ownership Overhaul.esp"
   ],
   "Raven Rock, SouthEast Storehouse": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Ownership Overhaul.esp"
   ],
+  "Raven Rock, Supply Ship": [
+    "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm"
+  ],
   "Raven Rock, Trader": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
-    "GITD_WL_RR_Interiors.esp",
     "True_Lights_And_Darkness_1.1.esp",
     "Wares_traders.ESP",
     "F&F_Vvardenfell.ESP",
@@ -10560,6 +11904,7 @@
   ],
   "Raven Rock, Uryn Maren's House": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "GITD_WL_RR_Interiors.esp",
     "True_Lights_And_Darkness_1.1.esp",
@@ -10567,6 +11912,7 @@
   ],
   "Raven Rock, Vacant House": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "GITD_WL_RR_Interiors.esp",
     "True_Lights_And_Darkness_1.1.esp"
   ],
@@ -11182,6 +12528,10 @@
     "TR_Mainland.esm",
     "Wares_TR_traders.esp"
   ],
+  "Shunned Shipwreck, Upper Level": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp"
+  ],
   "Shushan": [
     "RepopulatedMorrowind.ESM",
     "Animated_Morrowind - merged.esp",
@@ -11198,6 +12548,7 @@
   ],
   "Skaal Village, Bronrod the Roarer's House": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Wares_traders.ESP",
@@ -11205,24 +12556,28 @@
   ],
   "Skaal Village, Erna the Quiet's House": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Ownership Overhaul.esp"
   ],
   "Skaal Village, Ice-Mane's Hut": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Ownership Overhaul.esp"
   ],
   "Skaal Village, Ingmar's House": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Ownership Overhaul.esp"
   ],
   "Skaal Village, Lassnr's House": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "Unique Uniques.ESP",
     "True_Lights_And_Darkness_1.1.esp",
@@ -11230,12 +12585,14 @@
   ],
   "Skaal Village, Rigmor's Hut": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Ownership Overhaul.esp"
   ],
   "Skaal Village, Shaman's Hut": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Friends & Frens - Vvardenfell.ESP",
@@ -11243,10 +12600,12 @@
   ],
   "Skaal Village, The Blodskaal's House": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Skaal Village, The Greathall": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Privileges&Services 1.1.esp",
@@ -11254,6 +12613,7 @@
   ],
   "Skaal village, Snedbrir the Smith": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Wares_traders.ESP",
@@ -11276,25 +12636,30 @@
   ],
   "Solstheim, Benkongerike": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Solstheim, Bjorn": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Solstheim, Bloodskal Barrow": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Creatures and Critters.ESP"
   ],
   "Solstheim, Castle Karstaag, Banquet Hall": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Ownership Overhaul.esp"
   ],
   "Solstheim, Castle Karstaag, Caverns of Karstaag": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Solstheim, Castle Karstaag, Karstaag's Chambers": [
@@ -11303,18 +12668,22 @@
   ],
   "Solstheim, Castle Karstaag, Throne Room": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Solstheim, Castle Karstaag, Tower": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Solstheim, Cave of Hidden Music": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Solstheim, Caves of Fjalding": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Solstheim, Chamber of Song": [
@@ -11324,157 +12693,190 @@
   ],
   "Solstheim, Connorflenge Barrow": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Solstheim, Domme": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Solstheim, Eddard Barrow": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Creatures_RP_Purist.ESP"
   ],
   "Solstheim, Fjell": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "AATL Mini Integration - Static Encounters.ESP",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Solstheim, Frossel": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "AATL Mini Integration - Static Encounters.ESP",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Solstheim, Frosselmane Barrow": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Creatures_RP_Purist.ESP"
   ],
   "Solstheim, Frykte": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Unique Uniques.ESP",
     "True_Lights_And_Darkness_1.1.esp",
     "Creatures and Critters.ESP"
   ],
   "Solstheim, Gandrung Caverns": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Ownership Overhaul.esp"
   ],
   "Solstheim, Geilir the Mumbling's Dwelling": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Ownership Overhaul.esp"
   ],
   "Solstheim, Glenschul's Tomb": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Solstheim, Gloomy Cave": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Ownership Overhaul.esp"
   ],
   "Solstheim, Graring's House": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Ownership Overhaul.esp"
   ],
   "Solstheim, Gronn": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Solstheim, Gyldenhul Barrow": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Solstheim, Halls of Penumbra": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Solstheim, Himmelhost Barrow": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Creatures and Critters.ESP"
   ],
   "Solstheim, Hrothmund's Barrow": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Creatures_RP_Purist.ESP"
   ],
   "Solstheim, Jolgeirr Barrow": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Unique Uniques.ESP",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Solstheim, Kelsedolk Barrow": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Creatures and Critters.ESP"
   ],
   "Solstheim, Kjolver's Dwelling": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Ownership Overhaul.esp"
   ],
   "Solstheim, Kolbjorn Barrow": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Solstheim, Kolfinna's Dwelling": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Ownership Overhaul.esp"
   ],
   "Solstheim, Lair of the Udyrfrykte": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Solstheim, Legge": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Solstheim, Lukesturm Barrow": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Solstheim, Rimhull": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Creatures and Critters.ESP"
   ],
   "Solstheim, Sjobal": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Solstheim, Skogsdrake Barrow": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Solstheim, Skygge": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Solstheim, Solvjord": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Solstheim, Stahlman's Gorge": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Solstheim, Stormpfund Barrow": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Solstheim, Thirsk": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "RepopulatedMorrowind.ESM",
     "Ownership Overhaul.esm",
     "Animated_Morrowind - merged.esp",
@@ -11485,27 +12887,32 @@
   ],
   "Solstheim, Tombs of Skaalara": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Friends & Frens - Vvardenfell.ESP"
   ],
   "Solstheim, Ulfgar the Unending's Dwelling": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Ownership Overhaul.esp"
   ],
   "Solstheim, Uncle Sweetshare's Workshop": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "Ownership Overhaul.esm",
     "True_Lights_And_Darkness_1.1.esp",
     "Ownership Overhaul.esp"
   ],
   "Solstheim, Valbrandr Barrow": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Solstheim, Varstaad Caves": [
     "Bloodmoon.esm",
+    "Solstheim Tomb of The Snow Prince.esm",
     "True_Lights_And_Darkness_1.1.esp"
   ],
   "Sotha Sil, Central Gearworks": [
@@ -11567,6 +12974,14 @@
   "Stormgate Pass, The Saxhleel Balladeer": [
     "TR_Mainland.esm",
     "Wares_TR_traders.esp"
+  ],
+  "Strange Shipwreck, Cabin": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp"
+  ],
+  "Strange Shipwreck, Upper Level": [
+    "OAAB - Shipwrecks.esm",
+    "Expansions Integrated.esp"
   ],
   "Subdun, Shrine": [
     "Ownership Overhaul.esm",
@@ -12267,6 +13682,30 @@
     "TR_Mainland.esm",
     "RepopulatedMainland.ESP"
   ],
+  "Unchartered Shipwreck, Cabin": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp"
+  ],
+  "Unchartered Shipwreck, Upper Level": [
+    "OAAB - Shipwrecks.esm",
+    "Creatures_RP_Purist.ESP"
+  ],
+  "Unexplored Shipwreck, Cabin": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp"
+  ],
+  "Unexplored Shipwreck, Lower Level": [
+    "Adamantium Armor Naturalized.esp",
+    "Uncharted Artifacts.esp"
+  ],
+  "Unknown Shipwreck, Cabin": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp"
+  ],
+  "Unmarked Shipwreck, Upper Level": [
+    "OAAB - Shipwrecks.esm",
+    "Uncharted Artifacts.esp"
+  ],
   "Uramok Camp, Durak gro-Bal's Yurt": [
     "Sky_Main.ESM",
     "Wares_SHOTN_traders.esp"
@@ -12377,6 +13816,7 @@
   "Vassamsi Grotto": [
     "Unique Jewelry and Accessories.esp",
     "True_Lights_And_Darkness_1.1.esp",
+    "Hidden Grotto Loot.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
@@ -13477,6 +14917,7 @@
   "Zalkin Grotto": [
     "AATL Mini Integration - Static Encounters.ESP",
     "True_Lights_And_Darkness_1.1.esp",
+    "Hidden Grotto Loot.ESP",
     "Treasures of Magic.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
