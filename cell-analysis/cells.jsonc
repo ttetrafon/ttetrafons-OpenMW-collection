@@ -122,11 +122,16 @@
   ],
   "-115x-47": [
     "Cyr_Main.ESM",
+    "Villa_Stellaris.esp",
     "Wares_PC_traders.esp"
   ],
   "-115x-53": [
     "Cyr_Main.ESM",
     "Wares_PC_traders.esp"
+  ],
+  "-116x-53": [
+    "Cyr_Main.ESM",
+    "Cyr_ImprovedGreatFaiths.ESP"
   ],
   "-116x-55": [
     "Cyr_Main.ESM",
@@ -207,11 +212,25 @@
   ],
   "-121x-54": [
     "Cyr_Main.ESM",
+    "Cyr_ImprovedGreatFaiths.ESP",
     "Wares_PC_traders.esp"
   ],
   "-121x-55": [
     "Cyr_Main.ESM",
+    "UnderharborFlat.ESP",
     "Wares_PC_traders.esp"
+  ],
+  "-121x-56": [
+    "Cyr_Main.ESM",
+    "Cyr_ImprovedGreatFaiths.ESP"
+  ],
+  "-122x-54": [
+    "Cyr_Main.ESM",
+    "Villa_Stellaris.esp"
+  ],
+  "-122x-57": [
+    "Cyr_Main.ESM",
+    "Cyr_ImprovedGreatFaiths.ESP"
   ],
   "-123x-46": [
     "Cyr_Main.ESM",
@@ -220,6 +239,10 @@
   "-123x-55": [
     "Cyr_Main.ESM",
     "Wares_PC_traders.esp"
+  ],
+  "-124x-49": [
+    "Cyr_Main.ESM",
+    "Cyr_ImprovedGreatFaiths.ESP"
   ],
   "-12x-17": [
     "TR_Mainland.esm",
@@ -242,6 +265,7 @@
     "Tribunal.esm",
     "Bloodmoon.esm",
     "Unique Uniques.ESP",
+    "Villa_Stellaris.esp",
     "WarlockRing.ESP",
     "FactionPerkSpells.ESP"
   ],
@@ -281,6 +305,7 @@
     "Tribunal.esm",
     "Bloodmoon.esm",
     "Unique Uniques.ESP",
+    "Villa_Stellaris.esp",
     "WarlockRing.ESP",
     "FactionPerkSpells.ESP"
   ],
@@ -288,6 +313,7 @@
     "Tribunal.esm",
     "Bloodmoon.esm",
     "Unique Uniques.ESP",
+    "Villa_Stellaris.esp",
     "WarlockRing.ESP",
     "FactionPerkSpells.ESP"
   ],
@@ -296,9 +322,25 @@
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
+  "-135x-51": [
+    "Cyr_Main.ESM",
+    "Villa_Stellaris.esp"
+  ],
+  "-135x-52": [
+    "Cyr_Main.ESM",
+    "Villa_Stellaris.esp"
+  ],
+  "-135x-53": [
+    "Cyr_Main.ESM",
+    "Villa_Stellaris.esp"
+  ],
   "-136x-42": [
     "Cyr_Main.ESM",
     "Wares_PC_traders.esp"
+  ],
+  "-136x-52": [
+    "Cyr_Main.ESM",
+    "Villa_Stellaris.esp"
   ],
   "-13x-15": [
     "TR_Mainland.esm",
@@ -316,6 +358,7 @@
     "Tribunal.esm",
     "Bloodmoon.esm",
     "Unique Uniques.ESP",
+    "Villa_Stellaris.esp",
     "WarlockRing.ESP",
     "FactionPerkSpells.ESP"
   ],
@@ -352,6 +395,7 @@
     "Tribunal.esm",
     "Bloodmoon.esm",
     "Unique Uniques.ESP",
+    "Villa_Stellaris.esp",
     "WarlockRing.ESP",
     "FactionPerkSpells.ESP"
   ],
@@ -359,6 +403,7 @@
     "Tribunal.esm",
     "Bloodmoon.esm",
     "Unique Uniques.ESP",
+    "Villa_Stellaris.esp",
     "WarlockRing.ESP",
     "FactionPerkSpells.ESP"
   ],
@@ -366,6 +411,7 @@
     "Tribunal.esm",
     "Bloodmoon.esm",
     "Unique Uniques.ESP",
+    "Villa_Stellaris.esp",
     "WarlockRing.ESP",
     "FactionPerkSpells.ESP"
   ],
@@ -406,6 +452,7 @@
     "Tribunal.esm",
     "Bloodmoon.esm",
     "Unique Uniques.ESP",
+    "Villa_Stellaris.esp",
     "WarlockRing.ESP",
     "FactionPerkSpells.ESP"
   ],
@@ -413,6 +460,7 @@
     "Tribunal.esm",
     "Bloodmoon.esm",
     "Unique Uniques.ESP",
+    "Villa_Stellaris.esp",
     "WarlockRing.ESP",
     "FactionPerkSpells.ESP"
   ],
@@ -420,6 +468,7 @@
     "Tribunal.esm",
     "Bloodmoon.esm",
     "Unique Uniques.ESP",
+    "Villa_Stellaris.esp",
     "WarlockRing.ESP",
     "FactionPerkSpells.ESP"
   ],
@@ -427,6 +476,7 @@
     "Tribunal.esm",
     "Bloodmoon.esm",
     "Unique Uniques.ESP",
+    "Villa_Stellaris.esp",
     "WarlockRing.ESP",
     "FactionPerkSpells.ESP"
   ],
@@ -455,6 +505,7 @@
     "Tribunal.esm",
     "Bloodmoon.esm",
     "Unique Uniques.ESP",
+    "Villa_Stellaris.esp",
     "WarlockRing.ESP",
     "FactionPerkSpells.ESP"
   ],
@@ -487,6 +538,7 @@
     "Tribunal.esm",
     "Bloodmoon.esm",
     "Unique Uniques.ESP",
+    "Villa_Stellaris.esp",
     "WarlockRing.ESP",
     "FactionPerkSpells.ESP"
   ],
@@ -494,6 +546,7 @@
     "Tribunal.esm",
     "Bloodmoon.esm",
     "Unique Uniques.ESP",
+    "Villa_Stellaris.esp",
     "WarlockRing.ESP",
     "FactionPerkSpells.ESP"
   ],
@@ -617,12 +670,14 @@
   "-19x14": [
     "Bloodmoon.esm",
     "Unique Uniques.ESP",
+    "Villa_Stellaris.esp",
     "WarlockRing.ESP",
     "FactionPerkSpells.ESP"
   ],
   "-19x15": [
     "Bloodmoon.esm",
     "Unique Uniques.ESP",
+    "Villa_Stellaris.esp",
     "WarlockRing.ESP",
     "FactionPerkSpells.ESP"
   ],
@@ -855,6 +910,7 @@
   "-20x15": [
     "Bloodmoon.esm",
     "Unique Uniques.ESP",
+    "Villa_Stellaris.esp",
     "WarlockRing.ESP",
     "FactionPerkSpells.ESP"
   ],
@@ -1330,6 +1386,7 @@
     "Bloodmoon.esm",
     "Solstheim Tomb of The Snow Prince.esm",
     "Unique Uniques.ESP",
+    "Villa_Stellaris.esp",
     "WarlockRing.ESP",
     "FactionPerkSpells.ESP"
   ],
@@ -1337,6 +1394,7 @@
     "Bloodmoon.esm",
     "Solstheim Tomb of The Snow Prince.esm",
     "Unique Uniques.ESP",
+    "Villa_Stellaris.esp",
     "WarlockRing.ESP",
     "FactionPerkSpells.ESP"
   ],
@@ -2735,6 +2793,7 @@
     "Creatures and Critters Light the Path.ESP"
   ],
   "0x0": [
+    "Villa_Stellaris.esp",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
@@ -6424,6 +6483,7 @@
     "Treasures of Magic.ESP",
     "Enchanted Batons.ESP",
     "Privileges&Services 1.1.esp",
+    "Mage Robes.ESP",
     "Ownership Overhaul.esp"
   ],
   "Ald-ruhn, Guls Llervu's House": [
@@ -6862,8 +6922,13 @@
     "Cyr_Main.ESM",
     "Wares_PC_traders.esp"
   ],
+  "Anvil, Albatross Apartments": [
+    "Cyr_Main.ESM",
+    "UnderharborFlat.ESP"
+  ],
   "Anvil, All Flags Inn": [
     "Cyr_Main.ESM",
+    "Villa_Stellaris.esp",
     "Wares_PC_traders.esp"
   ],
   "Anvil, Aryadora: Enchanter": [
@@ -7002,6 +7067,10 @@
     "Cyr_Main.ESM",
     "Wares_PC_traders.esp"
   ],
+  "Anvil, Sewers: Port Quarter": [
+    "Cyr_Main.ESM",
+    "Villa_Stellaris.esp"
+  ],
   "Anvil, Shipworks": [
     "Cyr_Main.ESM",
     "Wares_PC_traders.esp"
@@ -7048,6 +7117,7 @@
   ],
   "Anvil, The Anchor's Rest": [
     "Cyr_Main.ESM",
+    "Villa_Stellaris.esp",
     "Wares_PC_traders.esp"
   ],
   "Anvil, Thirroth: Alchemical Remedies": [
@@ -7281,6 +7351,14 @@
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
+  "Bal Fell, Outer Shrine": [
+    "True_Lights_And_Darkness_1.1.esp",
+    "Mage Robes.ESP"
+  ],
+  "Bal Fell, West Wing": [
+    "True_Lights_And_Darkness_1.1.esp",
+    "Mage Robes.ESP"
+  ],
   "Bal Foyen, Andas Estate: Servants' Quarters": [
     "TR_Mainland.esm",
     "Wares_TR_traders.esp"
@@ -7447,6 +7525,7 @@
     "Wares_traders.ESP",
     "Treasures of Magic.ESP",
     "RepopulatedMorrowind.ESP",
+    "Mage Robes.ESP",
     "Ownership Overhaul.esp"
   ],
   "Balmora, Guild of Fighters": [
@@ -7465,6 +7544,7 @@
     "Catalyst.ESP",
     "RepopulatedMorrowind.ESP",
     "Privileges&Services 1.1.esp",
+    "Mage Robes.ESP",
     "Ownership Overhaul.esp"
   ],
   "Balmora, Hecerinde's House": [
@@ -7803,6 +7883,7 @@
     "True_Lights_And_Darkness_1.1.esp",
     "Wares_traders.ESP",
     "Privileges&Services 1.1.esp",
+    "Mage Robes.ESP",
     "Ownership Overhaul.esp"
   ],
   "Caldera, Hodlismod: Armorer": [
@@ -7917,6 +7998,7 @@
   ],
   "Charach, Guardhouse": [
     "Cyr_Main.ESM",
+    "Villa_Stellaris.esp",
     "Wares_PC_traders.esp"
   ],
   "Charach, Guild of Mages": [
@@ -7933,6 +8015,7 @@
   ],
   "Charach, Old Seawater Inn": [
     "Cyr_Main.ESM",
+    "Villa_Stellaris.esp",
     "Wares_PC_traders.esp"
   ],
   "Charach, Plaza Taverna": [
@@ -7945,6 +8028,7 @@
   ],
   "Charach, Sunset Hotel": [
     "Cyr_Main.ESM",
+    "Villa_Stellaris.esp",
     "Wares_PC_traders.esp"
   ],
   "Chun-Ook, Cabin": [
@@ -8419,7 +8503,8 @@
   "Endusal, Kagrenac's study": [
     "True_Lights_And_Darkness_1.1.esp",
     "Tools of the Secret Master.esp",
-    "Creatures_RP_Purist.ESP"
+    "Creatures_RP_Purist.ESP",
+    "Mage Robes.ESP"
   ],
   "Erabenimsun Camp, Addut-Lamanu's Yurt": [
     "True_Lights_And_Darkness_1.1.esp",
@@ -9707,6 +9792,10 @@
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
+  "Kogoruhn, Hall of Maki": [
+    "True_Lights_And_Darkness_1.1.esp",
+    "Mage Robes.ESP"
+  ],
   "Kogoruhn, Nabith Waterway": [
     "Expansions Integrated.esp",
     "True_Lights_And_Darkness_1.1.esp"
@@ -10896,6 +10985,7 @@
   "Nchuleftingth, Upper Levels": [
     "Ownership Overhaul.esm",
     "True_Lights_And_Darkness_1.1.esp",
+    "Mage Robes.ESP",
     "Ownership Overhaul.esp"
   ],
   "Necrom, Fane of the Ancestors": [
@@ -11695,6 +11785,10 @@
     "True_Lights_And_Darkness_1.1.esp",
     "Creatures_RP_Purist.ESP"
   ],
+  "Punabi": [
+    "True_Lights_And_Darkness_1.1.esp",
+    "Mage Robes.ESP"
+  ],
   "Punsabanit": [
     "True_Lights_And_Darkness_1.1.esp",
     "Creatures_RP_Purist.ESP"
@@ -12061,7 +12155,8 @@
     "AATL Mini Mods - Artifacts Replica Merchant.ESP",
     "True_Lights_And_Darkness_1.1.esp",
     "Wares_traders.ESP",
-    "Privileges&Services 1.1.esp"
+    "Privileges&Services 1.1.esp",
+    "Mage Robes.ESP"
   ],
   "Sadrith Mora, Fara's Hole in the Wall": [
     "RepopulatedMorrowind.ESM",
@@ -12204,6 +12299,7 @@
     "True_Lights_And_Darkness_1.1.esp",
     "Wares_traders.ESP",
     "Privileges&Services 1.1.esp",
+    "Mage Robes.ESP",
     "Ownership Overhaul.esp"
   ],
   "Sadryon Ancestral Tomb": [
@@ -12442,7 +12538,8 @@
   ],
   "Shal": [
     "True_Lights_And_Darkness_1.1.esp",
-    "Creatures_RP_Purist.ESP"
+    "Creatures_RP_Purist.ESP",
+    "Mage Robes.ESP"
   ],
   "Shalmurat": [
     "TR_Mainland.esm",
@@ -13576,6 +13673,7 @@
   ],
   "Thresvy, Chapel of Persisting Sustenance": [
     "Cyr_Main.ESM",
+    "Cyr_ImprovedGreatFaiths.ESP",
     "Wares_PC_traders.esp"
   ],
   "Thresvy, Lacorius Estate: Manor": [
@@ -14089,6 +14187,7 @@
     "Treasures of Magic.ESP",
     "RepopulatedMorrowind.ESP",
     "Privileges&Services 1.1.esp",
+    "Mage Robes.ESP",
     "Ownership Overhaul.esp"
   ],
   "Vivec, Hall of Justice": [

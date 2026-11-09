@@ -6,15 +6,21 @@
 
 ## Character
 
-- **Mage**
-  - Race: Altmer
-  - Class: Shaman
-  - Sign: Elven, Magnus
-  - Lineage: Imp
-  - Culture: Magocratic
-  - Belief: Azura
-- **Thief**
-- **Warrior**
+- Race: Reachman
+- Class: _custom_
+- Sign: Elven, Magnus
+- Lineage: Half-Breton
+- Background: Bathed in Twilight
+- Culture: Magocratic
+- Belief: Azura
+
+### Leveling...
+
+player->addspell "draconic_senses"
+player->addspell "multimark_mark_spell"
+player->addspell "multimark_recall_spell"
+
+player->additem daedric_helm_clavicusvile 1
 
 ## Mod Ideas
 
@@ -32,3 +38,5 @@
 - In-game notes?
 
 ## Patches & Fixes Needed
+
+- Birthsigns: Even-Syrabane has Power instead of Ability
