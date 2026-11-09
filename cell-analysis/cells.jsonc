@@ -2793,6 +2793,7 @@
     "Creatures and Critters Light the Path.ESP"
   ],
   "0x0": [
+    "DM_TR_EnaMoreIndoril.ESP",
     "Villa_Stellaris.esp",
     "F&F_Vvardenfell.ESP",
     "Creatures_RP_Purist.ESP",
@@ -4141,8 +4142,13 @@
     "TR_Mainland.esm",
     "Hidden Sea Loot.ESP"
   ],
+  "22x-8": [
+    "TR_Mainland.esm",
+    "DM_TR_AmmarMoreIndoril.esp"
+  ],
   "22x-9": [
     "TR_Mainland.esm",
+    "DM_TR_AmmarMoreIndoril.esp",
     "Hidden Sea Loot.ESP",
     "RepopulatedMainland.ESP"
   ],
@@ -4185,10 +4191,12 @@
   ],
   "23x-8": [
     "TR_Mainland.esm",
+    "DM_TR_AmmarMoreIndoril.esp",
     "F&F_Mainland.ESP"
   ],
   "23x-9": [
     "TR_Mainland.esm",
+    "DM_TR_AmmarMoreIndoril.esp",
     "RepopulatedMainland.ESP"
   ],
   "23x10": [
@@ -4470,14 +4478,17 @@
   ],
   "29x-11": [
     "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp",
     "F&F_Mainland.ESP"
   ],
   "29x-12": [
     "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp",
     "F&F_Mainland.ESP"
   ],
   "29x-13": [
     "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp",
     "F&F_Mainland.ESP"
   ],
   "29x-14": [
@@ -4703,14 +4714,24 @@
     "RepopulatedMorrowind.ESM",
     "F&F_Vvardenfell.ESP"
   ],
+  "30x-10": [
+    "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp"
+  ],
   "30x-11": [
     "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp",
     "RepopulatedMainland.ESP",
     "F&F_Mainland.ESP"
   ],
   "30x-12": [
     "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp",
     "F&F_Mainland.ESP"
+  ],
+  "30x-13": [
+    "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp"
   ],
   "30x-15": [
     "TR_Mainland.esm",
@@ -4753,13 +4774,23 @@
     "TR_Mainland.esm",
     "F&F_Mainland.ESP"
   ],
+  "31x-10": [
+    "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp"
+  ],
   "31x-11": [
     "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp",
     "RepopulatedMainland.ESP",
     "F&F_Mainland.ESP"
   ],
+  "31x-12": [
+    "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp"
+  ],
   "31x-13": [
     "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp",
     "F&F_Mainland.ESP"
   ],
   "31x-14": [
@@ -4801,10 +4832,12 @@
   ],
   "32x-11": [
     "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp",
     "Wares_TR_traders.esp"
   ],
   "32x-12": [
     "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp",
     "F&F_Mainland.ESP"
   ],
   "32x-15": [
@@ -5025,10 +5058,12 @@
   ],
   "37x-27": [
     "TR_Mainland.esm",
+    "DM_TR_EnaMoreIndoril.ESP",
     "F&F_Mainland.ESP"
   ],
   "37x-28": [
     "TR_Mainland.esm",
+    "DM_TR_EnaMoreIndoril.ESP",
     "Wares_TR_traders.esp",
     "RepopulatedMainland.ESP",
     "F&F_Mainland.ESP"
@@ -5048,6 +5083,10 @@
   "38x-20": [
     "TR_Mainland.esm",
     "F&F_Mainland.ESP"
+  ],
+  "38x-28": [
+    "TR_Mainland.esm",
+    "DM_TR_EnaMoreIndoril.ESP"
   ],
   "38x-9": [
     "TR_Mainland.esm",
@@ -5228,8 +5267,13 @@
     "Hidden Sea Loot.ESP",
     "Creatures and Critters.ESP"
   ],
+  "40x-29": [
+    "TR_Mainland.esm",
+    "DM_TR_NanIbanMoreIndoril.ESP"
+  ],
   "40x-30": [
     "TR_Mainland.esm",
+    "DM_TR_NanIbanMoreIndoril.ESP",
     "F&F_Mainland.ESP"
   ],
   "40x19": [
@@ -5240,8 +5284,13 @@
     "TR_Mainland.esm",
     "F&F_Mainland.ESP"
   ],
+  "41x-29": [
+    "TR_Mainland.esm",
+    "DM_TR_NanIbanMoreIndoril.ESP"
+  ],
   "41x-30": [
     "TR_Mainland.esm",
+    "DM_TR_NanIbanMoreIndoril.ESP",
     "RepopulatedMainland.ESP",
     "F&F_Mainland.ESP"
   ],
@@ -6212,30 +6261,91 @@
     "True_Lights_And_Darkness_1.1.esp",
     "Creatures_RP_Purist.ESP"
   ],
+  "Akamora, Aravel Manor": [
+    "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp"
+  ],
+  "Akamora, Arenim Manor": [
+    "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp"
+  ],
+  "Akamora, Darvon Golaren's House": [
+    "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp"
+  ],
+  "Akamora, Dralethan Manor": [
+    "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp"
+  ],
   "Akamora, Guard Tower": [
     "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp",
     "Wares_TR_traders.esp",
     "RepopulatedMainland.ESP"
   ],
   "Akamora, Guild of Fighters": [
     "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp",
     "Wares_TR_traders.esp",
     "RepopulatedMainland.ESP",
     "F&F_Mainland.ESP"
   ],
   "Akamora, Guild of Mages": [
     "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp",
     "Wares_TR_traders.esp",
     "RepopulatedMainland.ESP"
   ],
+  "Akamora, Guls Manor": [
+    "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp"
+  ],
+  "Akamora, Indaren Manor": [
+    "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp"
+  ],
+  "Akamora, Indaren Manor, Cellar": [
+    "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp"
+  ],
+  "Akamora, Mals Uvela's House": [
+    "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp"
+  ],
+  "Akamora, Miners Club": [
+    "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp"
+  ],
+  "Akamora, Mining Head Office": [
+    "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp"
+  ],
   "Akamora, Morag Tong Guildhall": [
     "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp",
     "Wares_TR_traders.esp",
     "RepopulatedMainland.ESP"
   ],
   "Akamora, Parys Manor": [
     "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp",
     "Wares_TR_traders.esp"
+  ],
+  "Akamora, Rorvam Manor": [
+    "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp"
+  ],
+  "Akamora, Salenith Manor": [
+    "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp"
+  ],
+  "Akamora, Senim Manor": [
+    "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp"
+  ],
+  "Akamora, Telomas Manor": [
+    "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp"
   ],
   "Akamora, Temple": [
     "TR_Mainland.esm",
@@ -6243,21 +6353,36 @@
   ],
   "Akamora, The Laughing Goblin": [
     "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp",
     "Wares_TR_traders.esp",
     "RepopulatedMainland.ESP",
     "F&F_Mainland.ESP"
   ],
   "Akamora, Thendas and Varonis: Pawnbroker": [
     "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp",
     "Wares_TR_traders.esp",
     "F&F_Mainland.ESP"
   ],
   "Akamora, Underground Bazaar": [
     "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp",
     "Wares_TR_traders.esp",
     "RepopulatedMainland.ESP",
     "F&F_Mainland.ESP",
     "auction_tr.omwaddon"
+  ],
+  "Akamora, Varen Manor": [
+    "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp"
+  ],
+  "Akamora, Vedaves Vedrel's House": [
+    "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp"
+  ],
+  "Akamora, Veri Manor": [
+    "TR_Mainland.esm",
+    "DM_TR_AkaMoreIndoril.esp"
   ],
   "Akimaes Grotto": [
     "True_Lights_And_Darkness_1.1.esp",
@@ -6835,11 +6960,21 @@
   ],
   "Ammar, Entrance Hall": [
     "TR_Mainland.esm",
+    "DM_TR_AmmarMoreIndoril.esp",
     "Wares_TR_traders.esp"
+  ],
+  "Ammar, Gatehouse": [
+    "TR_Mainland.esm",
+    "DM_TR_AmmarMoreIndoril.esp"
   ],
   "Ammar, Guard Tower": [
     "TR_Mainland.esm",
+    "DM_TR_AmmarMoreIndoril.esp",
     "RepopulatedMainland.ESP"
+  ],
+  "Ammar, Indalas House": [
+    "TR_Mainland.esm",
+    "DM_TR_AmmarMoreIndoril.esp"
   ],
   "An Abandoned Shack": [
     "Better Sounds_Fixed.esp",
@@ -8490,13 +8625,27 @@
     "Creatures_RP_Purist.ESP",
     "Creatures and Critters.ESP"
   ],
+  "Enamor Dayn, Adarys Manor": [
+    "TR_Mainland.esm",
+    "DM_TR_EnaMoreIndoril.ESP"
+  ],
+  "Enamor Dayn, Fadril Tharyn's House": [
+    "TR_Mainland.esm",
+    "DM_TR_EnaMoreIndoril.ESP"
+  ],
+  "Enamor Dayn, Housing": [
+    "TR_Mainland.esm",
+    "DM_TR_EnaMoreIndoril.ESP"
+  ],
   "Enamor Dayn, The Gentle Velk": [
     "TR_Mainland.esm",
+    "DM_TR_EnaMoreIndoril.ESP",
     "Wares_TR_traders.esp",
     "RepopulatedMainland.ESP"
   ],
   "Enamor Dayn, Tradehouse": [
     "TR_Mainland.esm",
+    "DM_TR_EnaMoreIndoril.ESP",
     "Wares_TR_traders.esp",
     "F&F_Mainland.ESP"
   ],
@@ -10628,6 +10777,62 @@
     "True_Lights_And_Darkness_1.1.esp",
     "Wares_traders.ESP",
     "Creatures_RP_Purist.ESP"
+  ],
+  "Nan Iban, Bariel: Florist": [
+    "TR_Mainland.esm",
+    "DM_TR_NanIbanMoreIndoril.ESP"
+  ],
+  "Nan Iban, Daryn Tharis' House": [
+    "TR_Mainland.esm",
+    "DM_TR_NanIbanMoreIndoril.ESP"
+  ],
+  "Nan Iban, Fadrel Orvelo's House": [
+    "TR_Mainland.esm",
+    "DM_TR_NanIbanMoreIndoril.ESP"
+  ],
+  "Nan Iban, Guard Tower": [
+    "TR_Mainland.esm",
+    "DM_TR_NanIbanMoreIndoril.ESP"
+  ],
+  "Nan Iban, Idav Theryn's House": [
+    "TR_Mainland.esm",
+    "DM_TR_NanIbanMoreIndoril.ESP"
+  ],
+  "Nan Iban, Methalas Eves: General Trader": [
+    "TR_Mainland.esm",
+    "DM_TR_NanIbanMoreIndoril.ESP"
+  ],
+  "Nan Iban, Ralis Llarmos' House": [
+    "TR_Mainland.esm",
+    "DM_TR_NanIbanMoreIndoril.ESP"
+  ],
+  "Nan Iban, Rendays Manor": [
+    "TR_Mainland.esm",
+    "DM_TR_NanIbanMoreIndoril.ESP"
+  ],
+  "Nan Iban, Sadali Rothril's House": [
+    "TR_Mainland.esm",
+    "DM_TR_NanIbanMoreIndoril.ESP"
+  ],
+  "Nan Iban, Sedroth Manor": [
+    "TR_Mainland.esm",
+    "DM_TR_NanIbanMoreIndoril.ESP"
+  ],
+  "Nan Iban, Temple": [
+    "TR_Mainland.esm",
+    "DM_TR_NanIbanMoreIndoril.ESP"
+  ],
+  "Nan Iban, The Emerald Haven Inn": [
+    "TR_Mainland.esm",
+    "DM_TR_NanIbanMoreIndoril.ESP"
+  ],
+  "Nan Iban, Velo Valaro's Basement": [
+    "TR_Mainland.esm",
+    "DM_TR_NanIbanMoreIndoril.ESP"
+  ],
+  "Nan Iban, Velo Valaro's House": [
+    "TR_Mainland.esm",
+    "DM_TR_NanIbanMoreIndoril.ESP"
   ],
   "Nargozh Camp, Agli gra-Lashgurgol's Yurt": [
     "Sky_Main.ESM",
