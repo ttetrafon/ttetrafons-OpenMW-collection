@@ -1,0 +1,46 @@
+{
+  "cell": "Dagon Fel, Sorkvild's Tower",
+  "name": "Dagon Fel, Sorkvild's Tower",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bookskill_blunt weapon3": 1,
+        "dwrv_cabinet10": 1,
+        "furn_dwrv_steam_00": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bookskill_blunt weapon3": 1,
+        "dwrv_cabinet10": 1,
+        "furn_dwrv_steam_00": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::213749",
+      "object": "furn_dwrv_steam_00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::213764",
+      "object": "dwrv_cabinet10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483363",
+      "object": "bookskill_blunt weapon3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "cell": "Shushishi",
+  "name": "Shushishi",
+  "plugins": {
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_priceoftheanchor": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "modified": {
+        "light_lava": 1
+      }
+    }
+  }
+}

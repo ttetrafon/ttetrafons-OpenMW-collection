@@ -1,0 +1,180 @@
+{
+  "cell": "Elf-Skerring, Lower Level",
+  "name": "Elf-Skerring, Lower Level",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "barrel_01": 5,
+        "barrel_02": 1,
+        "barrel_02_cheapfood5": 1,
+        "com_chest_11_k01": 2,
+        "crate_01": 1,
+        "crate_01_ebony": 2,
+        "crate_01_empty": 3,
+        "light_com_lantern_01": 1,
+        "light_de_lantern_01_off": 1,
+        "misc_com_tankard_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "barrel_01": 5,
+        "barrel_02": 1,
+        "barrel_02_cheapfood5": 1,
+        "com_chest_11_k01": 2,
+        "crate_01": 1,
+        "crate_01_ebony": 2,
+        "crate_01_empty": 3,
+        "light_com_lantern_01": 1,
+        "light_de_lantern_01_off": 1,
+        "misc_com_tankard_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::299320",
+      "object": "barrel_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299321",
+      "object": "barrel_02_cheapfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299322",
+      "object": "crate_01_ebony",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299332",
+      "object": "misc_com_tankard_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299334",
+      "object": "crate_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299481",
+      "object": "crate_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299482",
+      "object": "crate_01_ebony",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299483",
+      "object": "barrel_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299484",
+      "object": "barrel_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299485",
+      "object": "com_chest_11_k01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299486",
+      "object": "com_chest_11_k01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299489",
+      "object": "crate_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299490",
+      "object": "light_de_lantern_01_off",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299491",
+      "object": "crate_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299492",
+      "object": "barrel_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299505",
+      "object": "barrel_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299506",
+      "object": "barrel_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299509",
+      "object": "light_com_lantern_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

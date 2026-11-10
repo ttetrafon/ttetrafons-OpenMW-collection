@@ -1,0 +1,60 @@
+{
+  "cell": "30,3",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "collision wall - inviso!!": 3,
+        "ex_vivec_waterfall_01": 3,
+        "ex_vivec_waterfall_05": 2,
+        "ex_waterfall_mist_01": 5,
+        "flora_chokeweed_02": 1,
+        "flora_kreshweed_01": 2,
+        "flora_kreshweed_02": 1,
+        "flora_kreshweed_03": 1,
+        "flora_rm_scathecraw_02": 1,
+        "flora_stoneflower_01": 1,
+        "flora_tree_wg_01": 1,
+        "flora_tree_wg_02": 2,
+        "flora_tree_wg_04": 2,
+        "flora_tree_wg_05": 1,
+        "flora_tree_wg_06": 2,
+        "flora_tree_wg_07": 2,
+        "flora_tree_wg_08": 1,
+        "flora_treestump_wg_01": 1,
+        "furn_mist512": 4,
+        "t_glb_terrwater_rectflw256_01": 1,
+        "t_glb_terrwater_sqrflw1024_01": 9,
+        "t_mw_lvl_cliffracers-2": 1,
+        "t_mw_lvl_netchbullswild+2": 1,
+        "t_mw_lvl_nixhounds+0": 2,
+        "t_mw_rlvl_boethiahspineland+0": 1,
+        "terrain_rock_wg_01": 2,
+        "terrain_rock_wg_02": 13,
+        "terrain_rock_wg_04": 1,
+        "terrain_rock_wg_05": 6,
+        "terrain_rock_wg_07": 2,
+        "terrain_rock_wg_08": 5,
+        "terrain_rock_wg_09": 9,
+        "terrain_rock_wg_10": 5,
+        "terrain_rock_wg_12": 10,
+        "terrain_rock_wg_13": 1,
+        "terrain_rock_wg_16": 5,
+        "terrain_rock_wg_17": 1,
+        "terrain_rocks_wg_01": 4,
+        "terrain_rocks_wg_02": 1,
+        "terrain_rocks_wg_03": 4,
+        "tr_m2_q_ttshrine2": 1
+      }
+    },
+    "RepopulatedMainland.ESP": {
+      "added": {
+        "gvrm_dun_pray_5_trcpy": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_pilgrim_spawn": 1
+      }
+    }
+  }
+}

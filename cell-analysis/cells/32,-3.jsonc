@@ -1,0 +1,62 @@
+{
+  "cell": "32,-3",
+  "name": "Bthangthamuzand",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "contain_corpse10": 1,
+        "contain_corpse20": 1,
+        "door_dwrv_double00": 1,
+        "door_dwrv_double01": 1,
+        "door_dwrv_load00": 1,
+        "dwrv_chest00_common": 1,
+        "ex_de_shack_steps_01": 1,
+        "ex_dwrv_bridge00": 2,
+        "ex_dwrv_enter00": 2,
+        "ex_dwrv_pipe00": 2,
+        "ex_dwrv_pipe10": 1,
+        "ex_dwrv_ruin00": 2,
+        "ex_dwrv_ruin10": 3,
+        "ex_dwrv_ruin30": 1,
+        "ex_dwrv_ruin50": 1,
+        "ex_dwrv_ruin60": 1,
+        "ex_dwrv_ruin_tower00": 2,
+        "ex_dwrv_steamstack00": 2,
+        "flora_root_wg_03": 3,
+        "flora_root_wg_04": 1,
+        "flora_tree_wg_01": 1,
+        "flora_tree_wg_02": 2,
+        "furn_dwrv_fitting00": 1,
+        "furn_dwrv_fitting50": 1,
+        "p_levitation_q": 1,
+        "t_dwe_regular_crossbow_evan": 1,
+        "t_dwe_regular_staff_01": 1,
+        "t_mw_terrrockwg_cliff_03": 1,
+        "terrain_rock_wg_01": 3,
+        "terrain_rock_wg_04": 1,
+        "terrain_rock_wg_05": 8,
+        "terrain_rock_wg_07": 8,
+        "terrain_rock_wg_08": 9,
+        "terrain_rock_wg_09": 2,
+        "terrain_rock_wg_10": 5,
+        "terrain_rock_wg_12": 8,
+        "terrain_rock_wg_14": 6,
+        "terrain_rock_wg_16": 1,
+        "terrain_rock_wg_17": 9,
+        "terrain_rock_wg_18": 5,
+        "terrain_rocks_wg_01": 1,
+        "terrain_rocks_wg_02": 1,
+        "terrain_rocks_wg_03": 7,
+        "tr_m1_r_andar galen": 1,
+        "tr_m2_bthang_door1": 1,
+        "tr_m2_bthang_door2": 1,
+        "tr_m2_bthang_doorcrank": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_ex_dwe_spawn": 1
+      }
+    }
+  }
+}

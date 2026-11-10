@@ -1,0 +1,54 @@
+{
+  "cell": "28,-7",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "flora_chokeweed_02": 2,
+        "flora_grass_01": 7,
+        "flora_hackle-lo_01": 2,
+        "flora_hackle-lo_02": 2,
+        "flora_kreshweed_01": 3,
+        "flora_kreshweed_02": 2,
+        "flora_kreshweed_03": 3,
+        "flora_muckspunge_02": 1,
+        "flora_muckspunge_04": 1,
+        "flora_plant_01": 3,
+        "flora_roobrush_02": 2,
+        "flora_stoneflower_01": 2,
+        "flora_stoneflower_02": 2,
+        "flora_tree_gl_04": 1,
+        "flora_tree_gl_06": 2,
+        "flora_tree_gl_07": 2,
+        "flora_wickwheat_01": 6,
+        "flora_wickwheat_02": 5,
+        "flora_wickwheat_03": 6,
+        "flora_wickwheat_04": 4,
+        "t_mw_rlvl_helnimfieldsland+0": 5,
+        "terrain_rock_gl_02": 2,
+        "terrain_rock_gl_04": 2,
+        "terrain_rock_gl_05": 1,
+        "terrain_rock_gl_06": 3,
+        "terrain_rock_gl_07": 5,
+        "terrain_rock_gl_08": 7,
+        "terrain_rock_gl_09": 2,
+        "terrain_rock_gl_10": 3,
+        "terrain_rock_gl_11": 2,
+        "terrain_rock_gl_12": 3,
+        "terrain_rock_wg_01": 1,
+        "terrain_rock_wg_03": 1,
+        "terrain_rock_wg_05": 2,
+        "terrain_rock_wg_07": 2,
+        "terrain_rock_wg_10": 2,
+        "terrain_rocks_gl_01": 13,
+        "terrain_rocks_gl_03": 3,
+        "terrain_rocks_wg_01": 6,
+        "terrain_rocks_wg_03": 4
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

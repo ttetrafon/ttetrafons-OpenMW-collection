@@ -1,0 +1,80 @@
+{
+  "cell": "7,-12",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_east_barrel": 1,
+        "xero_ex_barnacles_05": 1,
+        "xero_marker": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_ai": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_hlaalu guard_ran": 1
+      },
+      "modified": {
+        "sp_hlaalu archer_ran": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "flora_gold_kanet_01": 1,
+        "urn_02_food": 1,
+        "urn_04_food": 1,
+        "urn_05_food": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "flora_gold_kanet_01": 1,
+        "urn_02_food": 1,
+        "urn_04_food": 1,
+        "urn_05_food": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::323715",
+      "object": "flora_gold_kanet_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::323720",
+      "object": "urn_04_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::323721",
+      "object": "urn_05_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::323747",
+      "object": "urn_02_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

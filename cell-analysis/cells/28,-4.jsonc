@@ -1,0 +1,70 @@
+{
+  "cell": "28,-4",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_gg_02": 1,
+        "ex_gg_03": 1,
+        "ex_gg_ent_01": 1,
+        "ex_hlaalu_buttress_04": 4,
+        "ex_hlaalu_dsteps_01": 1,
+        "ex_ruin_00": 1,
+        "ex_ruin_10": 1,
+        "ex_ruin_20": 1,
+        "ex_ruin_30": 2,
+        "ex_ruin_40": 1,
+        "ex_t_root_bridge_01": 1,
+        "ex_velothi_loaddoor_01": 1,
+        "ex_velothi_tower_01": 1,
+        "flora_comberry_01": 1,
+        "flora_hackle-lo_02": 3,
+        "flora_kreshweed_01": 3,
+        "flora_kreshweed_02": 1,
+        "flora_root_wg_03": 1,
+        "flora_root_wg_04": 1,
+        "flora_tree_gl_01": 1,
+        "flora_tree_gl_05": 1,
+        "flora_tree_gl_07": 1,
+        "flora_tree_gl_08": 1,
+        "flora_tree_wg_01": 4,
+        "flora_tree_wg_02": 1,
+        "flora_tree_wg_04": 1,
+        "flora_tree_wg_05": 4,
+        "flora_tree_wg_06": 1,
+        "flora_tree_wg_07": 1,
+        "flora_wickwheat_01": 2,
+        "flora_wickwheat_02": 5,
+        "flora_wickwheat_03": 3,
+        "flora_wickwheat_04": 1,
+        "t_mw_rlvl_helnimfieldsland+0": 4,
+        "t_mw_rlvl_helnimfieldsland-2": 2,
+        "terrain_rock_gl_11": 4,
+        "terrain_rock_gl_12": 1,
+        "terrain_rock_wg_01": 1,
+        "terrain_rock_wg_02": 1,
+        "terrain_rock_wg_05": 2,
+        "terrain_rock_wg_07": 1,
+        "terrain_rock_wg_08": 3,
+        "terrain_rock_wg_09": 6,
+        "terrain_rock_wg_10": 1,
+        "terrain_rock_wg_12": 1,
+        "terrain_rock_wg_14": 4,
+        "terrain_rock_wg_15": 1,
+        "terrain_rock_wg_16": 7,
+        "terrain_rock_wg_17": 4,
+        "terrain_rocks_gl_02": 2,
+        "terrain_rocks_gl_03": 2,
+        "terrain_rocks_gl_04": 1,
+        "terrain_rocks_wg_01": 13,
+        "terrain_rocks_wg_02": 4,
+        "terrain_rocks_wg_03": 7,
+        "tr_m2_q_18_nevera": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_tel_spawn": 1
+      }
+    }
+  }
+}

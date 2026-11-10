@@ -1,0 +1,21 @@
+{
+  "cell": "10,10",
+  "plugins": {
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "aa_herd_graze_z": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_flowers": 1,
+        "plx_herd_graze_z": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_gz": 1
+      }
+    }
+  }
+}

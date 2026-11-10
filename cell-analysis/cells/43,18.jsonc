@@ -1,0 +1,17 @@
+{
+  "cell": "43,18",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_cave_entrance_ac_01": 1,
+        "ex_t_menhir_l_01": 43,
+        "terrain_rock_ma_57": 2
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

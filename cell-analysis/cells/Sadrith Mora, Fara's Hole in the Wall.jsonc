@@ -1,0 +1,116 @@
+{
+  "cell": "Sadrith Mora, Fara's Hole in the Wall",
+  "name": "Sadrith Mora, Fara's Hole in the Wall",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "furn_de_p_stool_01": 1,
+        "gvrm_am_marker": 3,
+        "gvrm_tlv_s+e_dun_all": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_cleaner": 1,
+        "am_eaterday06": 1,
+        "am_eaternight09": 1,
+        "misc_de_foldedcloth00": 1
+      },
+      "modified": {
+        "furn_de_p_bench_03": 2,
+        "misc_de_foldedcloth00": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_baker": 1,
+        "aa_wares_publican": 1,
+        "aa_wares_trader": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "furn_de_bar_01": 4,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_03": 1,
+        "furn_de_bar_04": 1,
+        "furn_de_bar_05": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "furn_de_bar_01": 4,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_03": 1,
+        "furn_de_bar_04": 1,
+        "furn_de_bar_05": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::77764",
+      "object": "furn_de_bar_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77767",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77769",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77770",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77771",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77773",
+      "object": "furn_de_bar_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309830",
+      "object": "furn_de_bar_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309831",
+      "object": "furn_de_bar_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

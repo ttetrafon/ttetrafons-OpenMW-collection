@@ -1,0 +1,30 @@
+{
+  "cell": "Maren Ancestral Tomb",
+  "name": "Maren Ancestral Tomb",
+  "plugins": {
+    "Tales of the Mad God.ESP": {
+      "added": {
+        "aom_ashpit": 2
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "un_lord_greater": 1,
+        "un_skeleton_arise": 1,
+        "un_skeletonarise2": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_skeleton_arise": 1,
+        "aa_cr_skeletonarise2": 1,
+        "aa_cr_u_all_1": 1
+      }
+    },
+    "LootWellUrned.ESP": {
+      "added": {
+        "_uyl_maren": 1
+      }
+    }
+  }
+}

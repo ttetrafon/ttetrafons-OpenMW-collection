@@ -1,0 +1,25 @@
+{
+  "cell": "7,2",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "de_p_chest_02_gold_50": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "de_p_chest_02_gold_50": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::276564",
+      "object": "de_p_chest_02_gold_50",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "cell": "10,7",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_wise": 1
+      }
+    },
+    "Aoimevelho Wares with ALL NPCs.ESP": {
+      "added": {
+        "_ar2-01": 1,
+        "_ar_6th_dagothsymbol2": 3
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_ex_tomb70_spawn": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_herd_graze_z": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_night_only_exterior_undea": 1
+      }
+    }
+  }
+}

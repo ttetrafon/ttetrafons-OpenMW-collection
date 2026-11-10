@@ -1,0 +1,45 @@
+{
+  "cell": "31,-6",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "door_cavern_doors10": 1,
+        "ex_cave_entrance_gl_01": 1,
+        "flora_hackle-lo_01": 6,
+        "flora_hackle-lo_02": 4,
+        "flora_tree_gl_01": 1,
+        "flora_tree_gl_05": 2,
+        "flora_tree_gl_07": 2,
+        "flora_tree_gl_09": 1,
+        "flora_wickwheat_01": 10,
+        "flora_wickwheat_02": 11,
+        "flora_wickwheat_03": 11,
+        "flora_wickwheat_04": 13,
+        "t_mw_rlvl_helnimfieldsland+0": 2,
+        "t_mw_rlvl_helnimfieldsland+2": 1,
+        "t_mw_rlvl_helnimfieldsland-2": 2,
+        "terrain_rock_gl_02": 4,
+        "terrain_rock_gl_03": 7,
+        "terrain_rock_gl_04": 7,
+        "terrain_rock_gl_05": 2,
+        "terrain_rock_gl_06": 2,
+        "terrain_rock_gl_07": 4,
+        "terrain_rock_gl_08": 4,
+        "terrain_rock_gl_09": 2,
+        "terrain_rock_gl_10": 10,
+        "terrain_rock_gl_11": 9,
+        "terrain_rock_gl_12": 6,
+        "terrain_rock_wg_05": 1,
+        "terrain_rock_wg_08": 1,
+        "terrain_rocks_gl_01": 11,
+        "terrain_rocks_gl_03": 16,
+        "terrain_rocks_wg_01": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

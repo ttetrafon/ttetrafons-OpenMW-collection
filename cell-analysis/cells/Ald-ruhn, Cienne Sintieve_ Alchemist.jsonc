@@ -1,0 +1,62 @@
+{
+  "cell": "Ald-ruhn, Cienne Sintieve: Alchemist",
+  "name": "Ald-ruhn, Cienne Sintieve: Alchemist",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1,
+        "gvrm_un_al_cm_dun_30": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_alchemist2": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_alchemist": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "in_r_s_door_01": 1,
+        "p_light_c": 1,
+        "p_night-eye_c": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "in_r_s_door_01": 1,
+        "p_light_c": 1,
+        "p_night-eye_c": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::16788",
+      "object": "in_r_s_door_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::385395",
+      "object": "p_light_c",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::385396",
+      "object": "p_night-eye_c",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "cell": "19,4",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "tr_m0_mark_hanmar": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_ex_daedric_ruins_spawn": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_daedra_shrine_azura": 4
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_b_wisp_all": 1,
+        "aa_cr_shrine_azura": 4
+      }
+    }
+  }
+}

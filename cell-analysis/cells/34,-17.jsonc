@@ -1,0 +1,68 @@
+{
+  "cell": "34,-17",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_dae_buttress_ruin_01": 4,
+        "ex_dae_door_load_oval": 1,
+        "ex_dae_ruin_04": 2,
+        "ex_dae_ruin_04_skew_01": 1,
+        "ex_dae_ruin_entry.max": 1,
+        "ex_dae_wall_512_06": 2,
+        "ex_dae_wall_512_09": 2,
+        "flora_bittergreen_01": 1,
+        "flora_bittergreen_02": 1,
+        "flora_bittergreen_03": 1,
+        "flora_bittergreen_04": 1,
+        "flora_bittergreen_pod_01": 1,
+        "flora_chokeweed_02": 4,
+        "flora_kreshweed_01": 1,
+        "flora_kreshweed_02": 1,
+        "flora_kreshweed_03": 2,
+        "flora_roobrush_02": 1,
+        "flora_root_wg_05": 1,
+        "flora_root_wg_08": 1,
+        "flora_stoneflower_01": 1,
+        "flora_tree_wg_04": 1,
+        "in_dae_room_l_roof_03": 6,
+        "in_dae_room_r_corner_02": 1,
+        "in_dae_rubble_01a": 5,
+        "in_dae_rubble_01c": 1,
+        "in_dae_rubble_03a": 1,
+        "in_dae_rubble_03b": 3,
+        "in_dae_rubble_04a": 1,
+        "in_dae_rubble_06": 1,
+        "t_mw_rlvl_mephalanvalesland+0": 1,
+        "t_mw_terrrockwg_cliff_02": 3,
+        "t_mw_terrrockwg_cliff_04": 1,
+        "t_mw_terrrockwg_cliff_05": 1,
+        "t_mw_terrrockwg_rock_01": 1,
+        "t_mw_terrrockwg_rock_05": 1,
+        "t_mw_terrrockwg_rock_07": 1,
+        "terrain_rock_wg_01": 2,
+        "terrain_rock_wg_02": 2,
+        "terrain_rock_wg_05": 7,
+        "terrain_rock_wg_07": 6,
+        "terrain_rock_wg_08": 13,
+        "terrain_rock_wg_09": 1,
+        "terrain_rock_wg_10": 4,
+        "terrain_rock_wg_12": 5,
+        "terrain_rock_wg_13": 3,
+        "terrain_rock_wg_14": 4,
+        "terrain_rock_wg_15": 3,
+        "terrain_rock_wg_16": 5,
+        "terrain_rock_wg_17": 2,
+        "terrain_rock_wg_18": 2,
+        "terrain_rocks_wg_01": 3,
+        "terrain_rocks_wg_02": 7,
+        "terrain_rocks_wg_03": 3,
+        "terrain_rocks_wg_04": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_ex_daedric_ruins_spawn": 1
+      }
+    }
+  }
+}

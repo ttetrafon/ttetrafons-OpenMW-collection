@@ -1,0 +1,42 @@
+{
+  "cell": "Caldera, Slave Shack One",
+  "name": "Caldera, Slave Shack One",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_bedroll": 3
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_bedroll": 3
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::173094",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::173095",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::173099",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

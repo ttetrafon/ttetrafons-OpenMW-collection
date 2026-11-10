@@ -1,0 +1,57 @@
+{
+  "cell": "Sadrith Mora, Anis Seloth: Alchemist",
+  "name": "Sadrith Mora, Anis Seloth: Alchemist",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_tlv_al_cm_dun_30": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_alchemist": 1
+      }
+    },
+    "Olive the Enchanter.esp": {
+      "added": {
+        "lhs_chest_fortifyaxe_re": 1,
+        "lhs_key_potion_recipe": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_telvanni guard st_ran": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "furn_de_bar_02": 1,
+        "furn_de_bar_04": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "furn_de_bar_02": 1,
+        "furn_de_bar_04": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::77696",
+      "object": "furn_de_bar_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77697",
+      "object": "furn_de_bar_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

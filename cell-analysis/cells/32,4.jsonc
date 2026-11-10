@@ -1,0 +1,43 @@
+{
+  "cell": "32,4",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "barrel_01_empty": 1,
+        "barrel_02_ingred": 1,
+        "ex_cave_door_01": 1,
+        "ex_wg_cave_entrance_01": 1,
+        "flora_ash_log_03": 1,
+        "flora_bc_fern_02": 1,
+        "flora_chokeweed_02": 4,
+        "flora_comberry_01": 5,
+        "flora_grass_01": 23,
+        "flora_tree_gl_04": 1,
+        "flora_tree_wg_04": 1,
+        "flora_tree_wg_05": 1,
+        "sound_rocks00": 1,
+        "t_mw_rlvl_boethiahspinecoast+0": 1,
+        "t_mw_rlvl_boethiahspineland+0": 1,
+        "t_mw_rlvl_boethiahspineland-2": 1,
+        "t_mw_terrrockwg_cliff_03": 1,
+        "terrain_rock_wg_05": 2,
+        "terrain_rock_wg_07": 5,
+        "terrain_rock_wg_08": 5,
+        "terrain_rock_wg_09": 1,
+        "terrain_rock_wg_10": 2,
+        "terrain_rock_wg_12": 7,
+        "terrain_rock_wg_14": 12,
+        "terrain_rock_wg_18": 2,
+        "terrain_rocks_wg_01": 5,
+        "terrain_rocks_wg_02": 1,
+        "terrain_rocks_wg_03": 4,
+        "terrain_rocks_wg_04": 2
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

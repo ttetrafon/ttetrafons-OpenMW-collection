@@ -1,0 +1,31 @@
+{
+  "cell": "16,-2",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_bandit3": 1,
+        "furn_de_ex_stool_02_nocol": 1
+      }
+    },
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_npc_necro_daalia": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_ex_tomb_spawn": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_night_only_exterior_undea": 1
+      }
+    }
+  }
+}

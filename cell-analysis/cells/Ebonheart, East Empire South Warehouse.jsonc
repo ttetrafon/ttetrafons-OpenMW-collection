@@ -1,0 +1,26 @@
+{
+  "cell": "Ebonheart, East Empire South Warehouse",
+  "name": "Ebonheart, East Empire South Warehouse",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "in_impsmall_door_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "in_impsmall_door_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::141447",
+      "object": "in_impsmall_door_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

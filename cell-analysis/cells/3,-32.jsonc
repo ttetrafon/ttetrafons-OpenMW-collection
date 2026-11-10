@@ -1,0 +1,71 @@
+{
+  "cell": "3,-32",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_ai_boulder06": 1,
+        "ex_de_railing_01": 6,
+        "ex_de_railing_03": 2,
+        "flora_comberry_01": 5,
+        "flora_corkbulb": 5,
+        "flora_emp_parasol_01": 1,
+        "flora_grass_01": 31,
+        "flora_grass_02": 4,
+        "flora_grass_03": 1,
+        "flora_grass_04": 2,
+        "flora_plant_03": 1,
+        "flora_sedge_01": 5,
+        "light_mh_rope_lantern": 1,
+        "t_glb_sound_ambientinsects_01": 1,
+        "t_glb_sound_wind_particles": 1,
+        "t_mw_cr_guarwild": 1,
+        "t_mw_cr_yethgrub": 1,
+        "t_mw_flora_timsacomeb01": 1,
+        "t_mw_flora_timsacomeb02": 1,
+        "t_mw_flora_timsacomeb03": 1,
+        "t_mw_flora_timsacomeb04": 1,
+        "t_mw_floraat_lilypadorange_01": 2,
+        "t_mw_floraat_lilypadorange_02": 1,
+        "t_mw_floraat_lilypadorange_03": 5,
+        "t_mw_floraat_oranmoss03": 2,
+        "t_mw_floraat_treeb_01": 2,
+        "t_mw_floraat_treeb_03": 1,
+        "t_mw_floraat_treeb_05": 3,
+        "t_mw_floraat_treeb_06": 2,
+        "t_mw_floraat_treeg_01": 1,
+        "t_mw_floraat_treeg_03": 4,
+        "t_mw_floraat_treeg_04": 1,
+        "t_mw_floraat_treeg_06": 3,
+        "t_mw_floratv_weepveil02": 1,
+        "t_mw_floratv_weepveil04": 1,
+        "t_mw_terrrockat_clifftrv_03": 1,
+        "t_mw_terrrockat_mtpeaktrv_03": 1,
+        "t_mw_terrrockat_rock_05": 3,
+        "t_mw_terrrockat_rock_07": 1,
+        "t_mw_terrrockat_rock_08": 3,
+        "t_mw_terrrockat_rock_09": 1,
+        "t_mw_terrrockat_rock_10": 1,
+        "t_mw_terrrockat_rock_20": 1,
+        "t_mw_terrrockat_rock_22": 2,
+        "t_mw_terrrockat_rock_24": 2,
+        "t_mw_terrrockat_rock_25": 2,
+        "t_mw_terrrockat_rock_26": 2,
+        "t_mw_terrrockat_rock_27": 3,
+        "t_mw_terrrockat_rock_28": 1,
+        "t_mw_terrrockat_rock_29": 16,
+        "t_mw_terrrockat_rock_30": 5,
+        "t_mw_terrrockat_rockgrp_01": 5,
+        "t_mw_terrrockat_rockgrp_02": 13,
+        "t_mw_terrrockat_rockgrp_03": 10,
+        "t_mw_terrrockat_rockgrp_04": 5,
+        "tr_m7_fons brenur": 1,
+        "tr_m7_la_flinbottle": 2
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_priest": 1
+      }
+    }
+  }
+}

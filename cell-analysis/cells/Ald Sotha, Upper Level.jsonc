@@ -1,0 +1,18 @@
+{
+  "cell": "Ald Sotha, Upper Level",
+  "name": "Ald Sotha, Upper Level",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_dbop_dun": 1
+      }
+    },
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_con_dae_coffer01_h": 1,
+        "aatl_l_dae_summcircle": 1,
+        "t_dae_cre_seducdark_02": 1
+      }
+    }
+  }
+}

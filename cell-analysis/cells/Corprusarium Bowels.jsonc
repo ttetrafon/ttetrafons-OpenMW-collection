@@ -1,0 +1,36 @@
+{
+  "cell": "Corprusarium Bowels",
+  "name": "Corprusarium Bowels",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "dwrv_chest_divayth05": 1,
+        "dwrv_chest_divayth07": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "dwrv_chest_divayth05": 1,
+        "dwrv_chest_divayth07": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::257759",
+      "object": "dwrv_chest_divayth05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::257760",
+      "object": "dwrv_chest_divayth07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

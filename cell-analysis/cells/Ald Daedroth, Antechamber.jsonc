@@ -1,0 +1,109 @@
+{
+  "cell": "Ald Daedroth, Antechamber",
+  "name": "Ald Daedroth, Antechamber",
+  "plugins": {
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_con_dae_chest01_l": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_bedroll": 2,
+        "ingred_moon_sugar_01": 1,
+        "misc_uni_pillow_01": 1,
+        "p_disease_resistance_b": 1,
+        "potion_comberry_brandy_01": 1,
+        "potion_cyro_brandy_01": 1,
+        "potion_cyro_whiskey_01": 1,
+        "potion_local_liquor_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_bedroll": 2,
+        "ingred_moon_sugar_01": 1,
+        "misc_uni_pillow_01": 1,
+        "p_disease_resistance_b": 1,
+        "potion_comberry_brandy_01": 1,
+        "potion_cyro_brandy_01": 1,
+        "potion_cyro_whiskey_01": 1,
+        "potion_local_liquor_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::299047",
+      "object": "potion_local_liquor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299048",
+      "object": "potion_cyro_whiskey_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299049",
+      "object": "potion_cyro_brandy_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299055",
+      "object": "potion_comberry_brandy_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::331095",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::331096",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::331097",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::331099",
+      "object": "p_disease_resistance_b",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::480383",
+      "object": "ingred_moon_sugar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

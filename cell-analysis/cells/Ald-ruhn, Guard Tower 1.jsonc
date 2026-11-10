@@ -1,0 +1,24 @@
+{
+  "cell": "Ald-ruhn, Guard Tower 1",
+  "name": "Ald-ruhn, Guard Tower 1",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_rd_s+e_bom_guards": 1,
+        "gvrm_rd_sf2_rdwtch": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_redoran guard_ran": 1
+      }
+    },
+    "Privileges&Services 1.1.esp": {
+      "added": {
+        "abm_capredoran": 1,
+        "abm_placeguard": 1,
+        "abm_trapguredup": 1
+      }
+    }
+  }
+}

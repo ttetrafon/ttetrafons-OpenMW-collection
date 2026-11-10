@@ -1,0 +1,1178 @@
+{
+  "cell": "Vivec, Hlaalu Plaza",
+  "name": "Vivec, Hlaalu Plaza",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1,
+        "gvrm_hlalguardwand": 1
+      }
+    },
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_blacksmith_amb00": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_sitter11": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "added": {
+        "daylight_hlaalu_1000_middle": 1,
+        "daylight_hlaalu_2400_ring": 4
+      }
+    },
+    "Aoimevelho Wares with ALL NPCs.ESP": {
+      "added": {
+        "!aoi_nobles_h": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "com_basket_01_empty": 1,
+        "com_basket_01_food": 2,
+        "crate_01_eggs": 5,
+        "crate_01_empty": 2,
+        "crate_01_food": 1,
+        "crate_01_random_pos": 2,
+        "crate_02_empty": 2,
+        "crate_02_food": 4,
+        "crate_02_random_pos": 6,
+        "flora_ash_yam_01": 7,
+        "flora_ash_yam_02": 3,
+        "flora_bc_mushroom_01": 3,
+        "flora_bc_mushroom_02": 4,
+        "flora_bc_mushroom_03": 5,
+        "flora_bc_mushroom_04": 4,
+        "flora_bc_mushroom_05": 5,
+        "flora_bc_mushroom_06": 12,
+        "flora_bc_mushroom_07": 17,
+        "flora_bc_mushroom_08": 18,
+        "flora_bc_shelffungus_01": 2,
+        "flora_chokeweed_02": 1,
+        "flora_comberry_01": 4,
+        "flora_corkbulb": 3,
+        "flora_roobrush_02": 4,
+        "misc_com_bottle_01": 1,
+        "misc_de_bowl_orange_green_01": 1,
+        "misc_de_bowl_redware_01": 1,
+        "misc_de_tankard_01": 1,
+        "urn_01_food": 1,
+        "urn_01_ingred": 2,
+        "urn_02_food": 1,
+        "urn_02_ingred": 1,
+        "urn_03_food": 2,
+        "urn_03_ingred": 1,
+        "urn_04_food": 1,
+        "urn_05_food": 1,
+        "urn_05_ingred": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_ordinator wan_ran": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "com_basket_01_empty": 1,
+        "com_basket_01_food": 2,
+        "crate_01_eggs": 5,
+        "crate_01_empty": 2,
+        "crate_01_food": 1,
+        "crate_01_random_pos": 2,
+        "crate_02_empty": 2,
+        "crate_02_food": 4,
+        "crate_02_random_pos": 6,
+        "flora_ash_yam_01": 7,
+        "flora_ash_yam_02": 3,
+        "flora_bc_mushroom_01": 3,
+        "flora_bc_mushroom_02": 4,
+        "flora_bc_mushroom_03": 5,
+        "flora_bc_mushroom_04": 4,
+        "flora_bc_mushroom_05": 5,
+        "flora_bc_mushroom_06": 12,
+        "flora_bc_mushroom_07": 17,
+        "flora_bc_mushroom_08": 18,
+        "flora_bc_shelffungus_01": 2,
+        "flora_chokeweed_02": 1,
+        "flora_comberry_01": 4,
+        "flora_corkbulb": 3,
+        "flora_roobrush_02": 4,
+        "misc_com_bottle_01": 1,
+        "misc_de_bowl_orange_green_01": 1,
+        "misc_de_bowl_redware_01": 1,
+        "misc_de_tankard_01": 1,
+        "urn_01_food": 1,
+        "urn_01_ingred": 2,
+        "urn_02_food": 1,
+        "urn_02_ingred": 1,
+        "urn_03_food": 2,
+        "urn_03_ingred": 1,
+        "urn_04_food": 1,
+        "urn_05_food": 1,
+        "urn_05_ingred": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::466440",
+      "object": "urn_05_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466441",
+      "object": "urn_03_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466442",
+      "object": "crate_01_eggs",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466443",
+      "object": "crate_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466444",
+      "object": "crate_02_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466445",
+      "object": "crate_01_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466446",
+      "object": "crate_01_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466447",
+      "object": "crate_02_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466448",
+      "object": "urn_03_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466449",
+      "object": "misc_de_bowl_orange_green_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466450",
+      "object": "misc_de_bowl_redware_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466451",
+      "object": "urn_02_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466452",
+      "object": "urn_05_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466453",
+      "object": "com_basket_01_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466454",
+      "object": "crate_01_eggs",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466455",
+      "object": "crate_02_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466456",
+      "object": "crate_02_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466457",
+      "object": "urn_02_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466458",
+      "object": "urn_01_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466459",
+      "object": "crate_01_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466460",
+      "object": "crate_01_eggs",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466461",
+      "object": "crate_02_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466462",
+      "object": "crate_02_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466463",
+      "object": "com_basket_01_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466464",
+      "object": "com_basket_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466465",
+      "object": "misc_de_tankard_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466466",
+      "object": "misc_com_bottle_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466467",
+      "object": "urn_04_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466468",
+      "object": "urn_01_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466469",
+      "object": "flora_comberry_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466470",
+      "object": "flora_roobrush_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466471",
+      "object": "flora_roobrush_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466472",
+      "object": "flora_comberry_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466473",
+      "object": "flora_comberry_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466475",
+      "object": "flora_roobrush_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466476",
+      "object": "flora_roobrush_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466478",
+      "object": "flora_chokeweed_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466532",
+      "object": "flora_ash_yam_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466533",
+      "object": "flora_ash_yam_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466534",
+      "object": "flora_ash_yam_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466535",
+      "object": "flora_ash_yam_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466536",
+      "object": "flora_ash_yam_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466537",
+      "object": "flora_ash_yam_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466538",
+      "object": "flora_ash_yam_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466539",
+      "object": "flora_ash_yam_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466540",
+      "object": "flora_ash_yam_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466541",
+      "object": "flora_ash_yam_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466542",
+      "object": "flora_bc_mushroom_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466543",
+      "object": "flora_bc_mushroom_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466544",
+      "object": "flora_bc_mushroom_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466545",
+      "object": "flora_bc_mushroom_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466546",
+      "object": "flora_bc_mushroom_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466547",
+      "object": "flora_bc_mushroom_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466548",
+      "object": "flora_bc_mushroom_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466549",
+      "object": "flora_bc_mushroom_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466551",
+      "object": "flora_bc_mushroom_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466552",
+      "object": "flora_bc_mushroom_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466553",
+      "object": "flora_bc_mushroom_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466554",
+      "object": "flora_bc_mushroom_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466555",
+      "object": "flora_corkbulb",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466556",
+      "object": "flora_corkbulb",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466557",
+      "object": "flora_corkbulb",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466558",
+      "object": "flora_bc_mushroom_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466559",
+      "object": "flora_bc_mushroom_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466560",
+      "object": "flora_bc_mushroom_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466561",
+      "object": "flora_bc_mushroom_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466562",
+      "object": "flora_bc_mushroom_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466563",
+      "object": "flora_bc_mushroom_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466564",
+      "object": "flora_bc_shelffungus_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466565",
+      "object": "flora_bc_shelffungus_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466567",
+      "object": "flora_bc_mushroom_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466568",
+      "object": "flora_bc_mushroom_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466569",
+      "object": "flora_bc_mushroom_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466570",
+      "object": "flora_bc_mushroom_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466571",
+      "object": "flora_bc_mushroom_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466572",
+      "object": "flora_bc_mushroom_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466573",
+      "object": "flora_bc_mushroom_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466574",
+      "object": "flora_bc_mushroom_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466575",
+      "object": "flora_bc_mushroom_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466576",
+      "object": "flora_bc_mushroom_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466577",
+      "object": "flora_bc_mushroom_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466578",
+      "object": "flora_bc_mushroom_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466579",
+      "object": "flora_bc_mushroom_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466580",
+      "object": "flora_bc_mushroom_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466581",
+      "object": "flora_bc_mushroom_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466582",
+      "object": "flora_bc_mushroom_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466583",
+      "object": "flora_bc_mushroom_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466584",
+      "object": "flora_bc_mushroom_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466586",
+      "object": "flora_comberry_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466587",
+      "object": "flora_bc_mushroom_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466588",
+      "object": "flora_bc_mushroom_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466589",
+      "object": "flora_bc_mushroom_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466590",
+      "object": "flora_bc_mushroom_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466591",
+      "object": "flora_bc_mushroom_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466592",
+      "object": "flora_bc_mushroom_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466593",
+      "object": "flora_bc_mushroom_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466594",
+      "object": "flora_bc_mushroom_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466595",
+      "object": "flora_bc_mushroom_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466596",
+      "object": "flora_bc_mushroom_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466597",
+      "object": "flora_bc_mushroom_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466600",
+      "object": "flora_bc_mushroom_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466601",
+      "object": "flora_bc_mushroom_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466602",
+      "object": "flora_bc_mushroom_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466603",
+      "object": "flora_bc_mushroom_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466604",
+      "object": "flora_bc_mushroom_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466605",
+      "object": "flora_bc_mushroom_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466606",
+      "object": "flora_bc_mushroom_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466607",
+      "object": "flora_bc_mushroom_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466608",
+      "object": "flora_bc_mushroom_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466609",
+      "object": "flora_bc_mushroom_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466610",
+      "object": "flora_bc_mushroom_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466617",
+      "object": "crate_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466618",
+      "object": "crate_02_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466619",
+      "object": "crate_02_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466620",
+      "object": "crate_02_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466621",
+      "object": "crate_02_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466622",
+      "object": "crate_02_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466623",
+      "object": "crate_02_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466624",
+      "object": "urn_01_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466625",
+      "object": "urn_03_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466626",
+      "object": "crate_01_eggs",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466627",
+      "object": "crate_01_eggs",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466628",
+      "object": "flora_bc_mushroom_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466629",
+      "object": "flora_bc_mushroom_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466630",
+      "object": "flora_bc_mushroom_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466631",
+      "object": "flora_bc_mushroom_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466632",
+      "object": "flora_bc_mushroom_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466639",
+      "object": "flora_bc_mushroom_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466640",
+      "object": "flora_bc_mushroom_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466641",
+      "object": "flora_bc_mushroom_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466642",
+      "object": "flora_bc_mushroom_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::466643",
+      "object": "flora_bc_mushroom_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

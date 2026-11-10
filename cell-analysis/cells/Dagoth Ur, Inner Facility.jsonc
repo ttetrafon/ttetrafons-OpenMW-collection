@@ -1,0 +1,174 @@
+{
+  "cell": "Dagoth Ur, Inner Facility",
+  "name": "Dagoth Ur, Inner Facility",
+  "plugins": {
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_cre_dagoth_gharen": 1
+      }
+    },
+    "Tools of the Secret Master.esp": {
+      "added": {
+        "apparatus_sm_alembic_01": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "furn_dwrv_beltdrive": 1,
+        "furn_dwrv_fitting40": 1,
+        "in_dagoth_taunt4": 1,
+        "in_dagoth_taunt5": 1,
+        "in_dagoth_taunt6": 1,
+        "in_lava_512": 3,
+        "sound_cave_wind00": 1,
+        "sound_dwemer_ruin00": 4,
+        "sound_flies00": 1,
+        "sound_spirit_whisper00": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "furn_dwrv_beltdrive": 1,
+        "furn_dwrv_fitting40": 1,
+        "in_dagoth_taunt4": 1,
+        "in_dagoth_taunt5": 1,
+        "in_dagoth_taunt6": 1,
+        "in_lava_512": 3,
+        "sound_cave_wind00": 1,
+        "sound_dwemer_ruin00": 4,
+        "sound_flies00": 1,
+        "sound_spirit_whisper00": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::211230",
+      "object": "in_lava_512",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::211231",
+      "object": "in_lava_512",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::211240",
+      "object": "in_lava_512",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::211246",
+      "object": "furn_dwrv_beltdrive",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::211251",
+      "object": "furn_dwrv_fitting40",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::268165",
+      "object": "in_dagoth_taunt4",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::268166",
+      "object": "in_dagoth_taunt6",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::268167",
+      "object": "in_dagoth_taunt5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::371349",
+      "object": "sound_cave_wind00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::388263",
+      "object": "sound_dwemer_ruin00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::388264",
+      "object": "sound_dwemer_ruin00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::388265",
+      "object": "sound_dwemer_ruin00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::388266",
+      "object": "sound_dwemer_ruin00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::427672",
+      "object": "sound_spirit_whisper00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::427673",
+      "object": "sound_spirit_whisper00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::427674",
+      "object": "sound_flies00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

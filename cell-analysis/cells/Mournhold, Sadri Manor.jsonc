@@ -1,0 +1,42 @@
+{
+  "cell": "Mournhold, Sadri Manor",
+  "name": "Mournhold, Sadri Manor",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "ex_mh_sewer_trapdoor_sadri": 1,
+        "in_mh_door_01": 1
+      }
+    },
+    "Immersive Mournhold.esp": {
+      "modified": {
+        "com_basket_01_pos": 1,
+        "furn_de_tapestry_10": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "ex_mh_sewer_trapdoor_sadri": 1,
+        "in_mh_door_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "tribunal::8571",
+      "object": "in_mh_door_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16832",
+      "object": "ex_mh_sewer_trapdoor_sadri",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

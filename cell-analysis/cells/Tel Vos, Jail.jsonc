@@ -1,0 +1,112 @@
+{
+  "cell": "Tel Vos, Jail",
+  "name": "Tel Vos, Jail",
+  "plugins": {
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_aryonlegionform": 1
+      }
+    },
+    "Olive the Enchanter.esp": {
+      "added": {
+        "p_fortify_axe_s": 1
+      },
+      "modified": {
+        "bk_beramjournal1": 1,
+        "in_impsmall_door_jail_01": 1,
+        "p_restore_health_q": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_telvanni guard_ran": 1
+      }
+    },
+    "Privileges&Services 1.1.esp": {
+      "added": {
+        "abm_trapguimup": 1
+      },
+      "modified": {
+        "com_chest_02_bc2": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bk_beramjournal1": 1,
+        "bk_beramjournal2": 1,
+        "bk_beramjournal3": 1,
+        "in_impsmall_door_jail_01": 3,
+        "light_com_lantern_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bk_beramjournal1": 1,
+        "bk_beramjournal2": 1,
+        "bk_beramjournal3": 1,
+        "in_impsmall_door_jail_01": 3,
+        "light_com_lantern_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::311805",
+      "object": "in_impsmall_door_jail_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::311809",
+      "object": "in_impsmall_door_jail_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::311810",
+      "object": "in_impsmall_door_jail_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Olive the Enchanter.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::311835",
+      "object": "light_com_lantern_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::311840",
+      "object": "bk_beramjournal2",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::311841",
+      "object": "bk_beramjournal3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::311844",
+      "object": "bk_beramjournal1",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Olive the Enchanter.esp",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

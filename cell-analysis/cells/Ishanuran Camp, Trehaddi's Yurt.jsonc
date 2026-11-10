@@ -1,0 +1,68 @@
+{
+  "cell": "Ishanuran Camp, Trehaddi's Yurt",
+  "name": "Ishanuran Camp, Trehaddi's Yurt",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_bedroll": 2,
+        "apparatus_a_mortar_01": 1,
+        "chitin dagger": 1,
+        "com_basket_01_chpfood5": 1,
+        "com_basket_01_ingredien": 1,
+        "com_sack_01_chpfood5": 1,
+        "com_sack_01_ingred": 1,
+        "com_sack_02_ingred": 2,
+        "com_sack_02_pos": 2,
+        "com_sack_03_pos": 1,
+        "com_sack_03_wickwheat": 1,
+        "flame light": 1,
+        "flora_corkbulb": 1,
+        "flora_willow_flower_02": 1,
+        "furn_ashl_bugbowl": 1,
+        "furn_ashl_bugbowl_02": 1,
+        "furn_ashl_bugbowl_03": 1,
+        "furn_ashl_chimes_01": 1,
+        "furn_de_ex_stool_02": 1,
+        "furn_de_ex_table_02": 1,
+        "furn_de_firepit_01": 1,
+        "furn_de_rug_01": 1,
+        "furn_planter_01": 2,
+        "in_ashl_door_02": 1,
+        "in_ashl_tent_02": 1,
+        "in_ashl_tent_banner_01": 2,
+        "in_ashl_tent_banner_07": 1,
+        "in_ashl_tent_banner_10": 1,
+        "in_ashl_tent_banner_15": 1,
+        "ingred_bread_01": 1,
+        "ingred_corkbulb_root_01": 1,
+        "ingred_gravedust_01": 1,
+        "ingred_red_lichen_01": 1,
+        "ingred_scrib_jelly_01": 1,
+        "light_ashl_lantern_01": 1,
+        "light_ashl_lantern_06": 1,
+        "light_de_candle_08_64": 1,
+        "misc_com_bottle_03": 2,
+        "misc_com_wood_bowl_04": 1,
+        "misc_de_drum_01": 1,
+        "misc_flask_01": 1,
+        "misc_flask_04": 1,
+        "northmarker": 1,
+        "potion_local_brew_01": 2,
+        "potion_local_liquor_01": 1,
+        "sc_paper plain": 3,
+        "t_ingcrea_beetleshell_03": 1,
+        "t_mwcom_furn_potionh1": 1,
+        "t_mwcom_var_bss1pos": 2,
+        "t_mwde_furn_u1food": 1,
+        "t_mwde_furn_u2ing": 1,
+        "t_mwde_furn_u3ing": 1,
+        "tr_m4_trehaddi": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_healer": 1
+      }
+    }
+  }
+}

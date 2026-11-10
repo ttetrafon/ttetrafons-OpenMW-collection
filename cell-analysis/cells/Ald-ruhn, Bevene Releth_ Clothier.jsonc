@@ -1,0 +1,54 @@
+{
+  "cell": "Ald-ruhn, Bevene Releth: Clothier",
+  "name": "Ald-ruhn, Bevene Releth: Clothier",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_clothes": 1
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_ff_ildritt_trigger": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "gold_005": 2,
+        "gold_010": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "gold_005": 2,
+        "gold_010": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::270572",
+      "object": "gold_010",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::270573",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::270574",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

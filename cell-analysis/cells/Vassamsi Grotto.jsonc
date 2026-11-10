@@ -1,0 +1,41 @@
+{
+  "cell": "Vassamsi Grotto",
+  "name": "Vassamsi Grotto",
+  "plugins": {
+    "Unique Jewelry and Accessories.esp": {
+      "added": {
+        "ex_t_doorway_02": 1,
+        "in_mud_rock_07": 2,
+        "in_t_door_small": 1
+      }
+    },
+    "Hidden Grotto Loot.ESP": {
+      "added": {
+        "gold_001": 18,
+        "ingred_diamond_01": 1,
+        "ingred_emerald_01": 1,
+        "ingred_ruby_01": 1,
+        "xero_grotto_chest": 3
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_dreugh_kollop": 2,
+        "plx_dreugh_man'o'war": 2,
+        "plx_in_dreugh": 7,
+        "plx_water": 9
+      },
+      "modified": {
+        "r0_h2o_all_lev+0_int": 1,
+        "r0_h2o_all_lev+2_int": 2,
+        "r0_h2o_all_lev-2_int": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_dreugh_kollop": 2,
+        "aa_cr_w_creature_list_1": 17
+      }
+    }
+  }
+}

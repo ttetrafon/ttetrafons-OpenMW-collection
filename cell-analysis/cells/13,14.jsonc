@@ -1,0 +1,41 @@
+{
+  "cell": "13,14",
+  "name": "Tel Mora",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 2,
+        "gvrm_bcom_am_marker": 1
+      }
+    },
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_blacksmith_amb00": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_beggar20": 1,
+        "am_sitter9": 1,
+        "bk_corpsepreperation1_o": 1,
+        "furn_de_ex_stool_01": 1,
+        "furn_de_ex_table_01": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_sailor_list_spawn": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "t_mw_fau_ceph_01": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "h11_telvanni guard_ran_tm": 2
+      }
+    }
+  }
+}

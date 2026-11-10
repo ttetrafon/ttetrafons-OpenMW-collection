@@ -1,0 +1,20 @@
+{
+  "cell": "-12,12",
+  "plugins": {
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_ligrosh": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_imp_spawn": 1
+      }
+    },
+    "Creatures and Critters Light the Path.ESP": {
+      "added": {
+        "aa_cr_i_moth_all": 2
+      }
+    }
+  }
+}

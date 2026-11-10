@@ -1,0 +1,17 @@
+{
+  "cell": "-3,-6",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "flora_heather_01": 1,
+        "plx_bandits": 1,
+        "plx_flowers": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_ai": 1
+      }
+    }
+  }
+}

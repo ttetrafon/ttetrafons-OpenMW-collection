@@ -1,0 +1,44 @@
+{
+  "cell": "Pudai Egg Mine",
+  "name": "Pudai Egg Mine",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "food_kwama_egg_01": 2,
+        "food_kwama_egg_02": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "food_kwama_egg_01": 2,
+        "food_kwama_egg_02": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::269088",
+      "object": "food_kwama_egg_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::269089",
+      "object": "food_kwama_egg_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::269090",
+      "object": "food_kwama_egg_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "cell": "19,19",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_cave_door_01": 1,
+        "ex_t_menhir_01": 1,
+        "ex_t_menhir_l_01": 6,
+        "ex_wg_cave_entrance_01": 1,
+        "flora_ashtree_01": 1,
+        "flora_ashtree_03": 1,
+        "flora_ashtree_05": 1,
+        "flora_emp_parasol_01": 1,
+        "flora_emp_parasol_02": 1,
+        "flora_emp_parasol_03": 2,
+        "flora_grass_01": 21,
+        "flora_grass_02": 18,
+        "flora_grass_03": 23,
+        "flora_grass_04": 25,
+        "flora_kreshweed_01": 1,
+        "flora_kreshweed_02": 2,
+        "flora_root_wg_01": 2,
+        "flora_root_wg_02": 3,
+        "flora_root_wg_03": 1,
+        "flora_root_wg_04": 3,
+        "flora_root_wg_06": 2,
+        "flora_root_wg_08": 2,
+        "flora_tree_wg_01": 1,
+        "flora_tree_wg_02": 1,
+        "flora_tree_wg_03": 1,
+        "flora_tree_wg_04": 1,
+        "flora_tree_wg_05": 2,
+        "flora_tree_wg_06": 1,
+        "flora_tree_wg_07": 1,
+        "flora_tree_wg_08": 1,
+        "flora_treestump_wg_02": 1,
+        "t_mw_rlvl_boethiahspinecoast+0": 2,
+        "terrain_rock_ac_02": 1,
+        "terrain_rock_ac_03": 2,
+        "terrain_rock_ac_04": 2,
+        "terrain_rock_ac_06": 2,
+        "terrain_rock_ac_07": 1,
+        "terrain_rock_ac_09": 1,
+        "terrain_rock_ac_11": 1,
+        "terrain_rock_wg_01": 1,
+        "terrain_rock_wg_05": 20,
+        "terrain_rock_wg_07": 13,
+        "terrain_rock_wg_08": 10,
+        "terrain_rock_wg_09": 1,
+        "terrain_rock_wg_10": 5,
+        "terrain_rock_wg_14": 2,
+        "terrain_rock_wg_16": 4,
+        "terrain_rock_wg_17": 2,
+        "terrain_rock_wg_18": 1,
+        "terrain_rocks_wg_01": 4,
+        "terrain_rocks_wg_02": 2,
+        "terrain_rocks_wg_03": 10,
+        "terrain_rocks_wg_04": 4,
+        "tr_m1_mark_darnell": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

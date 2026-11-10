@@ -1,0 +1,183 @@
+{
+  "cell": "Pelagiad, Halfway Tavern",
+  "name": "Pelagiad, Halfway Tavern",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "furn_com_rm_bench_02": 1,
+        "gvrm_am_marker": 3,
+        "gvrm_s_merc4hire_impforts": 1
+      }
+    },
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_tawern_amb00": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_eaternight07": 1,
+        "am_sitter5": 1,
+        "am_sitternight8": 1
+      },
+      "modified": {
+        "furn_com_rm_barstool": 3
+      }
+    },
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_npc_bt_magden": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "added": {
+        "daylight_tavern_300_east": 2,
+        "daylight_tavern_300_north": 4,
+        "daylight_tavern_300_south": 4,
+        "daylight_tavern_300_west": 2,
+        "daylight_tavern_600_north": 4
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_baker": 1,
+        "aa_wares_publican": 1,
+        "aa_wares_savant": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_crackgemclannfear": 3,
+        "bc3000_foreigngemuses": 1,
+        "bc3000_lowenchantscroll": 1,
+        "bc3000_oiljar": 2
+      }
+    },
+    "Sig_VintageMorrowind_TR.esp": {
+      "added": {
+        "sig_taverns": 1
+      }
+    },
+    "Privileges&Services 1.1.esp": {
+      "added": {
+        "ss_scout_pelagiad": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_com_bed_02": 1,
+        "active_com_bed_04": 1,
+        "gold_001": 8,
+        "in_c_door_wood_square": 1,
+        "iron tanto": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_com_bed_02": 1,
+        "active_com_bed_04": 1,
+        "gold_001": 8,
+        "in_c_door_wood_square": 1,
+        "iron tanto": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::22466",
+      "object": "active_com_bed_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::22467",
+      "object": "active_com_bed_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48761",
+      "object": "in_c_door_wood_square",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::368035",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::368036",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::368037",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::368038",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::368039",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::368040",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::368041",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::368042",
+      "object": "iron tanto",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::368043",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

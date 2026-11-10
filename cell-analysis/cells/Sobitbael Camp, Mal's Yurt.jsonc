@@ -1,0 +1,179 @@
+{
+  "cell": "Sobitbael Camp, Mal's Yurt",
+  "name": "Sobitbael Camp, Mal's Yurt",
+  "plugins": {
+    "Aoimevelho Wares with ALL NPCs.ESP": {
+      "added": {
+        "_ar_ashstatue": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_bedroll": 2,
+        "com_sack_01_chpfood5": 3,
+        "com_sack_02_chpfood3": 3,
+        "crate_02_random_pos": 1,
+        "de_p_chest_02_gold_50": 1,
+        "food_kwama_egg_01": 1,
+        "food_kwama_egg_02": 1,
+        "misc_com_bottle_02": 2,
+        "misc_com_bottle_07": 1,
+        "urn_03_ingred": 1,
+        "urn_04_ingred": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_bedroll": 2,
+        "com_sack_01_chpfood5": 3,
+        "com_sack_02_chpfood3": 3,
+        "crate_02_random_pos": 1,
+        "de_p_chest_02_gold_50": 1,
+        "food_kwama_egg_01": 1,
+        "food_kwama_egg_02": 1,
+        "misc_com_bottle_02": 2,
+        "misc_com_bottle_07": 1,
+        "urn_03_ingred": 1,
+        "urn_04_ingred": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::276726",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276729",
+      "object": "food_kwama_egg_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276730",
+      "object": "food_kwama_egg_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276731",
+      "object": "urn_03_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276732",
+      "object": "urn_04_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276733",
+      "object": "com_sack_02_chpfood3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276734",
+      "object": "com_sack_01_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276735",
+      "object": "com_sack_01_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276736",
+      "object": "com_sack_01_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276738",
+      "object": "crate_02_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276739",
+      "object": "de_p_chest_02_gold_50",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::347120",
+      "object": "misc_com_bottle_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::347121",
+      "object": "misc_com_bottle_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::347122",
+      "object": "misc_com_bottle_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::347123",
+      "object": "com_sack_02_chpfood3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::347124",
+      "object": "com_sack_02_chpfood3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::347125",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

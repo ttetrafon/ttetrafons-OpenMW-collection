@@ -1,0 +1,79 @@
+{
+  "cell": "Ald-ruhn, Bivale Teneran: Clothier",
+  "name": "Ald-ruhn, Bivale Teneran: Clothier",
+  "plugins": {
+    "NOD - Core.esm": {
+      "added": {
+        "nod_de_p_chest_02_biv": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_clothes": 1
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_ff_ildritt_trigger": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_redoran guard_ran": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "misc_clothbolt_01": 1,
+        "misc_clothbolt_02": 2,
+        "misc_clothbolt_03": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "modified": {
+        "light_de_lamp_03": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "misc_clothbolt_01": 1,
+        "misc_clothbolt_02": 2,
+        "misc_clothbolt_03": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::295643",
+      "object": "misc_clothbolt_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295644",
+      "object": "misc_clothbolt_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295645",
+      "object": "misc_clothbolt_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295646",
+      "object": "misc_clothbolt_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

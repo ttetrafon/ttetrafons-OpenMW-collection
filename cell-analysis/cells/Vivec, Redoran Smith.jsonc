@@ -1,0 +1,104 @@
+{
+  "cell": "Vivec, Redoran Smith",
+  "name": "Vivec, Redoran Smith",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_smith7": 1,
+        "furn_anvil00": 1,
+        "silver shortsword": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_smith_redo": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_smith_spawn": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "furn_de_bar_01": 3,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_03": 1,
+        "in_velothismall_ndoor_01": 1
+      }
+    },
+    "D2Items.esp": {
+      "modified": {
+        "_d2_bonemold_gah-julan_helm": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_ordinator stat_ran": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "furn_de_bar_01": 3,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_03": 1,
+        "in_velothismall_ndoor_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::188941",
+      "object": "in_velothismall_ndoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::188958",
+      "object": "furn_de_bar_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::188960",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::188961",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::188962",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::188966",
+      "object": "furn_de_bar_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

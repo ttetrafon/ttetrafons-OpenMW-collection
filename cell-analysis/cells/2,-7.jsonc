@@ -1,0 +1,142 @@
+{
+  "cell": "2,-7",
+  "name": "Dren Plantation",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1,
+        "gvrm_cm_g2": 1,
+        "gvrm_cm_w": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_fisherman9": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "ex_de_shack_door": 1,
+        "flora_saltrice_01": 4,
+        "flora_saltrice_02": 5,
+        "light_de_lantern_02": 1,
+        "light_de_lantern_06": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "ex_de_shack_door": 1,
+        "flora_saltrice_01": 4,
+        "flora_saltrice_02": 5,
+        "light_de_lantern_02": 1,
+        "light_de_lantern_06": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::179068",
+      "object": "ex_de_shack_door",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::179004",
+      "object": "light_de_lantern_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::179005",
+      "object": "light_de_lantern_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::179007",
+      "object": "light_de_lantern_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193979",
+      "object": "flora_saltrice_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193981",
+      "object": "flora_saltrice_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193983",
+      "object": "flora_saltrice_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193984",
+      "object": "flora_saltrice_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193988",
+      "object": "flora_saltrice_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193993",
+      "object": "flora_saltrice_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193998",
+      "object": "flora_saltrice_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193890",
+      "object": "flora_saltrice_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193977",
+      "object": "flora_saltrice_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

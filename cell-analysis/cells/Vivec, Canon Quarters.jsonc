@@ -1,0 +1,78 @@
+{
+  "cell": "Vivec, Canon Quarters",
+  "name": "Vivec, Canon Quarters",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_pr_bed_21": 1,
+        "gold_001": 4,
+        "gold_005": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_pr_bed_21": 1,
+        "gold_001": 4,
+        "gold_005": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::217099",
+      "object": "active_de_pr_bed_21",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::335695",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::335696",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::335697",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::335698",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::335699",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::335700",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "cell": "38,-28",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "blue water ref 128": 1,
+        "blue water ref 256_ripple": 1,
+        "ex_barnacles_06": 6,
+        "flora_kelp_01": 3,
+        "flora_kelp_02": 10,
+        "flora_kelp_04": 6,
+        "furn_de_rope_05": 1,
+        "kollop_01_pearl": 1,
+        "kollop_02_pearl": 1,
+        "t_com_setharbor_boatlong_01": 1,
+        "t_mw_rlvl_lanorethanland+2": 1,
+        "t_mw_rlvl_nedothrilwater+2": 1,
+        "terrain_rock_wg_08": 3,
+        "terrain_rock_wg_09": 4,
+        "terrain_rock_wg_10": 4,
+        "terrain_rock_wg_12": 6,
+        "terrain_rock_wg_15": 1,
+        "terrain_rock_wg_17": 3,
+        "terrain_rock_wg_18": 1,
+        "terrain_rocks_wg_01": 2,
+        "terrain_rocks_wg_03": 4
+      }
+    },
+    "DM_TR_EnaMoreIndoril.ESP": {
+      "added": {
+        "t_de_setind_x_wall_up_02": 1
+      }
+    }
+  }
+}

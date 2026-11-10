@@ -1,0 +1,21 @@
+{
+  "cell": "Telasero, Upper Level",
+  "name": "Telasero, Upper Level",
+  "plugins": {
+    "Adamantium Armor Naturalized.esp": {
+      "added": {
+        "adamantium_greaves": 1,
+        "adamantium_pauldron_left": 1,
+        "adamantium_pauldron_right": 1,
+        "chitin arrow": 2,
+        "contain_corpse10": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_dreamer sorce03": 1,
+        "aa_cr_dreamer_ranged1": 1
+      }
+    }
+  }
+}

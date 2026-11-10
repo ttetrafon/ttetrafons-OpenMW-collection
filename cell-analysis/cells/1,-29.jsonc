@@ -1,0 +1,71 @@
+{
+  "cell": "1,-29",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "flora_comberry_01": 8,
+        "flora_corkbulb": 3,
+        "flora_grass_01": 16,
+        "flora_grass_02": 10,
+        "flora_grass_03": 7,
+        "flora_grass_04": 5,
+        "flora_plant_03": 2,
+        "flora_sedge_02": 3,
+        "t_glb_flora_fern_01": 6,
+        "t_mw_cr_scrib": 1,
+        "t_mw_cr_velk": 1,
+        "t_mw_flora_bluekanet_02": 2,
+        "t_mw_flora_templedom01": 3,
+        "t_mw_flora_templedom02": 1,
+        "t_mw_flora_timsacomeb01": 2,
+        "t_mw_flora_timsacomeb03": 2,
+        "t_mw_flora_timsacomeb04": 1,
+        "t_mw_floraat_oranmoss01": 1,
+        "t_mw_floraat_oranmoss02": 2,
+        "t_mw_floraat_oranmoss03": 1,
+        "t_mw_floraat_treeb_01": 1,
+        "t_mw_floraat_treeb_03": 2,
+        "t_mw_floraat_treeb_05": 1,
+        "t_mw_floraat_treeg_01": 1,
+        "t_mw_floraat_treeg_03": 1,
+        "t_mw_floraat_treeg_04": 1,
+        "t_mw_floraat_treeg_05": 2,
+        "t_mw_floraat_treeg_06": 2,
+        "t_mw_light_aanthirinmushroom": 1,
+        "t_mw_rstat_aanthirind05": 1,
+        "t_mw_terrrockat_mtpeaktrv_01": 2,
+        "t_mw_terrrockat_rock_01": 2,
+        "t_mw_terrrockat_rock_02": 1,
+        "t_mw_terrrockat_rock_05": 2,
+        "t_mw_terrrockat_rock_08": 1,
+        "t_mw_terrrockat_rock_10": 1,
+        "t_mw_terrrockat_rock_14": 6,
+        "t_mw_terrrockat_rock_15": 2,
+        "t_mw_terrrockat_rock_16": 5,
+        "t_mw_terrrockat_rock_17": 2,
+        "t_mw_terrrockat_rock_18": 4,
+        "t_mw_terrrockat_rock_19": 2,
+        "t_mw_terrrockat_rock_20": 2,
+        "t_mw_terrrockat_rock_21": 1,
+        "t_mw_terrrockat_rock_22": 1,
+        "t_mw_terrrockat_rock_24": 2,
+        "t_mw_terrrockat_rock_25": 1,
+        "t_mw_terrrockat_rock_26": 1,
+        "t_mw_terrrockat_rock_27": 3,
+        "t_mw_terrrockat_rock_28": 1,
+        "t_mw_terrrockat_rock_29": 7,
+        "t_mw_terrrockat_rock_30": 3,
+        "t_mw_terrrockat_rockgrp_01": 8,
+        "t_mw_terrrockat_rockgrp_02": 3,
+        "t_mw_terrrockat_rockgrp_03": 13,
+        "t_mw_terrrockat_rockgrp_04": 2,
+        "urn_ash00": 2
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_travelingtrader_hl_spawn": 1
+      }
+    }
+  }
+}

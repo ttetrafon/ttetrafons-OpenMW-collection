@@ -1,0 +1,16 @@
+{
+  "cell": "Favel Ancestral Tomb",
+  "name": "Favel Ancestral Tomb",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_wise": 1
+      }
+    },
+    "LootWellUrned.ESP": {
+      "added": {
+        "_uyl_favel": 1
+      }
+    }
+  }
+}

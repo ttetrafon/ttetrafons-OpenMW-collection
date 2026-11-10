@@ -1,0 +1,64 @@
+{
+  "cell": "Old Ebonheart, The Perfect Quarrel",
+  "name": "Old Ebonheart, The Perfect Quarrel",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "bonemold arrow": 7,
+        "bonemold long bow": 3,
+        "bookskill_marksman4": 1,
+        "chest_small_01_gold_ran": 1,
+        "chitin arrow": 13,
+        "chitin short bow": 2,
+        "com_chest_02_l_weap_02": 1,
+        "dire flamearrow": 7,
+        "furn_com_rm_bar_01": 7,
+        "furn_com_rm_bar_02": 1,
+        "furn_com_rm_bar_04": 1,
+        "furn_com_rm_bar_06": 1,
+        "furn_com_rm_bookshelf_02": 2,
+        "furn_com_rm_shelf_02": 1,
+        "furn_com_tapestry_02": 1,
+        "furn_com_tapestry_03": 1,
+        "furn_de_rug_big_06": 2,
+        "in_c_djamb_plain_square": 1,
+        "in_c_door_wood_square": 1,
+        "in_c_pillar_wood": 2,
+        "in_c_plain_r_cwin_bay_02": 1,
+        "in_c_plain_room_corner": 2,
+        "in_c_plain_room_side": 3,
+        "in_com_trapbottom_01": 1,
+        "iron arrow": 8,
+        "light_com_chandelier_01": 3,
+        "northmarker": 1,
+        "short bow": 1,
+        "silver arrow": 9,
+        "silver bolt": 15,
+        "steel arrow": 6,
+        "steel crossbow": 1,
+        "steel dart": 9,
+        "steel longbow": 2,
+        "steel throwing star": 10,
+        "t_com_wood_crossbow_01": 1,
+        "t_de_corkbulb_bow_01": 2,
+        "t_imp_silver_longbow_01": 1,
+        "t_mwcom_furn_ch1wpnarrow": 1,
+        "t_mwcom_var_bl2ammoe": 1,
+        "t_orc_regular_bow_01": 1,
+        "tr_m3_imp_guard_s": 1,
+        "tr_m3_jastta nivellus": 1,
+        "tr_m3_oe_jasttacrate": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_smith": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_in_smith_spawn": 1
+      }
+    }
+  }
+}

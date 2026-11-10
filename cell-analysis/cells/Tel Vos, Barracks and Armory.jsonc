@@ -1,0 +1,34 @@
+{
+  "cell": "Tel Vos, Barracks and Armory",
+  "name": "Tel Vos, Barracks and Armory",
+  "plugins": {
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_a_buck_iron": 1,
+        "aatl_p_foolsluck": 1,
+        "aatl_p_loversembrace": 1,
+        "aatl_p_shalsll": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_p_bed_03": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_p_bed_03": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::355494",
+      "object": "active_de_p_bed_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "cell": "Akamora, Darvon Golaren's House",
+  "name": "Akamora, Darvon Golaren's House",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_p_bed_28": 1,
+        "barrel_01_de_pos1": 1,
+        "barrel_02_cheapfood5": 1,
+        "com_sack_02_chpfood3": 2,
+        "com_sack_03_chpfood5": 1,
+        "common_shirt_04": 1,
+        "common_shoes_04": 1,
+        "crate_01": 1,
+        "furn_de_rug_big_02": 1,
+        "furn_de_rug_big_07": 1,
+        "furn_de_screen_guar_01": 6,
+        "in_mh_door_01": 1,
+        "in_mh_doorjamb_01": 1,
+        "in_mh_int_center_01": 1,
+        "in_mh_int_corner_01": 3,
+        "in_mh_int_wall_01": 4,
+        "in_mh_window_01": 1,
+        "ingred_bread_01": 2,
+        "light_de_candle_09_64": 1,
+        "light_de_candle_blue_01_64": 2,
+        "light_de_lamp_02_256": 2,
+        "misc_com_bottle_02": 1,
+        "misc_com_bottle_03": 1,
+        "misc_com_bottle_10": 1,
+        "misc_com_bottle_15": 1,
+        "misc_com_redware_cup": 1,
+        "misc_com_redware_pitcher": 1,
+        "misc_com_redware_plate": 1,
+        "misc_com_wood_fork": 1,
+        "misc_com_wood_knife": 1,
+        "misc_de_bowl_bugdesign_01": 1,
+        "misc_uni_pillow_02": 1,
+        "northmarker": 1,
+        "t_bk_insidealmastongstr": 1,
+        "t_com_var_barrelempty_01": 1,
+        "t_de_furnm_chair_01": 1,
+        "t_de_furnm_shelf_01": 1,
+        "t_de_furnm_table_02": 1,
+        "t_de_setmh_i_wall_01": 1,
+        "t_glb_terrwater_circle64_01": 1,
+        "t_mwcom_var_bl1pos": 1,
+        "t_mwcom_var_bs1ing": 1,
+        "t_mwcom_var_bss1food": 1,
+        "t_mwcom_var_sk1cpfood1/2": 1,
+        "t_mwde_furnm_ch1pos": 1,
+        "t_mwde_furnm_cl1empty": 1,
+        "t_mwde_setind_cul1empty": 1,
+        "t_mwde_setind_cul1scrll": 1,
+        "t_mwde_setind_cul2food": 1,
+        "tr_m2_darvon golaren": 1
+      }
+    },
+    "DM_TR_AkaMoreIndoril.esp": {
+      "added": {
+        "t_de_setind_door_square": 1,
+        "t_de_setind_i_arch_01": 2,
+        "t_de_setind_i_doorjamb_03": 1,
+        "t_de_setind_i_room_center_01": 1,
+        "t_de_setind_i_room_corner_01": 2,
+        "t_de_setind_i_room_entry_03": 1,
+        "t_de_setind_i_room_entry_04": 1,
+        "t_de_setind_i_room_side_01": 4,
+        "t_de_setind_i_room_window_03": 1
+      }
+    }
+  }
+}

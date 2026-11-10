@@ -1,0 +1,16 @@
+{
+  "cell": "Sadrith Mora, Thervul Serethi: Healer",
+  "name": "Sadrith Mora, Thervul Serethi: Healer",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_healer": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_traders_spawn": 1
+      }
+    }
+  }
+}

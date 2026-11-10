@@ -1,0 +1,102 @@
+{
+  "cell": "13,15",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_ship_de_shack_plank_03_a": 4,
+        "_cor_ship_smug_short_01": 1,
+        "_cor_ship_smug_short_02": 1,
+        "ab_ex_deshipwrbackfull": 1,
+        "ab_ex_deshipwrfrontside": 1,
+        "ab_ex_deshipwrmast02": 1,
+        "ab_ex_deshipwrmast03": 1,
+        "ab_ex_deshipwrribl": 1,
+        "ab_ex_deshipwrsteps": 1,
+        "ab_furn_barrel02broken01": 2,
+        "ab_furn_barrel02broken04": 2,
+        "ab_furn_barrel02broken05": 1,
+        "ab_furn_barrel02lid": 1,
+        "ab_furn_barrel02plank": 1,
+        "ab_furn_crate03lid": 1,
+        "ab_furn_crate03open": 1,
+        "ab_furn_cratebroken01": 1,
+        "ab_furn_cratebroken03": 1,
+        "ab_furn_cratebroken05": 1,
+        "ab_furn_cratebrokenside01": 1,
+        "ab_furn_cratebrokenside02": 1,
+        "ab_furn_cratebrokenwood01": 1,
+        "ab_furn_cratebrokenwood02": 2,
+        "ab_furn_derugbig07torn": 1,
+        "ab_furn_urnbroken01": 1,
+        "ab_furn_urnbroken02": 1,
+        "ab_furn_urnbroken03": 1,
+        "ab_furn_urnshell02": 1,
+        "ab_furn_urnshell03": 1,
+        "ab_misc_bkruinedfolio": 1,
+        "ab_misc_bkruinedoctavo02": 2,
+        "ab_misc_bkruinedquarto": 1,
+        "ab_misc_daerunestone_01": 1,
+        "ab_misc_daerunestone_02": 1,
+        "ab_misc_hourglass": 1,
+        "ab_o_corpse10": 1,
+        "ab_o_corpse20": 1,
+        "barrel_01_arrows": 1,
+        "barrel_01_empty": 2,
+        "barrel_01_float_food20": 1,
+        "com_chest_02_misc06": 1,
+        "crate_01_de_weapons": 1,
+        "crate_01_empty_float": 1,
+        "crate_01_iron_weapons": 1,
+        "crate_02_de_weapons": 1,
+        "ex_barnacles_02": 2,
+        "ex_barnacles_03": 1,
+        "ex_com_bottle_11_float": 2,
+        "ex_scrapwood02": 7,
+        "flora_kelp_01": 1,
+        "flora_kelp_02": 7,
+        "flora_kelp_04": 3,
+        "furn_com_rm_bookshelf_02": 1,
+        "furn_de_lecturn": 1,
+        "in_cave_plant00": 1,
+        "misc_com_bottle_02": 2,
+        "p_spell_absorption_e": 1
+      },
+      "modified": {
+        "_cor_ship_de_shack_plank_03_a": 1,
+        "barrel_01_float_food20": 2,
+        "crate_01_empty_float": 2,
+        "ex_barnacles_02": 2,
+        "ex_barnacles_03": 1,
+        "flora_kelp_01": 1,
+        "flora_kelp_02": 1,
+        "flora_kelp_04": 1,
+        "misc_com_bucket_01": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_m07_chest": 1,
+        "x0_m07_key": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_furn_crate_lid_01": 2,
+        "xero_furn_crate_open_01": 2,
+        "xero_marker": 1,
+        "xero_north_crate": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_in_dreugh": 1,
+        "plx_water": 10
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 11
+      }
+    }
+  }
+}

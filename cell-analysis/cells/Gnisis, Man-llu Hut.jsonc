@@ -1,0 +1,46 @@
+{
+  "cell": "Gnisis, Man-llu Hut",
+  "name": "Gnisis, Man-llu Hut",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "misc_clothbolt_01": 1,
+        "misc_clothbolt_02": 1,
+        "misc_clothbolt_03": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "misc_clothbolt_01": 1,
+        "misc_clothbolt_02": 1,
+        "misc_clothbolt_03": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::393100",
+      "object": "misc_clothbolt_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::393101",
+      "object": "misc_clothbolt_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::393102",
+      "object": "misc_clothbolt_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

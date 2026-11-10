@@ -1,0 +1,54 @@
+{
+  "cell": "3,-12",
+  "name": "Vivec, St. Delyn",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_balmoracitizens": 4,
+        "gvrm_ordguardwand": 2
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "added": {
+        "bc mushroom 177": 4
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_hiddencache": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_n_all_nightlife_spawn": 3,
+        "_aa_pilgrim_spawn": 2,
+        "_aa_telemage_spawn": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "ingred_fire_petal_01": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_ordinator wan_ran": 3
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "ingred_fire_petal_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::413080",
+      "object": "ingred_fire_petal_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

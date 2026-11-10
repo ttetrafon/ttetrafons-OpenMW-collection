@@ -1,0 +1,1576 @@
+{
+  "cell": "Mournhold, Craftsmen's Hall",
+  "name": "Mournhold, Craftsmen's Hall",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1
+      }
+    },
+    "NOD - Core.esm": {
+      "added": {
+        "nod_trader_rv_ada": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "adamantium_mace": 1,
+        "am_smith3": 1
+      }
+    },
+    "Immersive Mournhold.esp": {
+      "added": {
+        "ab_key_junk": 6,
+        "ab_misc_abacus": 3,
+        "ab_misc_brush": 1,
+        "ab_misc_chiselcold": 1,
+        "ab_misc_combottle_01": 1,
+        "ab_misc_combottle_03": 1,
+        "ab_misc_compewterbowl01": 1,
+        "ab_misc_compewterpot_01": 1,
+        "ab_misc_comsilverpot_01": 1,
+        "ab_misc_cork": 6,
+        "ab_misc_debluecup_01": 6,
+        "ab_misc_deblueflask_01": 2,
+        "ab_misc_deblueflask_02": 1,
+        "ab_misc_debluefork_01": 1,
+        "ab_misc_deblueglasscup_01": 1,
+        "ab_misc_deblueinkwell_01": 1,
+        "ab_misc_deblueknife_01": 1,
+        "ab_misc_deceramiccup_01": 1,
+        "ab_misc_deebonycup_01": 1,
+        "ab_misc_degreenglasscup_01": 1,
+        "ab_misc_degreenplatter": 1,
+        "ab_misc_degreenpot": 1,
+        "ab_misc_depeachglascup_01": 2,
+        "ab_misc_deteaball_01": 1,
+        "ab_misc_deyelglasscup_01": 2,
+        "ab_misc_deyelglassflask_01": 1,
+        "ab_misc_deyelglasspot_01": 1,
+        "ab_misc_drinkcyrobrandy": 1,
+        "ab_misc_drinkflin": 1,
+        "ab_misc_drinkgreef": 1,
+        "ab_misc_drinkmazte": 2,
+        "ab_misc_drinkshein": 1,
+        "ab_misc_drinksujamma": 1,
+        "ab_misc_dwrvcoil00": 1,
+        "ab_misc_dwrvcup00": 1,
+        "ab_misc_dwrvdisk00": 1,
+        "ab_misc_dwrvlanternbroken": 1,
+        "ab_misc_file": 1,
+        "ab_misc_flintandsteel": 1,
+        "ab_misc_hourglass": 1,
+        "ab_misc_silverbell": 1,
+        "ab_o_combasket01pos": 2,
+        "ab_o_derchchestdrinkall": 1,
+        "ab_o_derchclosetclothf": 1,
+        "ab_o_derchdrawersclothf": 1,
+        "ab_o_urn04food": 1,
+        "adamantium_shortsword": 1,
+        "apparatus_m_mortar_01": 1,
+        "bk_aedraanddaedra": 1,
+        "bk_alchemistsformulary": 1,
+        "bk_briefhistoryempire1": 1,
+        "bk_changedones": 1,
+        "bk_easternprovincesimpartial": 1,
+        "bk_guide_to_vvardenfell": 1,
+        "bk_onoblivion": 1,
+        "bk_reflectionsoncultworship...": 1,
+        "bk_specialfloraoftamriel": 1,
+        "bookskill_conjuration4": 1,
+        "chest_small_01_gold_50": 1,
+        "chest_small_01_soulgem": 2,
+        "chitin cuirass": 1,
+        "com_basket_01_chpfood": 3,
+        "com_sack_02_chpfood3": 2,
+        "crate_01_empty": 1,
+        "crate_01_food": 1,
+        "de_r_chest_01_gold2": 1,
+        "ebony_closed_helm": 1,
+        "flora_bc_grass_02": 8,
+        "flora_plant_01": 1,
+        "furn_com_tapestry_04": 12,
+        "furn_de_r_chair_03": 3,
+        "furn_de_r_table_09": 1,
+        "furn_de_rug_big_01": 1,
+        "furn_de_rug_big_05": 2,
+        "furn_planter_01": 5,
+        "imperial cuirass_armor": 1,
+        "imperial helmet armor": 1,
+        "imperial shortsword": 2,
+        "iron flameblade": 1,
+        "iron saber": 1,
+        "iron_cuirass": 1,
+        "light_com_candle_08_64": 1,
+        "light_de_candle_02_64": 2,
+        "light_de_candle_09_64": 1,
+        "light_de_lamp_05_128": 2,
+        "light_de_lantern_03_128": 3,
+        "misc_com_bottle_05": 1,
+        "misc_com_plate_03": 1,
+        "misc_com_silverware_fork": 1,
+        "misc_com_silverware_knife": 1,
+        "misc_de_bowl_01": 1,
+        "misc_de_cloth10": 1,
+        "misc_de_drum_02": 1,
+        "misc_de_foldedcloth00": 1,
+        "misc_de_goblet_01": 2,
+        "misc_de_goblet_06": 1,
+        "misc_de_goblet_08": 2,
+        "misc_de_lute_01_phat": 1,
+        "misc_de_pitcher_01": 1,
+        "misc_de_pot_blue_01": 2,
+        "misc_de_pot_blue_02": 1,
+        "misc_de_pot_glass_peach_02": 1,
+        "misc_de_pot_green_01": 4,
+        "misc_dwrv_coin00": 7,
+        "misc_dwrv_gear00": 1,
+        "misc_inkwell": 1,
+        "misc_quill": 1,
+        "misc_soulgem_greater": 4,
+        "misc_soulgem_petty": 2,
+        "orcish warhammer": 1,
+        "p_levitation_b": 3,
+        "potion_local_brew_01": 2,
+        "repair_journeyman_01": 2,
+        "repair_prongs": 3,
+        "sc_paper plain": 2,
+        "silver bolt": 6,
+        "silver dagger": 5,
+        "silver shortsword": 1,
+        "silver staff": 1,
+        "steel axe": 1,
+        "steel mace": 1,
+        "steel_gauntlet_left": 1,
+        "steel_gauntlet_right": 1,
+        "steel_helm": 1,
+        "steel_pauldron_left": 1,
+        "urn_03_ingred": 1
+      },
+      "modified": {
+        "adamantium_mace": 1,
+        "com_basket_01_pos": 1,
+        "com_sack_01_saltrice_10": 3,
+        "com_sack_02_pos": 1,
+        "furn_de_rug_big_01": 1,
+        "imperial shortsword": 1,
+        "light_de_candle_09_64": 1,
+        "light_de_lamp_03_128": 1,
+        "misc_clothbolt_02_uni": 1,
+        "misc_com_basket_01": 1,
+        "misc_com_bottle_01": 2,
+        "misc_com_bottle_02": 1,
+        "misc_com_bottle_03": 1,
+        "misc_com_bottle_04": 1,
+        "misc_com_bottle_07": 1,
+        "misc_com_bottle_09": 1,
+        "misc_com_bottle_11": 1,
+        "misc_com_bottle_12": 1,
+        "misc_com_bottle_13": 2,
+        "misc_de_basket_01": 1,
+        "misc_de_bowl_01": 1,
+        "misc_de_bowl_bugdesign_01": 1,
+        "misc_de_bowl_glass_peach_01": 1,
+        "misc_de_bowl_white_01": 1,
+        "misc_de_cloth10": 1,
+        "misc_de_drum_01": 1,
+        "misc_de_drum_02": 1,
+        "misc_de_foldedcloth00": 3,
+        "misc_de_glass_green_01": 2,
+        "misc_de_pot_green_01": 1,
+        "misc_de_pot_mottled_01": 1,
+        "misc_de_tankard_01": 3,
+        "misc_dwrv_bowl00_uni": 1,
+        "misc_dwrv_pitcher00_uni": 1,
+        "misc_soulgem_petty": 1,
+        "p_levitation_b": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_magical": 1,
+        "aa_wares_smith": 2
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_smith_spawn": 1,
+        "_aa_in_traders_spawn": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_r_bed_01": 1,
+        "active_de_r_bed_17": 1,
+        "active_de_r_bed_19": 1,
+        "chest_small_01_gold_50": 1,
+        "chest_small_01_soulgem": 1,
+        "chest_small_02_gold_50": 1,
+        "com_basket_01_chpfood": 1,
+        "com_basket_01_pos": 3,
+        "com_sack_01_rnd_ingr_5": 3,
+        "com_sack_01_saltrice_10": 3,
+        "com_sack_02_chpfood3": 1,
+        "com_sack_02_pos": 1,
+        "de_r_chest_01_drink01": 1,
+        "de_r_closet_01_fcloth01": 1,
+        "de_r_drawers_01_fcloth": 2,
+        "de_r_drawers_01_mcloth": 1,
+        "flora_ash_yam_02": 1,
+        "flora_plant_02": 4,
+        "flora_plant_03": 2,
+        "flora_plant_04": 2,
+        "flora_plant_05": 4,
+        "flora_plant_06": 4,
+        "glass dagger": 1,
+        "ingred_netch_leather_01": 2,
+        "ingred_raw_ebony_01": 2,
+        "ingred_raw_glass_01": 1,
+        "iron dagger": 3,
+        "iron flameblade": 1,
+        "iron mace": 1,
+        "light_de_candle_20": 1,
+        "light_de_lantern_06": 1,
+        "misc_clothbolt_02_uni": 1,
+        "misc_com_basket_01": 2,
+        "misc_com_bottle_01": 2,
+        "misc_com_bottle_02": 1,
+        "misc_com_bottle_03": 2,
+        "misc_com_bottle_04": 3,
+        "misc_com_bottle_05": 1,
+        "misc_com_bottle_07": 2,
+        "misc_com_bottle_09": 1,
+        "misc_com_bottle_11": 1,
+        "misc_com_bottle_12": 1,
+        "misc_com_bottle_13": 4,
+        "misc_com_bucket_01": 1,
+        "misc_com_bucket_metal": 1,
+        "misc_com_metal_plate_03_uni": 1,
+        "misc_com_silverware_fork_uni": 1,
+        "misc_com_silverware_knife_uni": 1,
+        "misc_com_silverware_spoon_uni": 1,
+        "misc_de_basket_01": 3,
+        "misc_de_bowl_01": 3,
+        "misc_de_bowl_bugdesign_01": 1,
+        "misc_de_bowl_glass_peach_01": 1,
+        "misc_de_bowl_white_01": 1,
+        "misc_de_cloth10": 1,
+        "misc_de_drum_01": 2,
+        "misc_de_drum_02": 1,
+        "misc_de_foldedcloth00": 3,
+        "misc_de_glass_green_01": 2,
+        "misc_de_goblet_04": 3,
+        "misc_de_pitcher_01": 1,
+        "misc_de_pot_blue_01": 1,
+        "misc_de_pot_green_01": 2,
+        "misc_de_pot_mottled_01": 1,
+        "misc_de_pot_redware_04_uni": 1,
+        "misc_de_tankard_01": 4,
+        "misc_dwrv_bowl00_uni": 1,
+        "misc_dwrv_goblet00_uni": 1,
+        "misc_dwrv_goblet10_uni": 1,
+        "misc_dwrv_mug00_uni": 1,
+        "misc_dwrv_pitcher00_uni": 1,
+        "misc_imp_silverware_pitcher_uni": 1,
+        "misc_soulgem_greater": 1,
+        "misc_soulgem_lesser": 4,
+        "misc_soulgem_petty": 6,
+        "misc_uni_pillow_01": 3,
+        "p_levitation_b": 2,
+        "potion_local_brew_01": 3,
+        "repair_journeyman_01": 1,
+        "repair_prongs": 1,
+        "silver bolt": 6,
+        "urn_04_food": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_r_bed_01": 1,
+        "active_de_r_bed_17": 1,
+        "active_de_r_bed_19": 1,
+        "chest_small_01_gold_50": 1,
+        "chest_small_01_soulgem": 1,
+        "chest_small_02_gold_50": 1,
+        "com_basket_01_chpfood": 1,
+        "com_basket_01_pos": 3,
+        "com_sack_01_rnd_ingr_5": 3,
+        "com_sack_01_saltrice_10": 3,
+        "com_sack_02_chpfood3": 1,
+        "com_sack_02_pos": 1,
+        "de_r_chest_01_drink01": 1,
+        "de_r_closet_01_fcloth01": 1,
+        "de_r_drawers_01_fcloth": 2,
+        "de_r_drawers_01_mcloth": 1,
+        "flora_ash_yam_02": 1,
+        "flora_plant_02": 4,
+        "flora_plant_03": 2,
+        "flora_plant_04": 2,
+        "flora_plant_05": 4,
+        "flora_plant_06": 4,
+        "glass dagger": 1,
+        "ingred_netch_leather_01": 2,
+        "ingred_raw_ebony_01": 2,
+        "ingred_raw_glass_01": 1,
+        "iron dagger": 3,
+        "iron flameblade": 1,
+        "iron mace": 1,
+        "light_de_candle_20": 1,
+        "light_de_lantern_06": 1,
+        "misc_clothbolt_02_uni": 1,
+        "misc_com_basket_01": 2,
+        "misc_com_bottle_01": 2,
+        "misc_com_bottle_02": 1,
+        "misc_com_bottle_03": 2,
+        "misc_com_bottle_04": 3,
+        "misc_com_bottle_05": 1,
+        "misc_com_bottle_07": 2,
+        "misc_com_bottle_09": 1,
+        "misc_com_bottle_11": 1,
+        "misc_com_bottle_12": 1,
+        "misc_com_bottle_13": 4,
+        "misc_com_bucket_01": 1,
+        "misc_com_bucket_metal": 1,
+        "misc_com_metal_plate_03_uni": 1,
+        "misc_com_silverware_fork_uni": 1,
+        "misc_com_silverware_knife_uni": 1,
+        "misc_com_silverware_spoon_uni": 1,
+        "misc_de_basket_01": 3,
+        "misc_de_bowl_01": 3,
+        "misc_de_bowl_bugdesign_01": 1,
+        "misc_de_bowl_glass_peach_01": 1,
+        "misc_de_bowl_white_01": 1,
+        "misc_de_cloth10": 1,
+        "misc_de_drum_01": 2,
+        "misc_de_drum_02": 1,
+        "misc_de_foldedcloth00": 3,
+        "misc_de_glass_green_01": 2,
+        "misc_de_goblet_04": 3,
+        "misc_de_pitcher_01": 1,
+        "misc_de_pot_blue_01": 1,
+        "misc_de_pot_green_01": 2,
+        "misc_de_pot_mottled_01": 1,
+        "misc_de_pot_redware_04_uni": 1,
+        "misc_de_tankard_01": 4,
+        "misc_dwrv_bowl00_uni": 1,
+        "misc_dwrv_goblet00_uni": 1,
+        "misc_dwrv_goblet10_uni": 1,
+        "misc_dwrv_mug00_uni": 1,
+        "misc_dwrv_pitcher00_uni": 1,
+        "misc_imp_silverware_pitcher_uni": 1,
+        "misc_soulgem_greater": 1,
+        "misc_soulgem_lesser": 4,
+        "misc_soulgem_petty": 6,
+        "misc_uni_pillow_01": 3,
+        "p_levitation_b": 2,
+        "potion_local_brew_01": 3,
+        "repair_journeyman_01": 1,
+        "repair_prongs": 1,
+        "silver bolt": 6,
+        "urn_04_food": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "tribunal::25696",
+      "object": "misc_clothbolt_02_uni",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25697",
+      "object": "misc_imp_silverware_pitcher_uni",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25698",
+      "object": "misc_com_silverware_fork_uni",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25699",
+      "object": "misc_com_silverware_knife_uni",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25700",
+      "object": "misc_com_silverware_spoon_uni",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25701",
+      "object": "misc_de_pot_redware_04_uni",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25702",
+      "object": "misc_com_metal_plate_03_uni",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25703",
+      "object": "misc_dwrv_goblet00_uni",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25704",
+      "object": "misc_dwrv_goblet10_uni",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25705",
+      "object": "misc_dwrv_mug00_uni",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25706",
+      "object": "misc_dwrv_pitcher00_uni",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25707",
+      "object": "misc_dwrv_bowl00_uni",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25708",
+      "object": "chest_small_02_gold_50",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25782",
+      "object": "ingred_netch_leather_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25783",
+      "object": "ingred_netch_leather_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25784",
+      "object": "ingred_raw_ebony_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25785",
+      "object": "ingred_raw_ebony_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25786",
+      "object": "ingred_raw_glass_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25805",
+      "object": "misc_de_pitcher_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25806",
+      "object": "misc_de_bowl_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25819",
+      "object": "active_de_r_bed_17",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25821",
+      "object": "de_r_closet_01_fcloth01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25822",
+      "object": "de_r_drawers_01_fcloth",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25823",
+      "object": "chest_small_01_gold_50",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25831",
+      "object": "flora_plant_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25835",
+      "object": "urn_04_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25836",
+      "object": "com_basket_01_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25837",
+      "object": "com_basket_01_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25838",
+      "object": "com_sack_02_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25839",
+      "object": "com_sack_01_saltrice_10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25840",
+      "object": "com_sack_01_saltrice_10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25841",
+      "object": "com_sack_01_saltrice_10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25846",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25847",
+      "object": "de_r_chest_01_drink01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25849",
+      "object": "repair_prongs",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25850",
+      "object": "repair_journeyman_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25853",
+      "object": "misc_com_bucket_metal",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25864",
+      "object": "active_de_r_bed_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25866",
+      "object": "com_basket_01_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25867",
+      "object": "de_r_drawers_01_mcloth",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25868",
+      "object": "misc_com_bottle_13",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25869",
+      "object": "misc_com_bottle_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25870",
+      "object": "misc_com_bottle_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25871",
+      "object": "misc_com_bottle_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25872",
+      "object": "misc_de_tankard_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25878",
+      "object": "light_de_lantern_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25897",
+      "object": "iron flameblade",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25898",
+      "object": "iron dagger",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25899",
+      "object": "iron dagger",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25900",
+      "object": "iron dagger",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25901",
+      "object": "iron mace",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25902",
+      "object": "silver bolt",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25903",
+      "object": "silver bolt",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25904",
+      "object": "silver bolt",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25905",
+      "object": "silver bolt",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25906",
+      "object": "silver bolt",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25907",
+      "object": "silver bolt",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25908",
+      "object": "glass dagger",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25909",
+      "object": "misc_soulgem_petty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25910",
+      "object": "misc_soulgem_petty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25911",
+      "object": "misc_soulgem_petty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25912",
+      "object": "misc_soulgem_lesser",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25913",
+      "object": "misc_soulgem_lesser",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25914",
+      "object": "misc_soulgem_petty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25915",
+      "object": "com_sack_01_rnd_ingr_5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25916",
+      "object": "com_sack_01_rnd_ingr_5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25917",
+      "object": "com_sack_01_rnd_ingr_5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25918",
+      "object": "flora_ash_yam_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25920",
+      "object": "com_basket_01_chpfood",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25921",
+      "object": "com_sack_02_chpfood3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25922",
+      "object": "misc_soulgem_greater",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25923",
+      "object": "misc_soulgem_lesser",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25924",
+      "object": "misc_soulgem_lesser",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25925",
+      "object": "potion_local_brew_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25926",
+      "object": "p_levitation_b",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25928",
+      "object": "light_de_candle_20",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25929",
+      "object": "potion_local_brew_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25930",
+      "object": "potion_local_brew_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25931",
+      "object": "p_levitation_b",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25932",
+      "object": "misc_soulgem_petty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25933",
+      "object": "misc_soulgem_petty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25934",
+      "object": "chest_small_01_soulgem",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25940",
+      "object": "de_r_drawers_01_fcloth",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25943",
+      "object": "active_de_r_bed_19",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25978",
+      "object": "flora_plant_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25979",
+      "object": "flora_plant_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25980",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25981",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25982",
+      "object": "flora_plant_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25983",
+      "object": "flora_plant_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25984",
+      "object": "flora_plant_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25985",
+      "object": "flora_plant_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25989",
+      "object": "flora_plant_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25990",
+      "object": "flora_plant_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25991",
+      "object": "flora_plant_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25994",
+      "object": "flora_plant_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25996",
+      "object": "flora_plant_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25997",
+      "object": "flora_plant_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25998",
+      "object": "flora_plant_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26001",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26002",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26003",
+      "object": "misc_com_basket_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26004",
+      "object": "misc_com_bottle_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26005",
+      "object": "misc_com_bottle_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26006",
+      "object": "misc_com_bottle_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26007",
+      "object": "misc_com_bottle_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26008",
+      "object": "misc_com_bottle_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26009",
+      "object": "misc_de_basket_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26010",
+      "object": "misc_de_bowl_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26011",
+      "object": "misc_de_cloth10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26012",
+      "object": "misc_de_goblet_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26013",
+      "object": "misc_de_goblet_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26014",
+      "object": "misc_de_goblet_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26015",
+      "object": "misc_de_pot_green_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26016",
+      "object": "misc_com_bottle_13",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26017",
+      "object": "misc_com_bucket_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26018",
+      "object": "misc_com_bottle_12",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26019",
+      "object": "misc_de_basket_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26020",
+      "object": "misc_com_basket_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26021",
+      "object": "misc_com_bottle_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26022",
+      "object": "misc_com_bottle_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26023",
+      "object": "misc_com_bottle_09",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26024",
+      "object": "misc_com_bottle_11",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26025",
+      "object": "misc_com_bottle_13",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26026",
+      "object": "misc_de_bowl_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26027",
+      "object": "misc_de_bowl_bugdesign_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26028",
+      "object": "misc_de_bowl_glass_peach_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26029",
+      "object": "misc_de_bowl_white_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26030",
+      "object": "misc_de_drum_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26031",
+      "object": "misc_de_foldedcloth00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26032",
+      "object": "misc_de_foldedcloth00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26033",
+      "object": "misc_de_foldedcloth00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26034",
+      "object": "misc_de_pot_green_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26035",
+      "object": "misc_de_pot_mottled_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26036",
+      "object": "misc_de_tankard_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26037",
+      "object": "misc_de_tankard_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26038",
+      "object": "misc_de_tankard_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26039",
+      "object": "misc_de_glass_green_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26040",
+      "object": "misc_de_glass_green_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26041",
+      "object": "misc_de_pot_blue_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26042",
+      "object": "misc_de_basket_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26043",
+      "object": "misc_de_drum_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26044",
+      "object": "misc_de_drum_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26045",
+      "object": "misc_com_bottle_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26046",
+      "object": "misc_com_bottle_13",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

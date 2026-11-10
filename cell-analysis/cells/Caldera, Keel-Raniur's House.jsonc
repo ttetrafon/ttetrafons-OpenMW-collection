@@ -1,0 +1,58 @@
+{
+  "cell": "Caldera, Keel-Raniur's House",
+  "name": "Caldera, Keel-Raniur's House",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "gold_001": 5
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "gold_001": 5
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::324848",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::324849",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::324850",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::324851",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::324852",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

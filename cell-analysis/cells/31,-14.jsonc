@@ -1,0 +1,72 @@
+{
+  "cell": "31,-14",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_ropebridge_512_01": 1,
+        "ex_waterfall_mist_01": 6,
+        "ex_waterfall_mist_s_01": 1,
+        "flora_bc_grass_01": 1,
+        "flora_bc_vine_03": 1,
+        "flora_bc_vine_06": 1,
+        "flora_bittergreen_01": 1,
+        "flora_bittergreen_02": 2,
+        "flora_bittergreen_04": 1,
+        "flora_bittergreen_09": 1,
+        "flora_bittergreen_10": 1,
+        "flora_bush_01": 2,
+        "flora_chokeweed_02": 14,
+        "flora_ivy_01": 1,
+        "flora_ivy_02": 2,
+        "flora_kreshweed_01": 12,
+        "flora_kreshweed_02": 1,
+        "flora_kreshweed_03": 7,
+        "flora_roobrush_02": 11,
+        "flora_stoneflower_01": 16,
+        "flora_stoneflower_02": 12,
+        "flora_tree_wg_01": 1,
+        "flora_tree_wg_03": 2,
+        "flora_tree_wg_05": 1,
+        "flora_tree_wg_08": 1,
+        "furn_com_fence_01": 1,
+        "furn_de_ashl_post": 6,
+        "furn_de_railing_05": 7,
+        "furn_de_railing_06": 2,
+        "furn_de_rope_04": 5,
+        "in_om_waterfall": 7,
+        "t_com_setmw_signakamorab_01": 1,
+        "t_com_setmw_signakamorae_01": 1,
+        "t_com_setmw_signwaytomarilma_01": 1,
+        "t_mw_flora_treendg_05": 1,
+        "t_mw_lvl_rodentrats+0": 1,
+        "t_mw_rlvl_mephalanvalesland-2": 1,
+        "t_mw_terrrockwg_cliff_02": 3,
+        "t_mw_terrrockwg_cliff_05": 1,
+        "terrain_rock_wg_01": 4,
+        "terrain_rock_wg_02": 19,
+        "terrain_rock_wg_04": 10,
+        "terrain_rock_wg_05": 6,
+        "terrain_rock_wg_07": 15,
+        "terrain_rock_wg_08": 11,
+        "terrain_rock_wg_09": 8,
+        "terrain_rock_wg_10": 7,
+        "terrain_rock_wg_12": 9,
+        "terrain_rock_wg_13": 14,
+        "terrain_rock_wg_14": 2,
+        "terrain_rock_wg_15": 3,
+        "terrain_rock_wg_16": 2,
+        "terrain_rock_wg_17": 47,
+        "terrain_rock_wg_18": 5,
+        "terrain_rocks_wg_01": 75,
+        "terrain_rocks_wg_03": 23,
+        "terrain_rocks_wg_04": 1,
+        "tr_m2_o_azmodel": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_indo_spawn": 1
+      }
+    }
+  }
+}

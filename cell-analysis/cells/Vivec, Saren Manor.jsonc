@@ -1,0 +1,90 @@
+{
+  "cell": "Vivec, Saren Manor",
+  "name": "Vivec, Saren Manor",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_cleaner10": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_pr_bed_23": 2,
+        "gold_001": 2,
+        "gold_010": 1,
+        "gold_025": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_pr_bed_23": 2,
+        "gold_001": 2,
+        "gold_010": 1,
+        "gold_025": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::188232",
+      "object": "active_de_pr_bed_23",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::188321",
+      "object": "active_de_pr_bed_23",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::405547",
+      "object": "gold_010",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::405548",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::405549",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::405550",
+      "object": "gold_025",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::405551",
+      "object": "gold_025",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

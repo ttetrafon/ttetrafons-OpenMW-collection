@@ -1,0 +1,31 @@
+{
+  "cell": "34,-4",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "barrel_01_drinks": 1,
+        "barrel_smuggler_01": 1,
+        "door_cavern_doors10": 1,
+        "ex_cave_entrance_wg_01": 1,
+        "ex_dae_wall_512_01": 1,
+        "ex_de_oar": 1,
+        "ex_de_rowboat": 1,
+        "flora_root_wg_04": 16,
+        "flora_tree_wg_01": 3,
+        "flora_tree_wg_05": 5,
+        "t_mw_rlvl_boethiahspineland+2": 1,
+        "terrain_rock_wg_08": 3,
+        "terrain_rock_wg_10": 12,
+        "terrain_rock_wg_12": 4,
+        "terrain_rocks_wg_01": 13,
+        "terrain_rocks_wg_02": 1,
+        "tr_m2_killed_01_adv": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "cell": "Caldera, Mining Guard Tower",
+  "name": "Caldera, Mining Guard Tower",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "key_calderaslaves_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "key_calderaslaves_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::480457",
+      "object": "key_calderaslaves_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

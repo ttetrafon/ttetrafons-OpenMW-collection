@@ -1,0 +1,47 @@
+{
+  "cell": "Tel Mora, Tower Services",
+  "name": "Tel Mora, Tower Services",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_drum": 1,
+        "am_drummer7": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_r_bed_19": 1,
+        "active_de_r_bed_20": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_r_bed_19": 1,
+        "active_de_r_bed_20": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::362202",
+      "object": "active_de_r_bed_19",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::362229",
+      "object": "active_de_r_bed_20",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

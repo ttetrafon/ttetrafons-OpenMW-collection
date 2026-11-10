@@ -1,0 +1,134 @@
+{
+  "cell": "Elf-Skerring, Cabin",
+  "name": "Elf-Skerring, Cabin",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_bedroll": 1,
+        "bk_livesofthesaints": 1,
+        "com_chest_11_vault": 1,
+        "com_cupboard_01_booze": 1,
+        "crate_01_de_mclothes": 1,
+        "ingred_bread_01": 1,
+        "light_de_candle_15": 2,
+        "light_de_lantern_06a": 1,
+        "misc_dwrv_goblet10": 1,
+        "misc_hook": 1,
+        "potion_cyro_whiskey_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_bedroll": 1,
+        "bk_livesofthesaints": 1,
+        "com_chest_11_vault": 1,
+        "com_cupboard_01_booze": 1,
+        "crate_01_de_mclothes": 1,
+        "ingred_bread_01": 1,
+        "light_de_candle_15": 2,
+        "light_de_lantern_06a": 1,
+        "misc_dwrv_goblet10": 1,
+        "misc_hook": 1,
+        "potion_cyro_whiskey_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::299423",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299425",
+      "object": "com_cupboard_01_booze",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299429",
+      "object": "potion_cyro_whiskey_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299430",
+      "object": "ingred_bread_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299431",
+      "object": "misc_dwrv_goblet10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299432",
+      "object": "bk_livesofthesaints",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299433",
+      "object": "com_chest_11_vault",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299434",
+      "object": "crate_01_de_mclothes",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299435",
+      "object": "light_de_candle_15",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299436",
+      "object": "light_de_candle_15",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::317831",
+      "object": "light_de_lantern_06a",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::317832",
+      "object": "misc_hook",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "cell": "11,-13",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_east_chest": 1,
+        "xero_ex_barnacles_05": 1,
+        "xero_marker": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_water": 3
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 3
+      }
+    }
+  }
+}

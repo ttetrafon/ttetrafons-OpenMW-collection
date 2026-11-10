@@ -1,0 +1,32 @@
+{
+  "cell": "Tel Vos, Aryon's Chambers",
+  "name": "Tel Vos, Aryon's Chambers",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "tr_m0_ht_unseatingdral_act": 1
+      }
+    },
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_eaternight10": 1,
+        "furn_de_cushion_square_01": 1
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_comp_vasgood": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_telvanni guard_ran": 1
+      }
+    }
+  }
+}

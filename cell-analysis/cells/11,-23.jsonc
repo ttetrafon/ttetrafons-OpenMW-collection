@@ -1,0 +1,65 @@
+{
+  "cell": "11,-23",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_cave_door_01": 1,
+        "flora_comberry_01": 5,
+        "flora_corkbulb": 3,
+        "flora_plant_03": 3,
+        "flora_sedge_01": 1,
+        "flora_sedge_02": 3,
+        "t_glb_flora_fern_01": 4,
+        "t_mw_cr_velk": 1,
+        "t_mw_flora_bluekanet_02": 2,
+        "t_mw_flora_shroomtableo_01": 2,
+        "t_mw_flora_shroomtableo_02": 1,
+        "t_mw_flora_shroomtableo_03": 1,
+        "t_mw_flora_shroomtableo_05": 1,
+        "t_mw_flora_shroomtableo_06": 9,
+        "t_mw_flora_templedom01": 10,
+        "t_mw_flora_templedom02": 6,
+        "t_mw_flora_timsacomeb01": 1,
+        "t_mw_flora_timsacomeb02": 2,
+        "t_mw_flora_timsacomeb03": 1,
+        "t_mw_flora_timsacomeb04": 1,
+        "t_mw_flora_timsacomeb05": 1,
+        "t_mw_flora_treeoak_03": 1,
+        "t_mw_floraat_oranmoss02": 3,
+        "t_mw_floraat_treeb_01": 1,
+        "t_mw_floraat_treeb_05": 1,
+        "t_mw_floraat_treeg_02": 1,
+        "t_mw_floraat_treeg_04": 2,
+        "t_mw_floraat_treeg_06": 1,
+        "t_mw_floraat_uracia_01": 1,
+        "t_mw_floraat_uracia_02": 2,
+        "t_mw_light_aanthirinmushroom": 4,
+        "t_mw_terrrockat_caveentr_01": 1,
+        "t_mw_terrrockat_mtridgetrv_02": 1,
+        "t_mw_terrrockat_rock_05": 3,
+        "t_mw_terrrockat_rock_07": 1,
+        "t_mw_terrrockat_rock_08": 2,
+        "t_mw_terrrockat_rock_10": 3,
+        "t_mw_terrrockat_rock_14": 2,
+        "t_mw_terrrockat_rock_17": 4,
+        "t_mw_terrrockat_rock_18": 3,
+        "t_mw_terrrockat_rock_20": 2,
+        "t_mw_terrrockat_rock_21": 3,
+        "t_mw_terrrockat_rock_22": 1,
+        "t_mw_terrrockat_rock_23": 4,
+        "t_mw_terrrockat_rock_24": 3,
+        "t_mw_terrrockat_rock_27": 2,
+        "t_mw_terrrockat_rock_28": 1,
+        "t_mw_terrrockat_rock_29": 4,
+        "t_mw_terrrockat_rockgrp_01": 15,
+        "t_mw_terrrockat_rockgrp_02": 2,
+        "t_mw_terrrockat_rockgrp_03": 10
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

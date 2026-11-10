@@ -1,0 +1,45 @@
+{
+  "cell": "26,21",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_dae_b_bo_head": 1,
+        "ex_dae_b_bo_lbody": 1,
+        "ex_dae_b_bo_ubody": 1,
+        "ex_dae_ruin_platform_01": 2,
+        "ex_dae_ruin_stair01_short": 2,
+        "ex_dae_wall_512_04": 2,
+        "flora_bush_01": 2,
+        "flora_root_wg_05": 2,
+        "flora_root_wg_07": 1,
+        "flora_tree_wg_04": 1,
+        "flora_tree_wg_05": 1,
+        "t_mw_cr_scamp": 1,
+        "t_mw_rlvl_molagreahdwater-2": 1,
+        "terrain_rock_wg_01": 1,
+        "terrain_rock_wg_02": 2,
+        "terrain_rock_wg_03": 1,
+        "terrain_rock_wg_05": 1,
+        "terrain_rock_wg_07": 2,
+        "terrain_rock_wg_08": 2,
+        "terrain_rock_wg_09": 2,
+        "terrain_rock_wg_10": 3,
+        "terrain_rock_wg_12": 5,
+        "terrain_rock_wg_13": 1,
+        "terrain_rock_wg_14": 1,
+        "terrain_rock_wg_15": 2,
+        "terrain_rock_wg_16": 1,
+        "terrain_rock_wg_17": 1,
+        "terrain_rock_wg_18": 1,
+        "terrain_rocks_wg_01": 1,
+        "terrain_rocks_wg_03": 1,
+        "tr_m1_s_ki_ralis": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_ex_daedric_ruins_spawn": 1
+      }
+    }
+  }
+}

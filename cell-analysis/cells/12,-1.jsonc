@@ -1,0 +1,27 @@
+{
+  "cell": "12,-1",
+  "plugins": {
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_map10_trigger": 1
+      }
+    },
+    "Aoimevelho Wares with ALL NPCs.ESP": {
+      "added": {
+        "_ar2-01": 1,
+        "_ar2-02": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_ex_tomb70_spawn": 1,
+        "_aa_solo_spawn_no_guard": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_night_only_exterior_undea": 1
+      }
+    }
+  }
+}

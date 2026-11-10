@@ -1,0 +1,29 @@
+{
+  "cell": "-3,21",
+  "plugins": {
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_cre_dae_calista": 1,
+        "aatl_furn_dae_table01": 1,
+        "aatl_l_dae_summcircle": 1,
+        "aatl_npc_cult_summonded": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_marker": 1,
+        "xero_north_sack": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_flowers": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_sheo": 2
+      }
+    }
+  }
+}

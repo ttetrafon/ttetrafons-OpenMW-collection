@@ -1,0 +1,79 @@
+{
+  "cell": "Vivec, St. Delyn Glassworker's Hall",
+  "name": "Vivec, St. Delyn Glassworker's Hall",
+  "plugins": {
+    "Unique Jewelry and Accessories.esp": {
+      "added": {
+        "teal_chest_rathul_barus": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_trader": 2
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_traders_spawn": 2
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_pr_bed_21": 1,
+        "active_de_pr_bed_23": 1,
+        "active_de_pr_bed_24": 1,
+        "gold_025": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_pr_bed_21": 1,
+        "active_de_pr_bed_23": 1,
+        "active_de_pr_bed_24": 1,
+        "gold_025": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::180723",
+      "object": "active_de_pr_bed_24",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::180726",
+      "object": "active_de_pr_bed_21",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::180734",
+      "object": "active_de_pr_bed_23",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::405566",
+      "object": "gold_025",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::405567",
+      "object": "gold_025",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "cell": "Solstheim, Kolfinna's Dwelling",
+  "name": "Solstheim, Kolfinna's Dwelling",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "bm_ka_door_dark_02": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "barrel_01_arrows": 3,
+        "com_chest_gustav": 1,
+        "gold_005": 1,
+        "misc_com_wood_cup_01": 1,
+        "misc_com_wood_knife": 1,
+        "misc_de_basket_01": 1,
+        "misc_de_bowl_01": 1,
+        "misc_uni_pillow_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "barrel_01_arrows": 3,
+        "com_chest_gustav": 1,
+        "gold_005": 1,
+        "misc_com_wood_cup_01": 1,
+        "misc_com_wood_knife": 1,
+        "misc_de_basket_01": 1,
+        "misc_de_bowl_01": 1,
+        "misc_uni_pillow_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::8367",
+      "object": "com_chest_gustav",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::30451",
+      "object": "barrel_01_arrows",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::30452",
+      "object": "barrel_01_arrows",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::30453",
+      "object": "barrel_01_arrows",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::30454",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::30455",
+      "object": "misc_com_wood_cup_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::30456",
+      "object": "misc_com_wood_knife",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::30457",
+      "object": "misc_de_bowl_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::30458",
+      "object": "misc_de_basket_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::32910",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

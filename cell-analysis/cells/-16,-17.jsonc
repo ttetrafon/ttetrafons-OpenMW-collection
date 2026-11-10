@@ -1,0 +1,65 @@
+{
+  "cell": "-16,-17",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "com_sack_02_gold_05": 1,
+        "de_p_chest_02_thief1": 1,
+        "door_cavern_doors10": 1,
+        "door_dwrv_load00": 1,
+        "ex_common_plat_cent": 1,
+        "ex_common_plat_end": 6,
+        "ex_de_cave_entrance_01": 1,
+        "ex_de_docks_steps_01": 3,
+        "ex_de_shack_steps": 1,
+        "ex_dwrv_block00": 1,
+        "ex_dwrv_block10": 2,
+        "ex_dwrv_block30": 2,
+        "ex_dwrv_boulder00": 2,
+        "ex_dwrv_boulder10": 3,
+        "ex_dwrv_boulder20": 8,
+        "ex_dwrv_enter00": 1,
+        "ex_dwrv_pipe00": 4,
+        "ex_dwrv_pipefitting00": 4,
+        "ex_dwrv_ruin10": 1,
+        "ex_dwrv_ruin20": 1,
+        "ex_dwrv_ruin30": 1,
+        "ex_dwrv_ruin60": 1,
+        "ex_dwrv_ruin80": 1,
+        "ex_dwrv_ruin_tower00": 1,
+        "ex_dwrv_steamstack00": 2,
+        "ex_dwrv_wall40": 1,
+        "ex_s_icicle": 11,
+        "ex_s_icicle02": 8,
+        "ex_snow_drift": 3,
+        "light_dwrv_neonbroke01": 1,
+        "t_mw_cr_cliffracer": 2,
+        "t_mw_rlvl_velothimountains+0": 2,
+        "t_mw_terrrockrm_mtpeak_03": 1,
+        "t_mw_terrrockrm_mtpeak_04": 4,
+        "t_mw_terrrockrm_mtpeak_05": 2,
+        "t_mw_terrrockrm_rock_05": 4,
+        "t_mw_terrrockrm_rockgrp_01": 4,
+        "t_mw_terrrockrm_rockgrp_02": 9,
+        "t_mw_terrrockrm_rockgrp_03": 6,
+        "t_mw_terrrockrm_rockgrp_04": 9,
+        "t_mw_terrrockrms_cliffs_01": 1,
+        "t_mw_terrrockrms_cliffs_02": 1,
+        "terrain_bm_snow_01": 1,
+        "terrain_bm_snow_07": 5,
+        "terrain_bm_snow_08": 3,
+        "terrain_rock_rm_05": 1,
+        "terrain_rock_rm_13": 5,
+        "terrain_rock_rm_14": 7,
+        "terrain_rock_rm_21": 2,
+        "terrain_rock_rm_24": 1,
+        "tr_m4_red_guard_f_s": 2
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_ex_dwe_spawn": 1
+      }
+    }
+  }
+}

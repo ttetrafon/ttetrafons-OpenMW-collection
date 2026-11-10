@@ -1,0 +1,965 @@
+{
+  "cell": "Holamayan Monastery",
+  "name": "Holamayan Monastery",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "tr_m0_mark_guls_seles": 1
+      }
+    },
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 2,
+        "gvrm_bcom_am_marker": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_reader16": 1,
+        "furn_de_p_stool_01": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_magical": 1,
+        "aa_wares_priest": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bk_aedraanddaedra": 6,
+        "bk_affairsofwizards": 2,
+        "bk_ancestorsandthedunmer": 6,
+        "bk_annotatedanuad": 8,
+        "bk_antecedantsdwemerlaw": 1,
+        "bk_anticipations": 4,
+        "bk_arcanarestored": 3,
+        "bk_arcturianheresy": 5,
+        "bk_biographybarenziah1": 2,
+        "bk_biographybarenziah2": 2,
+        "bk_blasphemousrevenants": 2,
+        "bk_bookdawnanddusk": 2,
+        "bk_bookofdaedra": 5,
+        "bk_briefhistoryempire1": 1,
+        "bk_briefhistoryempire2": 1,
+        "bk_briefhistoryempire3": 1,
+        "bk_briefhistoryempire4": 1,
+        "bk_cantatasofvivec": 1,
+        "bk_childrenofthesky": 1,
+        "bk_chroniclesnchuleft": 1,
+        "bk_consolationsofprayer": 8,
+        "bk_livesofthesaints": 3,
+        "bk_mysteriousakavir": 1,
+        "bk_mysticism": 1,
+        "bk_nchunaksfireandfaith": 1,
+        "bk_pilgrimspath": 4,
+        "bk_specialfloraoftamriel": 1,
+        "bk_tamrielicreligions": 1,
+        "bk_truenatureoforcs": 1,
+        "bk_varietiesoffaithintheempire": 1,
+        "bookskill_armorer5": 1,
+        "bookskill_athletics5": 1,
+        "bookskill_block5": 1,
+        "bookskill_medium armor5": 1,
+        "chest_01_v_potion_p_03": 1,
+        "com_basket_01_food": 2,
+        "com_sack_01_ingred": 2,
+        "com_sack_02_chpfood3": 5,
+        "com_sack_03_chpfood5": 2,
+        "com_sack_03_ingredients": 2,
+        "light_de_candle_15_off": 1,
+        "light_de_candle_ivory_01_64": 3,
+        "light_de_lantern_01": 1,
+        "urn_01_food": 1,
+        "urn_02_food": 1,
+        "urn_04_food": 1,
+        "urn_05_ingred": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bk_aedraanddaedra": 6,
+        "bk_affairsofwizards": 2,
+        "bk_ancestorsandthedunmer": 6,
+        "bk_annotatedanuad": 8,
+        "bk_antecedantsdwemerlaw": 1,
+        "bk_anticipations": 4,
+        "bk_arcanarestored": 3,
+        "bk_arcturianheresy": 5,
+        "bk_biographybarenziah1": 2,
+        "bk_biographybarenziah2": 2,
+        "bk_blasphemousrevenants": 2,
+        "bk_bookdawnanddusk": 2,
+        "bk_bookofdaedra": 5,
+        "bk_briefhistoryempire1": 1,
+        "bk_briefhistoryempire2": 1,
+        "bk_briefhistoryempire3": 1,
+        "bk_briefhistoryempire4": 1,
+        "bk_cantatasofvivec": 1,
+        "bk_childrenofthesky": 1,
+        "bk_chroniclesnchuleft": 1,
+        "bk_consolationsofprayer": 8,
+        "bk_livesofthesaints": 3,
+        "bk_mysteriousakavir": 1,
+        "bk_mysticism": 1,
+        "bk_nchunaksfireandfaith": 1,
+        "bk_pilgrimspath": 4,
+        "bk_specialfloraoftamriel": 1,
+        "bk_tamrielicreligions": 1,
+        "bk_truenatureoforcs": 1,
+        "bk_varietiesoffaithintheempire": 1,
+        "bookskill_armorer5": 1,
+        "bookskill_athletics5": 1,
+        "bookskill_block5": 1,
+        "bookskill_medium armor5": 1,
+        "chest_01_v_potion_p_03": 1,
+        "com_basket_01_food": 2,
+        "com_sack_01_ingred": 2,
+        "com_sack_02_chpfood3": 5,
+        "com_sack_03_chpfood5": 2,
+        "com_sack_03_ingredients": 2,
+        "light_de_candle_15_off": 1,
+        "light_de_candle_ivory_01_64": 3,
+        "light_de_lantern_01": 1,
+        "urn_01_food": 1,
+        "urn_02_food": 1,
+        "urn_04_food": 1,
+        "urn_05_ingred": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::472811",
+      "object": "light_de_candle_ivory_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472814",
+      "object": "urn_02_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472815",
+      "object": "urn_01_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472816",
+      "object": "urn_05_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472817",
+      "object": "urn_04_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472818",
+      "object": "com_sack_03_ingredients",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472819",
+      "object": "com_sack_03_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472820",
+      "object": "com_sack_03_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472844",
+      "object": "com_basket_01_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472845",
+      "object": "com_basket_01_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472873",
+      "object": "bk_varietiesoffaithintheempire",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472874",
+      "object": "bk_aedraanddaedra",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472875",
+      "object": "com_sack_03_ingredients",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472876",
+      "object": "com_sack_02_chpfood3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472877",
+      "object": "com_sack_02_chpfood3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472896",
+      "object": "com_sack_02_chpfood3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472928",
+      "object": "com_sack_02_chpfood3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472929",
+      "object": "com_sack_02_chpfood3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472955",
+      "object": "com_sack_01_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472956",
+      "object": "com_sack_01_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472957",
+      "object": "light_de_candle_15_off",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472963",
+      "object": "bk_pilgrimspath",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472964",
+      "object": "bk_specialfloraoftamriel",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472965",
+      "object": "bk_tamrielicreligions",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472966",
+      "object": "bk_truenatureoforcs",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472967",
+      "object": "bk_affairsofwizards",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472968",
+      "object": "bk_aedraanddaedra",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472969",
+      "object": "bk_aedraanddaedra",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472970",
+      "object": "bk_anticipations",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472972",
+      "object": "bk_bookofdaedra",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472974",
+      "object": "bk_blasphemousrevenants",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472975",
+      "object": "bk_bookdawnanddusk",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472976",
+      "object": "bk_annotatedanuad",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472977",
+      "object": "bk_annotatedanuad",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472978",
+      "object": "bk_ancestorsandthedunmer",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472979",
+      "object": "bk_ancestorsandthedunmer",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472981",
+      "object": "bk_cantatasofvivec",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472982",
+      "object": "bk_consolationsofprayer",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472983",
+      "object": "bk_consolationsofprayer",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472984",
+      "object": "bk_consolationsofprayer",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472985",
+      "object": "bk_consolationsofprayer",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472987",
+      "object": "bk_consolationsofprayer",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472988",
+      "object": "bk_consolationsofprayer",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472989",
+      "object": "bk_consolationsofprayer",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472990",
+      "object": "bk_consolationsofprayer",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472992",
+      "object": "bk_anticipations",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472993",
+      "object": "bk_anticipations",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472994",
+      "object": "bk_livesofthesaints",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472995",
+      "object": "bk_livesofthesaints",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472996",
+      "object": "bk_livesofthesaints",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472997",
+      "object": "bk_mysticism",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472998",
+      "object": "bk_nchunaksfireandfaith",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472999",
+      "object": "bk_pilgrimspath",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473000",
+      "object": "bk_pilgrimspath",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473001",
+      "object": "bk_pilgrimspath",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473002",
+      "object": "bk_mysteriousakavir",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473003",
+      "object": "bk_aedraanddaedra",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473004",
+      "object": "bk_arcanarestored",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473005",
+      "object": "bk_blasphemousrevenants",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473006",
+      "object": "bk_bookdawnanddusk",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473007",
+      "object": "bk_annotatedanuad",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473008",
+      "object": "bk_annotatedanuad",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473009",
+      "object": "bk_annotatedanuad",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473010",
+      "object": "bk_arcturianheresy",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473015",
+      "object": "bk_affairsofwizards",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473016",
+      "object": "bk_biographybarenziah1",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473018",
+      "object": "bk_briefhistoryempire1",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473019",
+      "object": "bk_briefhistoryempire3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473020",
+      "object": "bk_briefhistoryempire4",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473021",
+      "object": "bk_briefhistoryempire2",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473022",
+      "object": "bk_bookofdaedra",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473023",
+      "object": "bk_arcanarestored",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473024",
+      "object": "bk_biographybarenziah2",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473025",
+      "object": "bk_biographybarenziah2",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473026",
+      "object": "bk_arcturianheresy",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473027",
+      "object": "bk_chroniclesnchuleft",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473028",
+      "object": "bk_ancestorsandthedunmer",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473029",
+      "object": "bk_ancestorsandthedunmer",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473030",
+      "object": "bk_aedraanddaedra",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473031",
+      "object": "bk_aedraanddaedra",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473032",
+      "object": "bk_annotatedanuad",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473033",
+      "object": "bk_anticipations",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473034",
+      "object": "bk_bookofdaedra",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473035",
+      "object": "bk_arcanarestored",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473036",
+      "object": "bk_arcturianheresy",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473037",
+      "object": "bk_biographybarenziah1",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473040",
+      "object": "bk_annotatedanuad",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473041",
+      "object": "bk_bookofdaedra",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473042",
+      "object": "bk_ancestorsandthedunmer",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473044",
+      "object": "bk_antecedantsdwemerlaw",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473045",
+      "object": "bk_bookofdaedra",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473046",
+      "object": "bk_annotatedanuad",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473047",
+      "object": "bk_arcturianheresy",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473048",
+      "object": "bk_ancestorsandthedunmer",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473050",
+      "object": "bk_childrenofthesky",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473051",
+      "object": "bk_arcturianheresy",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473122",
+      "object": "light_de_lantern_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473144",
+      "object": "light_de_candle_ivory_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473145",
+      "object": "light_de_candle_ivory_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::473298",
+      "object": "chest_01_v_potion_p_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483420",
+      "object": "bookskill_armorer5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483421",
+      "object": "bookskill_athletics5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483422",
+      "object": "bookskill_block5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483423",
+      "object": "bookskill_medium armor5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

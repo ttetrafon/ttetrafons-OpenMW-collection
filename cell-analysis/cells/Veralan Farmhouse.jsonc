@@ -1,0 +1,56 @@
+{
+  "cell": "Veralan Farmhouse",
+  "name": "Veralan Farmhouse",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "barrel_01_cheapfood20": 2,
+        "barrel_01_saltrice": 1,
+        "barrel_02_marshmerrow": 1,
+        "com_sack_01_chpfood5": 9,
+        "com_sack_02_msugar2": 1,
+        "com_sack_03_chpfood5": 2,
+        "com_sack_03_ingredients": 3,
+        "com_sack_03_wickwheat": 2,
+        "furn_de_p_bookshelf_01": 1,
+        "furn_de_p_chair_01": 1,
+        "furn_de_p_table_01": 1,
+        "furn_de_rug_01": 1,
+        "in_t_housepod_02": 1,
+        "in_t_housepod_djamb_exit": 1,
+        "in_t_housepod_door_exit": 2,
+        "in_t_housepod_pole_01": 2,
+        "in_t_housepod_pole_03": 1,
+        "in_t_housepod_stairs": 1,
+        "light_de_candle_03": 4,
+        "misc_com_bottle_04": 2,
+        "misc_com_bottle_11": 7,
+        "misc_com_pitcher_metal_01": 3,
+        "misc_com_plate_01": 3,
+        "misc_com_plate_07": 1,
+        "misc_com_plate_08": 2,
+        "misc_com_redware_platter": 1,
+        "misc_com_wood_bowl_01": 1,
+        "misc_com_wood_cup_01": 1,
+        "misc_com_wood_cup_02": 1,
+        "misc_com_wood_fork": 5,
+        "misc_com_wood_knife": 5,
+        "misc_com_wood_spoon_01": 5,
+        "misc_de_fishing_pole": 1,
+        "misc_de_foldedcloth00": 5,
+        "misc_de_glass_yellow_01": 4,
+        "misc_de_pot_glass_peach_02": 1,
+        "misc_de_tankard_01": 4,
+        "misc_flask_04": 6,
+        "northmarker": 1,
+        "tr_m2_fara veralan": 1,
+        "tr_m2_hansarat": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_wise": 1
+      }
+    }
+  }
+}

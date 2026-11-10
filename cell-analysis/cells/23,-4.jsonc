@@ -1,0 +1,53 @@
+{
+  "cell": "23,-4",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_cave_door_01": 1,
+        "ex_cave_entrance_ac_01": 1,
+        "ex_t_menhir_01": 2,
+        "ex_t_menhir_l_01": 15,
+        "flora_black_anther_01": 1,
+        "flora_black_anther_02": 3,
+        "flora_emp_parasol_02": 3,
+        "flora_emp_parasol_03": 5,
+        "flora_kelp_02": 1,
+        "flora_kreshweed_01": 4,
+        "flora_kreshweed_02": 3,
+        "flora_kreshweed_03": 4,
+        "flora_stoneflower_01": 4,
+        "flora_stoneflower_02": 2,
+        "flora_t_podbud_01": 2,
+        "flora_t_podbud_02": 5,
+        "flora_t_podbud_03": 1,
+        "flora_t_podbud_04": 3,
+        "flora_tree_ac_01": 4,
+        "flora_tree_ac_02": 3,
+        "flora_tree_ac_04": 1,
+        "flora_willow_flower_01": 5,
+        "flora_willow_flower_02": 5,
+        "t_mw_lvl_cliffracers+0": 1,
+        "t_mw_lvl_daedra+2": 1,
+        "t_mw_lvl_nixhounds+0": 1,
+        "t_mw_lvl_scamps+2": 1,
+        "terrain_rock_ac_01": 2,
+        "terrain_rock_ac_02": 3,
+        "terrain_rock_ac_03": 4,
+        "terrain_rock_ac_04": 5,
+        "terrain_rock_ac_05": 2,
+        "terrain_rock_ac_06": 5,
+        "terrain_rock_ac_07": 6,
+        "terrain_rock_ac_08": 5,
+        "terrain_rock_ac_09": 4,
+        "terrain_rock_ac_10": 7,
+        "terrain_rock_ac_11": 5,
+        "terrain_rock_ac_12": 4
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

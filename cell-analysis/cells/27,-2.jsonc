@@ -1,0 +1,47 @@
+{
+  "cell": "27,-2",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_de_railing_02": 9,
+        "ex_de_railing_03": 3,
+        "flora_bush_01": 6,
+        "flora_emp_parasol_02": 1,
+        "flora_emp_parasol_03": 1,
+        "flora_gold_kanet_01": 1,
+        "flora_hackle-lo_01": 1,
+        "flora_hackle-lo_02": 4,
+        "flora_plant_01": 2,
+        "flora_plant_02": 1,
+        "flora_plant_04": 1,
+        "flora_tree_gl_01": 3,
+        "flora_tree_gl_02": 3,
+        "flora_tree_gl_04": 2,
+        "flora_tree_gl_05": 3,
+        "flora_tree_gl_08": 1,
+        "flora_tree_gl_11": 5,
+        "flora_wickwheat_03": 14,
+        "flora_wickwheat_04": 27,
+        "t_mw_cr_guar": 1,
+        "terrain_rock_gl_03": 2,
+        "terrain_rock_gl_04": 2,
+        "terrain_rock_gl_06": 8,
+        "terrain_rock_gl_07": 4,
+        "terrain_rock_gl_08": 5,
+        "terrain_rock_gl_09": 3,
+        "terrain_rock_gl_10": 19,
+        "terrain_rock_gl_11": 4,
+        "terrain_rock_gl_12": 6,
+        "terrain_rocks_gl_01": 18,
+        "terrain_rocks_gl_02": 1,
+        "terrain_rocks_gl_03": 3,
+        "terrain_rocks_gl_04": 2
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 2
+      }
+    }
+  }
+}

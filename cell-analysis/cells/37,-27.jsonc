@@ -1,0 +1,75 @@
+{
+  "cell": "37,-27",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_mh_bazaar_cart_01": 1,
+        "flora_bittergreen_01": 1,
+        "flora_bittergreen_07": 1,
+        "flora_bittergreen_08": 2,
+        "flora_bittergreen_pod_01": 1,
+        "flora_bush_01": 6,
+        "flora_chokeweed_02": 9,
+        "flora_corkbulb": 12,
+        "flora_grass_01": 4,
+        "flora_grass_02": 5,
+        "flora_grass_03": 3,
+        "flora_grass_04": 2,
+        "flora_hackle-lo_01": 1,
+        "flora_kreshweed_01": 4,
+        "flora_kreshweed_02": 3,
+        "flora_kreshweed_03": 5,
+        "flora_plant_01": 2,
+        "flora_saltrice_01": 1,
+        "flora_saltrice_02": 4,
+        "flora_stoneflower_01": 3,
+        "flora_stoneflower_02": 6,
+        "flora_tree_gl_02": 1,
+        "flora_tree_gl_05": 4,
+        "flora_tree_gl_06": 3,
+        "flora_tree_gl_07": 3,
+        "flora_tree_gl_08": 2,
+        "flora_tree_mh_01": 5,
+        "flora_tree_mh_02": 9,
+        "t_mw_cr_netchbull": 1,
+        "t_mw_flora_hornlilly01": 3,
+        "t_mw_flora_hornlilly02": 2,
+        "t_mw_flora_hornlilly03": 2,
+        "t_mw_flora_meadowrye01": 1,
+        "t_mw_flora_meadowrye02": 2,
+        "t_mw_flora_nirthfly02": 1,
+        "t_mw_flora_nirthfly04": 1,
+        "t_mw_flora_timsacomeb01": 1,
+        "t_mw_flora_timsacomeb04": 1,
+        "terrain_rock_wg_01": 1,
+        "terrain_rock_wg_05": 1,
+        "terrain_rock_wg_07": 1,
+        "terrain_rock_wg_09": 1,
+        "terrain_rock_wg_10": 1,
+        "terrain_rock_wg_12": 3,
+        "terrain_rock_wg_13": 1,
+        "terrain_rock_wg_15": 1,
+        "terrain_rock_wg_16": 1,
+        "terrain_rock_wg_18": 2,
+        "terrain_rocks_wg_01": 8,
+        "terrain_rocks_wg_02": 2,
+        "terrain_rocks_wg_03": 9,
+        "terrain_rocks_wg_04": 2
+      }
+    },
+    "DM_TR_EnaMoreIndoril.ESP": {
+      "added": {
+        "t_de_setind_x_wall_cnr_02": 2,
+        "t_de_setind_x_wall_str_01": 8
+      },
+      "modified": {
+        "flora_kreshweed_02": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_travelingtrader_indo_spawn": 1
+      }
+    }
+  }
+}

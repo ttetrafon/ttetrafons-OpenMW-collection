@@ -1,0 +1,36 @@
+{
+  "cell": "Buckmoth Legion Fort, Prison",
+  "name": "Buckmoth Legion Fort, Prison",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "key_cell_buckmoth_01": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "modified": {
+        "in_impsmall_door_jail_01": 4
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_imperial guard_ran": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "key_cell_buckmoth_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::393555",
+      "object": "key_cell_buckmoth_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

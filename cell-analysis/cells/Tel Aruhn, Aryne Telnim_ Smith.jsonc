@@ -1,0 +1,61 @@
+{
+  "cell": "Tel Aruhn, Aryne Telnim: Smith",
+  "name": "Tel Aruhn, Aryne Telnim: Smith",
+  "plugins": {
+    "Adamantium Armor Naturalized.esp": {
+      "added": {
+        "adamantium_bracer_left": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_smith": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_smith_spawn": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "furn_de_bar_01": 1,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_04": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "furn_de_bar_01": 1,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_04": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::176827",
+      "object": "furn_de_bar_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::176828",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::176829",
+      "object": "furn_de_bar_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

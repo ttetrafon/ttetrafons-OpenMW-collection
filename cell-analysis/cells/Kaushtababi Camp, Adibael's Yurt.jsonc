@@ -1,0 +1,52 @@
+{
+  "cell": "Kaushtababi Camp, Adibael's Yurt",
+  "name": "Kaushtababi Camp, Adibael's Yurt",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "misc_com_wood_fork": 2,
+        "misc_com_wood_knife": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "misc_com_wood_fork": 2,
+        "misc_com_wood_knife": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::441951",
+      "object": "misc_com_wood_knife",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::441952",
+      "object": "misc_com_wood_knife",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::441953",
+      "object": "misc_com_wood_fork",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::441954",
+      "object": "misc_com_wood_fork",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "cell": "Vivec, Telvanni Enchanter",
+  "name": "Vivec, Telvanni Enchanter",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_magical_telv": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_traders_spawn": 2
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_p_bed_13": 1,
+        "bk_clientlist": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_p_bed_13": 1,
+        "bk_clientlist": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::440490",
+      "object": "bk_clientlist",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::443578",
+      "object": "active_de_p_bed_13",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

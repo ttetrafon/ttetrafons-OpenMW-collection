@@ -1,0 +1,44 @@
+{
+  "cell": "Vivec, St. Delyn Canal North-Three",
+  "name": "Vivec, St. Delyn Canal North-Three",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "gold_001": 2,
+        "gold_010": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "gold_001": 2,
+        "gold_010": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::405556",
+      "object": "gold_010",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::405557",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::405558",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

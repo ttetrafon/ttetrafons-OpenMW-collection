@@ -1,0 +1,16 @@
+{
+  "cell": "-11,10",
+  "name": "Gnisis",
+  "plugins": {
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_hiddencache": 1
+      }
+    },
+    "Local Lore - Silt Striders and Caravaners - Silt Strider Animation Restored.ESP": {
+      "modified": {
+        "kil_silt_mabrigash": 1
+      }
+    }
+  }
+}

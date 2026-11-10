@@ -1,0 +1,96 @@
+{
+  "cell": "18,4",
+  "name": "Sadrith Mora",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 2,
+        "gvrm_telvguardwand": 3,
+        "gvrm_tlv_w_dun_sdrthmra": 6
+      }
+    },
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_forgefire00": 2
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_magetrance": 1,
+        "am_reader10": 1,
+        "gold_001": 2
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_smith": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_hiddencache": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_n_all_nightlife_spawn": 4
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_comp_covis": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_telvanni guard_ran": 3
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "light_de_lantern_05": 3,
+        "misc_de_tankard_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "light_de_lantern_05": 3,
+        "misc_de_tankard_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::48800",
+      "object": "light_de_lantern_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48801",
+      "object": "light_de_lantern_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48803",
+      "object": "light_de_lantern_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48052",
+      "object": "misc_de_tankard_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

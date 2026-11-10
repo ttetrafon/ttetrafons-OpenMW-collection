@@ -1,0 +1,31 @@
+{
+  "cell": "Obscure Shipwreck, Upper Level",
+  "name": "Obscure Shipwreck, Upper Level",
+  "plugins": {
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_m15_chest": 1,
+        "x0_m20_key": 1
+      },
+      "modified": {
+        "ex_de_ship_trapdoor": 1,
+        "misc_de_tankard_01": 1
+      }
+    },
+    "OAAB - Shipwrecks.esm": {
+      "modified": {
+        "ex_de_ship_trapdoor": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::318098",
+      "object": "ex_de_ship_trapdoor",
+      "plugins": [
+        "OAAB - Shipwrecks.esm",
+        "Uncharted Artifacts.esp"
+      ]
+    }
+  ]
+}

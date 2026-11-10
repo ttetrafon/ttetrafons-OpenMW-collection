@@ -1,0 +1,57 @@
+{
+  "cell": "Vivec, The Flowers of Gold",
+  "name": "Vivec, The Flowers of Gold",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "furn_com_rm_barstool": 2,
+        "gvrm_am_marker": 1,
+        "gvrm_rd_s+e_dun": 2
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_eaterday09": 1
+      },
+      "modified": {
+        "furn_com_rm_barstool": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_baker": 1,
+        "aa_wares_publican": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bk_nerevarinenotice": 1,
+        "gold_010": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bk_nerevarinenotice": 1,
+        "gold_010": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::329845",
+      "object": "bk_nerevarinenotice",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::405590",
+      "object": "gold_010",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

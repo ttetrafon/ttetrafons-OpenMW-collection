@@ -1,0 +1,36 @@
+{
+  "cell": "-5,1",
+  "plugins": {
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "a_photodragons": 1,
+        "sound_swamp_1": 2,
+        "sound_swamp_2": 3,
+        "sound_swamp_3": 1
+      }
+    },
+    "BC Sounds Naturalized.esp": {
+      "added": {
+        "opn_a_photodragons": 1,
+        "opn_sound_swamp_1": 2,
+        "opn_sound_swamp_2": 3,
+        "opn_sound_swamp_3": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_crt_deepforest_bc": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_fresh_list": 2
+      }
+    },
+    "Creatures and Critters Light the Path.ESP": {
+      "added": {
+        "aa_cr_i_moth_all": 1
+      }
+    }
+  }
+}

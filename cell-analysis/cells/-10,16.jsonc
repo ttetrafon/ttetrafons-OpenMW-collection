@@ -1,0 +1,16 @@
+{
+  "cell": "-10,16",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_marker": 1,
+        "xero_north_sack": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_red_spawn": 1
+      }
+    }
+  }
+}

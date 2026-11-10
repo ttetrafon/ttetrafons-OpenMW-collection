@@ -1,0 +1,19 @@
+{
+  "cell": "Vhul, Watcher Cornerclub",
+  "name": "Vhul, Watcher Cornerclub",
+  "plugins": {
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_baker": 1,
+        "aa_wares_pawn": 1,
+        "aa_wares_publican": 1,
+        "aa_wares_trader": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_in_traders_spawn": 1
+      }
+    }
+  }
+}

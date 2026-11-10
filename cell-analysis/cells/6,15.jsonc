@@ -1,0 +1,17 @@
+{
+  "cell": "6,15",
+  "plugins": {
+    "Aoimevelho Wares with ALL NPCs.ESP": {
+      "added": {
+        "_ar2-03": 1,
+        "_ar2-04": 1,
+        "ex_ashl_door_02": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

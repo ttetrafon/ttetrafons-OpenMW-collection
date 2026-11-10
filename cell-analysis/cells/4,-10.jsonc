@@ -1,0 +1,27 @@
+{
+  "cell": "4,-10",
+  "name": "Vivec, Foreign Quarter",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "tr_m0_gindrala nethri": 1
+      }
+    },
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_bcom_am_marker": 2
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_marker": 1,
+        "xero_south_barrel": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_ord_spawn": 1
+      }
+    }
+  }
+}

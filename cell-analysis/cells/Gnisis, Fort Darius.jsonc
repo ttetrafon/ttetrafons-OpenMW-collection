@@ -1,0 +1,444 @@
+{
+  "cell": "Gnisis, Fort Darius",
+  "name": "Gnisis, Fort Darius",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "furn_com_rm_chair_03": 1,
+        "gvrm_am_marker": 1,
+        "gvrm_imp_s+e_impc_or": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_reader6": 1
+      }
+    },
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_n_horn_kagouti": 1,
+        "aatl_npc_morak": 1,
+        "aatl_w_glass_sswd_cyro": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_healer": 2,
+        "aa_wares_smith_legion": 1
+      }
+    },
+    "Ttooth's Missing NPCs - No Nolus.ESP": {
+      "added": {
+        "ttooth_mangolodh": 1
+      }
+    },
+    "Privileges&Services 1.1.esp": {
+      "added": {
+        "abm_trapguimup": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bookskill_spear2": 1,
+        "com_chest_02_darius_01": 1,
+        "com_chest_02_darius_02": 1,
+        "com_chest_02_darius_03": 1,
+        "com_chest_02_darius_04": 1,
+        "crate_01_random_pos": 1,
+        "crate_02_random_pos": 1,
+        "furn_imp_altar_cure_01": 1,
+        "gold_025": 1,
+        "imperial broadsword": 1,
+        "imperial shield": 1,
+        "imperial shortsword": 2,
+        "light_com_candle_10_128": 1,
+        "light_com_lantern_02_128": 1,
+        "light_com_torch_01_128": 8,
+        "misc_com_bottle_02": 2,
+        "misc_com_bottle_09": 2,
+        "misc_com_metal_plate_04": 1,
+        "misc_com_silverware_fork": 1,
+        "misc_com_tankard_01": 2,
+        "misc_de_bowl_redware_01": 1,
+        "misc_imp_silverware_bowl": 1,
+        "misc_imp_silverware_plate_02": 1,
+        "misc_uni_pillow_01": 8
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "modified": {
+        "light_com_lantern_02_128": 1,
+        "light_com_torch_01_128": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bookskill_spear2": 1,
+        "com_chest_02_darius_01": 1,
+        "com_chest_02_darius_02": 1,
+        "com_chest_02_darius_03": 1,
+        "com_chest_02_darius_04": 1,
+        "crate_01_random_pos": 1,
+        "crate_02_random_pos": 1,
+        "furn_imp_altar_cure_01": 1,
+        "gold_025": 1,
+        "imperial broadsword": 1,
+        "imperial shield": 1,
+        "imperial shortsword": 2,
+        "light_com_candle_10_128": 1,
+        "light_com_lantern_02_128": 1,
+        "light_com_torch_01_128": 8,
+        "misc_com_bottle_02": 2,
+        "misc_com_bottle_09": 2,
+        "misc_com_metal_plate_04": 1,
+        "misc_com_silverware_fork": 1,
+        "misc_com_tankard_01": 2,
+        "misc_de_bowl_redware_01": 1,
+        "misc_imp_silverware_bowl": 1,
+        "misc_imp_silverware_plate_02": 1,
+        "misc_uni_pillow_01": 8
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::12158",
+      "object": "crate_01_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::12159",
+      "object": "crate_02_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::14217",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::14218",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::14219",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::14220",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::14221",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::14222",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::14223",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::14224",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::14226",
+      "object": "com_chest_02_darius_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::14227",
+      "object": "com_chest_02_darius_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::14228",
+      "object": "com_chest_02_darius_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::14240",
+      "object": "misc_com_bottle_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::14241",
+      "object": "misc_com_bottle_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::14242",
+      "object": "misc_com_tankard_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::14243",
+      "object": "misc_com_tankard_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::14244",
+      "object": "misc_com_metal_plate_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::14245",
+      "object": "misc_com_silverware_fork",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::14246",
+      "object": "imperial shield",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::14247",
+      "object": "imperial shortsword",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::19122",
+      "object": "imperial broadsword",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::33232",
+      "object": "misc_de_bowl_redware_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::38102",
+      "object": "imperial shortsword",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48490",
+      "object": "light_com_torch_01_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48493",
+      "object": "light_com_torch_01_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48494",
+      "object": "light_com_torch_01_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "True_Lights_And_Darkness_1.1.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48496",
+      "object": "light_com_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "True_Lights_And_Darkness_1.1.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48498",
+      "object": "light_com_torch_01_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48500",
+      "object": "light_com_torch_01_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "True_Lights_And_Darkness_1.1.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48501",
+      "object": "light_com_torch_01_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::249443",
+      "object": "com_chest_02_darius_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::249445",
+      "object": "light_com_torch_01_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::249447",
+      "object": "light_com_torch_01_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276809",
+      "object": "light_com_candle_10_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276810",
+      "object": "misc_imp_silverware_plate_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276811",
+      "object": "misc_com_bottle_09",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276812",
+      "object": "misc_imp_silverware_bowl",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276813",
+      "object": "gold_025",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276814",
+      "object": "misc_com_bottle_09",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::376623",
+      "object": "furn_imp_altar_cure_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483387",
+      "object": "bookskill_spear2",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

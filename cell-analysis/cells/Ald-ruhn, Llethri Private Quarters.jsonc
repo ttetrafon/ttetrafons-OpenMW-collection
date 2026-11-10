@@ -1,0 +1,62 @@
+{
+  "cell": "Ald-ruhn, Llethri Private Quarters",
+  "name": "Ald-ruhn, Llethri Private Quarters",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "gold_001": 2,
+        "gold_005": 2,
+        "gold_010": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "gold_001": 2,
+        "gold_005": 2,
+        "gold_010": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::308171",
+      "object": "gold_010",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::308172",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::308173",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::308174",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::308175",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

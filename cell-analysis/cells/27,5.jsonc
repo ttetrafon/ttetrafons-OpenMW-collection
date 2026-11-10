@@ -1,0 +1,53 @@
+{
+  "cell": "27,5",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "adamantium_claymore": 1,
+        "ancestor_ghost_greater": 1,
+        "ex_cave_door_01": 1,
+        "ex_cave_entrance_wg_01": 1,
+        "ex_dwrv_bridge00": 1,
+        "ex_dwrv_bridge10": 2,
+        "ex_dwrv_header00": 1,
+        "ex_dwrv_pipe00": 2,
+        "ex_dwrv_ruin_tower00": 1,
+        "ex_dwrv_steamstack00": 1,
+        "ex_velothi_entrance_02": 1,
+        "ex_velothi_loaddoor_01": 1,
+        "ex_velothi_tower_01": 1,
+        "flora_chokeweed_02": 2,
+        "flora_grass_01": 4,
+        "flora_grass_02": 4,
+        "flora_grass_04": 8,
+        "flora_stoneflower_01": 4,
+        "flora_tree_wg_04": 1,
+        "flora_tree_wg_05": 1,
+        "flora_tree_wg_06": 1,
+        "flora_tree_wg_07": 2,
+        "iron_shield": 1,
+        "t_glb_var_skeleton07": 1,
+        "t_mw_stat_crabsland": 2,
+        "terrain_rock_wg_01": 1,
+        "terrain_rock_wg_02": 2,
+        "terrain_rock_wg_08": 4,
+        "terrain_rock_wg_10": 5,
+        "terrain_rock_wg_12": 18,
+        "terrain_rock_wg_13": 1,
+        "terrain_rock_wg_14": 2,
+        "terrain_rock_wg_16": 2,
+        "terrain_rock_wg_17": 5,
+        "terrain_rock_wg_18": 6,
+        "terrain_rocks_wg_01": 16,
+        "terrain_rocks_wg_02": 4,
+        "terrain_rocks_wg_03": 5,
+        "terrain_rocks_wg_04": 2
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

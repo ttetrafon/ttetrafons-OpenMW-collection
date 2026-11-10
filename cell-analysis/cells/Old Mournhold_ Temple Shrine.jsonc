@@ -1,0 +1,16 @@
+{
+  "cell": "Old Mournhold: Temple Shrine",
+  "name": "Old Mournhold: Temple Shrine",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "lich_profane_unique": 5
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "modified": {
+        "aa_cr_lich_profane": 5
+      }
+    }
+  }
+}

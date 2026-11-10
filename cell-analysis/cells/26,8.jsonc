@@ -1,0 +1,49 @@
+{
+  "cell": "26,8",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_ascadianisles_lev-1": 1,
+        "ex_de_railing_01": 3,
+        "ex_de_railing_03": 1,
+        "ex_velothi_entrance_02": 1,
+        "flora_grass_02": 1,
+        "flora_grass_03": 1,
+        "flora_grass_04": 1,
+        "flora_muckpod_03": 1,
+        "flora_tree_wg_01": 1,
+        "flora_tree_wg_02": 1,
+        "flora_tree_wg_05": 3,
+        "flora_tree_wg_06": 1,
+        "flora_tree_wg_07": 2,
+        "flora_wickwheat_03": 1,
+        "flora_wickwheat_04": 1,
+        "in_velothismall_ndoor_01": 1,
+        "t_mw_rlvl_boethiahspineland+2": 1,
+        "t_mw_rlvl_boethiahspineland-2": 2,
+        "terrain_rock_wg_01": 3,
+        "terrain_rock_wg_02": 3,
+        "terrain_rock_wg_05": 1,
+        "terrain_rock_wg_07": 2,
+        "terrain_rock_wg_08": 1,
+        "terrain_rock_wg_09": 4,
+        "terrain_rock_wg_10": 10,
+        "terrain_rock_wg_12": 7,
+        "terrain_rock_wg_15": 3,
+        "terrain_rock_wg_16": 2,
+        "terrain_rock_wg_17": 2,
+        "terrain_rock_wg_18": 3,
+        "terrain_rocks_wg_01": 4,
+        "terrain_rocks_wg_02": 3,
+        "terrain_rocks_wg_03": 3,
+        "terrain_rocks_wg_04": 3,
+        "tr_m1_mark_uneleas": 3
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

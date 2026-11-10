@@ -1,0 +1,55 @@
+{
+  "cell": "Vivec, Arena Waistworks",
+  "name": "Vivec, Arena Waistworks",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "torch_128": 4
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_ordinator wan_ran": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "torch_128": 4
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::406599",
+      "object": "torch_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406602",
+      "object": "torch_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406604",
+      "object": "torch_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406606",
+      "object": "torch_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

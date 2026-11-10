@@ -1,0 +1,39 @@
+{
+  "cell": "Tel Mora, Radras: Smith",
+  "name": "Tel Mora, Radras: Smith",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_smith": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "furn_de_bar_02": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "furn_de_bar_02": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::361938",
+      "object": "furn_de_bar_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::362377",
+      "object": "furn_de_bar_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

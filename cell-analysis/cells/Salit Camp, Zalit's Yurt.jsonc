@@ -1,0 +1,168 @@
+{
+  "cell": "Salit Camp, Zalit's Yurt",
+  "name": "Salit Camp, Zalit's Yurt",
+  "plugins": {
+    "Aoimevelho Wares with ALL NPCs.ESP": {
+      "added": {
+        "_ar2-05": 1,
+        "_ar_ashstatue2": 2
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_bedroll": 1,
+        "barrel_01_arrows": 1,
+        "barrel_01_pos": 1,
+        "chest_small_01_gold_25": 1,
+        "com_sack_01_chpfood5": 3,
+        "com_sack_02_chpfood3": 1,
+        "crate_01_de_weapons": 1,
+        "food_kwama_egg_01": 1,
+        "food_kwama_egg_02": 1,
+        "misc_com_iron_ladle": 1,
+        "pot_01": 1,
+        "urn_03_ingred": 1,
+        "urn_04_ingred": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_bedroll": 1,
+        "barrel_01_arrows": 1,
+        "barrel_01_pos": 1,
+        "chest_small_01_gold_25": 1,
+        "com_sack_01_chpfood5": 3,
+        "com_sack_02_chpfood3": 1,
+        "crate_01_de_weapons": 1,
+        "food_kwama_egg_01": 1,
+        "food_kwama_egg_02": 1,
+        "misc_com_iron_ladle": 1,
+        "pot_01": 1,
+        "urn_03_ingred": 1,
+        "urn_04_ingred": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::274818",
+      "object": "misc_com_iron_ladle",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274819",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274821",
+      "object": "chest_small_01_gold_25",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274823",
+      "object": "pot_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274824",
+      "object": "barrel_01_arrows",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274825",
+      "object": "barrel_01_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274826",
+      "object": "crate_01_de_weapons",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274828",
+      "object": "food_kwama_egg_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274829",
+      "object": "food_kwama_egg_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274830",
+      "object": "urn_03_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274831",
+      "object": "urn_04_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274832",
+      "object": "com_sack_02_chpfood3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274833",
+      "object": "com_sack_01_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274834",
+      "object": "com_sack_01_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274835",
+      "object": "com_sack_01_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

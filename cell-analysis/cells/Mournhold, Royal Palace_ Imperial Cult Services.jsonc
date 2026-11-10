@@ -1,0 +1,141 @@
+{
+  "cell": "Mournhold, Royal Palace: Imperial Cult Services",
+  "name": "Mournhold, Royal Palace: Imperial Cult Services",
+  "plugins": {
+    "Immersive Mournhold.esp": {
+      "added": {
+        "nb_mourn_02_cr": 2,
+        "t_de_furn_tapestryind_01d": 1
+      },
+      "modified": {
+        "t_de_furn_tapestryind_01b": 1,
+        "t_de_furn_tapestryind_04": 17
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_priest": 2
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "furn_imp_altar_cure_01": 1,
+        "gold_025": 1,
+        "in_mh_door_01": 1,
+        "in_mh_door_02": 4,
+        "ingred_bread_01": 1,
+        "light_com_candle_10_128": 2,
+        "misc_imp_silverware_plate_01": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "furn_imp_altar_cure_01": 1,
+        "gold_025": 1,
+        "in_mh_door_01": 1,
+        "in_mh_door_02": 4,
+        "ingred_bread_01": 1,
+        "light_com_candle_10_128": 2,
+        "misc_imp_silverware_plate_01": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "tribunal::17436",
+      "object": "in_mh_door_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17437",
+      "object": "in_mh_door_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17438",
+      "object": "in_mh_door_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17439",
+      "object": "in_mh_door_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17440",
+      "object": "in_mh_door_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25525",
+      "object": "furn_imp_altar_cure_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25526",
+      "object": "ingred_bread_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25527",
+      "object": "misc_imp_silverware_plate_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25528",
+      "object": "light_com_candle_10_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25529",
+      "object": "light_com_candle_10_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25530",
+      "object": "misc_imp_silverware_plate_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25531",
+      "object": "gold_025",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

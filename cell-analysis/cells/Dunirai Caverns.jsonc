@@ -1,0 +1,23 @@
+{
+  "cell": "Dunirai Caverns",
+  "name": "Dunirai Caverns",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 2,
+        "gvrm_un_mn_cm_dun": 6
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_miner5": 1,
+        "am_miner6": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_imperial guard_ran": 4
+      }
+    }
+  }
+}

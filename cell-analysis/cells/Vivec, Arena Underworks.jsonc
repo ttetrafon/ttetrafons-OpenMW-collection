@@ -1,0 +1,26 @@
+{
+  "cell": "Vivec, Arena Underworks",
+  "name": "Vivec, Arena Underworks",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_playerhunter_all": 1
+      }
+    },
+    "The Undead.esm": {
+      "added": {
+        "_und_zombies_random": 5
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "added": {
+        "light_glowing_lichen_256_d": 2,
+        "light_glowing_lichen_512_d": 4
+      },
+      "modified": {
+        "light_glowing_lichen_256_d": 3,
+        "light_glowing_lichen_512_d": 6
+      }
+    }
+  }
+}

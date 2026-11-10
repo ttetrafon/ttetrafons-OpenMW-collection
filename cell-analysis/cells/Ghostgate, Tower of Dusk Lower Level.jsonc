@@ -1,0 +1,134 @@
+{
+  "cell": "Ghostgate, Tower of Dusk Lower Level",
+  "name": "Ghostgate, Tower of Dusk Lower Level",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_ba_ghostgate": 2
+      }
+    },
+    "NOD - Core.esm": {
+      "added": {
+        "1ba_armor": 1,
+        "ar_chest_east": 1
+      }
+    },
+    "Expansions Integrated.esp": {
+      "added": {
+        "ebony scimitar": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_savant": 1,
+        "aa_wares_smith_redo": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_smith_spawn": 1,
+        "aa_buoyant_armigers_list": 2
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_p_bed_09": 4,
+        "active_de_pr_bed_07": 1,
+        "active_de_pr_bed_21": 2,
+        "active_de_pr_bed_24": 1,
+        "in_velothismall_ndoor_01": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_p_bed_09": 4,
+        "active_de_pr_bed_07": 1,
+        "active_de_pr_bed_21": 2,
+        "active_de_pr_bed_24": 1,
+        "in_velothismall_ndoor_01": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::271517",
+      "object": "active_de_pr_bed_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::271518",
+      "object": "active_de_pr_bed_21",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::271519",
+      "object": "active_de_pr_bed_24",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::271520",
+      "object": "active_de_p_bed_09",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::271521",
+      "object": "active_de_p_bed_09",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::271522",
+      "object": "active_de_p_bed_09",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::271523",
+      "object": "active_de_p_bed_09",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::271581",
+      "object": "active_de_pr_bed_21",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::271604",
+      "object": "in_velothismall_ndoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::271605",
+      "object": "in_velothismall_ndoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

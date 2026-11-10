@@ -1,0 +1,17 @@
+{
+  "cell": "11,5",
+  "plugins": {
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_map19_trigger": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "barrel_01_empty": 1,
+        "xero_east_barrel": 1,
+        "xero_marker": 1
+      }
+    }
+  }
+}

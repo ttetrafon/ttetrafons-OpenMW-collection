@@ -1,0 +1,156 @@
+{
+  "cell": "Ald-ruhn, Codus Callonus: Bookseller",
+  "name": "Ald-ruhn, Codus Callonus: Bookseller",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_read_mage_dun_aldr_tg": 1
+      }
+    },
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_bk_recipe_guarsteak": 1,
+        "aatl_bk_recipe_hacklelosalad": 1,
+        "aatl_bk_recipe_pnglopfjelly": 1,
+        "aatl_bk_recipe_wildrice": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_bookseller": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_topicsofdiscussion": 1
+      }
+    },
+    "Tales of the Mad God.ESP": {
+      "added": {
+        "aom_bookchest3": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_library_spawn": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_redoran guard_ran": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "gold_001": 7,
+        "gold_005": 4,
+        "light_de_lantern_06_177": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "gold_001": 7,
+        "gold_005": 4,
+        "light_de_lantern_06_177": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::24275",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::24278",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::24279",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::24280",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::24281",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::24282",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::24283",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295518",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295519",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295520",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295521",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::478684",
+      "object": "light_de_lantern_06_177",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

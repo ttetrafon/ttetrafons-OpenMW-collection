@@ -1,0 +1,284 @@
+{
+  "cell": "Ald-ruhn, Council Hostel",
+  "name": "Ald-ruhn, Council Hostel",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_r_bed_01": 2,
+        "com_basket_01_chpfood5": 2,
+        "de_r_chest_01_empty": 2,
+        "de_r_closet_01_fcloth02": 1,
+        "de_r_closet_01_mcloth02": 1,
+        "ingred_ash_yam_01": 3,
+        "light_de_lantern_01_128": 1,
+        "misc_com_bottle_05": 2,
+        "misc_de_bowl_redware_02": 4,
+        "misc_de_goblet_04": 4,
+        "misc_uni_pillow_01": 2,
+        "urn_01_food": 2,
+        "urn_02_food": 2,
+        "urn_05_food": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_r_bed_01": 2,
+        "com_basket_01_chpfood5": 2,
+        "de_r_chest_01_empty": 2,
+        "de_r_closet_01_fcloth02": 1,
+        "de_r_closet_01_mcloth02": 1,
+        "ingred_ash_yam_01": 3,
+        "light_de_lantern_01_128": 1,
+        "misc_com_bottle_05": 2,
+        "misc_de_bowl_redware_02": 4,
+        "misc_de_goblet_04": 4,
+        "misc_uni_pillow_01": 2,
+        "urn_01_food": 2,
+        "urn_02_food": 2,
+        "urn_05_food": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::132392",
+      "object": "de_r_closet_01_fcloth02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::132398",
+      "object": "active_de_r_bed_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::132399",
+      "object": "active_de_r_bed_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::132403",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::132404",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::132405",
+      "object": "de_r_closet_01_mcloth02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295921",
+      "object": "de_r_chest_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295922",
+      "object": "de_r_chest_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295926",
+      "object": "urn_05_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295927",
+      "object": "urn_02_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295928",
+      "object": "urn_01_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295929",
+      "object": "com_basket_01_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295930",
+      "object": "com_basket_01_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295931",
+      "object": "urn_01_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295932",
+      "object": "urn_02_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295933",
+      "object": "urn_05_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295942",
+      "object": "light_de_lantern_01_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295943",
+      "object": "misc_de_bowl_redware_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295944",
+      "object": "misc_de_bowl_redware_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295945",
+      "object": "misc_de_bowl_redware_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295946",
+      "object": "ingred_ash_yam_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295947",
+      "object": "ingred_ash_yam_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295948",
+      "object": "ingred_ash_yam_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295949",
+      "object": "misc_de_goblet_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295950",
+      "object": "misc_de_goblet_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295951",
+      "object": "misc_de_goblet_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295952",
+      "object": "misc_de_goblet_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295953",
+      "object": "misc_de_bowl_redware_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295954",
+      "object": "misc_com_bottle_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295955",
+      "object": "misc_com_bottle_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

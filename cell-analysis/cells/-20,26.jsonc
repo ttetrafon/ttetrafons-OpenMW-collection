@@ -1,0 +1,342 @@
+{
+  "cell": "-20,26",
+  "name": "Skaal Village",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "bm_ex_horker_h20": 4,
+        "terrain_rock_bm_07": 1,
+        "terrain_rock_bm_09": 1,
+        "terrain_rock_bm_35": 1,
+        "terrain_rock_bm_51": 1,
+        "terrain_rock_bm_66": 1,
+        "terrain_rocks_bm_01": 1,
+        "terrain_rocks_bm_02": 2
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "barrel_01_drinks_nord": 8,
+        "com_basket_01_food": 2,
+        "com_sack_02_chpfood3": 1,
+        "com_sack_03_ingredients": 1,
+        "contain_bm_belladonna_0": 10,
+        "crate_02_foodmult": 4,
+        "light_com_lantern_02_128": 2,
+        "light_com_lantern_02_256": 1,
+        "misc_hook": 8
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "barrel_01_drinks_nord": 8,
+        "com_basket_01_food": 2,
+        "com_sack_02_chpfood3": 1,
+        "com_sack_03_ingredients": 1,
+        "contain_bm_belladonna_0": 10,
+        "crate_02_foodmult": 4,
+        "light_com_lantern_02_128": 2,
+        "light_com_lantern_02_256": 1,
+        "misc_hook": 8
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::10156",
+      "object": "com_basket_01_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::10157",
+      "object": "com_basket_01_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::10179",
+      "object": "misc_hook",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::10180",
+      "object": "light_com_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::11342",
+      "object": "misc_hook",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::11343",
+      "object": "light_com_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::11344",
+      "object": "misc_hook",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::11345",
+      "object": "misc_hook",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::11359",
+      "object": "light_com_lantern_02_256",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::13524",
+      "object": "barrel_01_drinks_nord",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::13525",
+      "object": "barrel_01_drinks_nord",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::13526",
+      "object": "barrel_01_drinks_nord",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::13527",
+      "object": "contain_bm_belladonna_0",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::13528",
+      "object": "misc_hook",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::13529",
+      "object": "contain_bm_belladonna_0",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::13530",
+      "object": "misc_hook",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::13531",
+      "object": "contain_bm_belladonna_0",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::13532",
+      "object": "contain_bm_belladonna_0",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::13533",
+      "object": "misc_hook",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::13534",
+      "object": "contain_bm_belladonna_0",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::13535",
+      "object": "contain_bm_belladonna_0",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::13536",
+      "object": "misc_hook",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::13537",
+      "object": "contain_bm_belladonna_0",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::13538",
+      "object": "contain_bm_belladonna_0",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::13539",
+      "object": "com_sack_02_chpfood3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::13540",
+      "object": "com_sack_03_ingredients",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::13541",
+      "object": "contain_bm_belladonna_0",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::13543",
+      "object": "contain_bm_belladonna_0",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::13547",
+      "object": "barrel_01_drinks_nord",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33612",
+      "object": "barrel_01_drinks_nord",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33613",
+      "object": "barrel_01_drinks_nord",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33614",
+      "object": "crate_02_foodmult",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33615",
+      "object": "crate_02_foodmult",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33616",
+      "object": "barrel_01_drinks_nord",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33617",
+      "object": "barrel_01_drinks_nord",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33618",
+      "object": "crate_02_foodmult",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33619",
+      "object": "crate_02_foodmult",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

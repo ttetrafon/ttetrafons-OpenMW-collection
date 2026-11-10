@@ -1,0 +1,153 @@
+{
+  "cell": "Suran, Verara Rendo: Clothier",
+  "name": "Suran, Verara Rendo: Clothier",
+  "plugins": {
+    "NOD - Core.esm": {
+      "added": {
+        "nod_de_p_chest_02_verar": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_clothes": 1
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_ff_ildritt_trigger": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "furn_de_bar_01": 2,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_03": 1,
+        "furn_de_bar_04": 1,
+        "furn_de_bar_05": 1,
+        "gold_001": 2,
+        "misc_clothbolt_01": 2,
+        "misc_clothbolt_02": 2,
+        "misc_clothbolt_03": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "furn_de_bar_01": 2,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_03": 1,
+        "furn_de_bar_04": 1,
+        "furn_de_bar_05": 1,
+        "gold_001": 2,
+        "misc_clothbolt_01": 2,
+        "misc_clothbolt_02": 2,
+        "misc_clothbolt_03": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::263235",
+      "object": "furn_de_bar_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::263236",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::263237",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::263239",
+      "object": "furn_de_bar_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::263278",
+      "object": "misc_clothbolt_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::263279",
+      "object": "misc_clothbolt_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::263308",
+      "object": "misc_clothbolt_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::263309",
+      "object": "misc_clothbolt_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::263310",
+      "object": "misc_clothbolt_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::352250",
+      "object": "furn_de_bar_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::352251",
+      "object": "furn_de_bar_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::405529",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::405530",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

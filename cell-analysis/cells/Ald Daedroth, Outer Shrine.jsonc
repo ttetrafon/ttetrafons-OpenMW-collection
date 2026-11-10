@@ -1,0 +1,22 @@
+{
+  "cell": "Ald Daedroth, Outer Shrine",
+  "name": "Ald Daedroth, Outer Shrine",
+  "plugins": {
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_con_dae_coffer01_l": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "in_dae_platform_512_01": 1,
+        "in_dae_platform_stairs": 4,
+        "in_dae_room_l_floor_01": 4,
+        "in_dae_room_l_roof_01": 4,
+        "in_dae_rubble_04a": 1,
+        "light_dae_brazier00": 4,
+        "sound_daedric_chant00": 1
+      }
+    }
+  }
+}

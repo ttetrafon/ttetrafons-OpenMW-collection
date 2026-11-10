@@ -1,0 +1,16 @@
+{
+  "cell": "12,2",
+  "plugins": {
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1,
+        "aa_herd_ash_e": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_herd_ash_e": 1
+      }
+    }
+  }
+}

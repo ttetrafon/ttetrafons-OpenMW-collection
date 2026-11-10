@@ -1,0 +1,33 @@
+{
+  "cell": "16,-6",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_east_barrel": 1,
+        "xero_east_sack": 1,
+        "xero_ex_barnacles_05": 1,
+        "xero_marker": 2
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "de_p_chest_02_gold_25": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "de_p_chest_02_gold_25": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::276543",
+      "object": "de_p_chest_02_gold_25",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

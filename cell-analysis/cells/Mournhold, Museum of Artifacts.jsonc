@@ -1,0 +1,69 @@
+{
+  "cell": "Mournhold, Museum of Artifacts",
+  "name": "Mournhold, Museum of Artifacts",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_dun_mhnb_sit": 2,
+        "gvrm_mhcit_dun": 1
+      }
+    },
+    "Immersive Mournhold.esp": {
+      "added": {
+        "bk_artifacts_tamriel": 1,
+        "chest_small_01_gold_ran": 1,
+        "chest_small_02_gold_50": 1,
+        "furn_de_r_bench_01": 1,
+        "furn_de_rug_big_02": 2,
+        "in_mh_window_01": 5,
+        "light_de_candle_02_64": 1,
+        "misc_de_pot_blue_02": 1,
+        "misc_inkwell": 1,
+        "misc_quill": 1,
+        "sc_paper plain": 2
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_mournhold_museum_spawn": 6
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bk_artifacts_tamriel": 1,
+        "glass dagger_symmachus_unique_x": 1
+      }
+    },
+    "Unique Uniques.ESP": {
+      "modified": {
+        "daedric warhammer_ttgd_x": 1,
+        "glass dagger_symmachus_unique_x": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bk_artifacts_tamriel": 1,
+        "glass dagger_symmachus_unique_x": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "tribunal::26067",
+      "object": "glass dagger_symmachus_unique_x",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Unique Uniques.ESP",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25643",
+      "object": "bk_artifacts_tamriel",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "cell": "Caldera, Valvius Mevureius' House",
+  "name": "Caldera, Valvius Mevureius' House",
+  "plugins": {
+    "True_Lights_And_Darkness_1.1.esp": {
+      "added": {
+        "daylight_valvius_300": 4
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "gold_001": 2,
+        "gold_005": 1,
+        "gold_010": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "gold_001": 2,
+        "gold_005": 1,
+        "gold_010": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::389983",
+      "object": "gold_010",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::389984",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::389985",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::389986",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

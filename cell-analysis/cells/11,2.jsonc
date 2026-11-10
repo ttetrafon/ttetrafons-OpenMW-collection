@@ -1,0 +1,15 @@
+{
+  "cell": "11,2",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_trader": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_tel_spawn": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "cell": "Balmora, Caius Cosades' House",
+  "name": "Balmora, Caius Cosades' House",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_p_bed_04": 1,
+        "bk_warofthefirstcouncil": 1,
+        "misc_de_bowl_redware_03": 1,
+        "misc_de_pot_redware_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_p_bed_04": 1,
+        "bk_warofthefirstcouncil": 1,
+        "misc_de_bowl_redware_03": 1,
+        "misc_de_pot_redware_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::57329",
+      "object": "active_de_p_bed_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::459575",
+      "object": "misc_de_pot_redware_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::459576",
+      "object": "misc_de_bowl_redware_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::472798",
+      "object": "bk_warofthefirstcouncil",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

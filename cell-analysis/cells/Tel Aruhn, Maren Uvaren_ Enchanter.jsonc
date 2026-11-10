@@ -1,0 +1,16 @@
+{
+  "cell": "Tel Aruhn, Maren Uvaren: Enchanter",
+  "name": "Tel Aruhn, Maren Uvaren: Enchanter",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_magical": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_traders_spawn": 1
+      }
+    }
+  }
+}

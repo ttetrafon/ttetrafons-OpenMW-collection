@@ -1,0 +1,16 @@
+{
+  "cell": "Hinnabi",
+  "name": "Hinnabi",
+  "plugins": {
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_brainpanhelmet": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "modified": {
+        "light_com_lantern_01_128": 1
+      }
+    }
+  }
+}

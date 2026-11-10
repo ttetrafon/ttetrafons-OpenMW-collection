@@ -1,0 +1,142 @@
+{
+  "cell": "Falvillo's Endeavor, Lower Level",
+  "name": "Falvillo's Endeavor, Lower Level",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "barrel_01": 3,
+        "barrel_02": 1,
+        "com_chest_11_k01": 2,
+        "crate_01": 1,
+        "crate_01_ebony": 1,
+        "crate_01_empty": 4,
+        "light_de_lantern_06a": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "barrel_01": 3,
+        "barrel_02": 1,
+        "com_chest_11_k01": 2,
+        "crate_01": 1,
+        "crate_01_ebony": 1,
+        "crate_01_empty": 4,
+        "light_de_lantern_06a": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::299628",
+      "object": "barrel_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299629",
+      "object": "crate_01_ebony",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299631",
+      "object": "crate_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299632",
+      "object": "crate_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299633",
+      "object": "barrel_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299634",
+      "object": "com_chest_11_k01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299635",
+      "object": "com_chest_11_k01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299636",
+      "object": "crate_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299637",
+      "object": "crate_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299638",
+      "object": "crate_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299639",
+      "object": "barrel_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299640",
+      "object": "barrel_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299642",
+      "object": "light_de_lantern_06a",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::317841",
+      "object": "light_de_lantern_06a",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

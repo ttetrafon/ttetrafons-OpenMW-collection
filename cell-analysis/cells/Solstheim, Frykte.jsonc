@@ -1,0 +1,21 @@
+{
+  "cell": "Solstheim, Frykte",
+  "name": "Solstheim, Frykte",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "bm_ka_door_dark_02": 1
+      }
+    },
+    "Unique Uniques.ESP": {
+      "modified": {
+        "bm silver dagger wolfender": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "modified": {
+        "aa_cr_skeleton_nord 2": 4
+      }
+    }
+  }
+}

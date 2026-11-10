@@ -1,0 +1,16 @@
+{
+  "cell": "Urshilaku, Juno Burial",
+  "name": "Urshilaku, Juno Burial",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "un_mummy": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_mummy": 2
+      }
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "cell": "26,18",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_de_railing_01": 15,
+        "ex_de_railing_03": 5,
+        "ex_t_pole_hooked": 3,
+        "flora_bush_01": 2,
+        "flora_comberry_01": 3,
+        "flora_emp_parasol_01": 1,
+        "flora_grass_01": 2,
+        "flora_grass_02": 1,
+        "flora_grass_04": 1,
+        "flora_hackle-lo_01": 3,
+        "flora_kreshweed_01": 10,
+        "flora_kreshweed_02": 3,
+        "flora_plant_04": 11,
+        "flora_t_podbud_02": 1,
+        "flora_tree_gl_02": 3,
+        "flora_tree_gl_06": 2,
+        "furn_com_fence_01": 1,
+        "light_de_lantern_05": 3,
+        "t_com_setmw_signwayaegondopo_01": 1,
+        "t_com_setmw_signwayfirewat_01": 1,
+        "t_com_setmw_signwayhelnim_01": 1,
+        "t_com_setmw_signwayllothanis_01": 1,
+        "t_com_setmw_signwayranyonru_01": 1,
+        "t_com_setmw_signwaytelouada_01": 1,
+        "t_mw_rlvl_molagreahdland+0": 1,
+        "terrain_rock_gl_04": 2,
+        "terrain_rock_gl_12": 3,
+        "terrain_rock_wg_06": 1,
+        "terrain_rock_wg_08": 1,
+        "terrain_rock_wg_09": 1,
+        "terrain_rock_wg_10": 2,
+        "terrain_rock_wg_12": 6,
+        "terrain_rock_wg_18": 2,
+        "terrain_rocks_gl_01": 4,
+        "terrain_rocks_gl_03": 6,
+        "terrain_rocks_gl_04": 3,
+        "terrain_rocks_wg_01": 15,
+        "terrain_rocks_wg_02": 13,
+        "terrain_rocks_wg_03": 8,
+        "terrain_rocks_wg_04": 3
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_tel_spawn": 1
+      }
+    }
+  }
+}

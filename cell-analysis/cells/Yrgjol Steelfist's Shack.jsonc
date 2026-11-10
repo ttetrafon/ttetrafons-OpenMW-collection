@@ -1,0 +1,45 @@
+{
+  "cell": "Yrgjol Steelfist's Shack",
+  "name": "Yrgjol Steelfist's Shack",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_p_bed_28": 1,
+        "com_chest_02_l_weap_01": 1,
+        "com_sack_01_chpfood5": 1,
+        "com_sack_02_pos": 1,
+        "com_sack_03_chpfood5": 1,
+        "crate_01_de_mclothes": 1,
+        "food_kwama_egg_01": 1,
+        "furn_com_p_table_01": 1,
+        "furn_com_pm_stool_02": 1,
+        "furn_de_rope_04": 3,
+        "furn_de_shack_hook": 3,
+        "imperial shield": 1,
+        "in_de_shack_03": 1,
+        "in_de_shack_door": 1,
+        "ingred_bread_01": 2,
+        "iron boots": 1,
+        "light_com_candle_07_128": 2,
+        "light_com_lantern_01_77": 1,
+        "misc_com_metal_plate_05": 1,
+        "northmarker": 1,
+        "repair_master_01": 1,
+        "steel broadsword": 2,
+        "steel warhammer": 1,
+        "steel_towershield": 2,
+        "t_com_iron_morningstar_01": 1,
+        "t_com_iron_tanto_01": 1,
+        "t_imp_legion_broadsword_01": 1,
+        "t_imp_legion_dagger_01": 1,
+        "t_mwcom_var_bl1ing": 1,
+        "tr_m1_yrgjol_steelfist": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_smith": 1
+      }
+    }
+  }
+}

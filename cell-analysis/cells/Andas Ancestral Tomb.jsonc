@@ -1,0 +1,27 @@
+{
+  "cell": "Andas Ancestral Tomb",
+  "name": "Andas Ancestral Tomb",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "un_lich_skull_leveled": 1,
+        "un_lord_greater": 1,
+        "un_skeleton_arise": 2,
+        "un_skeletonarise2": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_skeleton_arise": 2,
+        "aa_cr_skeletonarise2": 1,
+        "aa_cr_u_all_1": 2
+      }
+    },
+    "LootWellUrned.ESP": {
+      "added": {
+        "_uyl_andas": 1,
+        "_uyl_light": 1
+      }
+    }
+  }
+}

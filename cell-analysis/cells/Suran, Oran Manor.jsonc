@@ -1,0 +1,100 @@
+{
+  "cell": "Suran, Oran Manor",
+  "name": "Suran, Oran Manor",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_thief": 1,
+        "aa_wares_trader_hlaalu": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_bar_door": 1,
+        "active_de_p_bed_11": 1,
+        "furn_de_bar_01": 2,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_03": 1,
+        "furn_de_bar_04": 1,
+        "furn_de_bar_05": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_bar_door": 1,
+        "active_de_p_bed_11": 1,
+        "furn_de_bar_01": 2,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_03": 1,
+        "furn_de_bar_04": 1,
+        "furn_de_bar_05": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::262252",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::262253",
+      "object": "furn_de_bar_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::262254",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::262256",
+      "object": "furn_de_bar_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::262257",
+      "object": "furn_de_bar_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::262258",
+      "object": "active_de_bar_door",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309871",
+      "object": "furn_de_bar_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::351650",
+      "object": "active_de_p_bed_11",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

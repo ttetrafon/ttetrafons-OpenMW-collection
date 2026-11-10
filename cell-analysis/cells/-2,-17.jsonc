@@ -1,0 +1,62 @@
+{
+  "cell": "-2,-17",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "bm_ka_bedding": 1,
+        "extravagant_amulet_02": 1,
+        "extravagant_glove_right_01": 1,
+        "flora_grass_01": 3,
+        "flora_grass_02": 1,
+        "flora_hackle-lo_01": 1,
+        "flora_hackle-lo_02": 6,
+        "flora_stoneflower_01": 4,
+        "flora_stoneflower_02": 1,
+        "furn_bone_01": 4,
+        "furn_bone_rib_01": 1,
+        "misc_imp_silverware_cup_01": 6,
+        "misc_imp_silverware_pitcher": 1,
+        "t_com_candlesticksilver_01": 2,
+        "t_com_candlesticksilver_02": 1,
+        "t_imp_silverscales_02": 1,
+        "t_imp_silverwarebottle_01": 1,
+        "t_imp_silverwarefork_01": 6,
+        "t_imp_silverwareknife_01": 4,
+        "t_imp_silverwarespoon_01": 5,
+        "t_imp_silverwarevase_01": 1,
+        "t_mw_flora_terrastree_02": 2,
+        "t_mw_flora_terrastree_04": 1,
+        "t_mw_flora_treecine_01": 1,
+        "t_mw_flora_treecine_05": 1,
+        "t_mw_rlvl_rothroryn+0": 1,
+        "t_mw_terrrockrr_cliffs_01a": 1,
+        "t_mw_terrrockrr_mtpeak_01": 2,
+        "t_mw_terrrockrr_mtpeak_03": 1,
+        "t_mw_terrrockrr_mtridge_03": 1,
+        "t_mw_terrrockrr_rock_03": 1,
+        "t_mw_terrrockrr_rock_05": 1,
+        "t_mw_terrrockrr_rock_14": 5,
+        "t_mw_terrrockrr_rock_15": 2,
+        "t_mw_terrrockrr_rock_16": 3,
+        "t_mw_terrrockrr_rock_18": 2,
+        "t_mw_terrrockrr_rock_20": 10,
+        "t_mw_terrrockrr_rock_26": 6,
+        "t_mw_terrrockrr_rock_27": 2,
+        "t_mw_terrrockrr_rock_29": 7,
+        "t_mw_terrrockrr_rock_30": 1,
+        "t_mw_terrrockrr_rockgrp_01": 9,
+        "t_mw_terrrockrr_rockgrp_02": 4,
+        "t_mw_terrrockrr_rockgrp_03": 10,
+        "t_mw_terrrockrr_rockgrp_04": 5,
+        "t_mw_terrrockrr_rockstair_01": 2,
+        "tr_m4_fg_cliffracer_01": 1,
+        "tr_m4_fg_cliffracerloot01": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_hl_spawn": 1
+      }
+    }
+  }
+}

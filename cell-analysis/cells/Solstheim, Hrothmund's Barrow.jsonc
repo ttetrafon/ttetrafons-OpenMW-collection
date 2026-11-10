@@ -1,0 +1,16 @@
+{
+  "cell": "Solstheim, Hrothmund's Barrow",
+  "name": "Solstheim, Hrothmund's Barrow",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "bm_ic_door_pelt": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "un_draugrlord": 1
+      }
+    }
+  }
+}

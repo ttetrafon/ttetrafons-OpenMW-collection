@@ -1,0 +1,138 @@
+{
+  "cell": "Tel Branora, Sethan's Tradehouse",
+  "name": "Tel Branora, Sethan's Tradehouse",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_baker": 1,
+        "aa_wares_publican": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_bar_door": 1,
+        "active_de_p_bed_28": 1,
+        "furn_de_bar_01": 3,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_04": 1,
+        "furn_de_bar_05": 1,
+        "in_t_s_plain_door": 1,
+        "light_de_candle_13": 1,
+        "light_de_lantern_02_128": 1,
+        "misc_uni_pillow_02": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_bar_door": 1,
+        "active_de_p_bed_28": 1,
+        "furn_de_bar_01": 3,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_04": 1,
+        "furn_de_bar_05": 1,
+        "in_t_s_plain_door": 1,
+        "light_de_candle_13": 1,
+        "light_de_lantern_02_128": 1,
+        "misc_uni_pillow_02": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::190097",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::190098",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::190099",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::190101",
+      "object": "furn_de_bar_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::190123",
+      "object": "active_de_p_bed_28",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::190248",
+      "object": "in_t_s_plain_door",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309845",
+      "object": "furn_de_bar_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309846",
+      "object": "furn_de_bar_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::190102",
+      "object": "active_de_bar_door",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::443033",
+      "object": "misc_uni_pillow_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::443034",
+      "object": "light_de_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::471655",
+      "object": "light_de_candle_13",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

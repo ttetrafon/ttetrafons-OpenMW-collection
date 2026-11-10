@@ -1,0 +1,22 @@
+{
+  "cell": "8,16",
+  "plugins": {
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_m_cook_pot_med": 1,
+        "aatl_npc_ash_vadri": 1,
+        "ab_ex_ashltentsmall": 1,
+        "ab_ingcrea_sfmeat_01": 1,
+        "ab_o_comchestironbandit": 1,
+        "ab_o_sacklargefood": 1,
+        "light_pitfire01": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_gz": 1,
+        "aa_cr_night_only_exterior_undea": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "cell": "12,11",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_wise": 1
+      }
+    },
+    "Aoimevelho Wares with ALL NPCs.ESP": {
+      "added": {
+        "_ar2-06": 1,
+        "_ar_6th_dagothsymbol2": 2,
+        "_ar_6th_shield3": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "aa_herd_graze_a": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_herd_graze_a": 1
+      }
+    }
+  }
+}

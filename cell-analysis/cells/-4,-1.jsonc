@@ -1,0 +1,24 @@
+{
+  "cell": "-4,-1",
+  "plugins": {
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "a_photodragons": 1,
+        "sound_swamp_1": 1,
+        "sound_swamp_2": 1
+      }
+    },
+    "BC Sounds Naturalized.esp": {
+      "added": {
+        "opn_a_photodragons": 1,
+        "opn_sound_swamp_1": 1,
+        "opn_sound_swamp_2": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_fresh_list": 1
+      }
+    }
+  }
+}

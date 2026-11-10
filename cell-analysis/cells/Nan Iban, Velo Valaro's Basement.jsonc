@@ -1,0 +1,39 @@
+{
+  "cell": "Nan Iban, Velo Valaro's Basement",
+  "name": "Nan Iban, Velo Valaro's Basement",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "barrel_smuggler_01": 1,
+        "com_sack_02_thief": 1,
+        "crate_01_ash_statues": 1,
+        "crate_01_moonsugar": 1,
+        "flora_bc_mushroom_02": 1,
+        "flora_bc_mushroom_04": 1,
+        "flora_bc_mushroom_07": 6,
+        "flora_bc_mushroom_08": 1,
+        "in_cavern_ramp00": 1,
+        "in_lava_blacksquare": 5,
+        "in_mh_trapdoor_01": 1,
+        "in_mudboulder00": 1,
+        "in_mudboulder03": 1,
+        "in_mudboulder04": 1,
+        "in_mudcave_form30": 1,
+        "in_mudcave_sroom2_00": 4,
+        "in_mudcave_stal10": 1,
+        "in_mudcave_stal20": 1,
+        "in_mudcave_stal40": 1,
+        "northmarker": 1,
+        "t_de_setmh_x_platform_01": 5,
+        "t_de_setmh_x_platform_04": 1,
+        "t_de_var_urnbroken_02": 1,
+        "t_de_var_urnbroken_05": 1
+      }
+    },
+    "DM_TR_NanIbanMoreIndoril.ESP": {
+      "added": {
+        "t_de_setind_x_plat_dk_00": 2
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "cell": "4,18",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_corpse10_water": 1,
+        "xero_marker": 1,
+        "xero_north_crate": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_flowers": 3
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_sheo": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_bedroll": 1,
+        "misc_com_wood_bowl_01": 1,
+        "misc_com_wood_cup_01": 1,
+        "misc_de_fishing_pole": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_bedroll": 1,
+        "misc_com_wood_bowl_01": 1,
+        "misc_com_wood_cup_01": 1,
+        "misc_de_fishing_pole": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::483194",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483207",
+      "object": "misc_com_wood_bowl_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483208",
+      "object": "misc_com_wood_cup_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483209",
+      "object": "misc_de_fishing_pole",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

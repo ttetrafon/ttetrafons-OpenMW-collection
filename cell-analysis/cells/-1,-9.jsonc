@@ -1,0 +1,96 @@
+{
+  "cell": "-1,-9",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "tr_fm_hjrondir": 1
+      }
+    },
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "a_photodragons": 1,
+        "sound_swamp_2": 3,
+        "sound_swamp_3": 1
+      }
+    },
+    "BC Sounds Naturalized.esp": {
+      "added": {
+        "opn_a_photodragons": 1,
+        "opn_sound_swamp_2": 3,
+        "opn_sound_swamp_3": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_map01_trigger": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_imp_spawn": 1,
+        "_aa_travelingtrader_spawn": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_night_only_exterior_undea": 1,
+        "aa_cr_w_fresh_list": 1
+      }
+    },
+    "Creatures and Critters Light the Path.ESP": {
+      "added": {
+        "aa_cr_i_moth_all": 3
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "chargen_cabindoor": 1,
+        "chargen_crate_01": 1,
+        "chargen_crate_01_empty": 1,
+        "chargen_crate_02": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "chargen_cabindoor": 1,
+        "chargen_crate_01": 1,
+        "chargen_crate_01_empty": 1,
+        "chargen_crate_02": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::268178",
+      "object": "chargen_cabindoor",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299125",
+      "object": "chargen_crate_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::297457",
+      "object": "chargen_crate_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::297459",
+      "object": "chargen_crate_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

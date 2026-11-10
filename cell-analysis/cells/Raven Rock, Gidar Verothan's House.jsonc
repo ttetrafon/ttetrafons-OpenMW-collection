@@ -1,0 +1,75 @@
+{
+  "cell": "Raven Rock, Gidar Verothan's House",
+  "name": "Raven Rock, Gidar Verothan's House",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "active_com_bed_04": 1,
+        "bm_colony_wall04": 1,
+        "ex_colony_door03 int": 1,
+        "ex_colony_door08": 1,
+        "furn_colony_shelf03": 1,
+        "furn_colony_shelf04": 1,
+        "furn_com_pm_chair_02": 1,
+        "furn_com_rm_stool_01": 1,
+        "furn_com_rm_table_05": 1,
+        "furn_de_rug_big_04": 1,
+        "furn_de_tapestry_03": 3,
+        "light_com_candle_07_77": 1,
+        "light_de_candle_09": 2,
+        "light_logpile_128": 1,
+        "misc_com_basket_01": 1,
+        "misc_com_bottle_10": 2,
+        "misc_com_bottle_14": 3,
+        "misc_de_bowl_orange_green_01": 1,
+        "misc_de_bowl_redware_01": 1,
+        "misc_de_foldedcloth00": 1,
+        "misc_de_glass_green_01": 5,
+        "misc_de_goblet_03": 4,
+        "misc_uni_pillow_01": 2,
+        "northmarker": 1,
+        "sp_bm_colony_i_fireplace_01": 1,
+        "urn_05_food": 2
+      },
+      "modified": {
+        "active_com_bed_04": 1,
+        "furn_colony_hook01": 1,
+        "furn_de_tapestry_03": 2,
+        "light_com_candle_06_64": 2,
+        "light_com_lamp_01_175": 3,
+        "light_com_lantern_01_256": 1,
+        "misc_com_bottle_05": 1,
+        "misc_com_bottle_09": 2,
+        "misc_com_bottle_12": 1,
+        "misc_com_tankard_01": 6
+      }
+    },
+    "GITD_WL_RR_Interiors.esp": {
+      "added": {
+        "gitd_in_colony_win_01": 2,
+        "gitd_in_colony_win_03": 5,
+        "gitd_in_colony_win_04": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "ex_colony_door03 int": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "ex_colony_door03 int": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::21125",
+      "object": "ex_colony_door03 int",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "cell": "-5,0",
+  "plugins": {
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "a_photodragons": 1,
+        "sound_swamp_1": 2,
+        "sound_swamp_2": 4,
+        "sound_swamp_3": 1
+      }
+    },
+    "BC Sounds Naturalized.esp": {
+      "added": {
+        "opn_a_photodragons": 1,
+        "opn_sound_swamp_1": 2,
+        "opn_sound_swamp_2": 4,
+        "opn_sound_swamp_3": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_ex_tomb70_spawn": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_night_only_exterior_undea": 1,
+        "aa_cr_w_fresh_list": 1
+      }
+    },
+    "Creatures and Critters Light the Path.ESP": {
+      "added": {
+        "aa_cr_i_moth_all": 1
+      }
+    }
+  }
+}

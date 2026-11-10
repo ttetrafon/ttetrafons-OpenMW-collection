@@ -1,0 +1,22 @@
+{
+  "cell": "Vivec, Redoran Temple Shrine",
+  "name": "Vivec, Redoran Temple Shrine",
+  "plugins": {
+    "Holy Art.ESP": {
+      "added": {
+        "vd_velothismall_09": 1,
+        "vd_velothismall_10": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_priest": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_ordinator wan_ran": 1
+      }
+    }
+  }
+}

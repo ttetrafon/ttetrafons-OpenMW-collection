@@ -1,0 +1,210 @@
+{
+  "cell": "Bensiberib Camp, Odaishah's Yurt",
+  "name": "Bensiberib Camp, Odaishah's Yurt",
+  "plugins": {
+    "Aoimevelho Wares with ALL NPCs.ESP": {
+      "added": {
+        "_ar03": 1,
+        "_ar_6th_dagothsymbol": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_bedroll": 1,
+        "com_basket_01_chpfood5": 1,
+        "com_sack_01_chpfood5": 4,
+        "com_sack_02_chpfood3": 3,
+        "com_sack_03_chpfood5": 1,
+        "gold_001": 2,
+        "misc_com_metal_plate_05": 1,
+        "misc_com_wood_bowl_02": 1,
+        "misc_com_wood_fork": 1,
+        "misc_com_wood_spoon_01": 1,
+        "misc_de_fishing_pole": 1,
+        "urn_01_ingred": 1,
+        "urn_02_food": 1,
+        "urn_03_food": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_bedroll": 1,
+        "com_basket_01_chpfood5": 1,
+        "com_sack_01_chpfood5": 4,
+        "com_sack_02_chpfood3": 3,
+        "com_sack_03_chpfood5": 1,
+        "gold_001": 2,
+        "misc_com_metal_plate_05": 1,
+        "misc_com_wood_bowl_02": 1,
+        "misc_com_wood_fork": 1,
+        "misc_com_wood_spoon_01": 1,
+        "misc_de_fishing_pole": 1,
+        "urn_01_ingred": 1,
+        "urn_02_food": 1,
+        "urn_03_food": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::274725",
+      "object": "misc_com_wood_bowl_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274726",
+      "object": "misc_com_metal_plate_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274727",
+      "object": "misc_com_wood_spoon_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274728",
+      "object": "misc_com_wood_fork",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274729",
+      "object": "misc_de_fishing_pole",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274730",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274731",
+      "object": "com_sack_01_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274732",
+      "object": "com_sack_01_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274733",
+      "object": "com_sack_01_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274734",
+      "object": "com_sack_01_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274735",
+      "object": "com_sack_03_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274736",
+      "object": "urn_03_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274737",
+      "object": "urn_02_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274739",
+      "object": "urn_01_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274740",
+      "object": "com_basket_01_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::346825",
+      "object": "com_sack_02_chpfood3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::346826",
+      "object": "com_sack_02_chpfood3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::346827",
+      "object": "com_sack_02_chpfood3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::427659",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::427660",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

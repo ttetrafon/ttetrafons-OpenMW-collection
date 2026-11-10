@@ -1,0 +1,262 @@
+{
+  "cell": "Balmora, Eight Plates",
+  "name": "Balmora, Eight Plates",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "furn_de_p_stool_01": 4,
+        "gvrm_8plates_s+e": 4,
+        "gvrm_am_marker": 2,
+        "gvrm_bcom_am_marker": 4
+      }
+    },
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_tawern_amb00": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_bard3": 1,
+        "am_sitter": 1
+      },
+      "modified": {
+        "furn_de_p_bench_03": 1,
+        "furn_de_p_stool_01": 2
+      }
+    },
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_npc_kj_taldiir": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_baker": 1,
+        "aa_wares_publican": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_enchanterreference": 1
+      }
+    },
+    "Mage Robes.ESP": {
+      "added": {
+        "mg_act_robes_eightplates": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_p_bed_14": 1,
+        "bk_nerevarinenotice": 1,
+        "furn_de_bar_01": 10,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_03": 1,
+        "furn_de_bar_04": 1,
+        "in_hlaalu_door": 2,
+        "key_dulnea_ralaal": 1,
+        "light_de_lantern_10_128": 5
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_p_bed_14": 1,
+        "bk_nerevarinenotice": 1,
+        "furn_de_bar_01": 10,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_03": 1,
+        "furn_de_bar_04": 1,
+        "in_hlaalu_door": 2,
+        "key_dulnea_ralaal": 1,
+        "light_de_lantern_10_128": 5
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::325518",
+      "object": "bk_nerevarinenotice",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::56554",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::56555",
+      "object": "furn_de_bar_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::56557",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::56558",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::56559",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::56560",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::56561",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::56562",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::56563",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::56564",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::56565",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::56567",
+      "object": "furn_de_bar_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::56661",
+      "object": "in_hlaalu_door",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::56667",
+      "object": "active_de_p_bed_14",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::56676",
+      "object": "light_de_lantern_10_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::56678",
+      "object": "light_de_lantern_10_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::56681",
+      "object": "light_de_lantern_10_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::56685",
+      "object": "light_de_lantern_10_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::56687",
+      "object": "light_de_lantern_10_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::56691",
+      "object": "in_hlaalu_door",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309824",
+      "object": "furn_de_bar_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::378196",
+      "object": "key_dulnea_ralaal",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

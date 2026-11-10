@@ -1,0 +1,88 @@
+{
+  "cell": "Ranyon-ruhn, Temple",
+  "name": "Ranyon-ruhn, Temple",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_p_bed_10": 1,
+        "bk_annotatedanuad": 1,
+        "bk_anticipations": 1,
+        "bk_cantatasofvivec": 1,
+        "bk_consolationsofprayer": 1,
+        "bk_doorsofthespirit": 1,
+        "bk_houseoftroubles_c": 1,
+        "bk_livesofthesaints": 1,
+        "bk_saryonissermons": 1,
+        "bookskill_illusion2": 1,
+        "bookskill_illusion3": 1,
+        "bookskill_short blade5": 1,
+        "chest_small_02_rndgold": 1,
+        "common_ring_04": 1,
+        "common_robe_02": 1,
+        "common_robe_02_t": 1,
+        "de_drawers_02_mclothes4": 1,
+        "ex_velothi_triwin_01": 2,
+        "furn_bone_01": 4,
+        "furn_bone_rib_01": 2,
+        "furn_bone_skull_01": 4,
+        "furn_com_torch_ring_01": 4,
+        "furn_de_cushion_round_03": 2,
+        "furn_de_p_chair_02": 1,
+        "furn_de_p_table_05": 1,
+        "furn_de_rug_01": 1,
+        "furn_de_rug_big_07": 6,
+        "furn_de_tapestry_02": 6,
+        "furn_shrine_roris_cure_01": 1,
+        "furn_velothi_prayer_stool_01": 3,
+        "in_v_s_domeroom_01": 1,
+        "in_velothi_ashpit_01": 1,
+        "in_velothismall_corner_01": 3,
+        "in_velothismall_dj_01": 3,
+        "in_velothismall_fresco_01": 1,
+        "in_velothismall_fresco_02": 2,
+        "in_velothismall_hall_04": 1,
+        "in_velothismall_ndoor_01": 2,
+        "in_velothismall_room_05": 1,
+        "in_velothismall_stairslong_01": 1,
+        "in_velothismall_wall_01": 6,
+        "iron mace": 1,
+        "light_de_candle_10": 1,
+        "light_de_candle_18_64": 1,
+        "light_de_candle_blue_01_64": 3,
+        "light_de_lamp_02_128": 1,
+        "light_de_lamp_03_64": 1,
+        "misc_uni_pillow_01": 1,
+        "northmarker": 1,
+        "t_bk_herhandstr": 1,
+        "t_bk_regrettr": 1,
+        "t_bk_ruhnaniaalmsivitr": 1,
+        "t_de_furnp_lectum_01": 1,
+        "t_de_var_shrinetribunal_03": 1,
+        "t_mwde_furn_u5food": 1,
+        "torch_128": 4,
+        "tr_m1_mark_teris": 1,
+        "tr_m1_punibi_rindo": 1,
+        "tr_m1_q_pilgrim1": 1,
+        "tr_m1_q_pilgrim2": 1,
+        "tr_m1_ratagos": 1,
+        "tr_m1_teris_sevuro": 1,
+        "urn_03_food": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_priest": 1
+      }
+    },
+    "RepopulatedMainland.ESP": {
+      "added": {
+        "gvrm_dun_pray_4_trcpy": 2
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_in_library_spawn": 1
+      }
+    }
+  }
+}

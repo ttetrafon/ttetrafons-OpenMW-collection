@@ -1,0 +1,51 @@
+{
+  "cell": "Vivec, Redoran Records",
+  "name": "Vivec, Redoran Records",
+  "plugins": {
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_library_spawn": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "gold_001": 1,
+        "gold_005": 1,
+        "gold_025": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "gold_001": 1,
+        "gold_005": 1,
+        "gold_025": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::405541",
+      "object": "gold_025",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::405542",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::405543",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

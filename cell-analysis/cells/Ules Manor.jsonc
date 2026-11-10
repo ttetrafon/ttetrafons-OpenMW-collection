@@ -1,0 +1,41 @@
+{
+  "cell": "Ules Manor",
+  "name": "Ules Manor",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_r_bed_17": 1,
+        "bk_poisonsong4": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "modified": {
+        "light_de_candle_17_64": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_r_bed_17": 1,
+        "bk_poisonsong4": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::194248",
+      "object": "active_de_r_bed_17",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483489",
+      "object": "bk_poisonsong4",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

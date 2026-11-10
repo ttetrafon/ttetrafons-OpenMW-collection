@@ -1,0 +1,74 @@
+{
+  "cell": "17,5",
+  "name": "Sadrith Mora",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "tr_m0_narus_hermalian": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_east_sack": 1,
+        "xero_marker": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "t_mw_fau_ceph_01": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "light_de_lantern_05": 5
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "light_de_lantern_05": 5
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::48833",
+      "object": "light_de_lantern_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48834",
+      "object": "light_de_lantern_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48836",
+      "object": "light_de_lantern_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48839",
+      "object": "light_de_lantern_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48840",
+      "object": "light_de_lantern_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

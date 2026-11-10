@@ -1,0 +1,338 @@
+{
+  "cell": "Vivec, Simine Fralinie: Bookseller",
+  "name": "Vivec, Simine Fralinie: Bookseller",
+  "plugins": {
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_bk_recipe_nixhoundstew": 1,
+        "aatl_bk_recipe_pnglopfjelly": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_bookseller": 1,
+        "aa_wares_savant": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_topicsofdiscussion": 1
+      }
+    },
+    "Tales of the Mad God.ESP": {
+      "added": {
+        "aom_bookchest4": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_library_spawn": 1
+      }
+    },
+    "Privileges&Services 1.1.esp": {
+      "added": {
+        "abm_trapthtemup": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_pr_bed_23": 1,
+        "chest_small_01_gold_ran": 1,
+        "com_chest_02_gold_25": 1,
+        "com_sack_01_rnd_ingr_5": 2,
+        "com_sack_02_pos": 1,
+        "crate_01_moonsugar10": 1,
+        "crate_01_random_pos": 1,
+        "crate_01_silver_weapons": 1,
+        "de_r_chest_01_gold2": 1,
+        "de_r_closet_01_mcloth02": 1,
+        "in_velothismall_ndoor_01": 1,
+        "light_de_candle_blue_02_64": 1,
+        "light_de_lantern_02_128": 1,
+        "misc_com_bottle_12": 1,
+        "misc_com_bottle_14": 2,
+        "misc_com_metal_plate_03": 1,
+        "misc_com_silverware_fork": 1,
+        "misc_com_silverware_knife": 1,
+        "misc_com_silverware_spoon": 1,
+        "misc_de_pot_glass_peach_01": 3,
+        "misc_de_pot_glass_peach_02": 1,
+        "misc_uni_pillow_01": 1,
+        "misc_uni_pillow_02": 1,
+        "urn_03_food": 2,
+        "urn_04_food": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_pr_bed_23": 1,
+        "chest_small_01_gold_ran": 1,
+        "com_chest_02_gold_25": 1,
+        "com_sack_01_rnd_ingr_5": 2,
+        "com_sack_02_pos": 1,
+        "crate_01_moonsugar10": 1,
+        "crate_01_random_pos": 1,
+        "crate_01_silver_weapons": 1,
+        "de_r_chest_01_gold2": 1,
+        "de_r_closet_01_mcloth02": 1,
+        "in_velothismall_ndoor_01": 1,
+        "light_de_candle_blue_02_64": 1,
+        "light_de_lantern_02_128": 1,
+        "misc_com_bottle_12": 1,
+        "misc_com_bottle_14": 2,
+        "misc_com_metal_plate_03": 1,
+        "misc_com_silverware_fork": 1,
+        "misc_com_silverware_knife": 1,
+        "misc_com_silverware_spoon": 1,
+        "misc_de_pot_glass_peach_01": 3,
+        "misc_de_pot_glass_peach_02": 1,
+        "misc_uni_pillow_01": 1,
+        "misc_uni_pillow_02": 1,
+        "urn_03_food": 2,
+        "urn_04_food": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::268566",
+      "object": "in_velothismall_ndoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::268672",
+      "object": "active_de_pr_bed_23",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::268680",
+      "object": "de_r_chest_01_gold2",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::268681",
+      "object": "com_chest_02_gold_25",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::268682",
+      "object": "de_r_closet_01_mcloth02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::268683",
+      "object": "crate_01_moonsugar10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::268684",
+      "object": "crate_01_silver_weapons",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::268685",
+      "object": "crate_01_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::268686",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::268687",
+      "object": "misc_com_metal_plate_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::268688",
+      "object": "misc_com_silverware_fork",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::268689",
+      "object": "misc_com_silverware_knife",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::268690",
+      "object": "misc_com_silverware_spoon",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::268691",
+      "object": "chest_small_01_gold_ran",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::337234",
+      "object": "light_de_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::337235",
+      "object": "urn_04_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::337236",
+      "object": "urn_03_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::337237",
+      "object": "com_sack_02_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::423573",
+      "object": "light_de_candle_blue_02_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::423577",
+      "object": "urn_03_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::423578",
+      "object": "misc_uni_pillow_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::423579",
+      "object": "misc_com_bottle_12",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::423580",
+      "object": "misc_com_bottle_14",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::423581",
+      "object": "misc_com_bottle_14",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::423584",
+      "object": "com_sack_01_rnd_ingr_5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::423585",
+      "object": "com_sack_01_rnd_ingr_5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::423593",
+      "object": "misc_de_pot_glass_peach_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::423594",
+      "object": "misc_de_pot_glass_peach_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::423595",
+      "object": "misc_de_pot_glass_peach_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::423596",
+      "object": "misc_de_pot_glass_peach_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

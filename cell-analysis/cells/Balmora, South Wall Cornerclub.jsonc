@@ -1,0 +1,136 @@
+{
+  "cell": "Balmora, South Wall Cornerclub",
+  "name": "Balmora, South Wall Cornerclub",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 2
+      }
+    },
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_tawern_amb00": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_eaterday01": 1,
+        "am_eaternight02": 1
+      },
+      "modified": {
+        "furn_de_p_bench_03": 2
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_baker": 1,
+        "aa_wares_healer": 1,
+        "aa_wares_pawn": 1,
+        "aa_wares_publican": 1,
+        "aa_wares_savant": 1,
+        "aa_wares_thief": 2,
+        "aa_wares_trader": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_narsutcologne": 1
+      }
+    },
+    "Privileges&Services 1.1.esp": {
+      "added": {
+        "abm_trapthhlaup": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bk_nerevarinenotice": 1,
+        "furn_de_bar_01": 4,
+        "furn_de_bar_02": 2,
+        "furn_de_bar_03": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bk_nerevarinenotice": 1,
+        "furn_de_bar_01": 4,
+        "furn_de_bar_02": 2,
+        "furn_de_bar_03": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::367743",
+      "object": "bk_nerevarinenotice",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::367747",
+      "object": "furn_de_bar_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::367748",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::367749",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::367750",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::367751",
+      "object": "furn_de_bar_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::367752",
+      "object": "furn_de_bar_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::367753",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::367754",
+      "object": "furn_de_bar_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

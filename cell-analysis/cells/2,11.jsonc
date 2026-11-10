@@ -1,0 +1,15 @@
+{
+  "cell": "2,11",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_daedra_shrine_sheograth": 3
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_shrine_sheograth": 3
+      }
+    }
+  }
+}

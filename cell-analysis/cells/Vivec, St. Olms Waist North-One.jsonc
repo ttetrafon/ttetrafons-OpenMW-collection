@@ -1,0 +1,26 @@
+{
+  "cell": "Vivec, St. Olms Waist North-One",
+  "name": "Vivec, St. Olms Waist North-One",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "gold_005": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "gold_005": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::337848",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

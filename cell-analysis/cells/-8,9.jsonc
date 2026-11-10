@@ -1,0 +1,22 @@
+{
+  "cell": "-8,9",
+  "plugins": {
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_map12_trigger": 1,
+        "x0_map13_trigger": 1,
+        "x0_map14_trigger": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_flowers": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_wg": 1
+      }
+    }
+  }
+}

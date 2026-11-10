@@ -1,0 +1,28 @@
+{
+  "cell": "15,-13",
+  "name": "Tel Branora",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_east_sack": 1,
+        "xero_marker": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_theranapipe": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_mugger_spawn": 1,
+        "_aa_telemage_spawn": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_ac": 1
+      }
+    }
+  }
+}

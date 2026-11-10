@@ -1,0 +1,27 @@
+{
+  "cell": "-5,-8",
+  "plugins": {
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_swamp_1": 1,
+        "sound_swamp_2": 1
+      }
+    },
+    "BC Sounds Naturalized.esp": {
+      "added": {
+        "opn_sound_swamp_1": 1,
+        "opn_sound_swamp_2": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_ff_grokkot_sack01": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "cell": "Dagon Fel, The End of the World",
+  "name": "Dagon Fel, The End of the World",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "tr_fm_mark_hjrondir": 1
+      }
+    },
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1
+      }
+    },
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_tawern_amb00": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_bard6": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_trader": 1
+      }
+    },
+    "Ttooth's Missing NPCs - No Nolus.ESP": {
+      "added": {
+        "ttooth_madaynasarendas": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "misc_com_wood_fork": 3,
+        "misc_com_wood_knife": 3
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "misc_com_wood_fork": 3,
+        "misc_com_wood_knife": 3
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::441610",
+      "object": "misc_com_wood_fork",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::441611",
+      "object": "misc_com_wood_knife",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::441612",
+      "object": "misc_com_wood_knife",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::441613",
+      "object": "misc_com_wood_fork",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::441614",
+      "object": "misc_com_wood_knife",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::441615",
+      "object": "misc_com_wood_fork",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

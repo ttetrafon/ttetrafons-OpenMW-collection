@@ -1,0 +1,44 @@
+{
+  "cell": "-9,-10",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "blue coast ref 1024": 5,
+        "flora_ash_grass_r_01": 2,
+        "flora_ash_grass_w_01": 2,
+        "flora_fire_fern_02": 1,
+        "flora_kelp_01": 25,
+        "flora_kelp_02": 3,
+        "flora_kelp_03": 18,
+        "flora_kelp_04": 4,
+        "flora_rm_scathecraw_02": 1,
+        "in_cave_plant00": 4,
+        "in_cave_plant10": 5,
+        "kollop_01_pearl": 1,
+        "kollop_02_pearl": 1,
+        "t_mw_flora_scathecraw03": 1,
+        "t_mw_flora_tree_burnt_02": 1,
+        "t_mw_floraat_treeburnt_04": 1,
+        "t_mw_terrrockrm_mtridge_02": 1,
+        "t_mw_terrrockrm_rock_05": 1,
+        "terrain_rock_rm_05": 2,
+        "terrain_rock_rm_15": 6,
+        "terrain_rock_rm_17": 1,
+        "terrain_rock_rm_21": 2,
+        "terrain_rocks_ai_03": 1
+      }
+    },
+    "Siege at Firemoth Naturalized.esp": {
+      "added": {
+        "flora_ashtree_07": 1,
+        "skeleton_fm_scout": 1,
+        "terrain_rock_ma_02": 1,
+        "terrain_rock_ma_19": 1,
+        "terrain_rock_ma_54": 3,
+        "terrain_rock_ma_55": 11,
+        "terrain_rock_ma_550": 1,
+        "terrain_rock_ma_56": 3
+      }
+    }
+  }
+}

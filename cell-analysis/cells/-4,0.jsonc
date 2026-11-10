@@ -1,0 +1,20 @@
+{
+  "cell": "-4,0",
+  "plugins": {
+    "RepopulatedMorrowind_RP_CalderaMineExpanded.ESP": {
+      "added": {
+        "gvrm_un_mn_cm_dun": 3
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_ex_tomb70_spawn": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_night_only_exterior_undea": 1
+      }
+    }
+  }
+}

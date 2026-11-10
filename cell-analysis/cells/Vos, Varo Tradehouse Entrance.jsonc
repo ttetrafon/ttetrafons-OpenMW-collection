@@ -1,0 +1,72 @@
+{
+  "cell": "Vos, Varo Tradehouse Entrance",
+  "name": "Vos, Varo Tradehouse Entrance",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_p_bed_28": 1,
+        "flora_black_anther_01": 3,
+        "flora_rm_scathecraw_01": 1,
+        "misc_uni_pillow_02": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_p_bed_28": 1,
+        "flora_black_anther_01": 3,
+        "flora_rm_scathecraw_01": 1,
+        "misc_uni_pillow_02": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::352732",
+      "object": "active_de_p_bed_28",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::460007",
+      "object": "misc_uni_pillow_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::460013",
+      "object": "flora_rm_scathecraw_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::460032",
+      "object": "flora_black_anther_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::460033",
+      "object": "flora_black_anther_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::460034",
+      "object": "flora_black_anther_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

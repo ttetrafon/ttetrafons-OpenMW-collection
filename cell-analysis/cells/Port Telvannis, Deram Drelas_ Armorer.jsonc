@@ -1,0 +1,89 @@
+{
+  "cell": "Port Telvannis, Deram Drelas: Armorer",
+  "name": "Port Telvannis, Deram Drelas: Armorer",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_p_bed_14": 1,
+        "barrel_01_saltrice": 1,
+        "barrel_02_marshmerrow": 1,
+        "bonemold_greaves": 1,
+        "bonemold_helm": 1,
+        "bonemold_pauldron_r": 1,
+        "bonemold_shield": 1,
+        "bonemold_tshield_telvanniguard": 1,
+        "chitin arrow": 2,
+        "chitin cuirass": 1,
+        "chitin guantlet - left": 1,
+        "chitin guantlet - right": 1,
+        "chitin helm": 1,
+        "chitin short bow": 1,
+        "chitin war axe": 1,
+        "com_sack_01_chpfood5": 2,
+        "common_shoes_04": 1,
+        "crate_01_de_weapons": 1,
+        "de_drawers_02_mcommonde": 1,
+        "devil cephalopod helm": 1,
+        "devil mole crab helm": 1,
+        "flora_bc_vine_01": 1,
+        "flora_bc_vine_02": 3,
+        "flora_bc_vine_05": 2,
+        "flora_bc_vine_07": 3,
+        "furn_de_bar_02": 2,
+        "furn_de_p_bookshelf_01": 1,
+        "furn_de_p_chair_01": 1,
+        "furn_de_p_table_05": 1,
+        "furn_de_rug_big_05": 2,
+        "furn_de_tapestry_07": 1,
+        "in_t_housepod_01": 1,
+        "in_t_housepod_2flr_stair": 1,
+        "in_t_housepod_door_exit": 1,
+        "in_t_housepod_pole_02": 1,
+        "in_t_housepod_pole_03": 1,
+        "in_t_housepod_pole_04": 1,
+        "in_t_railing_pole": 1,
+        "in_t_railing_pole_rails": 4,
+        "iron boots": 1,
+        "iron claymore": 1,
+        "light_de_candle_blue_02": 2,
+        "light_de_lamp_03_512": 1,
+        "misc_com_redware_pitcher": 1,
+        "misc_de_goblet_08": 2,
+        "misc_uni_pillow_01": 1,
+        "netch_leather_boots": 1,
+        "netch_leather_cuirass": 1,
+        "netch_leather_gauntlet_left": 1,
+        "netch_leather_gauntlet_right": 1,
+        "netch_leather_helm": 1,
+        "netch_leather_towershield": 2,
+        "northmarker": 1,
+        "potion_local_brew_01": 1,
+        "steel claymore": 1,
+        "t_de_furn_tapestry_11": 1,
+        "t_de_netch_cuirass_02": 1,
+        "t_de_redoranwatchman_cuirass": 1,
+        "t_de_redoranwatchman_gauntletr": 1,
+        "t_de_redoranwatchman_pauldronr": 1,
+        "t_mwcom_var_bl1chpfood20": 1,
+        "t_mwcom_var_sk1cpfood1/2": 2,
+        "t_mwde_var_cr1armsmith": 1,
+        "t_mwde_var_cr2armsmith": 1,
+        "t_nor_iron_gauntletr_01": 1,
+        "t_nor_orn_longsword_01": 1,
+        "tr_m1_de_p_chest_derdel": 1,
+        "tr_m1_deram_drelas": 1,
+        "tr_m1_tel_guard_s": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_smith": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_in_smith_spawn": 1
+      }
+    }
+  }
+}

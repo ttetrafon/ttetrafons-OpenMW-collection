@@ -1,0 +1,67 @@
+{
+  "cell": "26,-3",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "flora_ash_log_03": 1,
+        "flora_emp_parasol_02": 2,
+        "flora_emp_parasol_03": 3,
+        "flora_grass_01": 2,
+        "flora_hackle-lo_01": 2,
+        "flora_hackle-lo_02": 2,
+        "flora_t_shelffungus_01": 3,
+        "flora_tree_gl_01": 4,
+        "flora_tree_gl_02": 2,
+        "flora_tree_gl_03": 1,
+        "flora_tree_gl_04": 2,
+        "flora_tree_gl_05": 3,
+        "flora_tree_gl_06": 4,
+        "flora_tree_gl_07": 1,
+        "flora_tree_gl_10": 1,
+        "flora_tree_gl_11": 2,
+        "flora_wickwheat_01": 9,
+        "flora_wickwheat_02": 8,
+        "flora_wickwheat_03": 7,
+        "flora_wickwheat_04": 5,
+        "food_kwama_egg_02": 1,
+        "furn_de_ex_stool_02": 1,
+        "furn_de_ex_table_03": 1,
+        "furn_de_overhang_04": 2,
+        "furn_guarcart00": 1,
+        "guar_pack": 1,
+        "misc_com_basket_01": 4,
+        "t_mw_rlvl_helnimfieldsland+0": 5,
+        "t_mw_rlvl_helnimfieldsland-2": 1,
+        "terrain_rock_gl_01": 1,
+        "terrain_rock_gl_02": 3,
+        "terrain_rock_gl_03": 1,
+        "terrain_rock_gl_04": 7,
+        "terrain_rock_gl_05": 1,
+        "terrain_rock_gl_06": 3,
+        "terrain_rock_gl_07": 2,
+        "terrain_rock_gl_08": 12,
+        "terrain_rock_gl_09": 1,
+        "terrain_rock_gl_10": 24,
+        "terrain_rock_gl_11": 20,
+        "terrain_rock_gl_12": 9,
+        "terrain_rocks_gl_01": 18,
+        "terrain_rocks_gl_02": 7,
+        "terrain_rocks_gl_03": 17,
+        "terrain_rocks_gl_04": 3,
+        "tr_m2_relur selvayn": 1,
+        "tr_m2_varvsa romori": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_baker": 1,
+        "aa_wares_trader": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

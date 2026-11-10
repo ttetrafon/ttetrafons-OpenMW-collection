@@ -1,0 +1,175 @@
+{
+  "cell": "19,-5",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_east_sack": 1,
+        "xero_marker": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "barrel_01_saltrice": 2,
+        "com_basket_01_empty": 1,
+        "com_chest_11_vault": 1,
+        "com_sack_01_moon sugar5": 2,
+        "com_sack_01_saltrice_5": 1,
+        "com_sack_02_gold_05": 1,
+        "com_sack_02_ingred": 1,
+        "com_sack_03": 1,
+        "com_sack_03_chpfood5": 2,
+        "misc_com_bucket_metal": 1,
+        "misc_com_metal_goblet_01": 1,
+        "misc_flask_03": 1,
+        "urn_04_ingred": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "barrel_01_saltrice": 2,
+        "com_basket_01_empty": 1,
+        "com_chest_11_vault": 1,
+        "com_sack_01_moon sugar5": 2,
+        "com_sack_01_saltrice_5": 1,
+        "com_sack_02_gold_05": 1,
+        "com_sack_02_ingred": 1,
+        "com_sack_03": 1,
+        "com_sack_03_chpfood5": 2,
+        "misc_com_bucket_metal": 1,
+        "misc_com_metal_goblet_01": 1,
+        "misc_flask_03": 1,
+        "urn_04_ingred": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::481198",
+      "object": "com_sack_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::481199",
+      "object": "com_sack_02_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::481200",
+      "object": "com_sack_01_saltrice_5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::481201",
+      "object": "com_basket_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::481202",
+      "object": "barrel_01_saltrice",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::481203",
+      "object": "barrel_01_saltrice",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::481204",
+      "object": "com_sack_01_moon sugar5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::481205",
+      "object": "com_sack_01_moon sugar5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::481206",
+      "object": "com_sack_03_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::481207",
+      "object": "com_sack_03_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::481208",
+      "object": "com_sack_02_gold_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::481209",
+      "object": "urn_04_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::481210",
+      "object": "com_chest_11_vault",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::481211",
+      "object": "misc_com_bucket_metal",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::481212",
+      "object": "misc_flask_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::481213",
+      "object": "misc_com_metal_goblet_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

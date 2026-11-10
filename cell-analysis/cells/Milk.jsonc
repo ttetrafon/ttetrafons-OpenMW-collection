@@ -1,0 +1,111 @@
+{
+  "cell": "Milk",
+  "name": "Milk",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_vermin_marker_box": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_p_bed_28": 1,
+        "bookskill_marksman3": 1,
+        "bookskill_mystery5": 1,
+        "com_chest_01_empty": 1,
+        "com_chest_01_k01": 1,
+        "com_chest_02_misc10": 1,
+        "com_chest_11_arms_orcis": 1,
+        "com_chest_11_k01": 1,
+        "com_sack_02_gold_05": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_p_bed_28": 1,
+        "bookskill_marksman3": 1,
+        "bookskill_mystery5": 1,
+        "com_chest_01_empty": 1,
+        "com_chest_01_k01": 1,
+        "com_chest_02_misc10": 1,
+        "com_chest_11_arms_orcis": 1,
+        "com_chest_11_k01": 1,
+        "com_sack_02_gold_05": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::95296",
+      "object": "com_chest_11_k01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::328566",
+      "object": "com_chest_01_k01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::328574",
+      "object": "com_chest_11_arms_orcis",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::328577",
+      "object": "active_de_p_bed_28",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::328578",
+      "object": "com_sack_02_gold_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::328582",
+      "object": "com_chest_02_misc10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::328583",
+      "object": "com_chest_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483432",
+      "object": "bookskill_marksman3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483433",
+      "object": "bookskill_mystery5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

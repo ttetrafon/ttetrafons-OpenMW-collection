@@ -1,0 +1,34 @@
+{
+  "cell": "22,-6",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "blue coast ref 1024": 3,
+        "flora_kelp_01": 64,
+        "flora_kelp_02": 24,
+        "t_mw_rlvl_innerseawater+0": 1,
+        "t_mw_rlvl_innerseawater-2": 1,
+        "t_mw_terrrockwg_cliff_03": 1,
+        "t_mw_terrrockwg_cliff_04": 1,
+        "terrain_rock_wg_02": 3,
+        "terrain_rock_wg_03": 2,
+        "terrain_rock_wg_05": 3,
+        "terrain_rock_wg_07": 2,
+        "terrain_rock_wg_08": 6,
+        "terrain_rock_wg_09": 7,
+        "terrain_rock_wg_10": 3,
+        "terrain_rock_wg_12": 6,
+        "terrain_rock_wg_14": 4,
+        "terrain_rock_wg_16": 1,
+        "terrain_rock_wg_17": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_corpse10_water": 1,
+        "xero_east_chest": 1,
+        "xero_marker": 1
+      }
+    }
+  }
+}

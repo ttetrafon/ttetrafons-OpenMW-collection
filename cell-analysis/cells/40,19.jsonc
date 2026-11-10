@@ -1,0 +1,52 @@
+{
+  "cell": "40,19",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_t_brace_01": 1,
+        "ex_t_menhir_l_01": 10,
+        "ex_t_root_03": 1,
+        "ex_t_slavemarket": 1,
+        "flora_emp_parasol_01": 3,
+        "flora_emp_parasol_02": 3,
+        "flora_kreshweed_01": 37,
+        "flora_kreshweed_02": 3,
+        "flora_kreshweed_03": 23,
+        "flora_muckspunge_01": 1,
+        "flora_muckspunge_04": 1,
+        "flora_muckspunge_06": 2,
+        "flora_t_mushroom_01": 1,
+        "flora_t_mushroom_02": 4,
+        "flora_t_podbud_01": 6,
+        "flora_t_podbud_02": 1,
+        "flora_t_podbud_03": 2,
+        "flora_t_shelffungus_01": 3,
+        "flora_tree_ac_01": 4,
+        "flora_tree_ac_02": 3,
+        "flora_tree_ac_03": 10,
+        "flora_tree_ac_04": 1,
+        "slave_bracer_right": 1,
+        "t_mw_rlvl_telvanniislesland+0": 1,
+        "terrain_rock_ac_01": 11,
+        "terrain_rock_ac_02": 21,
+        "terrain_rock_ac_03": 5,
+        "terrain_rock_ac_04": 4,
+        "terrain_rock_ac_05": 9,
+        "terrain_rock_ac_06": 5,
+        "terrain_rock_ac_07": 4,
+        "terrain_rock_ac_08": 4,
+        "terrain_rock_ac_09": 3,
+        "terrain_rock_ac_10": 4,
+        "terrain_rock_ac_11": 3,
+        "terrain_rock_ac_12": 6,
+        "tr_m1_q_oliviekey": 1,
+        "tr_m1_q_sjard": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_tel_spawn": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "cell": "Balmora, Balyn Omarel's House",
+  "name": "Balmora, Balyn Omarel's House",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_cauldron_balyn": 1,
+        "gold_001": 3,
+        "gold_005": 2,
+        "ingred_bread_01_uni2": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_cauldron_balyn": 1,
+        "gold_001": 3,
+        "gold_005": 2,
+        "ingred_bread_01_uni2": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::363120",
+      "object": "active_cauldron_balyn",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::390592",
+      "object": "ingred_bread_01_uni2",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::363200",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::363201",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::363202",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::363203",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::363204",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

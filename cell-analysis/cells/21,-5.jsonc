@@ -1,0 +1,40 @@
+{
+  "cell": "21,-5",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "blue coast ref 1024": 1,
+        "flora_kelp_01": 17,
+        "flora_kelp_02": 4,
+        "kollop_01_pearl": 1,
+        "kollop_02_pearl": 2,
+        "t_mw_rlvl_innerseawater+0": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "dreugh": 1,
+        "ex_barnacles_03": 1,
+        "ex_barnacles_04": 1,
+        "ex_barnacles_05": 1,
+        "ex_barnacles_06": 2,
+        "ex_de_ship_cabindoor": 1,
+        "ex_de_shipwreck": 1,
+        "ex_ship_stair": 4,
+        "furn_crate_lid_01": 1,
+        "furn_crate_open_01": 1,
+        "h2o_all_lev-2": 1,
+        "in_cave_plant10": 11,
+        "in_mudboulder00": 8,
+        "in_mudboulder04": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_corpse10_water": 1,
+        "xero_east_chest": 1,
+        "xero_marker": 1
+      }
+    }
+  }
+}

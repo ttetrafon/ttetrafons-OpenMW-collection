@@ -1,0 +1,62 @@
+{
+  "cell": "Tirigan Camp, Masu's Yurt",
+  "name": "Tirigan Camp, Masu's Yurt",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_bedroll": 4,
+        "com_basket_01_chpfood5": 2,
+        "com_sack_02_ingred": 1,
+        "furn_ashl_bugbowl": 1,
+        "furn_ashl_bugbowl_01": 1,
+        "furn_ashl_chime_01": 1,
+        "furn_ashl_chime_02": 1,
+        "furn_ashl_chime_03": 1,
+        "furn_ashl_chime_04": 1,
+        "furn_ashl_chime_05": 1,
+        "furn_ashl_chime_06": 1,
+        "furn_ashl_chime_07": 1,
+        "furn_ashl_chime_08": 1,
+        "furn_ashl_chimes_01": 1,
+        "furn_de_ashl_post": 1,
+        "furn_de_ex_stool_02": 2,
+        "furn_de_ex_table_02": 1,
+        "furn_de_firepit": 1,
+        "furn_log_01": 1,
+        "furn_log_03": 1,
+        "furn_log_04": 2,
+        "gold_001": 2,
+        "gold_005": 1,
+        "in_ashl_door_01": 1,
+        "in_ashl_tent_01": 1,
+        "light_ashl_lantern_01": 1,
+        "light_de_candle_01_64": 1,
+        "light_de_candle_07": 1,
+        "light_fire_nosmoke": 1,
+        "misc_com_metal_goblet_01": 1,
+        "misc_com_metal_plate_05": 1,
+        "misc_com_wood_bowl_01": 2,
+        "misc_com_wood_cup_01": 1,
+        "misc_com_wood_spoon_01": 1,
+        "misc_de_basket_01": 1,
+        "misc_de_bowl_redware_01": 1,
+        "northmarker": 1,
+        "sound_ashl_chimes": 1,
+        "t_de_woodenscrib_01": 1,
+        "t_mwcom_furn_potionh1": 1,
+        "tr_m4_ataharsu": 1,
+        "tr_m4_masu hainnabibi": 1,
+        "tr_m4_pallitsour": 1,
+        "urn_01_food": 1,
+        "urn_02_food": 1,
+        "urn_02_ingred": 1,
+        "urn_03_food": 2
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_healer": 1
+      }
+    }
+  }
+}

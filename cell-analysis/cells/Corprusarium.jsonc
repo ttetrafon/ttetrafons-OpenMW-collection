@@ -1,0 +1,180 @@
+{
+  "cell": "Corprusarium",
+  "name": "Corprusarium",
+  "plugins": {
+    "The Doors of Oblivion 1.4.esp": {
+      "added": {
+        "bs_chest_small_02_key": 1
+      }
+    },
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_con_chst_corprus": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "dwrv_chest_divayth00": 1,
+        "dwrv_chest_divayth01": 1,
+        "dwrv_chest_divayth02": 1,
+        "dwrv_chest_divayth03": 1,
+        "flora_bc_mushroom_01": 2,
+        "flora_bc_mushroom_02": 1,
+        "flora_bc_mushroom_03": 1,
+        "flora_bc_mushroom_04": 1,
+        "flora_bc_mushroom_05": 3,
+        "flora_bc_podplant_01": 1,
+        "flora_bc_podplant_02": 1,
+        "flora_bc_podplant_03": 1,
+        "misc_de_drum_02": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "dwrv_chest_divayth00": 1,
+        "dwrv_chest_divayth01": 1,
+        "dwrv_chest_divayth02": 1,
+        "dwrv_chest_divayth03": 1,
+        "flora_bc_mushroom_01": 2,
+        "flora_bc_mushroom_02": 1,
+        "flora_bc_mushroom_03": 1,
+        "flora_bc_mushroom_04": 1,
+        "flora_bc_mushroom_05": 3,
+        "flora_bc_podplant_01": 1,
+        "flora_bc_podplant_02": 1,
+        "flora_bc_podplant_03": 1,
+        "misc_de_drum_02": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::257752",
+      "object": "dwrv_chest_divayth01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::257753",
+      "object": "dwrv_chest_divayth00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::257754",
+      "object": "dwrv_chest_divayth02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::257755",
+      "object": "dwrv_chest_divayth03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::331472",
+      "object": "misc_de_drum_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::364492",
+      "object": "flora_bc_mushroom_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::364493",
+      "object": "flora_bc_mushroom_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::364494",
+      "object": "flora_bc_mushroom_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::364495",
+      "object": "flora_bc_podplant_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::364496",
+      "object": "flora_bc_mushroom_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::364497",
+      "object": "flora_bc_mushroom_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::364498",
+      "object": "flora_bc_podplant_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::364499",
+      "object": "flora_bc_mushroom_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::364500",
+      "object": "flora_bc_mushroom_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::364501",
+      "object": "flora_bc_mushroom_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::364502",
+      "object": "flora_bc_podplant_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "cell": "Senim Ancestral Tomb",
+  "name": "Senim Ancestral Tomb",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_vermin_marker_cloth": 1,
+        "un_lord_greater": 1,
+        "un_skeleton_arise": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_skeleton_arise": 1,
+        "aa_cr_u_all_1": 1
+      }
+    },
+    "LootWellUrned.ESP": {
+      "added": {
+        "_uyl_light": 1,
+        "_uyl_senim": 1
+      }
+    },
+    "D2Items.esp": {
+      "modified": {
+        "_d2_bonemold_gah-julan_helm": 1
+      }
+    }
+  }
+}

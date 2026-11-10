@@ -1,0 +1,61 @@
+{
+  "cell": "-12,-20",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "bc mushroom 128": 2,
+        "ex_velothi_entrance_03": 2,
+        "ex_velothicave_door_03": 2,
+        "flora_grass_01": 34,
+        "t_glb_var_skeletonarml_01": 2,
+        "t_glb_var_skeletonforearmr_01": 1,
+        "t_glb_var_skeletonlegr_01": 1,
+        "t_glb_var_skeletonpelvis_01": 1,
+        "t_glb_var_skeletonshinr_01": 1,
+        "t_glb_var_skeletonskull_02": 1,
+        "t_glb_var_skeletontorso_01": 1,
+        "t_imp_reman_greaves_01": 1,
+        "t_mw_flora_bluefoot01": 1,
+        "t_mw_flora_bluefoot02": 2,
+        "t_mw_flora_bluefoot03": 1,
+        "t_mw_flora_bluefoot04": 1,
+        "t_mw_flora_munzur_01": 1,
+        "t_mw_flora_munzur_02": 1,
+        "t_mw_flora_munzur_03": 2,
+        "t_mw_flora_templedom01": 8,
+        "t_mw_flora_templedom02": 3,
+        "t_mw_flora_terrastree_02": 1,
+        "t_mw_light_aanthirinmushroom": 3,
+        "t_mw_terrrockrr_mtpeak_01": 5,
+        "t_mw_terrrockrr_mtpeak_02": 1,
+        "t_mw_terrrockrr_mtpeak_03": 1,
+        "t_mw_terrrockrr_mtridge_01": 2,
+        "t_mw_terrrockrr_mtridge_02": 2,
+        "t_mw_terrrockrr_mtridge_03": 3,
+        "t_mw_terrrockrr_rock_13": 10,
+        "t_mw_terrrockrr_rock_14": 35,
+        "t_mw_terrrockrr_rock_15": 4,
+        "t_mw_terrrockrr_rock_16": 4,
+        "t_mw_terrrockrr_rock_18": 10,
+        "t_mw_terrrockrr_rock_20": 27,
+        "t_mw_terrrockrr_rock_21": 2,
+        "t_mw_terrrockrr_rock_24": 5,
+        "t_mw_terrrockrr_rock_26": 49,
+        "t_mw_terrrockrr_rock_27": 28,
+        "t_mw_terrrockrr_rock_28": 12,
+        "t_mw_terrrockrr_rock_29": 13,
+        "t_mw_terrrockrr_rock_30": 27,
+        "t_mw_terrrockrr_rockgrp_01": 11,
+        "t_mw_terrrockrr_rockgrp_02": 26,
+        "t_mw_terrrockrr_rockgrp_03": 15,
+        "t_mw_terrrockrr_rockgrp_04": 2,
+        "tr_m4_red_watchman": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

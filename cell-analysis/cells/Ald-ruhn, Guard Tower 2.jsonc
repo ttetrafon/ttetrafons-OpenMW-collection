@@ -1,0 +1,17 @@
+{
+  "cell": "Ald-ruhn, Guard Tower 2",
+  "name": "Ald-ruhn, Guard Tower 2",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "furn_de_p_chair_02": 2,
+        "gvrm_rd_s+e_bom_guards": 2
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_redoran guard_ran": 1
+      }
+    }
+  }
+}

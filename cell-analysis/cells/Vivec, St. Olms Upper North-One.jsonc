@@ -1,0 +1,36 @@
+{
+  "cell": "Vivec, St. Olms Upper North-One",
+  "name": "Vivec, St. Olms Upper North-One",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "gold_001": 1,
+        "gold_025": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "gold_001": 1,
+        "gold_025": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::405580",
+      "object": "gold_025",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::405581",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

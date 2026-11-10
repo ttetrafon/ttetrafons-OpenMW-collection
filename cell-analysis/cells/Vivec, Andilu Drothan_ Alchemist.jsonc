@@ -1,0 +1,16 @@
+{
+  "cell": "Vivec, Andilu Drothan: Alchemist",
+  "name": "Vivec, Andilu Drothan: Alchemist",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_un_al_cm_dun_30": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_alchemist": 1
+      }
+    }
+  }
+}

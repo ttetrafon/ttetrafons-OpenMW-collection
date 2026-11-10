@@ -1,0 +1,26 @@
+{
+  "cell": "Adanumuran",
+  "name": "Adanumuran",
+  "plugins": {
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_m_bk_burnt_00": 1,
+        "aatl_m_bk_burnt_01": 4,
+        "aatl_m_bone_skull_elf": 1,
+        "aatl_m_crystalball": 1,
+        "aatl_m_pot_empty_0": 1,
+        "aatl_m_shovel_rust": 1,
+        "aatl_npc_de_tecar": 1,
+        "aatl_p_foolsluck_sp": 1,
+        "aatl_p_shalsll_sp": 1,
+        "aatl_rep_rusty": 3,
+        "ab_repair_flatter_01": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_vermin_marker_box": 2
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "cell": "16,15",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "barrel_01_cheapfood20": 1,
+        "barrel_01_pos": 1,
+        "blue coast ref 1024": 2,
+        "collision wall - inviso!!": 1,
+        "crate_01_de_mclothes": 1,
+        "ex_imp_dock_02": 1,
+        "ex_imp_mooring_01": 2,
+        "ex_imp_plat_01": 1,
+        "ex_longboat01": 1,
+        "ex_ship_plank": 2,
+        "ex_t_menhir_l_01": 14,
+        "flora_kelp_01": 5,
+        "flora_kelp_02": 6,
+        "flora_kelp_03": 2,
+        "flora_kelp_04": 2,
+        "furn_com_pm_chair_02": 1,
+        "furn_hook_01": 2,
+        "kollop_01_pearl": 1,
+        "kollop_02_pearl": 1,
+        "light_com_lantern_01": 1,
+        "light_com_lantern_01_128": 1,
+        "light_de_lantern_06": 1,
+        "t_com_furn_wheelbarrow_01": 1,
+        "t_com_setharbor_bollard_01": 2,
+        "t_com_setharbor_crane_01": 1,
+        "t_com_var_rope_02": 1,
+        "t_cyrcom_var_cr1sailor": 1,
+        "t_imp_legionmw_x_dock_01": 1,
+        "t_imp_setharbor_barge_01": 1,
+        "t_imp_setharbor_galleonwindowrd": 2,
+        "t_imp_setharbor_x_galleondr01m": 1,
+        "t_mw_fauna_eyestarcnt01": 5,
+        "t_mwcom_var_bl1arrowlgn": 1,
+        "t_mwcom_var_crl1empty": 1,
+        "t_mwcom_var_crl1junkimp": 1,
+        "tr_m1_nemmek": 1,
+        "tr_m1_yishana": 1
+      }
+    },
+    "RepopulatedMainland.ESP": {
+      "added": {
+        "gvrm_dunfish_impfish_trcpy": 1
+      }
+    }
+  }
+}

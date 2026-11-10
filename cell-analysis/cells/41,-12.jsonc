@@ -1,0 +1,49 @@
+{
+  "cell": "41,-12",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "a_siltstrider": 1,
+        "aqua_512_01": 1,
+        "blue coast ref 1024": 1,
+        "blue coast ref 512": 1,
+        "ex_barnacles_02": 5,
+        "ex_barnacles_03": 1,
+        "ex_common_plat_cent": 2,
+        "ex_common_plat_end": 3,
+        "ex_common_plat_rail": 6,
+        "ex_de_docks_steps": 1,
+        "ex_de_railing_01": 14,
+        "ex_de_railing_03": 4,
+        "ex_vivec_waterfall_01": 1,
+        "ex_vivec_waterfall_05": 11,
+        "ex_waterfall_mist_01": 18,
+        "flora_grass_03": 16,
+        "flora_kelp_01": 4,
+        "flora_kelp_02": 4,
+        "flora_kelp_03": 2,
+        "flora_kelp_04": 1,
+        "h2o_slaughterfish": 2,
+        "in_cave_plant00": 3,
+        "terrain_rock_wg_01": 2,
+        "terrain_rock_wg_02": 1,
+        "terrain_rock_wg_05": 3,
+        "terrain_rock_wg_08": 19,
+        "terrain_rock_wg_09": 11,
+        "terrain_rock_wg_10": 13,
+        "terrain_rock_wg_11": 4,
+        "terrain_rock_wg_14": 1,
+        "terrain_rock_wg_16": 1,
+        "terrain_rock_wg_17": 7,
+        "terrain_rock_wg_18": 1,
+        "terrain_rocks_wg_01": 8,
+        "terrain_rocks_wg_03": 6
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

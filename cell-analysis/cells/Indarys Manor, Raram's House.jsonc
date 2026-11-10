@@ -1,0 +1,466 @@
+{
+  "cell": "Indarys Manor, Raram's House",
+  "name": "Indarys Manor, Raram's House",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_p_bed_11": 1,
+        "barrel_01_cheapfood5": 1,
+        "barrel_01_de_pos1": 1,
+        "barrel_01_ingredients": 1,
+        "bk_childrenofthesky": 1,
+        "bk_consolationsofprayer": 1,
+        "bk_doorsofthespirit": 1,
+        "bookskill_blunt weapon4": 1,
+        "com_basket_01_food": 1,
+        "com_basket_01_ingredien": 1,
+        "com_basket_01_pos": 2,
+        "com_sack_01_chpfood5": 2,
+        "com_sack_02_chpfood3": 1,
+        "com_sack_02_gold_100": 1,
+        "com_sack_02_ingred": 2,
+        "com_sack_03_ingredients": 2,
+        "crate_01_armorbonemold_": 1,
+        "crate_01_de_weapons": 2,
+        "crate_01_imp_weapons": 2,
+        "crate_02_de_weapons": 1,
+        "crate_02_iron_weapons": 1,
+        "de_p_chest_02_mclothes3": 2,
+        "de_p_chest_02_pos3": 1,
+        "light_de_candle_05_64": 1,
+        "light_de_candle_18_64": 1,
+        "misc_com_bottle_05": 1,
+        "misc_com_bottle_07": 1,
+        "misc_com_bottle_08": 1,
+        "misc_de_goblet_01": 1,
+        "misc_de_tankard_01": 3,
+        "misc_uni_pillow_01": 1,
+        "torch_64": 1,
+        "urn_01_food": 1,
+        "urn_01_ingred": 1,
+        "urn_03_food": 1,
+        "urn_04_food": 1,
+        "urn_05_food": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_p_bed_11": 1,
+        "barrel_01_cheapfood5": 1,
+        "barrel_01_de_pos1": 1,
+        "barrel_01_ingredients": 1,
+        "bk_childrenofthesky": 1,
+        "bk_consolationsofprayer": 1,
+        "bk_doorsofthespirit": 1,
+        "bookskill_blunt weapon4": 1,
+        "com_basket_01_food": 1,
+        "com_basket_01_ingredien": 1,
+        "com_basket_01_pos": 2,
+        "com_sack_01_chpfood5": 2,
+        "com_sack_02_chpfood3": 1,
+        "com_sack_02_gold_100": 1,
+        "com_sack_02_ingred": 2,
+        "com_sack_03_ingredients": 2,
+        "crate_01_armorbonemold_": 1,
+        "crate_01_de_weapons": 2,
+        "crate_01_imp_weapons": 2,
+        "crate_02_de_weapons": 1,
+        "crate_02_iron_weapons": 1,
+        "de_p_chest_02_mclothes3": 2,
+        "de_p_chest_02_pos3": 1,
+        "light_de_candle_05_64": 1,
+        "light_de_candle_18_64": 1,
+        "misc_com_bottle_05": 1,
+        "misc_com_bottle_07": 1,
+        "misc_com_bottle_08": 1,
+        "misc_de_goblet_01": 1,
+        "misc_de_tankard_01": 3,
+        "misc_uni_pillow_01": 1,
+        "torch_64": 1,
+        "urn_01_food": 1,
+        "urn_01_ingred": 1,
+        "urn_03_food": 1,
+        "urn_04_food": 1,
+        "urn_05_food": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::272781",
+      "object": "barrel_01_cheapfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272782",
+      "object": "barrel_01_de_pos1",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272783",
+      "object": "barrel_01_ingredients",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272784",
+      "object": "crate_01_armorbonemold_",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272785",
+      "object": "crate_01_de_weapons",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272786",
+      "object": "misc_com_bottle_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272787",
+      "object": "misc_de_tankard_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272788",
+      "object": "misc_de_tankard_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272789",
+      "object": "light_de_candle_05_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272790",
+      "object": "crate_02_iron_weapons",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272791",
+      "object": "crate_02_de_weapons",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272792",
+      "object": "com_basket_01_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272793",
+      "object": "com_basket_01_ingredien",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272797",
+      "object": "crate_01_imp_weapons",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272798",
+      "object": "crate_01_imp_weapons",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272799",
+      "object": "urn_05_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272800",
+      "object": "urn_03_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272801",
+      "object": "com_basket_01_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272802",
+      "object": "com_basket_01_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272803",
+      "object": "com_sack_02_gold_100",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272804",
+      "object": "de_p_chest_02_pos3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272806",
+      "object": "crate_01_de_weapons",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272807",
+      "object": "urn_01_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272808",
+      "object": "urn_04_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272809",
+      "object": "com_sack_01_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272810",
+      "object": "com_sack_01_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272811",
+      "object": "com_sack_02_chpfood3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272812",
+      "object": "active_de_p_bed_11",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272813",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272815",
+      "object": "misc_com_bottle_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272816",
+      "object": "misc_de_goblet_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272817",
+      "object": "de_p_chest_02_mclothes3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272818",
+      "object": "de_p_chest_02_mclothes3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272819",
+      "object": "bk_childrenofthesky",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272820",
+      "object": "bk_consolationsofprayer",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272821",
+      "object": "bookskill_blunt weapon4",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272822",
+      "object": "bk_doorsofthespirit",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272823",
+      "object": "misc_de_tankard_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272824",
+      "object": "misc_com_bottle_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272825",
+      "object": "urn_05_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272826",
+      "object": "urn_01_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272827",
+      "object": "com_sack_03_ingredients",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272828",
+      "object": "com_sack_02_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272829",
+      "object": "com_sack_02_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272830",
+      "object": "com_sack_03_ingredients",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::278994",
+      "object": "light_de_candle_18_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::398601",
+      "object": "torch_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

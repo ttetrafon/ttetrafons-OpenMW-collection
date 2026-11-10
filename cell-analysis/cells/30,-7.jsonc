@@ -1,0 +1,71 @@
+{
+  "cell": "30,-7",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "flora_bittergreen_01": 1,
+        "flora_bittergreen_03": 1,
+        "flora_bittergreen_05": 1,
+        "flora_bittergreen_06": 1,
+        "flora_bittergreen_07": 1,
+        "flora_bittergreen_pod_01": 1,
+        "flora_chokeweed_02": 1,
+        "flora_hackle-lo_01": 2,
+        "flora_hackle-lo_02": 2,
+        "flora_kreshweed_01": 1,
+        "flora_kreshweed_02": 1,
+        "flora_kreshweed_03": 1,
+        "flora_muckspunge_01": 2,
+        "flora_muckspunge_03": 1,
+        "flora_muckspunge_04": 1,
+        "flora_muckspunge_05": 1,
+        "flora_muckspunge_06": 1,
+        "flora_roobrush_02": 2,
+        "flora_stoneflower_01": 1,
+        "flora_stoneflower_02": 1,
+        "flora_tree_gl_01": 2,
+        "flora_tree_gl_02": 1,
+        "flora_tree_gl_03": 1,
+        "flora_tree_gl_04": 1,
+        "flora_tree_gl_06": 1,
+        "flora_tree_gl_07": 1,
+        "flora_tree_gl_08": 1,
+        "flora_tree_gl_09": 1,
+        "flora_tree_gl_10": 1,
+        "flora_tree_gl_11": 2,
+        "flora_wickwheat_01": 3,
+        "flora_wickwheat_02": 3,
+        "flora_wickwheat_03": 3,
+        "flora_wickwheat_04": 1,
+        "furn_com_fence_01": 1,
+        "t_com_setmw_signwayaltbosara_01": 1,
+        "t_com_setmw_signwayfortwindm_01": 1,
+        "t_com_setmw_signwayhelnim_01": 1,
+        "t_com_setmw_signwaynecrom_01": 1,
+        "t_com_setmw_signwaytelmuthad_01": 2,
+        "t_com_setmw_signwaytelonoria_01": 1,
+        "t_mw_rlvl_helnimfieldsland+0": 5,
+        "t_mw_rlvl_helnimfieldsland-2": 1,
+        "terrain_rock_gl_01": 1,
+        "terrain_rock_gl_02": 2,
+        "terrain_rock_gl_03": 2,
+        "terrain_rock_gl_04": 1,
+        "terrain_rock_gl_05": 1,
+        "terrain_rock_gl_06": 1,
+        "terrain_rock_gl_07": 3,
+        "terrain_rock_gl_08": 6,
+        "terrain_rock_gl_09": 2,
+        "terrain_rock_gl_10": 10,
+        "terrain_rock_gl_11": 2,
+        "terrain_rock_gl_12": 15,
+        "terrain_rocks_gl_01": 16,
+        "terrain_rocks_gl_03": 9
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

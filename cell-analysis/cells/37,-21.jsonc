@@ -1,0 +1,51 @@
+{
+  "cell": "37,-21",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "de_p_chest_02_gold_25": 1,
+        "ex_cave_door_01": 1,
+        "ex_cave_entrance_bc_01": 1,
+        "ex_s_fence_02": 1,
+        "flame light": 1,
+        "flora_bush_01": 3,
+        "flora_corkbulb": 7,
+        "flora_plant_01": 3,
+        "flora_sedge_01": 3,
+        "flora_stoneflower_01": 1,
+        "flora_tree_gl_02": 1,
+        "flora_tree_gl_05": 1,
+        "flora_tree_mh_01": 4,
+        "flora_tree_mh_02": 11,
+        "flora_tree_wg_01": 1,
+        "flora_treestump_wg_01": 1,
+        "furn_de_ex_table_02": 1,
+        "furn_de_p_bench_03": 1,
+        "furn_de_p_bench_04": 1,
+        "light_pitfire00": 1,
+        "t_mw_terrrockwg_bridge_01": 1,
+        "terrain_rock_wg_01": 1,
+        "terrain_rock_wg_02": 3,
+        "terrain_rock_wg_04": 2,
+        "terrain_rock_wg_05": 6,
+        "terrain_rock_wg_07": 3,
+        "terrain_rock_wg_08": 12,
+        "terrain_rock_wg_09": 3,
+        "terrain_rock_wg_10": 6,
+        "terrain_rock_wg_11": 4,
+        "terrain_rock_wg_12": 11,
+        "terrain_rock_wg_16": 1,
+        "terrain_rock_wg_17": 5,
+        "terrain_rock_wg_18": 1,
+        "terrain_rocks_wg_02": 4,
+        "terrain_rocks_wg_04": 2,
+        "tr_m3_o_merala bemua": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

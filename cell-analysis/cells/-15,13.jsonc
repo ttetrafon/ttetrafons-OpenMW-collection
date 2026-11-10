@@ -1,0 +1,18 @@
+{
+  "cell": "-15,13",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_ex_barnacles_05": 1,
+        "xero_in_cave_plant00": 1,
+        "xero_marker": 1,
+        "xero_north_crate": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_ex_daed_bat": 1
+      }
+    }
+  }
+}

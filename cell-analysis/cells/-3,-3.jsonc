@@ -1,0 +1,332 @@
+{
+  "cell": "-3,-3",
+  "name": "Balmora",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 2,
+        "gvrm_hlalguardwand": 2
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_camonna": 1,
+        "am_fisherman3": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_hiddencache": 2
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_n_all_nightlife_spawn": 2,
+        "_aa_solo_hl_spawn": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "com_basket_01_empty": 3,
+        "crate_01_eggs": 1,
+        "crate_01_empty": 2,
+        "crate_01_food_misc01": 2,
+        "crate_01_random_pos": 1,
+        "crate_02_food": 2,
+        "crate_02_random_pos": 2,
+        "misc_com_bottle_06": 2,
+        "misc_com_bottle_07": 1,
+        "misc_com_bottle_11": 2,
+        "misc_com_bottle_12": 1,
+        "misc_com_bottle_15": 1,
+        "misc_de_bowl_white_01": 1,
+        "misc_de_goblet_03": 3,
+        "urn_01_food": 1,
+        "urn_01_ingred": 1,
+        "urn_02_food": 1,
+        "urn_02_ingred": 1,
+        "urn_03_ingred": 1,
+        "urn_04_food": 2
+      }
+    },
+    "Local Lore - Silt Striders and Caravaners - Silt Strider Animation Restored.ESP": {
+      "modified": {
+        "kil_silt_zirath": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "com_basket_01_empty": 3,
+        "crate_01_eggs": 1,
+        "crate_01_empty": 2,
+        "crate_01_food_misc01": 2,
+        "crate_01_random_pos": 1,
+        "crate_02_food": 2,
+        "crate_02_random_pos": 2,
+        "misc_com_bottle_06": 2,
+        "misc_com_bottle_07": 1,
+        "misc_com_bottle_11": 2,
+        "misc_com_bottle_12": 1,
+        "misc_com_bottle_15": 1,
+        "misc_de_bowl_white_01": 1,
+        "misc_de_goblet_03": 3,
+        "urn_01_food": 1,
+        "urn_01_ingred": 1,
+        "urn_02_food": 1,
+        "urn_02_ingred": 1,
+        "urn_03_ingred": 1,
+        "urn_04_food": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::34084",
+      "object": "misc_de_bowl_white_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::34085",
+      "object": "com_basket_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::34086",
+      "object": "urn_04_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::34087",
+      "object": "urn_02_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::34088",
+      "object": "urn_01_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::34108",
+      "object": "com_basket_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::34109",
+      "object": "urn_04_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::41500",
+      "object": "crate_01_food_misc01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::41501",
+      "object": "crate_01_food_misc01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::41502",
+      "object": "crate_01_eggs",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::41504",
+      "object": "crate_02_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::41505",
+      "object": "crate_02_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::41506",
+      "object": "crate_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::41507",
+      "object": "crate_02_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::41508",
+      "object": "crate_02_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::41629",
+      "object": "misc_de_goblet_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::41630",
+      "object": "misc_de_goblet_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::41635",
+      "object": "misc_com_bottle_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::41636",
+      "object": "misc_com_bottle_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::41637",
+      "object": "misc_com_bottle_11",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::41638",
+      "object": "misc_com_bottle_11",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::41640",
+      "object": "misc_com_bottle_15",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::41639",
+      "object": "misc_com_bottle_12",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::41628",
+      "object": "misc_com_bottle_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::41631",
+      "object": "misc_de_goblet_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::34092",
+      "object": "urn_01_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::41503",
+      "object": "crate_01_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::41509",
+      "object": "crate_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::34107",
+      "object": "com_basket_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::34091",
+      "object": "urn_02_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::34093",
+      "object": "urn_03_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

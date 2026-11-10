@@ -1,0 +1,17 @@
+{
+  "cell": "Roa Dyr, Craftmen's Hall",
+  "name": "Roa Dyr, Craftmen's Hall",
+  "plugins": {
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_baker": 2,
+        "aa_wares_magical_temple": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_in_traders_spawn": 1
+      }
+    }
+  }
+}

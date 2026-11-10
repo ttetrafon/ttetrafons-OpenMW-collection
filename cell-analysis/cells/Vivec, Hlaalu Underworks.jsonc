@@ -1,0 +1,25 @@
+{
+  "cell": "Vivec, Hlaalu Underworks",
+  "name": "Vivec, Hlaalu Underworks",
+  "plugins": {
+    "The Undead.esm": {
+      "added": {
+        "_und_zombies_random": 4
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "added": {
+        "light_glowing_lichen_512_d": 6
+      },
+      "modified": {
+        "light_glowing_lichen_256_d": 4,
+        "light_glowing_lichen_512_d": 6
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_sewers": 4
+      }
+    }
+  }
+}

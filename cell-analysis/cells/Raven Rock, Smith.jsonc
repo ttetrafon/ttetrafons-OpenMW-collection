@@ -1,0 +1,121 @@
+{
+  "cell": "Raven Rock, Smith",
+  "name": "Raven Rock, Smith",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "barrel_01_cheapfood5": 1,
+        "barrel_02_pants": 1,
+        "ex_colony_door04": 1,
+        "furn_colony_shelf06": 2,
+        "furn_de_tapestry_03": 1,
+        "light_com_candle_01": 1,
+        "misc_com_bottle_03": 1,
+        "misc_com_bottle_11": 3,
+        "misc_com_metal_plate_05": 2,
+        "potion_cyro_whiskey_01": 1,
+        "potion_local_liquor_01": 2,
+        "sp_bm_colony_i_fireplace_01": 1,
+        "t_imp_silverwaredish_01": 1,
+        "t_imp_silverwaretankard_01": 1
+      },
+      "modified": {
+        "blessed_shield": 1,
+        "com_sack_02_chpfood3": 3,
+        "furn_colony_hook01": 5,
+        "furn_colony_stonetable01": 1,
+        "furn_colony_wolfrug01": 1,
+        "furn_de_tapestry_03": 1,
+        "furn_log_01": 1,
+        "furn_log_02": 3,
+        "furn_log_03": 1,
+        "light_logpile_177": 1,
+        "misc_com_metal_plate_05": 1,
+        "misc_imp_silverware_bowl": 1,
+        "misc_imp_silverware_cup": 3,
+        "misc_imp_silverware_plate_03": 2,
+        "repair_journeyman_01": 1,
+        "silver war axe": 1,
+        "steel battle axe": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_smith": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_smith_spawn": 1
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_comp_annika": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "light_com_candle_01": 1,
+        "light_com_lantern_01": 1,
+        "light_com_lantern_01_256": 1,
+        "light_de_lantern_01white": 2
+      }
+    },
+    "Unique Uniques.ESP": {
+      "modified": {
+        "lucky_coin": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "light_com_candle_01": 1,
+        "light_com_lantern_01": 1,
+        "light_com_lantern_01_256": 1,
+        "light_de_lantern_01white": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::29676",
+      "object": "light_com_lantern_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::29697",
+      "object": "light_com_candle_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::29734",
+      "object": "light_com_lantern_01_256",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::29754",
+      "object": "light_de_lantern_01white",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::29755",
+      "object": "light_de_lantern_01white",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

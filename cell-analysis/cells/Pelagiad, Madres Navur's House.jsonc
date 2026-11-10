@@ -1,0 +1,26 @@
+{
+  "cell": "Pelagiad, Madres Navur's House",
+  "name": "Pelagiad, Madres Navur's House",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "light_com_lantern_01_128": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "light_com_lantern_01_128": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::469245",
+      "object": "light_com_lantern_01_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

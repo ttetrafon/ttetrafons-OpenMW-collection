@@ -1,0 +1,53 @@
+{
+  "cell": "27,11",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_de_railing_01": 15,
+        "ex_de_railing_03": 5,
+        "ex_t_platform_01": 2,
+        "ex_t_platform_02": 1,
+        "ex_t_root_arch_01": 1,
+        "ex_t_root_bridge_01": 2,
+        "ex_t_tunnel": 1,
+        "flora_hackle-lo_01": 2,
+        "flora_hackle-lo_02": 2,
+        "flora_marshmerrow_01": 5,
+        "flora_marshmerrow_03": 7,
+        "flora_saltrice_01": 2,
+        "flora_saltrice_02": 1,
+        "flora_tree_gl_02": 4,
+        "flora_tree_gl_07": 2,
+        "flora_tree_gl_10": 1,
+        "flora_wickwheat_03": 5,
+        "flora_wickwheat_04": 9,
+        "furn_com_fence_01": 1,
+        "t_com_setmw_signwaybaloyra_01": 1,
+        "t_com_setmw_signwayfirewat_01": 1,
+        "t_com_setmw_signwayhelnim_01": 1,
+        "t_com_setmw_signwayllothanis_01": 1,
+        "t_com_setmw_signwayranyonru_01": 1,
+        "t_com_setmw_signwaytelmuthad_01": 1,
+        "t_com_setmw_signwaytelouada_01": 1,
+        "t_mw_flora_blackrose01": 1,
+        "t_mw_flora_blackrose02": 3,
+        "t_mw_rlvl_boethiahspinecoast+2": 1,
+        "t_mw_rlvl_molagreahdgrotto-2": 2,
+        "terrain_rock_gl_05": 1,
+        "terrain_rock_gl_06": 1,
+        "terrain_rock_gl_07": 2,
+        "terrain_rock_gl_08": 1,
+        "terrain_rock_gl_11": 2,
+        "terrain_rock_gl_12": 7,
+        "terrain_rocks_gl_01": 13,
+        "terrain_rocks_gl_02": 2,
+        "terrain_rocks_gl_04": 2
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_tel_spawn": 1
+      }
+    }
+  }
+}

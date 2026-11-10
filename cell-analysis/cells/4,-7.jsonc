@@ -1,0 +1,392 @@
+{
+  "cell": "4,-7",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_ex_barnacles_05": 1,
+        "xero_marker": 1,
+        "xero_north_chest": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_hl_spawn": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_ai": 2
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "flora_ash_yam_01": 1,
+        "flora_ash_yam_02": 4,
+        "flora_comberry_01": 3,
+        "flora_corkbulb": 6,
+        "flora_gold_kanet_01": 2,
+        "flora_marshmerrow_01": 6,
+        "flora_marshmerrow_02": 3,
+        "flora_saltrice_01": 3,
+        "flora_saltrice_02": 5,
+        "flora_stoneflower_01": 1,
+        "flora_stoneflower_02": 1,
+        "flora_willow_flower_01": 1,
+        "flora_willow_flower_02": 2,
+        "urn_02_food": 1,
+        "urn_04_food": 1,
+        "urn_05_food": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "flora_ash_yam_01": 1,
+        "flora_ash_yam_02": 4,
+        "flora_comberry_01": 3,
+        "flora_corkbulb": 6,
+        "flora_gold_kanet_01": 2,
+        "flora_marshmerrow_01": 6,
+        "flora_marshmerrow_02": 3,
+        "flora_saltrice_01": 3,
+        "flora_saltrice_02": 5,
+        "flora_stoneflower_01": 1,
+        "flora_stoneflower_02": 1,
+        "flora_willow_flower_01": 1,
+        "flora_willow_flower_02": 2,
+        "urn_02_food": 1,
+        "urn_04_food": 1,
+        "urn_05_food": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::193594",
+      "object": "flora_corkbulb",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193595",
+      "object": "flora_corkbulb",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193600",
+      "object": "flora_corkbulb",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193601",
+      "object": "flora_corkbulb",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193603",
+      "object": "flora_corkbulb",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193606",
+      "object": "flora_corkbulb",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309280",
+      "object": "urn_04_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309281",
+      "object": "urn_05_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309282",
+      "object": "urn_02_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309294",
+      "object": "flora_comberry_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309295",
+      "object": "flora_comberry_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309296",
+      "object": "flora_comberry_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309297",
+      "object": "flora_willow_flower_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309298",
+      "object": "flora_willow_flower_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309299",
+      "object": "flora_willow_flower_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309300",
+      "object": "flora_stoneflower_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309301",
+      "object": "flora_stoneflower_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309302",
+      "object": "flora_gold_kanet_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309303",
+      "object": "flora_gold_kanet_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309304",
+      "object": "flora_saltrice_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309305",
+      "object": "flora_saltrice_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309306",
+      "object": "flora_saltrice_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309307",
+      "object": "flora_marshmerrow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309308",
+      "object": "flora_marshmerrow_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309309",
+      "object": "flora_marshmerrow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309310",
+      "object": "flora_ash_yam_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309311",
+      "object": "flora_ash_yam_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309312",
+      "object": "flora_ash_yam_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309313",
+      "object": "flora_ash_yam_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309314",
+      "object": "flora_ash_yam_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318339",
+      "object": "flora_saltrice_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318340",
+      "object": "flora_saltrice_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318341",
+      "object": "flora_saltrice_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318342",
+      "object": "flora_marshmerrow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318343",
+      "object": "flora_marshmerrow_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318344",
+      "object": "flora_saltrice_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318345",
+      "object": "flora_saltrice_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318346",
+      "object": "flora_marshmerrow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318347",
+      "object": "flora_marshmerrow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318348",
+      "object": "flora_marshmerrow_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318349",
+      "object": "flora_marshmerrow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "cell": "Shashmanu Camp, Anit's Yurt",
+  "name": "Shashmanu Camp, Anit's Yurt",
+  "plugins": {
+    "Aoimevelho Wares with ALL NPCs.ESP": {
+      "added": {
+        "_ar_ashstatue": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_bedroll": 3,
+        "com_basket_01_chpfood5": 1,
+        "com_sack_01_chpfood5": 1,
+        "com_sack_01_ingred": 1,
+        "com_sack_02_ingred": 1,
+        "de_p_chest_02_gold_50": 1,
+        "misc_com_bottle_02": 1,
+        "misc_com_bottle_06": 1,
+        "misc_com_bottle_07": 1,
+        "misc_com_bottle_12": 1,
+        "misc_com_wood_cup_02": 1,
+        "urn_02_food": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_bedroll": 3,
+        "com_basket_01_chpfood5": 1,
+        "com_sack_01_chpfood5": 1,
+        "com_sack_01_ingred": 1,
+        "com_sack_02_ingred": 1,
+        "de_p_chest_02_gold_50": 1,
+        "misc_com_bottle_02": 1,
+        "misc_com_bottle_06": 1,
+        "misc_com_bottle_07": 1,
+        "misc_com_bottle_12": 1,
+        "misc_com_wood_cup_02": 1,
+        "urn_02_food": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::274968",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274972",
+      "object": "de_p_chest_02_gold_50",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274973",
+      "object": "com_basket_01_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274974",
+      "object": "misc_com_bottle_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274975",
+      "object": "misc_com_bottle_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274976",
+      "object": "misc_com_bottle_12",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274977",
+      "object": "misc_com_wood_cup_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274978",
+      "object": "misc_com_bottle_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274979",
+      "object": "com_sack_01_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274980",
+      "object": "com_sack_01_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274981",
+      "object": "com_sack_02_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::347108",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::347109",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::398939",
+      "object": "urn_02_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

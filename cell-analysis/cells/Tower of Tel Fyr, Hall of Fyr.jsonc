@@ -1,0 +1,99 @@
+{
+  "cell": "Tower of Tel Fyr, Hall of Fyr",
+  "name": "Tower of Tel Fyr, Hall of Fyr",
+  "plugins": {
+    "The Doors of Oblivion 1.4.esp": {
+      "added": {
+        "bs_chest_small_02_ams": 1
+      }
+    },
+    "Enchanted Batons.ESP": {
+      "added": {
+        "bng_dae_btn": 1
+      },
+      "modified": {
+        "furn_de_p_bookshelf_01": 1
+      }
+    },
+    "Devilish Sleep Spell.esp": {
+      "added": {
+        "detd_amulet_of_sudden_rest": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "chest_small_02_gold_25": 1,
+        "chest_small_divayth06": 1,
+        "de_r_chest_01_pos": 1,
+        "de_r_chest_01_tel_fyr": 1,
+        "divayth_fyr_closet": 1,
+        "key_divayth00": 1
+      }
+    },
+    "Daedric Robe V2.ESP": {
+      "modified": {
+        "de_drawers_divayth00": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "chest_small_02_gold_25": 1,
+        "chest_small_divayth06": 1,
+        "de_r_chest_01_pos": 1,
+        "de_r_chest_01_tel_fyr": 1,
+        "divayth_fyr_closet": 1,
+        "key_divayth00": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::370595",
+      "object": "de_r_chest_01_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::370629",
+      "object": "chest_small_02_gold_25",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::370713",
+      "object": "divayth_fyr_closet",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::370714",
+      "object": "key_divayth00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::370715",
+      "object": "chest_small_divayth06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::370821",
+      "object": "de_r_chest_01_tel_fyr",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

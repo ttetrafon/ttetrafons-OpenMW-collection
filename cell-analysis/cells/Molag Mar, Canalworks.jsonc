@@ -1,0 +1,95 @@
+{
+  "cell": "Molag Mar, Canalworks",
+  "name": "Molag Mar, Canalworks",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_dun_pray_4": 2
+      }
+    },
+    "Holy Art.ESP": {
+      "added": {
+        "vd_velothismall_03": 1,
+        "vd_velothismall_08": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "light_de_candle_red_01_64": 2,
+        "torch_128": 6
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "light_de_candle_red_01_64": 2,
+        "torch_128": 6
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::442042",
+      "object": "light_de_candle_red_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::442043",
+      "object": "light_de_candle_red_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::442052",
+      "object": "torch_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::442055",
+      "object": "torch_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::442056",
+      "object": "torch_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::442059",
+      "object": "torch_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::442061",
+      "object": "torch_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::442063",
+      "object": "torch_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

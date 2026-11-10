@@ -1,0 +1,38 @@
+{
+  "cell": "22,-5",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "blue coast ref 1024": 3,
+        "ex_t_menhir_l_01": 1,
+        "flora_emp_parasol_01": 1,
+        "flora_kelp_01": 25,
+        "flora_kelp_02": 12,
+        "flora_saltrice_01": 4,
+        "flora_saltrice_02": 3,
+        "flora_t_podbud_02": 1,
+        "flora_t_podbud_03": 1,
+        "flora_t_podbud_04": 1,
+        "kollop_02_pearl": 3,
+        "kollop_03_pearl": 1,
+        "t_mw_rlvl_innerseawater+2": 1,
+        "t_mw_rlvl_innerseawater-2": 1,
+        "terrain_rock_ac_03": 1,
+        "terrain_rock_ac_05": 1,
+        "terrain_rock_ac_06": 1,
+        "terrain_rock_ac_07": 1,
+        "terrain_rock_ac_09": 1,
+        "terrain_rock_wg_08": 1,
+        "terrain_rock_wg_10": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_east_crate": 1,
+        "xero_furn_crate_lid_01": 1,
+        "xero_furn_crate_open_01": 2,
+        "xero_marker": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "cell": "27,9",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_barnacles_06": 1,
+        "ex_de_railing_01": 9,
+        "ex_de_railing_03": 3,
+        "flora_chokeweed_02": 2,
+        "flora_gold_kanet_01": 10,
+        "flora_gold_kanet_02": 8,
+        "flora_marshmerrow_01": 1,
+        "flora_marshmerrow_02": 1,
+        "flora_marshmerrow_03": 1,
+        "flora_stoneflower_02": 1,
+        "flora_tree_ai_05": 1,
+        "flora_tree_gl_01": 3,
+        "flora_tree_gl_02": 1,
+        "flora_tree_gl_03": 2,
+        "flora_tree_gl_04": 2,
+        "flora_tree_gl_05": 5,
+        "flora_tree_gl_06": 2,
+        "flora_tree_gl_07": 5,
+        "flora_tree_gl_08": 2,
+        "flora_tree_gl_09": 5,
+        "flora_tree_gl_10": 1,
+        "flora_tree_gl_11": 1,
+        "flora_tree_wg_03": 1,
+        "flora_wickwheat_01": 11,
+        "flora_wickwheat_02": 17,
+        "flora_wickwheat_03": 8,
+        "flora_wickwheat_04": 13,
+        "t_mw_rlvl_molagreahdland-2": 1,
+        "terrain_rock_gl_01": 3,
+        "terrain_rock_gl_02": 1,
+        "terrain_rock_gl_03": 5,
+        "terrain_rock_gl_04": 3,
+        "terrain_rock_gl_05": 5,
+        "terrain_rock_gl_06": 5,
+        "terrain_rock_gl_07": 5,
+        "terrain_rock_gl_08": 7,
+        "terrain_rock_gl_09": 7,
+        "terrain_rock_gl_10": 3,
+        "terrain_rock_gl_11": 6,
+        "terrain_rock_gl_12": 15,
+        "terrain_rock_wg_01": 2,
+        "terrain_rock_wg_07": 3,
+        "terrain_rock_wg_09": 2,
+        "terrain_rock_wg_10": 3,
+        "terrain_rock_wg_12": 1,
+        "terrain_rock_wg_14": 1,
+        "terrain_rock_wg_18": 1,
+        "terrain_rocks_gl_01": 4,
+        "terrain_rocks_gl_02": 1,
+        "terrain_rocks_gl_03": 2,
+        "terrain_rocks_gl_04": 3,
+        "terrain_rocks_wg_03": 1,
+        "tr_m1_q_morvingirith": 1,
+        "tr_m1_q_ttshrine1": 1
+      }
+    },
+    "RepopulatedMainland.ESP": {
+      "added": {
+        "gvrm_dun_pray_3_trcpy": 1
+      }
+    }
+  }
+}

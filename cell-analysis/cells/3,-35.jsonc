@@ -1,0 +1,68 @@
+{
+  "cell": "3,-35",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_hlaalu_b_28": 1,
+        "ex_hlaalu_buttress_03": 2,
+        "ex_hlaalu_dsteps_03": 1,
+        "ex_hlaalu_win_01": 1,
+        "furn_de_pathspear_01": 1,
+        "furn_de_pathspear_03": 5,
+        "furn_de_pathspear_04": 11,
+        "hlaal_loaddoor_01": 1,
+        "t_glb_flora_fern_01": 8,
+        "t_mw_cr_netchbetty": 1,
+        "t_mw_cr_ratblack": 1,
+        "t_mw_cr_ratdiseased": 1,
+        "t_mw_cr_yethgrub": 1,
+        "t_mw_flora_shroomtabler_01": 1,
+        "t_mw_flora_shroomtabler_03": 3,
+        "t_mw_flora_shroomtabler_04": 3,
+        "t_mw_flora_shroomtabler_05": 4,
+        "t_mw_flora_shroomtabler_06": 1,
+        "t_mw_floraat_spartiumbealei_01": 8,
+        "t_mw_floraat_spartiumbealei_02": 6,
+        "t_mw_floraat_spartiumbealei_03": 4,
+        "t_mw_floraat_stump_02": 1,
+        "t_mw_floraat_stump_04": 4,
+        "t_mw_floraat_treeb_02": 2,
+        "t_mw_floraat_treeb_03": 1,
+        "t_mw_floraat_treeb_04": 2,
+        "t_mw_floraat_treeb_05": 5,
+        "t_mw_floraat_treeg_01": 1,
+        "t_mw_floraat_treeg_02": 1,
+        "t_mw_floraat_treeg_03": 2,
+        "t_mw_floraat_treeg_04": 1,
+        "t_mw_floraat_treeg_05": 3,
+        "t_mw_floraat_treeg_06": 2,
+        "t_mw_floraat_uracia_01": 4,
+        "t_mw_floraat_uracia_02": 3,
+        "t_mw_floratv_grass_01": 1,
+        "t_mw_floratv_grass_02": 8,
+        "t_mw_floratv_grass_03": 12,
+        "t_mw_terrrocktv_mtpeak_01": 1,
+        "t_mw_terrrocktv_rock_08": 19,
+        "t_mw_terrrocktv_rock_14": 26,
+        "t_mw_terrrocktv_rock_15": 16,
+        "t_mw_terrrocktv_rock_16": 7,
+        "t_mw_terrrocktv_rock_17": 1,
+        "t_mw_terrrocktv_rock_18": 2,
+        "t_mw_terrrocktv_rockgrp_01": 2,
+        "t_mw_terrrocktv_rockgrp_02": 20,
+        "t_mw_terrrocktv_rockgrp_03": 16,
+        "t_mw_terrrocktv_rockgrp_04": 5,
+        "tr_m7_alynu andrani": 1,
+        "tr_m7_cb_guar_farm": 3,
+        "tr_m7_cb_guar_farmp": 1,
+        "tr_m7_enthis folvyn": 1,
+        "tr_m7_vamona folvyn": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_trader": 2
+      }
+    }
+  }
+}

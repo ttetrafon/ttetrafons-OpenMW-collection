@@ -1,0 +1,148 @@
+{
+  "cell": "Ahemmusa Camp, Wise Woman's Yurt",
+  "name": "Ahemmusa Camp, Wise Woman's Yurt",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_ashl_a_al_30": 1,
+        "gvrm_ashl_a_skm_30": 1,
+        "gvrm_bcom_am_marker": 1
+      }
+    },
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_c_bug_neck_1": 1,
+        "aatl_c_bug_ring_2": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_wise": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_bedroll": 4,
+        "furn_ashl_chime_01": 1,
+        "furn_ashl_chime_02": 1,
+        "furn_ashl_chime_03": 1,
+        "furn_ashl_chime_04": 1,
+        "furn_ashl_chime_05": 1,
+        "furn_ashl_chime_06": 1,
+        "furn_ashl_chime_07": 1,
+        "furn_ashl_chime_08": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_bedroll": 4,
+        "furn_ashl_chime_01": 1,
+        "furn_ashl_chime_02": 1,
+        "furn_ashl_chime_03": 1,
+        "furn_ashl_chime_04": 1,
+        "furn_ashl_chime_05": 1,
+        "furn_ashl_chime_06": 1,
+        "furn_ashl_chime_07": 1,
+        "furn_ashl_chime_08": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::130979",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::130980",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::130985",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::131004",
+      "object": "furn_ashl_chime_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::131005",
+      "object": "furn_ashl_chime_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::131006",
+      "object": "furn_ashl_chime_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::131007",
+      "object": "furn_ashl_chime_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::131008",
+      "object": "furn_ashl_chime_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::131009",
+      "object": "furn_ashl_chime_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::131010",
+      "object": "furn_ashl_chime_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::131011",
+      "object": "furn_ashl_chime_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::131018",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

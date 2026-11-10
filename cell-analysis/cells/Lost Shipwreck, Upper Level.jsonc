@@ -1,0 +1,16 @@
+{
+  "cell": "Lost Shipwreck, Upper Level",
+  "name": "Lost Shipwreck, Upper Level",
+  "plugins": {
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_m19_bottle": 1
+      }
+    },
+    "OAAB - Shipwrecks.esm": {
+      "modified": {
+        "ex_de_ship_trapdoor": 1
+      }
+    }
+  }
+}

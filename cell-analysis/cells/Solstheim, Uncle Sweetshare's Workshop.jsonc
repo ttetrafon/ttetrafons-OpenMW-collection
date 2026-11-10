@@ -1,0 +1,66 @@
+{
+  "cell": "Solstheim, Uncle Sweetshare's Workshop",
+  "name": "Solstheim, Uncle Sweetshare's Workshop",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "modified": {
+        "in_s_door": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "in_s_door": 1,
+        "ingred_moon_sugar_01": 4
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "in_s_door": 1,
+        "ingred_moon_sugar_01": 4
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::14595",
+      "object": "in_s_door",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::23991",
+      "object": "ingred_moon_sugar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::23992",
+      "object": "ingred_moon_sugar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::23993",
+      "object": "ingred_moon_sugar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::23999",
+      "object": "ingred_moon_sugar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

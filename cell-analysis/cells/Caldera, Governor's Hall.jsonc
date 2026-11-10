@@ -1,0 +1,28 @@
+{
+  "cell": "Caldera, Governor's Hall",
+  "name": "Caldera, Governor's Hall",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_misc_uni_pillow_02": 2,
+        "am_sc_paper plain": 1,
+        "am_writer2": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_assassin": 1
+      }
+    },
+    "Clear Your Name.esp": {
+      "added": {
+        "luce_cyn_addtopic_nolus": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "cell": "Port Telvannis, Sendal Tithres: Weaponsmith",
+  "name": "Port Telvannis, Sendal Tithres: Weaponsmith",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "chitin shortsword": 1,
+        "cruel sparkstar": 2,
+        "de_p_chest_arms": 1,
+        "furn_anvil00": 1,
+        "furn_de_forge_01": 1,
+        "furn_de_p_bookshelf_01": 1,
+        "furn_log_01": 1,
+        "furn_log_02": 1,
+        "furn_log_03": 1,
+        "hammer_repair": 3,
+        "in_t_housepod_02": 1,
+        "in_t_housepod_door_exit": 1,
+        "in_t_housepod_pole_01": 2,
+        "in_t_housepod_pole_03": 2,
+        "in_t_housepod_pole_04": 2,
+        "iron boots": 1,
+        "iron shortsword": 1,
+        "light_de_lamp_01_128": 2,
+        "light_fire_nosmoke_128": 1,
+        "misc_de_bellows10": 1,
+        "northmarker": 1,
+        "orange_128_01_d": 1,
+        "repair_journeyman_01": 2,
+        "repair_master_01": 1,
+        "repair_prongs": 3,
+        "t_com_iron_cuirass_01": 1,
+        "t_com_iron_greaves_01": 1,
+        "t_com_iron_morningstar_01": 1,
+        "t_mwde_var_cr1wpnsmith": 1,
+        "t_mwde_var_cr2wpnsmith": 1,
+        "tr_m1_chest_s_urchin": 1,
+        "tr_m1_sendal_tithres": 1,
+        "tr_m1_tel_guard_s": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_smith": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_in_smith_spawn": 1
+      }
+    }
+  }
+}

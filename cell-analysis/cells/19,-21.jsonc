@@ -1,0 +1,71 @@
+{
+  "cell": "19,-21",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "contain_trama_shrub_01": 2,
+        "contain_trama_shrub_02": 2,
+        "contain_trama_shrub_03": 1,
+        "contain_trama_shrub_05": 1,
+        "contain_trama_shrub_06": 2,
+        "ex_dae_buttress_ruin_01": 1,
+        "ex_dae_pillar_02_ruin_02": 1,
+        "ex_dae_pillar_03": 1,
+        "flora_ash_grass_b_01": 2,
+        "flora_ash_grass_r_01": 4,
+        "flora_rm_scathecraw_01": 3,
+        "flora_rm_scathecraw_02": 1,
+        "sound_rocks00": 1,
+        "t_mw_cr_cliffracerdiseased": 2,
+        "t_mw_fauna_ventworm_01": 1,
+        "t_mw_fauna_ventworm_02": 1,
+        "t_mw_fauna_ventworm_04": 1,
+        "t_mw_flora_scathecraw03": 1,
+        "t_mw_flora_treemh_dead_05": 1,
+        "t_mw_florass_rougecam01": 3,
+        "t_mw_florass_rougecam02": 4,
+        "t_mw_florass_rougecam03": 1,
+        "t_mw_lvl_daedroths-2": 1,
+        "t_mw_mine_oresulfur02": 1,
+        "t_mw_rlvl_sunderedscarland+0": 1,
+        "t_mw_stat_kwamaexplorers": 1,
+        "t_mw_stat_nixhounds": 2,
+        "t_mw_terrmineralpoolss_01": 1,
+        "t_mw_terrmineralpoolss_02": 1,
+        "t_mw_terrrockss_rock_02": 6,
+        "t_mw_terrrockss_rock_05": 1,
+        "t_mw_terrrockss_rock_06": 7,
+        "t_mw_terrrockss_rock_25": 4,
+        "t_mw_terrrockss_rock_49": 5,
+        "t_mw_terrrockss_rock_53": 1,
+        "t_mw_terrrockss_rock_550": 2,
+        "t_mw_terrrockss_rock_57": 7,
+        "t_mw_terrrockss_rock_58": 1,
+        "t_mw_terrrockss_rock_79": 1,
+        "t_mw_terrrocksss_rock_02": 6,
+        "t_mw_terrrocksss_rock_07": 1,
+        "t_mw_terrrocksss_rock_09": 1,
+        "t_mw_terrrocksss_rock_13": 2,
+        "t_mw_terrrocksss_rock_14": 2,
+        "t_mw_terrrocksss_rock_19": 1,
+        "t_mw_terrrocksss_rock_55": 3,
+        "t_mw_terrrocksss_rock_550": 3,
+        "t_mw_terrrocksss_rock_58": 2,
+        "t_mw_terrsulphurss_pool1024_01": 1,
+        "terrain_ma_rock32": 5,
+        "terrain_rock_ma_19": 2,
+        "terrain_rock_ma_25": 2,
+        "terrain_rock_ma_49": 6,
+        "tramaroot_01": 1,
+        "tramaroot_02": 1,
+        "tramaroot_04": 2,
+        "tramaroot_06": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

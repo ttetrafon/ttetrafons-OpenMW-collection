@@ -1,0 +1,82 @@
+{
+  "cell": "Mournhold Temple: Reception Area",
+  "name": "Mournhold Temple: Reception Area",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_bcom_am_marker": 1,
+        "gvrm_mhcit_dun": 1
+      }
+    },
+    "Immersive Mournhold.esp": {
+      "added": {
+        "a1_lehnias_renasi": 1,
+        "chest_small_01_gold_25": 1,
+        "misc_de_pot_blue_02": 1,
+        "nb_temp_01_sq": 1,
+        "sc_paper plain": 2
+      },
+      "modified": {
+        "chest_small_02_gold_10": 1,
+        "furn_de_r_chair_03": 3,
+        "furn_de_r_table_03": 1,
+        "light_de_candle_02_64": 1,
+        "misc_inkwell": 1,
+        "misc_quill": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "chest_small_02_gold_10": 1,
+        "misc_inkwell": 1,
+        "misc_quill": 1,
+        "sc_paper plain": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "chest_small_02_gold_10": 1,
+        "misc_inkwell": 1,
+        "misc_quill": 1,
+        "sc_paper plain": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "tribunal::25536",
+      "object": "sc_paper plain",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25537",
+      "object": "misc_quill",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25538",
+      "object": "misc_inkwell",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25539",
+      "object": "chest_small_02_gold_10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

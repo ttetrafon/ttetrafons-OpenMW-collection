@@ -1,0 +1,41 @@
+{
+  "cell": "Akimaes Grotto",
+  "name": "Akimaes Grotto",
+  "plugins": {
+    "Hidden Grotto Loot.ESP": {
+      "added": {
+        "gold_001": 16,
+        "ingred_diamond_01": 1,
+        "ingred_emerald_01": 1,
+        "xero_grotto_chest": 3
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "blue water ref 128": 5,
+        "blue water ref 256": 4,
+        "h2o_all_lev+2": 1,
+        "plx_dreugh_kollop": 1,
+        "plx_dreugh_man'o'war": 1,
+        "plx_in_dreugh": 6,
+        "plx_water": 8,
+        "purp_01_128_pulse": 1
+      },
+      "modified": {
+        "r0_h2o_all_lev+0_int": 2,
+        "r0_h2o_all_lev+2_int": 3,
+        "r0_h2o_all_lev-2_int": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 14
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "modified": {
+        "blue water ref 768": 1
+      }
+    }
+  }
+}

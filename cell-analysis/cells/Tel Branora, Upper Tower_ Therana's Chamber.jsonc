@@ -1,0 +1,91 @@
+{
+  "cell": "Tel Branora, Upper Tower: Therana's Chamber",
+  "name": "Tel Branora, Upper Tower: Therana's Chamber",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_reader12": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_alchemist": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_theranapipe": 1
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_ff_zharna_key": 1
+      }
+    },
+    "Privileges&Services 1.1.esp": {
+      "added": {
+        "abm_trapgutelup": 1
+      }
+    },
+    "Devilish Sleep Spell.esp": {
+      "added": {
+        "detd_ring_of_instant_rest": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "act_crystal_01_pulse": 1,
+        "act_crystal_02_pulse": 1,
+        "active_de_bedroll": 1,
+        "active_de_p_bed_11": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "act_crystal_01_pulse": 1,
+        "act_crystal_02_pulse": 1,
+        "active_de_bedroll": 1,
+        "active_de_p_bed_11": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::357809",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::357814",
+      "object": "active_de_p_bed_11",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::357936",
+      "object": "act_crystal_01_pulse",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::357937",
+      "object": "act_crystal_02_pulse",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "cell": "Gnisis, Madach Tradehouse",
+  "name": "Gnisis, Madach Tradehouse",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "furn_com_rm_chair_03": 2,
+        "gvrm_s+e_madachtrdh": 2
+      }
+    },
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_tawern_amb00": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_pr_bed_08": 2,
+        "gold_025": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_pr_bed_08": 2,
+        "gold_025": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::33340",
+      "object": "active_de_pr_bed_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::33369",
+      "object": "active_de_pr_bed_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::33605",
+      "object": "gold_025",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

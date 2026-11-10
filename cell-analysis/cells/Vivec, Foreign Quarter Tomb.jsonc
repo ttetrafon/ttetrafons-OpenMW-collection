@@ -1,0 +1,24 @@
+{
+  "cell": "Vivec, Foreign Quarter Tomb",
+  "name": "Vivec, Foreign Quarter Tomb",
+  "plugins": {
+    "Holy Art.ESP": {
+      "added": {
+        "vd_velothismall_02": 1
+      }
+    },
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_m_bone_skull_dun_war": 1,
+        "aatl_npc_cult_vrynbaalo": 1,
+        "ab_ingmine_amber_01": 2
+      }
+    },
+    "LootWellUrned.ESP": {
+      "added": {
+        "_uyl_light": 1,
+        "_uyl_vivecforeign": 1
+      }
+    }
+  }
+}

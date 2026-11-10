@@ -1,0 +1,115 @@
+{
+  "cell": "Caldera, Shenk's Shovel",
+  "name": "Caldera, Shenk's Shovel",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "furn_com_rm_barstool": 1,
+        "gvrm_am_marker": 1,
+        "gvrm_s_merc4hire_impforts": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_eaterday03": 1
+      },
+      "modified": {
+        "furn_com_rm_barstool": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_baker": 1,
+        "aa_wares_publican": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_enchantdiamond": 1
+      }
+    },
+    "Privileges&Services 1.1.esp": {
+      "added": {
+        "ss_scout_caldera": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "gold_001": 5,
+        "gold_005": 3
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "gold_001": 5,
+        "gold_005": 3
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::164825",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::164826",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::324647",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::324648",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::324649",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::324650",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::324651",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::324652",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "cell": "Hlormaren, Dome",
+  "name": "Hlormaren, Dome",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_p_bed_13": 1,
+        "active_de_p_bed_28": 2,
+        "apparatus_a_alembic_01": 1,
+        "apparatus_a_mortar_01": 1,
+        "bk_bookofdaedra": 1,
+        "bookskill_destruction5": 1,
+        "com_basket_01_ingredien": 3,
+        "gold_010": 1,
+        "misc_com_bottle_03": 2,
+        "misc_com_bottle_11": 5,
+        "misc_com_bottle_13": 2,
+        "misc_com_redware_bowl": 2,
+        "misc_com_redware_flask": 3,
+        "misc_com_redware_pitcher": 2,
+        "misc_uni_pillow_01": 1,
+        "potion_skooma_01": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_p_bed_13": 1,
+        "active_de_p_bed_28": 2,
+        "apparatus_a_alembic_01": 1,
+        "apparatus_a_mortar_01": 1,
+        "bk_bookofdaedra": 1,
+        "bookskill_destruction5": 1,
+        "com_basket_01_ingredien": 3,
+        "gold_010": 1,
+        "misc_com_bottle_03": 2,
+        "misc_com_bottle_11": 5,
+        "misc_com_bottle_13": 2,
+        "misc_com_redware_bowl": 2,
+        "misc_com_redware_flask": 3,
+        "misc_com_redware_pitcher": 2,
+        "misc_uni_pillow_01": 1,
+        "potion_skooma_01": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::29844",
+      "object": "active_de_p_bed_13",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::29846",
+      "object": "active_de_p_bed_28",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::29847",
+      "object": "active_de_p_bed_28",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::29848",
+      "object": "com_basket_01_ingredien",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::29849",
+      "object": "com_basket_01_ingredien",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::29850",
+      "object": "com_basket_01_ingredien",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::29852",
+      "object": "misc_com_bottle_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::29853",
+      "object": "apparatus_a_mortar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::29854",
+      "object": "misc_com_bottle_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::29855",
+      "object": "apparatus_a_alembic_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::29856",
+      "object": "misc_com_bottle_11",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::29857",
+      "object": "misc_com_bottle_11",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::29858",
+      "object": "misc_com_bottle_11",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::29859",
+      "object": "misc_com_bottle_11",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::29860",
+      "object": "misc_com_bottle_11",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::29861",
+      "object": "misc_com_bottle_13",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::29862",
+      "object": "misc_com_bottle_13",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::29863",
+      "object": "misc_com_redware_bowl",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::29864",
+      "object": "misc_com_redware_flask",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::29865",
+      "object": "misc_com_redware_flask",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::29866",
+      "object": "misc_com_redware_flask",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::29867",
+      "object": "misc_com_redware_pitcher",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::29868",
+      "object": "potion_skooma_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::29869",
+      "object": "potion_skooma_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::29870",
+      "object": "misc_com_redware_bowl",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::29871",
+      "object": "misc_com_redware_pitcher",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::108962",
+      "object": "bk_bookofdaedra",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::281933",
+      "object": "gold_010",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::29845",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483419",
+      "object": "bookskill_destruction5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

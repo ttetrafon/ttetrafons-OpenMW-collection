@@ -1,0 +1,46 @@
+{
+  "cell": "Sadrith Mora, Telvanni Council House, Hermitage",
+  "name": "Sadrith Mora, Telvanni Council House, Hermitage",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_bed_30": 1,
+        "flora_bc_mushroom_01": 1,
+        "flora_bc_mushroom_03": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_bed_30": 1,
+        "flora_bc_mushroom_01": 1,
+        "flora_bc_mushroom_03": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::339050",
+      "object": "flora_bc_mushroom_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::339052",
+      "object": "flora_bc_mushroom_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::339076",
+      "object": "active_de_bed_30",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "cell": "10,-28",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "flora_comberry_01": 4,
+        "flora_corkbulb": 3,
+        "flora_emp_parasol_02": 1,
+        "flora_kreshweed_02": 1,
+        "flora_kreshweed_03": 1,
+        "flora_plant_03": 1,
+        "flora_sedge_02": 2,
+        "furn_com_fence_01": 1,
+        "t_com_setmw_signwayalmalexia_01": 1,
+        "t_com_setmw_signwayalmasthrr_01": 1,
+        "t_com_setmw_signwaynanaav_01": 1,
+        "t_com_setmw_signwayothrensis_01": 1,
+        "t_com_setmw_signwayroadyr_01": 1,
+        "t_com_setmw_signwaysaveri_01": 1,
+        "t_com_setmw_signwayselyn_01": 1,
+        "t_com_setmw_signwayvhul_01": 1,
+        "t_glb_flora_fern_01": 7,
+        "t_mw_cr_mudcrab": 1,
+        "t_mw_cr_netchbull": 1,
+        "t_mw_flora_shroomtableo_02": 1,
+        "t_mw_flora_shroomtableo_05": 1,
+        "t_mw_flora_shroomtableo_06": 8,
+        "t_mw_flora_templedom01": 1,
+        "t_mw_flora_templedom02": 5,
+        "t_mw_flora_timsacomeb03": 1,
+        "t_mw_flora_timsacomeb04": 1,
+        "t_mw_floraat_spartiumbealei_01": 3,
+        "t_mw_floraat_spartiumbealei_02": 3,
+        "t_mw_floraat_treeb_03": 1,
+        "t_mw_floraat_treeb_04": 1,
+        "t_mw_floraat_treeg_01": 1,
+        "t_mw_floraat_treeg_02": 1,
+        "t_mw_floraat_treeg_03": 1,
+        "t_mw_floraat_treeg_04": 3,
+        "t_mw_floraat_treeg_06": 1,
+        "t_mw_light_aanthirinmushroom": 2,
+        "t_mw_rstat_wildernessd01": 1,
+        "t_mw_terrrockat_rock_05": 1,
+        "t_mw_terrrockat_rock_10": 2,
+        "t_mw_terrrockat_rock_15": 2,
+        "t_mw_terrrockat_rock_17": 4,
+        "t_mw_terrrockat_rock_18": 1,
+        "t_mw_terrrockat_rock_21": 1,
+        "t_mw_terrrockat_rock_22": 8,
+        "t_mw_terrrockat_rock_23": 2,
+        "t_mw_terrrockat_rock_24": 3,
+        "t_mw_terrrockat_rock_25": 1,
+        "t_mw_terrrockat_rock_26": 4,
+        "t_mw_terrrockat_rock_27": 6,
+        "t_mw_terrrockat_rock_28": 1,
+        "t_mw_terrrockat_rock_29": 5,
+        "t_mw_terrrockat_rock_30": 4,
+        "t_mw_terrrockat_rockgrp_01": 24,
+        "t_mw_terrrockat_rockgrp_02": 4,
+        "t_mw_terrrockat_rockgrp_03": 10,
+        "tr_m3_q_nirmeni ieneth": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 2,
+        "_aa_travelingtrader_indo_spawn": 1
+      }
+    }
+  }
+}

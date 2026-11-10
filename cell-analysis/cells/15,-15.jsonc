@@ -1,0 +1,21 @@
+{
+  "cell": "15,-15",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "misc_com_redware_flask": 1,
+        "misc_com_redware_vase": 1,
+        "misc_de_bowl_redware_02": 1,
+        "xero_east_crate": 1,
+        "xero_furn_crate_lid_01": 1,
+        "xero_furn_crate_open_01": 1,
+        "xero_marker": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_night_only_exterior_undea": 1
+      }
+    }
+  }
+}

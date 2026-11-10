@@ -1,0 +1,47 @@
+{
+  "cell": "Vivec, Jobasha's Rare Books",
+  "name": "Vivec, Jobasha's Rare Books",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_dun_read_noble": 1
+      }
+    },
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_bk_tandarin_lies_pt1": 1,
+        "aatl_bk_tandarin_lies_pt2": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_bookseller": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_topicsofdiscussion": 1
+      }
+    },
+    "Tales of the Mad God.ESP": {
+      "added": {
+        "aom_bookchest1": 1
+      }
+    },
+    "Jobashas Spell Tomes Wares.ESP": {
+      "added": {
+        "tm_chest_jobasha": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_library_spawn": 2
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_ordinator wan_ran": 1
+      }
+    }
+  }
+}

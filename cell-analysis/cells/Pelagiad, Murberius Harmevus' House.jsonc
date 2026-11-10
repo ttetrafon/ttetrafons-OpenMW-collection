@@ -1,0 +1,26 @@
+{
+  "cell": "Pelagiad, Murberius Harmevus' House",
+  "name": "Pelagiad, Murberius Harmevus' House",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "in_com_traptop_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "in_com_traptop_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::368296",
+      "object": "in_com_traptop_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

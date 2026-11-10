@@ -1,0 +1,16 @@
+{
+  "cell": "Vhul, Tradehouse",
+  "name": "Vhul, Tradehouse",
+  "plugins": {
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_trader_indo": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_in_traders_spawn": 1
+      }
+    }
+  }
+}

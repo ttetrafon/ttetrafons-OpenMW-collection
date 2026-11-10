@@ -1,0 +1,172 @@
+{
+  "cell": "12,-8",
+  "name": "Molag Mar",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_mercwand_dun": 1,
+        "gvrm_tem_g_ba_dun": 2
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_hiddencache": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_arm_spawn": 1
+      }
+    },
+    "Creatures and Critters Light the Path.ESP": {
+      "added": {
+        "aa_cr_i_moth_all": 3
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "barrel_01_empty": 1,
+        "barrel_01_ingredients": 1,
+        "crate_01_eggs": 3,
+        "crate_01_empty": 1,
+        "crate_02_empty": 1,
+        "crate_02_food": 1,
+        "crate_02_random_pos": 4,
+        "urn_01_food": 1,
+        "urn_05_ingred": 1
+      }
+    },
+    "Local Lore - Silt Striders and Caravaners - Silt Strider Animation Restored.ESP": {
+      "modified": {
+        "kil_silt_vhul": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "barrel_01_empty": 1,
+        "barrel_01_ingredients": 1,
+        "crate_01_eggs": 3,
+        "crate_01_empty": 1,
+        "crate_02_empty": 1,
+        "crate_02_food": 1,
+        "crate_02_random_pos": 4,
+        "urn_01_food": 1,
+        "urn_05_ingred": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::186338",
+      "object": "crate_02_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::186339",
+      "object": "crate_02_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::186340",
+      "object": "crate_01_eggs",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::186341",
+      "object": "crate_01_eggs",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::186342",
+      "object": "crate_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::186343",
+      "object": "urn_05_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::186344",
+      "object": "urn_01_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::186345",
+      "object": "barrel_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::186347",
+      "object": "crate_01_eggs",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::186348",
+      "object": "crate_02_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::186349",
+      "object": "crate_02_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::186350",
+      "object": "crate_02_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::186351",
+      "object": "crate_02_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::186346",
+      "object": "barrel_01_ingredients",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "cell": "15,8",
+  "plugins": {
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_npc_crazylaskel": 1,
+        "aatl_npc_daldere": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_east_sack": 1,
+        "xero_marker": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_ex_land_dreugh": 4,
+        "plx_in_dreugh": 3,
+        "plx_water": 7
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 10
+      }
+    }
+  }
+}

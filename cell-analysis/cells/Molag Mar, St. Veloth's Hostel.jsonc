@@ -1,0 +1,154 @@
+{
+  "cell": "Molag Mar, St. Veloth's Hostel",
+  "name": "Molag Mar, St. Veloth's Hostel",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "furn_de_p_stool_01": 1,
+        "gvrm_am_marker": 2,
+        "gvrm_dun_tem_s+e": 1
+      }
+    },
+    "NOD - Core.esm": {
+      "added": {
+        "nod_rv_duke's_helmet": 1
+      }
+    },
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_tawern_amb00": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_eaternight05": 1,
+        "am_sitter3": 1
+      },
+      "modified": {
+        "furn_de_p_chair_02": 1,
+        "furn_de_p_stool_01": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_trader": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_aetheriustoxin": 1
+      },
+      "modified": {
+        "in_velothismall_corner_01": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_p_bed_03": 2,
+        "active_de_r_bed_01": 1,
+        "furn_de_bar_01": 5,
+        "furn_de_bar_02": 2,
+        "furn_de_bar_03": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_p_bed_03": 2,
+        "active_de_r_bed_01": 1,
+        "furn_de_bar_01": 5,
+        "furn_de_bar_02": 2,
+        "furn_de_bar_03": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::233913",
+      "object": "furn_de_bar_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::233914",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::233915",
+      "object": "furn_de_bar_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::233916",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::233917",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::233918",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::233919",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::233920",
+      "object": "furn_de_bar_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::233931",
+      "object": "active_de_p_bed_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::233932",
+      "object": "active_de_p_bed_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::233946",
+      "object": "active_de_r_bed_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

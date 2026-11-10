@@ -1,0 +1,69 @@
+{
+  "cell": "-1,-7",
+  "plugins": {
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_travelingtrader_spawn": 2
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_flowers": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_ai": 1
+      }
+    },
+    "Creatures and Critters Light the Path.ESP": {
+      "added": {
+        "aa_cr_i_moth_all": 3
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "flora_corkbulb": 4
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "flora_corkbulb": 4
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::3736",
+      "object": "flora_corkbulb",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::3737",
+      "object": "flora_corkbulb",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::3738",
+      "object": "flora_corkbulb",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::3739",
+      "object": "flora_corkbulb",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "cell": "-14,14",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_bandit2": 1,
+        "furn_de_ex_stool_02_nocol": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "ingred_muck_01": 5,
+        "xero_marker": 1,
+        "xero_north_chest": 1
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_comp_shareel": 1,
+        "aa_ordinator_shareel1": 1,
+        "aa_ordinator_shareel2": 1
+      },
+      "modified": {
+        "door_cavern_doors00": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_wg": 1,
+        "aa_cr_i_moth_all": 2
+      }
+    }
+  }
+}

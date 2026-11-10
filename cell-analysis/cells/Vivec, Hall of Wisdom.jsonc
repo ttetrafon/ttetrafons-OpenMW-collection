@@ -1,0 +1,31 @@
+{
+  "cell": "Vivec, Hall of Wisdom",
+  "name": "Vivec, Hall of Wisdom",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "key_private quarters": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_ordinator wan_ran": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "key_private quarters": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::482632",
+      "object": "key_private quarters",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

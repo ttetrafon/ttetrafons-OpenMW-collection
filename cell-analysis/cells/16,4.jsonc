@@ -1,0 +1,54 @@
+{
+  "cell": "16,4",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_ship_de_shack_plank_03_a": 7,
+        "_cor_ship_flotsam_02": 1,
+        "_cor_ship_flotsam_03": 1,
+        "ab_ex_deshipwrbackribs": 1,
+        "ab_ex_deshipwrribl": 1,
+        "ab_ex_deshipwrribr": 1,
+        "ab_furn_barrel02broken02": 1,
+        "ab_furn_barrel02broken05": 1,
+        "ab_furn_cratebroken02": 1,
+        "ab_furn_cratebroken05": 1,
+        "ab_furn_cratebrokenwood02": 2,
+        "ab_o_crate01food": 1,
+        "barrel_01_ingredients": 3,
+        "barrel_02_floater": 3,
+        "com_basket_01_pillows": 1,
+        "com_chest_01_empty": 1,
+        "com_sack_01": 2,
+        "com_sack_gold_05": 1,
+        "crate_01_de_weapons": 2,
+        "crate_02_iron_weapons": 2,
+        "ex_scrapwood02": 5,
+        "ex_scrapwood05": 1,
+        "misc_com_bottle_11_float": 3
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_map_03": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "misc_com_bottle_14": 1,
+        "xero_east_chest": 1,
+        "xero_marker": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_water": 7
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 7
+      }
+    }
+  }
+}

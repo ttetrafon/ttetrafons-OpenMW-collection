@@ -1,0 +1,77 @@
+{
+  "cell": "12,13",
+  "name": "Vos",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_telvguardwand": 2
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_marker": 1,
+        "xero_west_barrel": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_sailor_list_spawn": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "t_mw_fau_ceph_01": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "crate_01_de_fclothes": 1,
+        "crate_01_de_mclothes": 1,
+        "ex_t_door_01": 1,
+        "urn_01_food": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "crate_01_de_fclothes": 1,
+        "crate_01_de_mclothes": 1,
+        "ex_t_door_01": 1,
+        "urn_01_food": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::177281",
+      "object": "ex_t_door_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299458",
+      "object": "urn_01_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299459",
+      "object": "crate_01_de_mclothes",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299460",
+      "object": "crate_01_de_fclothes",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "cell": "12,-35",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "blue coast ref 1024": 8,
+        "ex_barnacles_01": 3,
+        "ex_barnacles_02": 4,
+        "ex_barnacles_03": 4,
+        "ex_barnacles_04": 1,
+        "ex_longboatwrk": 1,
+        "flora_kelp_01": 77,
+        "flora_kelp_02": 226,
+        "flora_kelp_03": 7,
+        "flora_kelp_04": 20,
+        "in_cave_plant00": 2,
+        "in_cave_plant10": 10,
+        "kollop_01_pearl": 3,
+        "kollop_02_pearl": 1,
+        "kollop_03": 1,
+        "kollop_03_pearl": 1,
+        "t_mw_cr_slaugherfish": 1,
+        "t_mw_cr_slaugherfishsmall": 1,
+        "t_mw_stat_fishpassive": 3,
+        "t_mw_stat_fishpassiveb": 2,
+        "t_mw_stat_fishpassivec": 1,
+        "t_mw_terrrockat_clifftrv_01": 1,
+        "t_mw_terrrockat_clifftrv_02": 10,
+        "t_mw_terrrockat_clifftrv_03": 1,
+        "t_mw_terrrockat_mtpeaktrv_03": 2,
+        "t_mw_terrrockat_mtridgetrv_02": 2,
+        "t_mw_terrrockat_rock_02": 1,
+        "t_mw_terrrockat_rock_10": 2,
+        "t_mw_terrrockat_rock_13": 5,
+        "t_mw_terrrockat_rock_14": 2,
+        "t_mw_terrrockat_rock_15": 1,
+        "t_mw_terrrockat_rock_16": 1,
+        "t_mw_terrrockat_rock_21": 3,
+        "t_mw_terrrockat_rock_22": 2,
+        "t_mw_terrrockat_rock_23": 2,
+        "t_mw_terrrockat_rock_24": 1,
+        "t_mw_terrrockat_rock_28": 2,
+        "t_mw_terrrockat_rockgrp_01": 6,
+        "t_mw_terrrockat_rockgrp_02": 1,
+        "t_mw_terrrockat_rockgrp_03": 4
+      }
+    },
+    "RepopulatedMainland.ESP": {
+      "added": {
+        "gvrm_band_arg_dru_trcpy": 1
+      }
+    }
+  }
+}

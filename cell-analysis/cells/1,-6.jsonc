@@ -1,0 +1,92 @@
+{
+  "cell": "1,-6",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_ship_bk_smuggler_01": 1,
+        "_cor_ship_cont_bot_04": 1,
+        "_cor_ship_de_shack_plank_03_a": 3,
+        "_cor_ship_drowned_float": 1,
+        "_cor_ship_f_corpse_01": 1,
+        "ab_ex_deshipwrmast02": 1,
+        "ab_furn_barrel02broken01": 2,
+        "ab_furn_barrel02broken05": 1,
+        "ab_furn_barrel02ring": 1,
+        "ab_furn_cratebroken01": 1,
+        "ab_furn_cratebrokenwood02": 2,
+        "ab_misc_combottle_01": 2,
+        "ab_misc_comcard03": 1,
+        "ab_misc_comcard06": 1,
+        "ab_misc_comcarddeck01": 1,
+        "ab_misc_drinksujamma": 1,
+        "ab_o_corpsefresh06": 2,
+        "ab_o_crate03smuggler": 1,
+        "barrel_01_float_food20": 4,
+        "barrel_02_float": 1,
+        "blue coast ref 1024": 1,
+        "chitin dagger": 1,
+        "crate_01_ebony": 1,
+        "crate_01_empty": 1,
+        "crate_01_misc01": 1,
+        "ex_de_docks_pilingb": 1,
+        "ex_longboatwrk": 1,
+        "ex_scrapwood02": 1,
+        "flora_kelp_01": 1,
+        "flora_kelp_02": 4,
+        "flora_kelp_03": 4,
+        "furn_de_ex_table_03": 1,
+        "gold_001": 5,
+        "kollop_03_pearl": 1,
+        "misc_com_bottle_07_float": 1,
+        "misc_de_goblet_04": 1,
+        "misc_de_pot_blue_01": 1,
+        "misc_skooma_vial": 3,
+        "orcish battle axe": 1,
+        "p_water_breathing_s": 1,
+        "terrain_rock_ai_04": 1,
+        "terrain_rock_ai_08": 2
+      },
+      "modified": {
+        "blue coast ref 1024": 1,
+        "ex_scrapwood01": 1,
+        "ex_scrapwood02": 1,
+        "ex_scrapwood05": 1,
+        "flora_kelp_01": 1,
+        "flora_kelp_02": 3,
+        "flora_kelp_03": 1,
+        "kollop_03_pearl": 1,
+        "terrain_rock_ai_08": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_m09_bottle": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "ingred_muck_01": 3,
+        "xero_marker": 1,
+        "xero_south_chest": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_flowers": 4,
+        "plx_water": 4
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_ai": 3,
+        "aa_cr_w_creature_list_1": 4,
+        "aa_cr_w_fresh_list": 1
+      }
+    }
+  }
+}

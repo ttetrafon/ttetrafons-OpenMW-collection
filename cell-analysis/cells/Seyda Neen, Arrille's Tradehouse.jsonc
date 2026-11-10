@@ -1,0 +1,109 @@
+{
+  "cell": "Seyda Neen, Arrille's Tradehouse",
+  "name": "Seyda Neen, Arrille's Tradehouse",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "furn_com_rm_barstool": 1,
+        "gvrm_merc_s+e_dun_bittercoast": 1
+      }
+    },
+    "NOD - Core.esm": {
+      "added": {
+        "nod_hat_crab_rm_mcrabhelm02": 1,
+        "rp_bc_equipment": 1
+      }
+    },
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_tawern_amb00": 1
+      }
+    },
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_a_buck_netch_h": 1,
+        "aatl_con_com_trade_buck": 1,
+        "aatl_p_loversembrace": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_trader": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_topicsofdiscussion": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bk_arrilles_tradehouse": 1,
+        "light_com_lantern_02": 1,
+        "light_com_lantern_02_128": 1,
+        "newtscale_cuirass": 1,
+        "steel dagger of swiftblade": 1
+      }
+    },
+    "Enchanted Batons.ESP": {
+      "modified": {
+        "arrille": 1,
+        "chest_small_01_gold_10": 1,
+        "chest_small_02_rndgold": 1,
+        "com_basket_arille's": 1,
+        "com_sack_02_ingred": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bk_arrilles_tradehouse": 1,
+        "light_com_lantern_02": 1,
+        "light_com_lantern_02_128": 1,
+        "newtscale_cuirass": 1,
+        "steel dagger of swiftblade": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::331577",
+      "object": "light_com_lantern_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::331680",
+      "object": "bk_arrilles_tradehouse",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::369096",
+      "object": "newtscale_cuirass",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::369097",
+      "object": "steel dagger of swiftblade",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::481424",
+      "object": "light_com_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

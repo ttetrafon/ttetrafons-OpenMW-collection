@@ -1,0 +1,47 @@
+{
+  "cell": "Vivec, Telvanni Tower",
+  "name": "Vivec, Telvanni Tower",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 2
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_cleaner13": 1,
+        "am_eaterday08": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_r_bed_18": 1,
+        "light_de_candle_06_64": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_r_bed_18": 1,
+        "light_de_candle_06_64": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::202962",
+      "object": "active_de_r_bed_18",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::443740",
+      "object": "light_de_candle_06_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

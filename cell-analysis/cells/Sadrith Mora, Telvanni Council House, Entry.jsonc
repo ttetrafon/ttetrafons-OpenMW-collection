@@ -1,0 +1,86 @@
+{
+  "cell": "Sadrith Mora, Telvanni Council House, Entry",
+  "name": "Sadrith Mora, Telvanni Council House, Entry",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_sc_paper plain": 1,
+        "am_writer6": 1,
+        "misc_inkwell": 1
+      },
+      "modified": {
+        "furn_de_r_bench_01": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_apothecary": 1,
+        "aa_wares_magical_telv": 1,
+        "aa_wares_magical_temple": 1
+      }
+    },
+    "auction.omwaddon": {
+      "added": {
+        "auc_sadrith": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "chest_01_v_potion_ap_03": 1,
+        "com_sack_02_ingred": 2,
+        "light_de_candle_12_64": 1
+      }
+    },
+    "Unique Uniques.ESP": {
+      "modified": {
+        "peacemaker": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "chest_01_v_potion_ap_03": 1,
+        "com_sack_02_ingred": 2,
+        "light_de_candle_12_64": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::428822",
+      "object": "com_sack_02_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::428823",
+      "object": "com_sack_02_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::428827",
+      "object": "light_de_candle_12_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::428828",
+      "object": "chest_01_v_potion_ap_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

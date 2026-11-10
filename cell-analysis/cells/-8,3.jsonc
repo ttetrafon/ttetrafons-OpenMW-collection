@@ -1,0 +1,288 @@
+{
+  "cell": "-8,3",
+  "name": "Gnaar Mok",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1,
+        "gvrm_balmoracitizens": 2,
+        "gvrm_bcom_am_marker": 1,
+        "gvrm_cm_wl_n": 1,
+        "gvrm_dun_fish_sit": 2,
+        "gvrm_mercwand_dun_bitcoast": 1
+      }
+    },
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "a_photodragons": 1,
+        "sound_swamp_2": 2
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_fisherman12": 1
+      }
+    },
+    "BC Sounds Naturalized.esp": {
+      "added": {
+        "opn_a_photodragons": 1,
+        "opn_sound_swamp_1": 3,
+        "opn_sound_swamp_2": 4
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_marker": 1,
+        "xero_west_sack": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_hiddencache": 4
+      }
+    },
+    "EKM Traveling Trader.ESP": {
+      "added": {
+        "ekm_traderk_gnaarmok": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_mugger_spawn": 1,
+        "_aa_sailor_list_spawn": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_fresh_list": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_hlaalu out_ran": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "com_chest_01_empty": 1,
+        "com_chest_01_misc06": 1,
+        "com_chest_11_b1": 1,
+        "com_sack_01": 1,
+        "com_sack_01_chpfood5": 3,
+        "com_sack_01_ingred": 1,
+        "com_sack_02_ingred": 2,
+        "com_sack_02_msugar2": 1,
+        "com_sack_02_saltrice_10": 1,
+        "com_sack_03_pos": 1,
+        "misc_clothbolt_01": 3,
+        "misc_clothbolt_02": 2,
+        "misc_clothbolt_03": 4,
+        "misc_de_fishing_pole": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "com_chest_01_empty": 1,
+        "com_chest_01_misc06": 1,
+        "com_chest_11_b1": 1,
+        "com_sack_01": 1,
+        "com_sack_01_chpfood5": 3,
+        "com_sack_01_ingred": 1,
+        "com_sack_02_ingred": 2,
+        "com_sack_02_msugar2": 1,
+        "com_sack_02_saltrice_10": 1,
+        "com_sack_03_pos": 1,
+        "misc_clothbolt_01": 3,
+        "misc_clothbolt_02": 2,
+        "misc_clothbolt_03": 4,
+        "misc_de_fishing_pole": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::230718",
+      "object": "misc_de_fishing_pole",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299139",
+      "object": "com_sack_02_saltrice_10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299140",
+      "object": "com_sack_03_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299141",
+      "object": "com_sack_02_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299142",
+      "object": "com_sack_02_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299143",
+      "object": "com_sack_01_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299144",
+      "object": "com_sack_01_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299145",
+      "object": "com_sack_02_msugar2",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299146",
+      "object": "com_chest_11_b1",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299147",
+      "object": "misc_clothbolt_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299148",
+      "object": "misc_clothbolt_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299149",
+      "object": "misc_clothbolt_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299150",
+      "object": "misc_clothbolt_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299151",
+      "object": "misc_clothbolt_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299152",
+      "object": "misc_clothbolt_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299153",
+      "object": "misc_clothbolt_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299154",
+      "object": "misc_clothbolt_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299155",
+      "object": "misc_clothbolt_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299156",
+      "object": "com_chest_01_misc06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299157",
+      "object": "com_chest_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299158",
+      "object": "com_sack_01_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299159",
+      "object": "com_sack_01_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299160",
+      "object": "com_sack_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

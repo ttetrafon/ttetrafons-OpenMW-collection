@@ -1,0 +1,192 @@
+{
+  "cell": "Zainab Camp, Wise Woman's Yurt",
+  "name": "Zainab Camp, Wise Woman's Yurt",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_ashl_z_al_30": 1,
+        "gvrm_ashl_z_skm_30": 1
+      }
+    },
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_c_bug_neck_1": 1,
+        "aatl_n_claw_sharp": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_wise": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_ashlandspellbook": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_bedroll": 4,
+        "furn_ashl_chime_01": 1,
+        "furn_ashl_chime_02": 1,
+        "furn_ashl_chime_03": 1,
+        "furn_ashl_chime_04": 1,
+        "furn_ashl_chime_05": 1,
+        "furn_ashl_chime_06": 1,
+        "furn_ashl_chime_07": 1,
+        "furn_ashl_chime_08": 1,
+        "ingred_alit_hide_01": 1,
+        "ingred_dreugh_wax_01": 1,
+        "ingred_green_lichen_01": 1,
+        "ingred_hackle-lo_leaf_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_bedroll": 4,
+        "furn_ashl_chime_01": 1,
+        "furn_ashl_chime_02": 1,
+        "furn_ashl_chime_03": 1,
+        "furn_ashl_chime_04": 1,
+        "furn_ashl_chime_05": 1,
+        "furn_ashl_chime_06": 1,
+        "furn_ashl_chime_07": 1,
+        "furn_ashl_chime_08": 1,
+        "ingred_alit_hide_01": 1,
+        "ingred_dreugh_wax_01": 1,
+        "ingred_green_lichen_01": 1,
+        "ingred_hackle-lo_leaf_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::131430",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::131431",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::131436",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::131455",
+      "object": "furn_ashl_chime_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::131456",
+      "object": "furn_ashl_chime_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::131457",
+      "object": "furn_ashl_chime_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::131458",
+      "object": "furn_ashl_chime_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::131459",
+      "object": "furn_ashl_chime_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::131460",
+      "object": "furn_ashl_chime_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::131461",
+      "object": "furn_ashl_chime_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::131462",
+      "object": "furn_ashl_chime_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::131469",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::460113",
+      "object": "ingred_alit_hide_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::460114",
+      "object": "ingred_dreugh_wax_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::460115",
+      "object": "ingred_green_lichen_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::460116",
+      "object": "ingred_hackle-lo_leaf_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

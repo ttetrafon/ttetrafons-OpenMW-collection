@@ -1,0 +1,28 @@
+{
+  "cell": "9,16",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "misc_com_metal_goblet_02": 1,
+        "xero_marker": 1,
+        "xero_north_chest": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_ex_daedric_ruins_spawn": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_daedra_shrine_molagbal": 4,
+        "plx_ex_daed_bat": 3
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_shrine_molagbal": 4
+      }
+    }
+  }
+}

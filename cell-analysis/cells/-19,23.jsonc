@@ -1,0 +1,161 @@
+{
+  "cell": "-19,23",
+  "name": "Thirsk",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "bm_ex_horker_h20": 2,
+        "sp_bm_flora_treepineg_02": 1,
+        "sp_stat_seagulls": 1,
+        "t_mw_terrrockbm_mtridge_02": 1,
+        "t_nor_dngbarrow_x_arc_02": 1,
+        "terrain_rock_bm_04": 1,
+        "terrain_rock_bm_05": 1,
+        "terrain_rock_bm_09": 1,
+        "terrain_rock_bm_35": 1,
+        "terrain_rocks_bm_02": 2
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_bookseller": 1,
+        "aa_wares_smith": 1
+      }
+    },
+    "RepopulatedBloodmoon.ESP": {
+      "added": {
+        "gvrm_mercwand_nrd": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bm nordic silver shortsword": 1,
+        "contain_bm_hollowstump": 1,
+        "hammer_repair": 1,
+        "light_com_lantern_02_128": 1,
+        "misc_com_basket_01": 1,
+        "misc_com_bottle_10": 1,
+        "misc_com_bucket_01": 1,
+        "misc_com_tankard_01": 1,
+        "misc_de_bellows10": 1,
+        "misc_hook": 1,
+        "repair_journeyman_01": 1,
+        "repair_prongs": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bm nordic silver shortsword": 1,
+        "contain_bm_hollowstump": 1,
+        "hammer_repair": 1,
+        "light_com_lantern_02_128": 1,
+        "misc_com_basket_01": 1,
+        "misc_com_bottle_10": 1,
+        "misc_com_bucket_01": 1,
+        "misc_com_tankard_01": 1,
+        "misc_de_bellows10": 1,
+        "misc_hook": 1,
+        "repair_journeyman_01": 1,
+        "repair_prongs": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::11651",
+      "object": "light_com_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::11652",
+      "object": "misc_hook",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::17961",
+      "object": "misc_com_basket_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::17962",
+      "object": "misc_com_bottle_10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::17963",
+      "object": "misc_com_bucket_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::17964",
+      "object": "misc_com_tankard_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::17965",
+      "object": "misc_de_bellows10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::17966",
+      "object": "repair_journeyman_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::17967",
+      "object": "repair_prongs",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::17968",
+      "object": "hammer_repair",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::19365",
+      "object": "bm nordic silver shortsword",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::32966",
+      "object": "contain_bm_hollowstump",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

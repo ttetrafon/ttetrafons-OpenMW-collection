@@ -1,0 +1,72 @@
+{
+  "cell": "Narsis, Domican Vitresius: Alchemist",
+  "name": "Narsis, Domican Vitresius: Alchemist",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "apparatus_j_alembic_01": 1,
+        "apparatus_j_calcinator_01": 1,
+        "apparatus_j_mortar_01": 1,
+        "apparatus_j_retort_01": 1,
+        "crate_01_apparatus": 1,
+        "furn_de_rope_03": 1,
+        "furn_de_rug_01": 1,
+        "furn_de_rug_big_09": 1,
+        "furn_de_tapestry_09": 3,
+        "gold_025": 1,
+        "in_hlaalu_doorjamb_load": 1,
+        "in_hlaalu_loaddoor_01": 1,
+        "in_hlaalu_room_corner": 3,
+        "in_hlaalu_room_door1": 1,
+        "light_de_candle_20": 2,
+        "light_de_lamp_07_blue": 1,
+        "light_de_lantern_09_128": 1,
+        "misc_com_bottle_07": 1,
+        "misc_com_bottle_12": 1,
+        "misc_de_pot_blue_01": 1,
+        "misc_de_pot_glass_peach_01": 2,
+        "misc_de_pot_glass_peach_02": 1,
+        "misc_de_pot_green_01": 1,
+        "misc_de_pot_redware_01": 1,
+        "northmarker": 1,
+        "p_chameleon_q": 1,
+        "p_disease_resistance_s": 1,
+        "p_fire_shield_q": 1,
+        "p_fortify_endurance_s": 1,
+        "p_fortify_personality_e": 1,
+        "p_invisibility_q": 1,
+        "p_jump_e": 1,
+        "p_levitation_s": 1,
+        "p_light_s": 1,
+        "p_magicka_resistance_c": 1,
+        "p_poison_resistance_c": 1,
+        "p_poison_resistance_s": 1,
+        "p_reflection_c": 1,
+        "p_restore_fatigue_q": 1,
+        "p_restore_health_b": 1,
+        "p_restore_personality_e": 1,
+        "potion_comberry_wine_01": 1,
+        "t_de_blueglassbowl_01": 1,
+        "t_de_drink_bourbongoya_01": 1,
+        "t_de_furnm_bar_01": 3,
+        "t_de_furnm_bar_end_01": 1,
+        "t_de_furnm_bar_end_02": 1,
+        "t_de_furnm_bookshelf_01": 1,
+        "t_de_furnm_shelf_01": 2,
+        "t_de_scales_01": 1,
+        "t_ingmine_sapphire_01": 2,
+        "t_mwcom_furn_potional4": 1,
+        "t_mwcom_var_bs1ing": 1,
+        "t_mwcom_var_bs1ingnars": 1,
+        "t_mwde_furn_chs2ing": 1,
+        "tr_m7_domican vitresius": 1,
+        "tr_m7_narsis_keydomican": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_alchemist": 1
+      }
+    }
+  }
+}

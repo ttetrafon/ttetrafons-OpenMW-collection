@@ -1,0 +1,20 @@
+{
+  "cell": "9,12",
+  "plugins": {
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_travelingtrader_tel_spawn": 1
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_comp_aria": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_gz": 1
+      }
+    }
+  }
+}

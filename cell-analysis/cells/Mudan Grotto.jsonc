@@ -1,0 +1,22 @@
+{
+  "cell": "Mudan Grotto",
+  "name": "Mudan Grotto",
+  "plugins": {
+    "Hidden Grotto Loot.ESP": {
+      "added": {
+        "ingred_diamond_01": 1,
+        "misc_com_metal_goblet_02": 1,
+        "misc_dwrv_coin00": 4,
+        "xero_chest_empty": 1,
+        "xero_grotto_chest": 3
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "modified": {
+        "r0_h2o_all_lev+0_int": 1,
+        "r0_h2o_all_lev+2_int": 1,
+        "r0_h2o_all_lev-2_int": 1
+      }
+    }
+  }
+}

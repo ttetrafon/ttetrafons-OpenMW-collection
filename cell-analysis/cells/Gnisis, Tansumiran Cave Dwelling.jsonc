@@ -1,0 +1,34 @@
+{
+  "cell": "Gnisis, Tansumiran Cave Dwelling",
+  "name": "Gnisis, Tansumiran Cave Dwelling",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "gold_001": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "gold_001": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::313851",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::313852",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

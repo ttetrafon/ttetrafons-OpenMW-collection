@@ -1,0 +1,96 @@
+{
+  "cell": "Ashamanu Camp, Kausha's Yurt",
+  "name": "Ashamanu Camp, Kausha's Yurt",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "furn_ashl_chime_01": 1,
+        "furn_ashl_chime_02": 1,
+        "furn_ashl_chime_03": 1,
+        "furn_ashl_chime_04": 1,
+        "furn_ashl_chime_05": 1,
+        "furn_ashl_chime_06": 1,
+        "furn_ashl_chime_07": 1,
+        "furn_ashl_chime_08": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "furn_ashl_chime_01": 1,
+        "furn_ashl_chime_02": 1,
+        "furn_ashl_chime_03": 1,
+        "furn_ashl_chime_04": 1,
+        "furn_ashl_chime_05": 1,
+        "furn_ashl_chime_06": 1,
+        "furn_ashl_chime_07": 1,
+        "furn_ashl_chime_08": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::274796",
+      "object": "furn_ashl_chime_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274797",
+      "object": "furn_ashl_chime_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274798",
+      "object": "furn_ashl_chime_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274799",
+      "object": "furn_ashl_chime_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274800",
+      "object": "furn_ashl_chime_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274801",
+      "object": "furn_ashl_chime_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274802",
+      "object": "furn_ashl_chime_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::274803",
+      "object": "furn_ashl_chime_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

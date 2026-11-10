@@ -1,0 +1,55 @@
+{
+  "cell": "29,-11",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_shore_cliffracer_lev-2": 1,
+        "flora_bc_moss_18": 1,
+        "flora_bittergreen_03": 1,
+        "flora_bittergreen_06": 1,
+        "flora_bittergreen_09": 1,
+        "flora_bittergreen_10": 1,
+        "flora_chokeweed_02": 15,
+        "flora_kreshweed_01": 6,
+        "flora_kreshweed_02": 1,
+        "flora_kreshweed_03": 4,
+        "flora_roobrush_02": 4,
+        "flora_stoneflower_01": 10,
+        "flora_stoneflower_02": 10,
+        "flora_tree_wg_02": 2,
+        "flora_tree_wg_03": 1,
+        "flora_tree_wg_08": 4,
+        "furn_com_fence_01": 1,
+        "t_com_setmw_signakamorab_01": 1,
+        "t_mw_cr_kagouti": 2,
+        "t_mw_terrrockwg_cliff_02": 5,
+        "t_mw_terrrockwg_cliff_05": 2,
+        "terrain_rock_wg_01": 2,
+        "terrain_rock_wg_02": 2,
+        "terrain_rock_wg_04": 1,
+        "terrain_rock_wg_07": 3,
+        "terrain_rock_wg_08": 1,
+        "terrain_rock_wg_10": 5,
+        "terrain_rock_wg_12": 8,
+        "terrain_rock_wg_14": 6,
+        "terrain_rock_wg_16": 8,
+        "terrain_rock_wg_17": 7,
+        "terrain_rock_wg_18": 3,
+        "terrain_rocks_wg_01": 50,
+        "terrain_rocks_wg_02": 2,
+        "terrain_rocks_wg_03": 26
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    },
+    "DM_TR_AkaMoreIndoril.esp": {
+      "modified": {
+        "t_mw_terrrockwg_cliff_02": 2,
+        "terrain_rock_wg_01": 1
+      }
+    }
+  }
+}

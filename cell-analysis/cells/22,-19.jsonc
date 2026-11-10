@@ -1,0 +1,41 @@
+{
+  "cell": "22,-19",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "contain_trama_shrub_03": 1,
+        "contain_trama_shrub_04": 1,
+        "flora_ash_grass_w_01": 6,
+        "flora_ash_yam_01": 2,
+        "flora_ash_yam_02": 1,
+        "flora_rm_scathecraw_01": 1,
+        "flora_treedead_mh_02": 1,
+        "lava_light_flicker": 1,
+        "t_de_set_roadmarkerdarvonis_01": 1,
+        "t_mw_cr_atronachflame": 1,
+        "t_mw_cr_cliffracer": 1,
+        "t_mw_flora_scathecraw04": 1,
+        "t_mw_terrrockss_rock_02": 7,
+        "t_mw_terrrockss_rock_05": 1,
+        "t_mw_terrrockss_rock_06": 2,
+        "t_mw_terrrockss_rock_10": 1,
+        "t_mw_terrrockss_rock_25": 4,
+        "t_mw_terrrockss_rock_49": 8,
+        "t_mw_terrrockss_rock_550": 1,
+        "t_mw_terrrockss_rock_57": 4,
+        "t_mw_terrrocksss_rock_05": 1,
+        "t_mw_terrrocksss_rock_07": 1,
+        "t_mw_terrrocksss_rock_57": 2,
+        "t_mw_terrrocksss_rock_58": 1,
+        "t_mw_terrrocksss_rock_67": 1,
+        "terrain_rock_ma_04": 6,
+        "volcano_steam": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

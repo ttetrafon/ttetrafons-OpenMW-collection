@@ -1,0 +1,16 @@
+{
+  "cell": "Solstheim, Eddard Barrow",
+  "name": "Solstheim, Eddard Barrow",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "ex_bm_tomb_door_01": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "un_draugrlord": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "cell": "ToddTest",
+  "name": "ToddTest",
+  "plugins": {
+    "NOD - Core.esm": {
+      "added": {
+        "alusaron": 1,
+        "ancola": 1,
+        "arathor": 1,
+        "astius hanotepelus": 1,
+        "banor seran": 1,
+        "benunius agrudilius": 1,
+        "clagius clanler": 1,
+        "daron": 1,
+        "dorisa darvel": 1,
+        "dralasa nithryon": 1,
+        "dralcea arethi": 1,
+        "edryno arethi": 1,
+        "eldafire": 1,
+        "ergnir": 1,
+        "flaenia amiulusus": 1,
+        "forven berano": 1,
+        "habasi": 1,
+        "hasphat antabolis": 1,
+        "imare": 1,
+        "indrele rathryon": 1,
+        "katie": 1,
+        "khamuzi": 1,
+        "landa": 1,
+        "luven": 1,
+        "malexa": 1,
+        "manicky": 1,
+        "margonet": 1,
+        "meril hlaano": 1,
+        "milie hastien": 1,
+        "nannithon": 1,
+        "ondres nerano": 1,
+        "onlyhestandsthere": 1,
+        "pellecia aurrus": 1,
+        "peregrina cnisia": 1,
+        "phane rielle": 1,
+        "sabrina vitellia": 1,
+        "saetring": 1,
+        "sason": 1,
+        "stargel": 1,
+        "sterdecan": 1,
+        "teleri helvi": 1,
+        "vorar helas": 1
+      },
+      "modified": {
+        "door_cavern_doors00": 1,
+        "todd_khajiit": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "0s_steam_bomber": 1
+      }
+    },
+    "The Doors of Oblivion 1.4.esp": {
+      "modified": {
+        "terrain_rock_ma_49": 1
+      }
+    },
+    "Aleanne mods for Wares.ESP": {
+      "modified": {
+        "aa_ale_outfit02": 1
+      }
+    },
+    "Hilgya for Wares.ESP": {
+      "modified": {
+        "ken": 1
+      }
+    },
+    "Clothiers_of_Vvardenfell_Wares.esp": {
+      "modified": {
+        "ken": 1
+      }
+    },
+    "Korana Other Wares.ESP": {
+      "modified": {
+        "ken": 1
+      }
+    },
+    "Elynda's Winter Wear Wares.esp": {
+      "modified": {
+        "ken": 1
+      }
+    },
+    "The Assassin's Arsenal.ESP": {
+      "modified": {
+        "ken": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::309880",
+      "object": "aa_ale_outfit02",
+      "plugins": [
+        "Aleanne mods for Wares.ESP",
+        "Hilgya for Wares.ESP",
+        "Clothiers_of_Vvardenfell_Wares.esp",
+        "Korana Other Wares.ESP",
+        "Elynda's Winter Wear Wares.esp",
+        "The Assassin's Arsenal.ESP"
+      ]
+    }
+  ]
+}

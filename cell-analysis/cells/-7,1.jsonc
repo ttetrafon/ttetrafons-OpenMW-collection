@@ -1,0 +1,42 @@
+{
+  "cell": "-7,1",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_dwemscav_dun_m_1": 1
+      }
+    },
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "a_photodragons": 1,
+        "sound_swamp_1": 1,
+        "sound_swamp_2": 3,
+        "sound_swamp_3": 1
+      }
+    },
+    "BC Sounds Naturalized.esp": {
+      "added": {
+        "opn_a_photodragons": 1,
+        "opn_sound_swamp_1": 1,
+        "opn_sound_swamp_2": 3,
+        "opn_sound_swamp_3": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_marker": 1,
+        "xero_west_sack": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_ex_dwe_spawn": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_fresh_list": 1
+      }
+    }
+  }
+}

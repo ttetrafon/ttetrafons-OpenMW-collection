@@ -1,0 +1,62 @@
+{
+  "cell": "28,4",
+  "name": "Tel Drevis",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_de_oar": 2,
+        "ex_de_railing_02": 3,
+        "ex_de_railing_03": 1,
+        "ex_de_rowboat": 1,
+        "ex_t_dock_01": 1,
+        "ex_t_door_01": 2,
+        "ex_t_doorway_01": 1,
+        "ex_t_doorway_02": 1,
+        "ex_t_housepod_02": 1,
+        "ex_t_manor_02": 1,
+        "ex_t_platform_02": 2,
+        "ex_t_root_xl_02": 1,
+        "ex_t_root_xl_03": 1,
+        "ex_t_rootball": 1,
+        "ex_t_stair_90_r_short": 1,
+        "ex_t_tunnel": 1,
+        "flora_grass_01": 1,
+        "flora_grass_02": 1,
+        "flora_grass_03": 1,
+        "flora_grass_04": 1,
+        "flora_kreshweed_01": 2,
+        "flora_kreshweed_02": 1,
+        "flora_kreshweed_03": 2,
+        "flora_root_wg_05": 1,
+        "flora_root_wg_06": 2,
+        "flora_root_wg_07": 1,
+        "flora_tree_wg_05": 1,
+        "flora_treestump_wg_01": 1,
+        "furn_de_rope_06": 1,
+        "furn_de_roped_pole_01": 1,
+        "furn_hook_01": 1,
+        "t_com_var_ropeknot_01": 1,
+        "t_de_var_lanterngreen04_128": 1,
+        "t_glb_sound_water_01": 1,
+        "t_mw_rlvl_boethianlakeswater+2": 1,
+        "t_mw_rlvl_boethianlakeswater-2": 2,
+        "terrain_rock_wg_01": 1,
+        "terrain_rock_wg_02": 2,
+        "terrain_rock_wg_05": 2,
+        "terrain_rock_wg_08": 6,
+        "terrain_rock_wg_09": 2,
+        "terrain_rock_wg_10": 1,
+        "terrain_rock_wg_12": 1,
+        "terrain_rocks_wg_01": 1,
+        "terrain_rocks_wg_02": 3,
+        "terrain_rocks_wg_03": 10,
+        "tr_m2_fanlasi maravil": 1
+      }
+    },
+    "RepopulatedMainland.ESP": {
+      "added": {
+        "gvrm_telvguardwand": 1
+      }
+    }
+  }
+}

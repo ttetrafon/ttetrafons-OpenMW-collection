@@ -1,0 +1,62 @@
+{
+  "cell": "1,22",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_crate_abandoned_01": 1,
+        "_cor_crate_pillows_01": 1,
+        "_cor_ship_de_shack_plank_03_a": 2,
+        "_cor_wl_terr_dark3": 1,
+        "ab_ex_craneattachcrate": 2,
+        "ab_ex_deshipwrfloorcorner": 2,
+        "ab_ex_deshipwrflotsam03": 1,
+        "ab_ex_deshipwrfrontfull": 1,
+        "ab_ex_deshipwrsailtorn03": 1,
+        "ab_furn_caveplankpile10": 1,
+        "ab_furn_crate03lid": 1,
+        "ab_furn_crate03open": 1,
+        "ab_furn_cratebroken01": 1,
+        "ab_furn_cratebroken02": 1,
+        "ab_furn_cratebroken03": 1,
+        "ab_furn_cratebrokenwood01": 2,
+        "ab_furn_cratebrokenwood02": 6,
+        "ab_furn_cratefillstraw": 1,
+        "ab_furn_deplnloom04": 1,
+        "ab_furn_deplnrug02": 1,
+        "ab_furn_ropecoil": 1,
+        "ab_in_deshippost": 1,
+        "ab_o_crate01bottles": 2,
+        "barrel_01_ingredients": 1,
+        "chest_small_01_empty": 1,
+        "ex_scrapwood01": 1,
+        "flora_kelp_03": 1,
+        "terrain_rock_ac_02": 6
+      },
+      "modified": {
+        "cliff racer": 1,
+        "flora_kreshweed_01": 1,
+        "sound_boat_creak00": 1,
+        "terrain_rock_ac_02": 2,
+        "terrain_rock_ac_07": 1,
+        "terrain_rock_ac_08": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "ingred_muck_01": 3,
+        "xero_marker": 1,
+        "xero_north_chest": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_water": 4
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 4
+      }
+    }
+  }
+}

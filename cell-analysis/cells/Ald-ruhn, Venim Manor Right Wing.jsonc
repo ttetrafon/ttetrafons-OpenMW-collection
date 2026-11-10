@@ -1,0 +1,66 @@
+{
+  "cell": "Ald-ruhn, Venim Manor Right Wing",
+  "name": "Ald-ruhn, Venim Manor Right Wing",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_bedroll": 1,
+        "light_de_candle_blue_02_100": 1,
+        "misc_com_bucket_01": 1,
+        "misc_com_wood_fork": 1,
+        "misc_de_bowl_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_bedroll": 1,
+        "light_de_candle_blue_02_100": 1,
+        "misc_com_bucket_01": 1,
+        "misc_com_wood_fork": 1,
+        "misc_de_bowl_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::417630",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::417631",
+      "object": "misc_com_bucket_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::417634",
+      "object": "misc_de_bowl_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::417636",
+      "object": "misc_com_wood_fork",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::468910",
+      "object": "light_de_candle_blue_02_100",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

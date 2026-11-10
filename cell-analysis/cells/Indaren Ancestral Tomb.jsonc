@@ -1,0 +1,17 @@
+{
+  "cell": "Indaren Ancestral Tomb",
+  "name": "Indaren Ancestral Tomb",
+  "plugins": {
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_ff_annah_father": 1,
+        "bonemold_tshield_hrlb": 1
+      }
+    },
+    "LootWellUrned.ESP": {
+      "added": {
+        "_uyl_indaren": 1
+      }
+    }
+  }
+}

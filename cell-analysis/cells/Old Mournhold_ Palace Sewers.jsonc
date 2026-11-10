@@ -1,0 +1,19 @@
+{
+  "cell": "Old Mournhold: Palace Sewers",
+  "name": "Old Mournhold: Palace Sewers",
+  "plugins": {
+    "Tribunal Rebalance.ESP": {
+      "added": {
+        "in_tomb_all_lev_trib": 4
+      },
+      "modified": {
+        "in_tomb_all_lev_trib": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_sewer_rat_boss": 3
+      }
+    }
+  }
+}

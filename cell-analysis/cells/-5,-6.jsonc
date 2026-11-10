@@ -1,0 +1,21 @@
+{
+  "cell": "-5,-6",
+  "plugins": {
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_replicatedvivec": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_hl_spawn": 1,
+        "_aa_solo_spawn_no_guard": 1
+      }
+    },
+    "Creatures and Critters Light the Path.ESP": {
+      "added": {
+        "aa_cr_i_moth_all": 2
+      }
+    }
+  }
+}

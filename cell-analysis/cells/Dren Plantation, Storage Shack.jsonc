@@ -1,0 +1,16 @@
+{
+  "cell": "Dren Plantation, Storage Shack",
+  "name": "Dren Plantation, Storage Shack",
+  "plugins": {
+    "Adamantium Armor Naturalized.esp": {
+      "added": {
+        "adamantium boots": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "modified": {
+        "light_de_lantern_07_128": 1
+      }
+    }
+  }
+}

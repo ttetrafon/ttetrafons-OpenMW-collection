@@ -1,0 +1,16 @@
+{
+  "cell": "14,14",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_east_barrel": 1,
+        "xero_marker": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_granshassight": 1
+      }
+    }
+  }
+}

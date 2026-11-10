@@ -1,0 +1,233 @@
+{
+  "cell": "Nchuleftingth, Upper Levels",
+  "name": "Nchuleftingth, Upper Levels",
+  "plugins": {
+    "Mage Robes.ESP": {
+      "added": {
+        "mg_act_robes_nchuleftingth": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "com_sack_01_chpfood5": 2,
+        "key_nchuleftingth": 1,
+        "misc_dwrv_artifact00": 1,
+        "misc_dwrv_artifact50": 1,
+        "misc_dwrv_bowl00": 1,
+        "misc_dwrv_coin00": 3,
+        "misc_dwrv_gear00": 5,
+        "misc_dwrv_goblet00": 4,
+        "misc_dwrv_mug00": 5,
+        "misc_dwrv_pitcher00": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "com_sack_01_chpfood5": 2,
+        "key_nchuleftingth": 1,
+        "misc_dwrv_artifact00": 1,
+        "misc_dwrv_artifact50": 1,
+        "misc_dwrv_bowl00": 1,
+        "misc_dwrv_coin00": 3,
+        "misc_dwrv_gear00": 5,
+        "misc_dwrv_goblet00": 4,
+        "misc_dwrv_mug00": 5,
+        "misc_dwrv_pitcher00": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::193014",
+      "object": "misc_dwrv_mug00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193040",
+      "object": "misc_dwrv_mug00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193041",
+      "object": "misc_dwrv_mug00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193047",
+      "object": "misc_dwrv_bowl00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193048",
+      "object": "misc_dwrv_goblet00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193049",
+      "object": "misc_dwrv_pitcher00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193050",
+      "object": "misc_dwrv_coin00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193051",
+      "object": "misc_dwrv_coin00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193052",
+      "object": "misc_dwrv_coin00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193053",
+      "object": "misc_dwrv_mug00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193054",
+      "object": "misc_dwrv_mug00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193055",
+      "object": "misc_dwrv_goblet00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193056",
+      "object": "misc_dwrv_goblet00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193057",
+      "object": "misc_dwrv_goblet00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193072",
+      "object": "misc_dwrv_gear00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193073",
+      "object": "misc_dwrv_gear00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193074",
+      "object": "misc_dwrv_gear00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193076",
+      "object": "misc_dwrv_gear00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193104",
+      "object": "misc_dwrv_artifact00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193105",
+      "object": "misc_dwrv_artifact50",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193111",
+      "object": "misc_dwrv_gear00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193118",
+      "object": "com_sack_01_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::193119",
+      "object": "com_sack_01_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::414513",
+      "object": "key_nchuleftingth",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "cell": "Aralen Ancestral Tomb",
+  "name": "Aralen Ancestral Tomb",
+  "plugins": {
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_ff_dead_vampire 1": 1,
+        "aa_ff_dead_vampire 2": 1,
+        "aa_ff_trigger_ghrash_vamp": 1
+      }
+    },
+    "LootWellUrned.ESP": {
+      "added": {
+        "_uyl_aralen": 1,
+        "_uyl_light": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "modified": {
+        "light_velothi_brazier_128": 1
+      }
+    }
+  }
+}

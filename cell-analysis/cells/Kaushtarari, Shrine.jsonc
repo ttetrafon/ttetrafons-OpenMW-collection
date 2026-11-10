@@ -1,0 +1,17 @@
+{
+  "cell": "Kaushtarari, Shrine",
+  "name": "Kaushtarari, Shrine",
+  "plugins": {
+    "Unique Jewelry and Accessories.esp": {
+      "added": {
+        "ex_dae_door_load_oval": 1,
+        "in_dae_doorjamb_load": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_lockedringitem": 1
+      }
+    }
+  }
+}

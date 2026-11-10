@@ -1,0 +1,88 @@
+{
+  "cell": "Ebonheart, Imperial Commission",
+  "name": "Ebonheart, Imperial Commission",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_reader5": 1
+      }
+    },
+    "The Doors of Oblivion 1.4.esp": {
+      "added": {
+        "bs_moth_priest": 1,
+        "bs_thanus_arentus": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_com_bed_07": 1,
+        "in_impsmall_d_hidden_01": 1,
+        "in_impsmall_door_01_shrine": 1,
+        "ingred_muck_01": 3
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_com_bed_07": 1,
+        "in_impsmall_d_hidden_01": 1,
+        "in_impsmall_door_01_shrine": 1,
+        "ingred_muck_01": 3
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::436852",
+      "object": "in_impsmall_d_hidden_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::436902",
+      "object": "active_com_bed_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::437049",
+      "object": "in_impsmall_door_01_shrine",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::478801",
+      "object": "ingred_muck_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::478802",
+      "object": "ingred_muck_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::478803",
+      "object": "ingred_muck_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

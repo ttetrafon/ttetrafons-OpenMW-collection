@@ -1,0 +1,51 @@
+{
+  "cell": "Ald-ruhn, Tiras Sadus: General Merchandise",
+  "name": "Ald-ruhn, Tiras Sadus: General Merchandise",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_trader": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_traders_spawn": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_redoran guard_ran": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "misc_inkwell": 1,
+        "misc_quill": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "misc_inkwell": 1,
+        "misc_quill": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::468857",
+      "object": "misc_quill",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::468858",
+      "object": "misc_inkwell",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

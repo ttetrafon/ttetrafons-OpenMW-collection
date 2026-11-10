@@ -1,0 +1,16 @@
+{
+  "cell": "13,20",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_t_menhir_l_01": 3
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_marker": 1,
+        "xero_north_barrel": 1
+      }
+    }
+  }
+}

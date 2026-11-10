@@ -1,0 +1,84 @@
+{
+  "cell": "-4,-4",
+  "plugins": {
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_flowers": 3
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_ai": 2
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "miner's pick": 3,
+        "misc_com_bottle_12": 1,
+        "misc_com_wood_cup_02": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "miner's pick": 3,
+        "misc_com_bottle_12": 1,
+        "misc_com_wood_cup_02": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::484105",
+      "object": "miner's pick",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::484106",
+      "object": "miner's pick",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::484107",
+      "object": "misc_com_bottle_12",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::484108",
+      "object": "misc_com_wood_cup_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::484109",
+      "object": "misc_com_wood_cup_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::484111",
+      "object": "miner's pick",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

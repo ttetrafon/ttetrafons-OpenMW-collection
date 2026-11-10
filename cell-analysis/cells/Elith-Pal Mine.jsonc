@@ -1,0 +1,47 @@
+{
+  "cell": "Elith-Pal Mine",
+  "name": "Elith-Pal Mine",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1,
+        "gvrm_un_mn_cm_dun": 3
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_miner10": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "miner's pick": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "modified": {
+        "light_tikitorch003": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_imperial guard_ran": 3
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "miner's pick": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::334153",
+      "object": "miner's pick",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

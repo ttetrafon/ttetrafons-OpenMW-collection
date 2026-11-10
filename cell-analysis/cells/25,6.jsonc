@@ -1,0 +1,46 @@
+{
+  "cell": "25,6",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "com_sack_01_chpfood5": 2,
+        "com_sack_02_gold_100": 1,
+        "ex_t_menhir_01": 3,
+        "flora_emp_parasol_01": 9,
+        "flora_emp_parasol_02": 7,
+        "flora_emp_parasol_03": 6,
+        "flora_kreshweed_01": 15,
+        "flora_kreshweed_02": 4,
+        "flora_kreshweed_03": 14,
+        "flora_t_podbud_01": 10,
+        "flora_t_podbud_02": 12,
+        "flora_t_podbud_03": 5,
+        "flora_t_podbud_04": 6,
+        "flora_tree_ac_01": 5,
+        "flora_tree_ac_02": 2,
+        "flora_tree_ac_03": 4,
+        "flora_tree_ac_04": 3,
+        "flora_willow_flower_01": 5,
+        "flora_willow_flower_02": 4,
+        "t_mw_rlvl_dagonurul-2": 2,
+        "terrain_rock_ac_01": 1,
+        "terrain_rock_ac_02": 4,
+        "terrain_rock_ac_03": 13,
+        "terrain_rock_ac_04": 14,
+        "terrain_rock_ac_05": 2,
+        "terrain_rock_ac_06": 7,
+        "terrain_rock_ac_07": 7,
+        "terrain_rock_ac_08": 3,
+        "terrain_rock_ac_09": 4,
+        "terrain_rock_ac_10": 12,
+        "terrain_rock_ac_11": 5,
+        "terrain_rock_ac_12": 7
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

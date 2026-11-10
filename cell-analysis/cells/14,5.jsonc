@@ -1,0 +1,26 @@
+{
+  "cell": "14,5",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_east_barrel": 1,
+        "xero_marker": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_travelingtrader_tel_spawn": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "t_mw_fau_ceph_01": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_b_wisp_all": 1
+      }
+    }
+  }
+}

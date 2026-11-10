@@ -1,0 +1,61 @@
+{
+  "cell": "21,14",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_bedroll": 3,
+        "com_basket_01": 2,
+        "crate_01": 2,
+        "crate_02_de_weapons": 2,
+        "crate_02_empty": 1,
+        "crate_02_food": 1,
+        "de_p_chest_02_fclothes3": 1,
+        "ex_cave_door_01": 1,
+        "ex_cave_entrance_ac_01": 1,
+        "ex_t_menhir_l_01": 5,
+        "flora_chokeweed_02": 2,
+        "flora_emp_parasol_01": 3,
+        "flora_emp_parasol_03": 5,
+        "flora_kreshweed_01": 5,
+        "flora_kreshweed_02": 5,
+        "flora_kreshweed_03": 12,
+        "flora_root_wg_01": 2,
+        "flora_t_podbud_01": 11,
+        "flora_t_podbud_02": 8,
+        "flora_t_podbud_03": 8,
+        "flora_t_podbud_04": 14,
+        "flora_tree_ac_01": 4,
+        "flora_tree_ac_02": 5,
+        "flora_tree_ac_03": 3,
+        "flora_tree_ac_04": 4,
+        "flora_willow_flower_01": 4,
+        "furn_de_ex_bench_01": 1,
+        "light_pitfire01": 1,
+        "t_mw_lvl_nixhounds+0": 5,
+        "t_mw_rlvl_dagonurul-2": 3,
+        "terrain_rock_ac_01": 2,
+        "terrain_rock_ac_02": 10,
+        "terrain_rock_ac_03": 7,
+        "terrain_rock_ac_04": 10,
+        "terrain_rock_ac_05": 5,
+        "terrain_rock_ac_06": 2,
+        "terrain_rock_ac_07": 5,
+        "terrain_rock_ac_08": 6,
+        "terrain_rock_ac_09": 3,
+        "terrain_rock_ac_10": 6,
+        "terrain_rock_ac_11": 8,
+        "terrain_rock_ac_12": 5,
+        "terrain_rocks_wg_01": 1,
+        "terrain_rocks_wg_03": 4,
+        "tr_m1_r_naris mero": 1,
+        "tr_m1_r_ravaynis nelari": 1,
+        "tr_m1_r_trels vuram": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

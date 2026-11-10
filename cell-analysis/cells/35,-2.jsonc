@@ -1,0 +1,34 @@
+{
+  "cell": "35,-2",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "door_cavern_doors10": 1,
+        "ex_cave_entrance_wg_01": 1,
+        "flora_kelp_01": 22,
+        "flora_kelp_02": 12,
+        "flora_kelp_03": 8,
+        "flora_kelp_04": 7,
+        "flora_root_wg_06": 1,
+        "flora_root_wg_07": 1,
+        "flora_root_wg_08": 1,
+        "flora_tree_wg_05": 1,
+        "flora_tree_wg_06": 1,
+        "t_mw_rlvl_boethiahspineland+0": 1,
+        "terrain_rock_wg_02": 3,
+        "terrain_rock_wg_08": 11,
+        "terrain_rock_wg_09": 3,
+        "terrain_rock_wg_10": 5,
+        "terrain_rock_wg_12": 1,
+        "terrain_rock_wg_17": 2,
+        "terrain_rocks_wg_01": 8,
+        "terrain_rocks_wg_03": 9
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

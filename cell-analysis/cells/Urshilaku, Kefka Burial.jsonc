@@ -1,0 +1,18 @@
+{
+  "cell": "Urshilaku, Kefka Burial",
+  "name": "Urshilaku, Kefka Burial",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_mummy_02": 1,
+        "plx_mummy_03": 1,
+        "un_mummy": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_mummy": 1
+      }
+    }
+  }
+}

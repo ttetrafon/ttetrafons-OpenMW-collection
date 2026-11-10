@@ -1,0 +1,22 @@
+{
+  "cell": "4,19",
+  "plugins": {
+    "Aoimevelho Wares with ALL NPCs.ESP": {
+      "added": {
+        "_ar01": 1,
+        "_ar2-02": 1,
+        "_ar_6th_shield4": 2
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_flowers": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_sheo": 1
+      }
+    }
+  }
+}

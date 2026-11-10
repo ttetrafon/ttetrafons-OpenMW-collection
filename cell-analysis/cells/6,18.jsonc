@@ -1,0 +1,16 @@
+{
+  "cell": "6,18",
+  "name": "Rotheran",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_un_skm_cm_dun_30": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_hideawayring": 1
+      }
+    }
+  }
+}

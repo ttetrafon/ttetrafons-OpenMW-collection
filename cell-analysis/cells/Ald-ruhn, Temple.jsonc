@@ -1,0 +1,418 @@
+{
+  "cell": "Ald-ruhn, Temple",
+  "name": "Ald-ruhn, Temple",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1,
+        "gvrm_dun_pray_4": 6,
+        "gvrm_tem_s_temall": 1
+      }
+    },
+    "NOD - Core.esm": {
+      "added": {
+        "_rv_garevis valenim": 1
+      }
+    },
+    "Holy Art.ESP": {
+      "added": {
+        "vd_velothismall_11": 1,
+        "vd_velothismall_12": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_prayerrandom": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "added": {
+        "daylight_aldruhn_temple": 8
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_apothecary": 1,
+        "aa_wares_healer": 1,
+        "aa_wares_magical_temple": 1,
+        "aa_wares_priest": 2
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_pr_bed_24": 1,
+        "de_p_chest_02_empty": 2,
+        "light_de_candle_03_64": 2,
+        "light_de_candle_12_64": 1,
+        "light_de_candle_ivory_01_64": 2,
+        "light_de_candle_red_01_64": 4,
+        "light_de_lantern_02-177": 1,
+        "misc_com_bottle_02": 2,
+        "misc_com_bottle_03": 1,
+        "misc_com_bottle_05": 1,
+        "misc_com_bottle_07": 1,
+        "misc_com_bottle_09": 1,
+        "misc_com_bottle_10": 1,
+        "misc_de_bowl_redware_01": 2,
+        "misc_de_goblet_02": 4,
+        "misc_de_goblet_06": 3,
+        "misc_uni_pillow_01": 7,
+        "potion_comberry_wine_01": 1,
+        "torch_128": 4
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_pr_bed_24": 1,
+        "de_p_chest_02_empty": 2,
+        "light_de_candle_03_64": 2,
+        "light_de_candle_12_64": 1,
+        "light_de_candle_ivory_01_64": 2,
+        "light_de_candle_red_01_64": 4,
+        "light_de_lantern_02-177": 1,
+        "misc_com_bottle_02": 2,
+        "misc_com_bottle_03": 1,
+        "misc_com_bottle_05": 1,
+        "misc_com_bottle_07": 1,
+        "misc_com_bottle_09": 1,
+        "misc_com_bottle_10": 1,
+        "misc_de_bowl_redware_01": 2,
+        "misc_de_goblet_02": 4,
+        "misc_de_goblet_06": 3,
+        "misc_uni_pillow_01": 7,
+        "potion_comberry_wine_01": 1,
+        "torch_128": 4
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::259928",
+      "object": "misc_de_bowl_redware_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::259974",
+      "object": "active_de_pr_bed_24",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::259976",
+      "object": "light_de_candle_red_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::259977",
+      "object": "light_de_candle_red_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::259978",
+      "object": "light_de_candle_red_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::259981",
+      "object": "light_de_candle_red_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::259984",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::259985",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::259986",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::259990",
+      "object": "light_de_candle_03_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::259993",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::259994",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::259995",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::259996",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::260029",
+      "object": "light_de_lantern_02-177",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::260030",
+      "object": "light_de_candle_12_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::260058",
+      "object": "light_de_candle_ivory_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::308621",
+      "object": "de_p_chest_02_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::308622",
+      "object": "de_p_chest_02_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::308623",
+      "object": "misc_com_bottle_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::308624",
+      "object": "misc_com_bottle_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::308625",
+      "object": "misc_de_goblet_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::308626",
+      "object": "misc_de_goblet_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::308627",
+      "object": "misc_de_goblet_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::308628",
+      "object": "misc_com_bottle_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::308629",
+      "object": "potion_comberry_wine_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::308631",
+      "object": "misc_com_bottle_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::308632",
+      "object": "misc_com_bottle_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::308633",
+      "object": "misc_com_bottle_09",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::308634",
+      "object": "misc_com_bottle_10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::308635",
+      "object": "misc_de_goblet_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::308636",
+      "object": "misc_de_goblet_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::308637",
+      "object": "misc_de_goblet_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::308638",
+      "object": "misc_de_goblet_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::308640",
+      "object": "misc_de_bowl_redware_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::398448",
+      "object": "light_de_candle_ivory_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406294",
+      "object": "torch_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::468827",
+      "object": "torch_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::474279",
+      "object": "torch_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::474281",
+      "object": "torch_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483258",
+      "object": "light_de_candle_03_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

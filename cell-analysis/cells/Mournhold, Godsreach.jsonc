@@ -1,0 +1,672 @@
+{
+  "cell": "Mournhold, Godsreach",
+  "name": "Mournhold, Godsreach",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_mhcit_dun": 7
+      }
+    },
+    "Immersive Mournhold.esp": {
+      "added": {
+        "act_flora_tree_mh_01": 7,
+        "act_flora_tree_mh_02": 8,
+        "act_flora_treedead_mh_01": 7,
+        "act_flora_treedead_mh_02": 8,
+        "active_de_bedroll": 1,
+        "barrel_01_saltrice": 2,
+        "com_basket_01_chpfood": 2,
+        "com_basket_01_ingredien": 1,
+        "com_sack_00": 1,
+        "com_sack_01": 1,
+        "com_sack_01_chpfood5": 2,
+        "com_sack_01_ingred": 1,
+        "com_sack_01_saltrice_5": 2,
+        "com_sack_02": 6,
+        "com_sack_02_gold_05": 1,
+        "com_sack_02_ingred": 1,
+        "com_sack_03": 2,
+        "crate_01": 11,
+        "crate_01_apparatus": 1,
+        "crate_01_armor_steel": 1,
+        "crate_01_de_mclothes": 1,
+        "crate_01_eggs": 7,
+        "crate_01_empty": 4,
+        "crate_01_food": 2,
+        "crate_01_food_misc01": 1,
+        "crate_01_moonsugar": 1,
+        "crate_02": 1,
+        "crate_02_bottle05_16": 5,
+        "crate_02_bottle05_5": 3,
+        "crate_02_food": 7,
+        "ex_dwrv_block30": 2,
+        "ex_mh_bazaar_bench_01": 2,
+        "ex_mh_bazaar_cart_01": 1,
+        "ex_mh_bazaar_cart_01green": 1,
+        "ex_mh_lantern_post": 27,
+        "ex_mh_palace_tower": 6,
+        "ex_mh_palace_tower02": 1,
+        "ex_mh_palacewin_03": 2,
+        "ex_mh_pav_spout": 2,
+        "ex_mh_pav_tower": 1,
+        "ex_mh_pav_water_spray_nodisab": 2,
+        "ex_mh_temple": 1,
+        "ex_mh_wall_tower_01": 1,
+        "ex_mh_window_01": 5,
+        "ex_vivec_waterfall_01": 2,
+        "ex_waterfall_mist_s_01": 2,
+        "flora_bc_lilypad": 39,
+        "flora_bc_lilypad_02": 96,
+        "flora_bc_lilypad_03": 20,
+        "flora_grass_02": 1,
+        "flora_grass_04": 2,
+        "flora_grass_05": 25,
+        "flora_grass_06": 23,
+        "flora_ivy_01": 38,
+        "flora_ivy_02": 37,
+        "flora_plant_01": 4,
+        "flora_plant_02": 6,
+        "flora_plant_03": 7,
+        "flora_plant_04": 10,
+        "flora_plant_05": 12,
+        "flora_plant_06": 14,
+        "flora_plant_07": 6,
+        "flora_plant_08": 2,
+        "furn_banner_hanger_01": 10,
+        "furn_banner_helseth_01": 10,
+        "furn_de_r_bench_01": 4,
+        "furn_de_r_table_07": 1,
+        "furn_de_r_table_08": 7,
+        "furn_guarcart00": 6,
+        "furn_planter_02": 12,
+        "furn_planter_mh_01": 10,
+        "furn_planter_mh_02": 1,
+        "furn_planter_mh_03": 7,
+        "furn_planter_mh_04": 2,
+        "light_de_candle_04_64": 4,
+        "light_de_lantern_03_sway": 27,
+        "light_mh_streetlamp_01": 3,
+        "mh_tree03": 8,
+        "mh_tree10": 2,
+        "misc_com_bottle_02": 1,
+        "misc_com_bottle_05": 1,
+        "misc_com_bottle_08": 1,
+        "misc_com_bottle_11": 3,
+        "misc_com_bottle_12": 1,
+        "misc_com_bucket_metal": 1,
+        "misc_com_metal_plate_03": 4,
+        "misc_com_metal_plate_07_uni2": 1,
+        "misc_com_wood_cup_01": 2,
+        "misc_de_pot_blue_01": 1,
+        "ordinator_mh_stationary": 2,
+        "ordinator_mournhold_now": 2,
+        "rp_mh_well_01": 1,
+        "salas valor": 1,
+        "sound_mournspraynodisable": 2,
+        "sound_waterfall00": 2,
+        "t_de_furnr_chair_01": 17,
+        "t_de_setind_lanternwhite03_128": 2,
+        "t_de_setind_x_pagoda_01": 2,
+        "t_de_var_swimlantblue01fl_177": 1,
+        "t_de_var_swimlantcyan01fl_177": 1,
+        "t_de_var_swimlantgreen01fl_177": 1,
+        "t_de_var_swimlantorange01fl_177": 1,
+        "t_de_var_swimlantpurple01fl_177": 1,
+        "t_de_var_swimlantred01fl_177": 1,
+        "t_de_var_swimlantwhite01fl_177": 1,
+        "t_de_var_swimlantyellow01fl_177": 1,
+        "t_mwde_setind_cul1food": 2,
+        "t_mwde_setind_cul2food": 3,
+        "urn_01": 4,
+        "urn_01_ingred": 3,
+        "urn_02": 1,
+        "urn_04_food": 7,
+        "urn_04_ingred": 2,
+        "urn_05": 3,
+        "urn_05_food": 1
+      },
+      "modified": {
+        "act_flora_tree_mh_01": 2,
+        "act_flora_tree_mh_02": 13,
+        "act_flora_treedead_mh_01": 2,
+        "act_flora_treedead_mh_02": 13,
+        "bk_commontongue": 2,
+        "editormarker_box_02": 1,
+        "elanande": 1,
+        "eno romari": 1,
+        "ex_mh_bar_01": 1,
+        "ex_mh_building_01": 1,
+        "ex_mh_building_02": 1,
+        "ex_mh_building_03": 1,
+        "ex_mh_building_04": 1,
+        "ex_mh_building_05": 1,
+        "ex_mh_building_07": 1,
+        "ex_mh_building_08": 1,
+        "ex_mh_building_09": 1,
+        "ex_mh_canal_grate_01": 2,
+        "ex_mh_door_02": 9,
+        "ex_mh_door_02_ignatius": 1,
+        "ex_mh_door_02_sadri": 1,
+        "ex_mh_door_02_velas": 1,
+        "ex_mh_doorjamb_02a": 10,
+        "ex_mh_doorjamb_03": 2,
+        "ex_mh_lantern_post": 5,
+        "ex_mh_palace_tower": 2,
+        "ex_mh_palace_wall_02": 1,
+        "ex_mh_palacewin_02": 2,
+        "ex_mh_palacewin_03": 1,
+        "ex_mh_pav_gate_door": 2,
+        "ex_mh_pavillion_gate_02": 2,
+        "ex_mh_platform_01": 1,
+        "ex_mh_platform_02": 1,
+        "ex_mh_platform_03": 1,
+        "ex_mh_road_01": 1,
+        "ex_mh_sewer_trapdoor_01": 1,
+        "ex_mh_steps_01": 2,
+        "ex_mh_wall_01": 1,
+        "ex_mh_wall_tower_01": 1,
+        "ex_mh_window_01": 31,
+        "ex_mh_window_03": 5,
+        "flora_grass_05": 26,
+        "flora_grass_06": 27,
+        "flora_plant_01": 3,
+        "flora_plant_02": 4,
+        "flora_plant_03": 9,
+        "flora_plant_04": 7,
+        "flora_plant_05": 5,
+        "flora_plant_06": 2,
+        "flora_plant_07": 3,
+        "flora_sedge_02": 8,
+        "furn_planter_01": 1,
+        "furn_planter_02": 1,
+        "furn_planter_mh_01": 3,
+        "furn_planter_mh_03": 2,
+        "furn_planter_mh_04": 1,
+        "high_pockets": 1,
+        "light_de_lantern_03_700_sway": 1,
+        "light_de_lantern_03_sway": 4,
+        "light_mh_streetlamp_01": 11,
+        "northmarker": 1,
+        "ordinator_mournhold": 2,
+        "sound_mournenv1": 7,
+        "thrud": 1,
+        "urn_03_ingred": 1,
+        "urn_05_food": 1,
+        "venasa sarano": 1
+      }
+    },
+    "Aoimevelho Wares with ALL NPCs.ESP": {
+      "added": {
+        "!aoi_nobles_i": 2
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_butterfly": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_mh": 4
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "ex_mh_door_02_velas": 1,
+        "flora_plant_01": 3,
+        "flora_plant_02": 4,
+        "flora_plant_03": 9,
+        "flora_plant_04": 7,
+        "flora_plant_05": 5,
+        "flora_plant_06": 2,
+        "flora_plant_07": 3,
+        "flora_sedge_02": 8,
+        "urn_01": 1,
+        "urn_02_ingred": 1,
+        "urn_03_ingred": 1,
+        "urn_04_ingred": 1,
+        "urn_05_food": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "ex_mh_door_02_velas": 1,
+        "flora_plant_01": 3,
+        "flora_plant_02": 4,
+        "flora_plant_03": 9,
+        "flora_plant_04": 7,
+        "flora_plant_05": 5,
+        "flora_plant_06": 2,
+        "flora_plant_07": 3,
+        "flora_sedge_02": 8,
+        "urn_01": 1,
+        "urn_02_ingred": 1,
+        "urn_03_ingred": 1,
+        "urn_04_ingred": 1,
+        "urn_05_food": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "tribunal::22221",
+      "object": "ex_mh_door_02_velas",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7762",
+      "object": "flora_plant_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7763",
+      "object": "flora_plant_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7764",
+      "object": "flora_plant_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7765",
+      "object": "flora_plant_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7768",
+      "object": "flora_plant_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7769",
+      "object": "flora_plant_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7771",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7772",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7774",
+      "object": "flora_plant_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7805",
+      "object": "urn_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7806",
+      "object": "urn_02_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7807",
+      "object": "urn_03_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7808",
+      "object": "urn_04_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7809",
+      "object": "urn_05_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7812",
+      "object": "flora_plant_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7813",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7814",
+      "object": "flora_plant_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7815",
+      "object": "flora_plant_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7816",
+      "object": "flora_plant_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7817",
+      "object": "flora_plant_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7818",
+      "object": "flora_plant_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7819",
+      "object": "flora_plant_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7820",
+      "object": "flora_plant_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7821",
+      "object": "flora_plant_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7822",
+      "object": "flora_plant_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7823",
+      "object": "flora_plant_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7837",
+      "object": "flora_plant_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7838",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7839",
+      "object": "flora_plant_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7840",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7841",
+      "object": "flora_plant_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7842",
+      "object": "flora_plant_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7843",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7844",
+      "object": "flora_plant_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7845",
+      "object": "flora_plant_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7846",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7871",
+      "object": "flora_sedge_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7873",
+      "object": "flora_sedge_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7875",
+      "object": "flora_sedge_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7878",
+      "object": "flora_sedge_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7879",
+      "object": "flora_plant_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7880",
+      "object": "flora_sedge_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7882",
+      "object": "flora_sedge_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7884",
+      "object": "flora_sedge_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7887",
+      "object": "flora_sedge_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7888",
+      "object": "flora_plant_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

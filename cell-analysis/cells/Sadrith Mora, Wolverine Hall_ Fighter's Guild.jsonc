@@ -1,0 +1,366 @@
+{
+  "cell": "Sadrith Mora, Wolverine Hall: Fighter's Guild",
+  "name": "Sadrith Mora, Wolverine Hall: Fighter's Guild",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_smith_fg": 1
+      }
+    },
+    "Privileges&Services 1.1.esp": {
+      "added": {
+        "abm_placemerfighter": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bk_charterfg": 1,
+        "chest_01_v_potion_h_02": 1,
+        "com_chest_01_pos": 2,
+        "light_com_candle_08_64": 2,
+        "misc_com_bottle_08": 6,
+        "misc_com_bottle_09": 2,
+        "misc_com_bucket_01": 1,
+        "misc_com_metal_goblet_01": 6,
+        "misc_com_metal_goblet_02": 4,
+        "misc_com_metal_plate_04": 3,
+        "misc_com_redware_bowl": 4,
+        "misc_com_redware_bowl_01": 2,
+        "misc_imp_silverware_pitcher": 2,
+        "misc_uni_pillow_01": 3
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bk_charterfg": 1,
+        "chest_01_v_potion_h_02": 1,
+        "com_chest_01_pos": 2,
+        "light_com_candle_08_64": 2,
+        "misc_com_bottle_08": 6,
+        "misc_com_bottle_09": 2,
+        "misc_com_bucket_01": 1,
+        "misc_com_metal_goblet_01": 6,
+        "misc_com_metal_goblet_02": 4,
+        "misc_com_metal_plate_04": 3,
+        "misc_com_redware_bowl": 4,
+        "misc_com_redware_bowl_01": 2,
+        "misc_imp_silverware_pitcher": 2,
+        "misc_uni_pillow_01": 3
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::479475",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479476",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479477",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479478",
+      "object": "com_chest_01_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479479",
+      "object": "com_chest_01_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479481",
+      "object": "chest_01_v_potion_h_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479504",
+      "object": "misc_com_bottle_09",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479505",
+      "object": "misc_com_bottle_09",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479506",
+      "object": "light_com_candle_08_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479507",
+      "object": "light_com_candle_08_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479508",
+      "object": "misc_com_metal_goblet_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479509",
+      "object": "misc_com_metal_goblet_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479510",
+      "object": "misc_com_metal_goblet_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479511",
+      "object": "misc_com_metal_goblet_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479512",
+      "object": "misc_com_bottle_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479513",
+      "object": "misc_com_bottle_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479514",
+      "object": "misc_com_bottle_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479515",
+      "object": "misc_com_bottle_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479516",
+      "object": "misc_com_bottle_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479517",
+      "object": "misc_com_bottle_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479519",
+      "object": "misc_com_metal_goblet_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479520",
+      "object": "misc_com_metal_goblet_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479521",
+      "object": "misc_com_metal_goblet_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479522",
+      "object": "misc_com_metal_goblet_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479523",
+      "object": "misc_com_metal_goblet_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479524",
+      "object": "misc_com_metal_goblet_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479525",
+      "object": "misc_com_metal_plate_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479526",
+      "object": "misc_com_metal_plate_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479527",
+      "object": "misc_com_metal_plate_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479528",
+      "object": "misc_imp_silverware_pitcher",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479529",
+      "object": "misc_imp_silverware_pitcher",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479530",
+      "object": "misc_com_bucket_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479531",
+      "object": "misc_com_redware_bowl",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479532",
+      "object": "misc_com_redware_bowl_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479533",
+      "object": "misc_com_redware_bowl_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479540",
+      "object": "misc_com_redware_bowl",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479541",
+      "object": "misc_com_redware_bowl",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479542",
+      "object": "misc_com_redware_bowl",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483468",
+      "object": "bk_charterfg",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "cell": "Tel Gilan, Armory",
+  "name": "Tel Gilan, Armory",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "bonemold_boots": 1,
+        "bonemold_bracer_left": 1,
+        "bonemold_bracer_right": 1,
+        "bonemold_cuirass": 1,
+        "bonemold_greaves": 1,
+        "bonemold_helm": 1,
+        "bonemold_tshield_telvanniguard": 1,
+        "cephalopod_helm": 1,
+        "chitin cuirass": 1,
+        "chitin short bow": 1,
+        "chitin war axe": 1,
+        "chitin_mask_helm": 1,
+        "chitin_shield": 1,
+        "flora_bc_vine_01": 2,
+        "flora_bc_vine_06": 2,
+        "flora_bc_vine_07": 1,
+        "furn_anvil00": 1,
+        "furn_de_rope_07": 2,
+        "furn_de_rug_big_05": 1,
+        "furn_de_tapestry_04": 2,
+        "icicle": 1,
+        "in_t_housepod_02": 1,
+        "in_t_housepod_door_exit": 1,
+        "in_t_housepod_pole_01": 5,
+        "light_de_candle_05_64": 1,
+        "light_de_lantern_02": 1,
+        "light_de_lantern_03": 1,
+        "misc_uni_pillow_01": 2,
+        "netch_leather_boiled_cuirass": 1,
+        "netch_leather_gauntlet_left": 1,
+        "netch_leather_gauntlet_right": 1,
+        "northmarker": 1,
+        "repair_master_01": 1,
+        "repair_prongs": 1,
+        "silver arrow": 3,
+        "silver bolt": 4,
+        "silver flameslayer": 1,
+        "silver shardaxe": 1,
+        "steel arrow": 3,
+        "steel battle axe": 1,
+        "steel club": 1,
+        "steel crossbow": 1,
+        "steel halberd": 1,
+        "steel katana": 1,
+        "steel longbow": 1,
+        "steel spear": 1,
+        "steel war axe": 1,
+        "steel_boots": 1,
+        "steel_cuirass": 1,
+        "steel_helm": 1,
+        "steel_shield": 1,
+        "t_bkfaction_impculttr": 1,
+        "t_de_furnm_bed_b_03": 1,
+        "t_de_furnm_bookshelf_01": 2,
+        "t_de_furnm_table_03": 1,
+        "t_de_furnm_wallscreen_01": 1,
+        "tr_m2_tenel erand": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_in_smith_spawn": 1
+      }
+    }
+  }
+}

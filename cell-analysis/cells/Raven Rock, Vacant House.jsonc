@@ -1,0 +1,31 @@
+{
+  "cell": "Raven Rock, Vacant House",
+  "name": "Raven Rock, Vacant House",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "ex_colony_door04": 1,
+        "furn_de_p_bench_03": 1,
+        "sp_bm_colony_i_fireplace_01": 1,
+        "t_com_brokenbottle_02": 1,
+        "t_com_hammer_05": 4,
+        "t_com_var_candlewhite01_64": 1,
+        "t_com_var_cratebroken_01": 1,
+        "t_com_var_cratebroken_02": 2,
+        "t_com_var_cratecage_01": 1,
+        "t_com_var_cratepanel_01": 4,
+        "t_com_var_crateside_01": 1,
+        "t_com_var_nails_01": 2,
+        "t_com_var_saw_01": 2,
+        "t_de_var_logpileweathered_01": 1
+      }
+    },
+    "GITD_WL_RR_Interiors.esp": {
+      "added": {
+        "gitd_in_colony_win_01": 2,
+        "gitd_in_colony_win_03": 5,
+        "gitd_in_colony_win_04": 1
+      }
+    }
+  }
+}

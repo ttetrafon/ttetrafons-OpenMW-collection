@@ -1,0 +1,16 @@
+{
+  "cell": "Almas Thirr, Monastery of St. Veloth, Dome",
+  "name": "Almas Thirr, Monastery of St. Veloth, Dome",
+  "plugins": {
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_priest": 1
+      }
+    },
+    "RepopulatedMainland.ESP": {
+      "added": {
+        "gvrm_dun_pray_4_trcpy": 2
+      }
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "cell": "Mournhold, Velas Manor",
+  "name": "Mournhold, Velas Manor",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "chimney_smoke_small_velas1": 1,
+        "chimney_smoke_small_velas2": 1,
+        "chimney_smoke_small_velas3": 1,
+        "chimney_smoke_small_velas4": 1,
+        "chimney_smoke_small_velas5": 1,
+        "chimney_smoke_small_velas6": 1,
+        "in_mh_door_01_velas": 1,
+        "in_mh_door_02": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "chimney_smoke_small_velas1": 1,
+        "chimney_smoke_small_velas2": 1,
+        "chimney_smoke_small_velas3": 1,
+        "chimney_smoke_small_velas4": 1,
+        "chimney_smoke_small_velas5": 1,
+        "chimney_smoke_small_velas6": 1,
+        "in_mh_door_01_velas": 1,
+        "in_mh_door_02": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "tribunal::8894",
+      "object": "in_mh_door_01_velas",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8895",
+      "object": "chimney_smoke_small_velas4",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8896",
+      "object": "chimney_smoke_small_velas3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8897",
+      "object": "chimney_smoke_small_velas2",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8898",
+      "object": "chimney_smoke_small_velas1",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8899",
+      "object": "chimney_smoke_small_velas5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8900",
+      "object": "chimney_smoke_small_velas6",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8938",
+      "object": "in_mh_door_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

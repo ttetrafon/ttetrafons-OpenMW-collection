@@ -1,0 +1,41 @@
+{
+  "cell": "-7,4",
+  "plugins": {
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "a_photodragons": 3,
+        "sound_swamp_1": 1,
+        "sound_swamp_2": 2,
+        "sound_swamp_3": 2
+      }
+    },
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_l_dae_summcircle": 1,
+        "aatl_npc_cult_lagod": 1,
+        "aatl_npc_cult_miranalwe": 1,
+        "aatl_npc_cult_orgar_sw": 1,
+        "aatl_npc_sacrifice_a": 1,
+        "ab_light_skullcandleblack_128": 3
+      }
+    },
+    "BC Sounds Naturalized.esp": {
+      "added": {
+        "opn_a_photodragons": 3,
+        "opn_sound_swamp_1": 1,
+        "opn_sound_swamp_2": 2,
+        "opn_sound_swamp_3": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_fresh_list": 3
+      }
+    },
+    "Creatures and Critters Light the Path.ESP": {
+      "added": {
+        "aa_cr_i_moth_all": 3
+      }
+    }
+  }
+}

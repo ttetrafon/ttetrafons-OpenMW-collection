@@ -1,0 +1,57 @@
+{
+  "cell": "29,12",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_cave_door_01": 1,
+        "ex_cave_entrance_bc_01": 1,
+        "ex_de_railing_01": 9,
+        "ex_de_railing_03": 3,
+        "flora_hackle-lo_01": 2,
+        "flora_plant_01": 3,
+        "flora_plant_02": 2,
+        "flora_tree_gl_05": 2,
+        "flora_wickwheat_03": 1,
+        "flora_wickwheat_04": 2,
+        "furn_bannerd_danger_01": 1,
+        "furn_com_fence_01": 1,
+        "furn_de_signpost_02": 1,
+        "furn_de_signpost_04": 1,
+        "t_com_setmw_signwaybaloyra_01": 1,
+        "t_com_setmw_signwayfirewat_01": 1,
+        "t_com_setmw_signwayhelnim_01": 1,
+        "t_com_setmw_signwayllothanis_01": 1,
+        "t_com_setmw_signwayranyonru_01": 1,
+        "t_com_setmw_signwaytelouada_01": 2,
+        "t_com_setmw_signwaytelouadaa_01": 1,
+        "t_de_set_bannertownaranyonp_01": 1,
+        "t_mw_rlvl_molagreahdland+2": 1,
+        "terrain_rock_gl_02": 1,
+        "terrain_rock_gl_05": 1,
+        "terrain_rock_gl_09": 3,
+        "terrain_rock_gl_10": 2,
+        "terrain_rock_gl_11": 5,
+        "terrain_rock_wg_02": 1,
+        "terrain_rock_wg_06": 2,
+        "terrain_rock_wg_08": 7,
+        "terrain_rock_wg_10": 2,
+        "terrain_rock_wg_12": 3,
+        "terrain_rock_wg_14": 1,
+        "terrain_rock_wg_15": 1,
+        "terrain_rock_wg_16": 1,
+        "terrain_rock_wg_17": 4,
+        "terrain_rock_wg_18": 1,
+        "terrain_rocks_gl_01": 3,
+        "terrain_rocks_wg_01": 9,
+        "terrain_rocks_wg_02": 8,
+        "terrain_rocks_wg_03": 17,
+        "tr_m1_undead_aranyon_pass": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

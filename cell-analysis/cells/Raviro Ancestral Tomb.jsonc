@@ -1,0 +1,16 @@
+{
+  "cell": "Raviro Ancestral Tomb",
+  "name": "Raviro Ancestral Tomb",
+  "plugins": {
+    "Holy Art.ESP": {
+      "added": {
+        "vd_velothismall_07": 1
+      }
+    },
+    "LootWellUrned.ESP": {
+      "added": {
+        "_uyl_ravirourn": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "cell": "Vivec, Telvanni Underworks",
+  "name": "Vivec, Telvanni Underworks",
+  "plugins": {
+    "The Undead.esm": {
+      "added": {
+        "_und_zombies_random": 4
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "added": {
+        "light_glowing_lichen_512_d": 5
+      },
+      "modified": {
+        "light_glowing_lichen_256_d": 3,
+        "light_glowing_lichen_512_d": 6
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_slaggerrobe": 1
+      }
+    }
+  }
+}

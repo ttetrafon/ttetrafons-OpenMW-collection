@@ -1,0 +1,22 @@
+{
+  "cell": "Solstheim, Tombs of Skaalara",
+  "name": "Solstheim, Tombs of Skaalara",
+  "plugins": {
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "ex_bm_tomb_door_skaalara": 1,
+        "in_bm_cave_trans_01": 1,
+        "in_bm_tomb_entrance_02": 1,
+        "terrain_rock_bm_04": 1
+      },
+      "modified": {
+        "bm_dungeonlloot_chest": 1
+      }
+    },
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "modified": {
+        "ex_bm_tomb_door_skaalara": 1
+      }
+    }
+  }
+}

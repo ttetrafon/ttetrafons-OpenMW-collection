@@ -1,0 +1,83 @@
+{
+  "cell": "-6,-7",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_ship_6thcrate03": 1,
+        "_cor_ship_bc_rocks_02": 1,
+        "_cor_ship_de_shack_plank_03_a": 2,
+        "ab_furn_barrel01broken02": 1,
+        "ab_furn_barrel02broken05": 1,
+        "ab_furn_bkruinedpile04": 1,
+        "ab_furn_crate03lid": 1,
+        "ab_furn_crate03open": 1,
+        "ab_furn_cratebroken02": 1,
+        "ab_furn_cratebrokenside03": 1,
+        "ab_furn_ropecoil": 2,
+        "ab_furn_urnbroken01": 1,
+        "ab_furn_urnshard01": 1,
+        "ab_furn_urnshell03": 1,
+        "ab_misc_pursecoin": 1,
+        "ab_o_urn03food": 1,
+        "barrel_02_floater": 1,
+        "blue coast ref 1024": 1,
+        "chest_small_02_diamonds": 1,
+        "dreugh": 1,
+        "ex_barnacles_02": 2,
+        "flora_bc_tree_09": 1,
+        "flora_kelp_01": 4,
+        "gold_001": 6,
+        "in_cave_plant00": 1,
+        "misc_com_bucket_01": 1,
+        "misc_com_bucket_01_float": 1
+      },
+      "modified": {
+        "flora_bc_tree_09": 1
+      }
+    },
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_band_bittercoast": 1
+      }
+    },
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "a_photodragons": 2,
+        "sound_swamp_1": 2,
+        "sound_swamp_2": 1,
+        "sound_swamp_3": 1
+      }
+    },
+    "BC Sounds Naturalized.esp": {
+      "added": {
+        "opn_a_photodragons": 4,
+        "opn_sound_swamp_1": 2,
+        "opn_sound_swamp_2": 1,
+        "opn_sound_swamp_3": 2
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_m01_chest": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_hl_spawn": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_crt_deepforest_bc": 1,
+        "plx_swamps": 1,
+        "plx_water": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 1,
+        "aa_cr_w_fresh_list": 1
+      }
+    }
+  }
+}

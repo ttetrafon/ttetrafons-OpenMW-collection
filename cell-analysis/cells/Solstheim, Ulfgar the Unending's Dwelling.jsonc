@@ -1,0 +1,78 @@
+{
+  "cell": "Solstheim, Ulfgar the Unending's Dwelling",
+  "name": "Solstheim, Ulfgar the Unending's Dwelling",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "modified": {
+        "bm_ic_door_pelt": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bm_ic_door_pelt": 1,
+        "com_sack_02": 1,
+        "crate_01": 3,
+        "crate_01_moonsugar": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bm_ic_door_pelt": 1,
+        "com_sack_02": 1,
+        "crate_01": 3,
+        "crate_01_moonsugar": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::18493",
+      "object": "bm_ic_door_pelt",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::20974",
+      "object": "crate_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::20975",
+      "object": "crate_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::20976",
+      "object": "com_sack_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::20977",
+      "object": "crate_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::20978",
+      "object": "crate_01_moonsugar",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

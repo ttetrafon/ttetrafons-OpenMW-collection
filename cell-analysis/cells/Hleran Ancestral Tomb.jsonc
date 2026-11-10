@@ -1,0 +1,16 @@
+{
+  "cell": "Hleran Ancestral Tomb",
+  "name": "Hleran Ancestral Tomb",
+  "plugins": {
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_cm_ancestor_ghost": 1
+      }
+    },
+    "LootWellUrned.ESP": {
+      "added": {
+        "_uyl_hleran": 1
+      }
+    }
+  }
+}

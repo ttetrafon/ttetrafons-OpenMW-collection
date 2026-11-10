@@ -1,0 +1,178 @@
+{
+  "cell": "Mournhold, Bookseller",
+  "name": "Mournhold, Bookseller",
+  "plugins": {
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_bk_recipe_stuffedashyam": 1,
+        "aatl_bk_recipe_wildrice": 1,
+        "aatl_bk_skill_immortal_blood": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "added": {
+        "light_de_candle_05": 1
+      },
+      "modified": {
+        "light_de_candle_05": 1
+      }
+    },
+    "Immersive Mournhold.esp": {
+      "added": {
+        "ab_o_derchdeskpos": 1,
+        "bk_homiliesofblessedalmalexia": 1,
+        "chest_small_01_gold_25": 1,
+        "chest_small_02_gold_05": 1,
+        "com_basket_01_pos": 2,
+        "com_chest_02_books": 1,
+        "com_sack_01_saltrice_10": 3,
+        "com_sack_02_pos": 1,
+        "de_r_drawers_01_fcloth": 1,
+        "flora_bc_grass_02": 4,
+        "food_kwama_egg_01": 1,
+        "furn_de_r_bookshelf_02": 1,
+        "furn_de_r_table_07": 1,
+        "furn_de_r_table_09": 1,
+        "furn_de_tapestry_07": 1,
+        "furn_planter_01": 2,
+        "in_mh_window_01": 1,
+        "light_de_candle_07_64": 1,
+        "light_de_lamp_03_128": 3,
+        "misc_com_bottle_08": 1,
+        "misc_com_bottle_10": 1,
+        "misc_com_plate_04": 1,
+        "misc_com_silverware_fork": 1,
+        "misc_com_silverware_knife": 1,
+        "misc_de_bowl_01": 1,
+        "misc_de_foldedcloth00": 2,
+        "misc_de_goblet_04": 1,
+        "misc_de_pitcher_01": 1,
+        "misc_de_pot_blue_02": 1,
+        "misc_de_pot_green_01": 1,
+        "misc_de_pot_redware_03": 1,
+        "misc_de_pot_redware_04": 1,
+        "t_de_furnr_bar_01": 5,
+        "t_de_furnr_bar_cnr_01": 1,
+        "t_de_furnr_bar_end_01": 1,
+        "t_de_furnr_bar_end_02": 1,
+        "t_de_furnr_chair_01": 3
+      },
+      "modified": {
+        "bk_easternprovincesimpartial": 5,
+        "bk_invocationofazura": 4,
+        "bk_overviewofgodsandworship": 5,
+        "bk_pilgrimspath": 2,
+        "bk_saryonissermons": 2,
+        "chest_small_01_gold_25": 1,
+        "chest_small_02_silverwa": 1,
+        "furn_bone_skull_01": 1,
+        "furn_de_tapestry_10": 2,
+        "light_com_candle_07_77": 2,
+        "light_de_candle_02_64": 1,
+        "light_de_candle_05": 1,
+        "misc_de_bowl_bugdesign_01": 1,
+        "misc_de_goblet_04": 1,
+        "misc_de_pot_redware_02": 1,
+        "urn_03_food": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_bookseller": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_library_spawn": 2
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "furn_de_bar_01": 5,
+        "furn_de_bar_03": 1,
+        "furn_de_bar_04": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "furn_de_bar_01": 5,
+        "furn_de_bar_03": 1,
+        "furn_de_bar_04": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "tribunal::20557",
+      "object": "furn_de_bar_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20558",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20559",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20560",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20626",
+      "object": "furn_de_bar_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20627",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20628",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20629",
+      "object": "furn_de_bar_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20630",
+      "object": "light_de_candle_05",
+      "plugins": [
+        "True_Lights_And_Darkness_1.1.esp",
+        "Immersive Mournhold.esp"
+      ]
+    }
+  ]
+}

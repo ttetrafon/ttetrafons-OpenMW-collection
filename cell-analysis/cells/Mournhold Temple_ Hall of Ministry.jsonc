@@ -1,0 +1,355 @@
+{
+  "cell": "Mournhold Temple: Hall of Ministry",
+  "name": "Mournhold Temple: Hall of Ministry",
+  "plugins": {
+    "Immersive Mournhold.esp": {
+      "added": {
+        "a1_gesni_vulan": 1,
+        "a1_mernas_yunissa": 1,
+        "a1_tenisna_vunis": 1,
+        "bk_consolationsofprayer": 1,
+        "bookskill_unarmored3": 1,
+        "chest_small_01_gold_25": 1,
+        "misc_de_pot_blue_02": 1,
+        "misc_de_pot_green_01": 2,
+        "nb_temp_01_cr": 2,
+        "nb_temp_02_cr": 2
+      },
+      "modified": {
+        "nb_temp_03_big": 1,
+        "ordinator_mh_th_uni": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_healer": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bk_spiritofthedaedra": 1,
+        "flora_plant_02": 6,
+        "flora_plant_04": 8,
+        "flora_plant_05": 8,
+        "flora_plant_06": 8,
+        "misc_de_goblet_01": 1,
+        "misc_de_pitcher_01": 1,
+        "misc_inkwell": 1,
+        "misc_quill": 1,
+        "sc_paper plain": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bk_spiritofthedaedra": 1,
+        "flora_plant_02": 6,
+        "flora_plant_04": 8,
+        "flora_plant_05": 8,
+        "flora_plant_06": 8,
+        "misc_de_goblet_01": 1,
+        "misc_de_pitcher_01": 1,
+        "misc_inkwell": 1,
+        "misc_quill": 1,
+        "sc_paper plain": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "tribunal::20221",
+      "object": "flora_plant_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20222",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20223",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20224",
+      "object": "flora_plant_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20225",
+      "object": "flora_plant_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20226",
+      "object": "flora_plant_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20227",
+      "object": "flora_plant_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20230",
+      "object": "flora_plant_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20232",
+      "object": "flora_plant_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20233",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20234",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20235",
+      "object": "flora_plant_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20236",
+      "object": "flora_plant_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20237",
+      "object": "flora_plant_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20238",
+      "object": "flora_plant_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20267",
+      "object": "flora_plant_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20268",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20269",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20270",
+      "object": "flora_plant_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20271",
+      "object": "flora_plant_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20272",
+      "object": "flora_plant_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20273",
+      "object": "flora_plant_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20276",
+      "object": "flora_plant_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20280",
+      "object": "flora_plant_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20281",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20282",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20283",
+      "object": "flora_plant_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20284",
+      "object": "flora_plant_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20285",
+      "object": "flora_plant_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20286",
+      "object": "flora_plant_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24909",
+      "object": "misc_de_goblet_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24910",
+      "object": "misc_de_pitcher_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24911",
+      "object": "misc_inkwell",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24912",
+      "object": "misc_quill",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24913",
+      "object": "bk_spiritofthedaedra",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24914",
+      "object": "sc_paper plain",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24915",
+      "object": "sc_paper plain",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

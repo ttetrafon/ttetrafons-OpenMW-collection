@@ -1,0 +1,56 @@
+{
+  "cell": "Dren Plantation, Dren's Villa",
+  "name": "Dren Plantation, Dren's Villa",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1,
+        "gvrm_cm_wl": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_cleaner1": 1
+      }
+    },
+    "Adamantium Armor Naturalized.esp": {
+      "added": {
+        "adamantium_greaves": 1,
+        "adamantium_helm": 1
+      }
+    },
+    "Olive the Enchanter.esp": {
+      "added": {
+        "p_fortify_alchemy_s": 5
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "in_hlaalu_door": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "in_hlaalu_door": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::179482",
+      "object": "in_hlaalu_door",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::192989",
+      "object": "in_hlaalu_door",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

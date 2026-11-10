@@ -1,0 +1,138 @@
+{
+  "cell": "Fort Frostmoth, Curtain Wall",
+  "name": "Fort Frostmoth, Curtain Wall",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "in_impsmall_doorjam_01": 1,
+        "in_impsmall_loaddoor_01": 10,
+        "in_impsmall_wall_01": 1
+      },
+      "modified": {
+        "furn_com_tapestry_04": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "barrel_01_torch": 4,
+        "com_basket_01_food": 4,
+        "com_basket_01_ingredien": 4,
+        "in_impsmall_loaddoor_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "barrel_01_torch": 4,
+        "com_basket_01_food": 4,
+        "com_basket_01_ingredien": 4,
+        "in_impsmall_loaddoor_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::14720",
+      "object": "in_impsmall_loaddoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::14728",
+      "object": "com_basket_01_ingredien",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::14729",
+      "object": "com_basket_01_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::14730",
+      "object": "barrel_01_torch",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::14744",
+      "object": "com_basket_01_ingredien",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::14745",
+      "object": "com_basket_01_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::14746",
+      "object": "barrel_01_torch",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::14761",
+      "object": "com_basket_01_ingredien",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::14762",
+      "object": "com_basket_01_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::14763",
+      "object": "barrel_01_torch",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::14775",
+      "object": "com_basket_01_ingredien",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::14776",
+      "object": "com_basket_01_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::14777",
+      "object": "barrel_01_torch",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

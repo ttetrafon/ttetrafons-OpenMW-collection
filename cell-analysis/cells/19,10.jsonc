@@ -1,0 +1,18 @@
+{
+  "cell": "19,10",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "t_mw_lvl_dreughs-2": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_east_crate": 1,
+        "xero_furn_crate_lid_01": 2,
+        "xero_furn_crate_open_01": 2,
+        "xero_marker": 1
+      }
+    }
+  }
+}

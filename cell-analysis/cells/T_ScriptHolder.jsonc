@@ -1,0 +1,24 @@
+{
+  "cell": "T_ScriptHolder",
+  "name": "T_ScriptHolder",
+  "plugins": {
+    "Tamriel_Data.esm": {
+      "added": {
+        "ex_v_foundation_01": 1,
+        "t_com_uni_kingorgnumcoffer_01": 1,
+        "t_glb_fau_ratbk_01": 1,
+        "t_glb_fau_ratgr_01": 1,
+        "t_glb_fau_ratwt_01": 1,
+        "t_imp_furn_conduit_01": 1,
+        "t_imp_furn_disruptor_01": 1,
+        "t_imp_furn_generator_01": 1,
+        "t_imp_furn_reactor_01": 1
+      }
+    },
+    "TR_Mainland.esm": {
+      "added": {
+        "tr_m4_vm_rilasroma_dial": 1
+      }
+    }
+  }
+}

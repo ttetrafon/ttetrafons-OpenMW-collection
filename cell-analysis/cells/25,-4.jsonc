@@ -1,0 +1,59 @@
+{
+  "cell": "25,-4",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "flora_emp_parasol_01": 1,
+        "flora_emp_parasol_03": 2,
+        "flora_hackle-lo_01": 2,
+        "flora_hackle-lo_02": 3,
+        "flora_plant_01": 1,
+        "flora_plant_02": 2,
+        "flora_plant_03": 1,
+        "flora_tree_gl_01": 1,
+        "flora_tree_gl_02": 1,
+        "flora_tree_gl_05": 1,
+        "flora_tree_gl_06": 2,
+        "flora_tree_gl_09": 1,
+        "flora_tree_gl_10": 1,
+        "flora_tree_gl_11": 2,
+        "flora_wickwheat_01": 8,
+        "flora_wickwheat_02": 6,
+        "flora_wickwheat_03": 7,
+        "flora_wickwheat_04": 7,
+        "furn_com_fence_01": 1,
+        "t_com_setmw_signakamora_01": 1,
+        "t_com_setmw_signwayaltbosara_01": 1,
+        "t_com_setmw_signwayammar_01": 1,
+        "t_com_setmw_signwaydarvon_01": 1,
+        "t_com_setmw_signwayhelnim_01": 1,
+        "t_com_setmw_signwaynecrom_01": 1,
+        "t_com_setmw_signwaysailen_01": 1,
+        "t_com_setmw_signwaytelmuthad_01": 1,
+        "t_com_setmw_signwaytelonoria_01": 1,
+        "t_mw_rlvl_helnimfieldsland+0": 3,
+        "t_mw_rlvl_helnimfieldsland-2": 2,
+        "t_mw_terrrockgl_rock_27": 2,
+        "t_mw_terrrockgl_rock_32": 2,
+        "t_mw_terrrockgl_rock_34": 1,
+        "terrain_rock_gl_05": 1,
+        "terrain_rock_gl_06": 9,
+        "terrain_rock_gl_07": 4,
+        "terrain_rock_gl_08": 5,
+        "terrain_rock_gl_09": 8,
+        "terrain_rock_gl_10": 11,
+        "terrain_rock_gl_11": 21,
+        "terrain_rock_gl_12": 9,
+        "terrain_rocks_gl_01": 23,
+        "terrain_rocks_gl_02": 13,
+        "terrain_rocks_gl_03": 7,
+        "terrain_rocks_gl_04": 8
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_tel_spawn": 1
+      }
+    }
+  }
+}

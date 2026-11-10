@@ -1,0 +1,95 @@
+{
+  "cell": "Ald-ruhn, Llether Vari: Enchanter",
+  "name": "Ald-ruhn, Llether Vari: Enchanter",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_magical": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_traders_spawn": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_redoran guard_ran": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "gold_001": 3,
+        "gold_005": 1,
+        "gold_010": 1,
+        "in_r_s_door_01": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "gold_001": 3,
+        "gold_005": 1,
+        "gold_010": 1,
+        "in_r_s_door_01": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::31769",
+      "object": "in_r_s_door_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::31898",
+      "object": "in_r_s_door_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::307684",
+      "object": "gold_010",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::307685",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::307686",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::307687",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::307688",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

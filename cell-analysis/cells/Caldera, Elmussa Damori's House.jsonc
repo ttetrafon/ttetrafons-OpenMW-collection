@@ -1,0 +1,31 @@
+{
+  "cell": "Caldera, Elmussa Damori's House",
+  "name": "Caldera, Elmussa Damori's House",
+  "plugins": {
+    "True_Lights_And_Darkness_1.1.esp": {
+      "added": {
+        "daylight_elmussa_500_east": 4
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bookskill_security4": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bookskill_security4": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::405165",
+      "object": "bookskill_security4",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

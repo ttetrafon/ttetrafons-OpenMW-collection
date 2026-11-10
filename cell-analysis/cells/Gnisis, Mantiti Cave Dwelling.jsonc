@@ -1,0 +1,26 @@
+{
+  "cell": "Gnisis, Mantiti Cave Dwelling",
+  "name": "Gnisis, Mantiti Cave Dwelling",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "light_de_lantern_05_128_carry": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "light_de_lantern_05_128_carry": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::48487",
+      "object": "light_de_lantern_05_128_carry",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "cell": "23,18",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "door_cavern_doors10": 1,
+        "ex_wg_cave_entrance_01": 1,
+        "furn_de_ashl_post": 4,
+        "furn_hook_01": 2,
+        "in_moldboulder04": 1,
+        "t_glb_var_skeleton03": 1,
+        "terrain_rock_wg_01": 1,
+        "terrain_rock_wg_05": 1,
+        "terrain_rock_wg_07": 1,
+        "terrain_rock_wg_08": 2,
+        "terrain_rock_wg_10": 4,
+        "terrain_rock_wg_12": 10,
+        "terrain_rock_wg_14": 1,
+        "terrain_rock_wg_18": 4,
+        "terrain_rocks_wg_01": 6,
+        "terrain_rocks_wg_02": 4,
+        "terrain_rocks_wg_03": 7,
+        "terrain_rocks_wg_04": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

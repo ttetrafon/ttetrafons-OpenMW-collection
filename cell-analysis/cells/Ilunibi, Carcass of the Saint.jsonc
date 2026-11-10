@@ -1,0 +1,19 @@
+{
+  "cell": "Ilunibi, Carcass of the Saint",
+  "name": "Ilunibi, Carcass of the Saint",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_dreamers": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_6_dream_list_1": 1
+      },
+      "modified": {
+        "aa_cr_dreamer_01": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "cell": "Dagon Fel, Heifnir: Trader",
+  "name": "Dagon Fel, Heifnir: Trader",
+  "plugins": {
+    "NOD - Core.esm": {
+      "added": {
+        "nod_de_p_chest_02_heif": 1
+      }
+    },
+    "Adamantium Armor Naturalized.esp": {
+      "added": {
+        "adamantium_pauldron_left": 1,
+        "adamantium_pauldron_right": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_trader": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_traders_spawn": 1
+      }
+    }
+  }
+}

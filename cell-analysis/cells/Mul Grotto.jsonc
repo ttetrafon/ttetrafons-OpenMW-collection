@@ -1,0 +1,35 @@
+{
+  "cell": "Mul Grotto",
+  "name": "Mul Grotto",
+  "plugins": {
+    "Hidden Grotto Loot.ESP": {
+      "added": {
+        "gold_001": 10,
+        "ingred_diamond_01": 1,
+        "ingred_emerald_01": 1,
+        "ingred_ruby_01": 1,
+        "misc_com_metal_goblet_02": 1,
+        "xero_grotto_chest": 3
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_dreugh_kollop": 1,
+        "plx_dreugh_man'o'war": 1,
+        "plx_in_dreugh": 6,
+        "plx_water": 5
+      },
+      "modified": {
+        "r0_h2o_all_lev+0_int": 1,
+        "r0_h2o_all_lev+2_int": 3,
+        "r0_h2o_all_lev-2_int": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_dreugh_kollop": 1,
+        "aa_cr_w_creature_list_1": 11
+      }
+    }
+  }
+}

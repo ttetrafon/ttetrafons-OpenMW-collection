@@ -1,0 +1,16 @@
+{
+  "cell": "Solstheim, Fjell",
+  "name": "Solstheim, Fjell",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "bm_ka_door_dark_02": 1
+      }
+    },
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_m_telescope_p": 1
+      }
+    }
+  }
+}

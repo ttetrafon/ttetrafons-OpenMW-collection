@@ -1,0 +1,120 @@
+{
+  "cell": "1,23",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_crate_pillows_01": 3,
+        "_cor_ship_abandoned_key": 1,
+        "_cor_ship_de_shack_plank_03_a": 2,
+        "_cor_ship_drowned_float": 1,
+        "_cor_ship_f_corpse_01": 1,
+        "ab_ex_craneattachcrate": 2,
+        "ab_ex_deshipwrbackribs": 1,
+        "ab_ex_deshipwrfence": 1,
+        "ab_ex_deshipwrfloorcorner": 1,
+        "ab_ex_deshipwrmast02": 1,
+        "ab_ex_deshipwrramp01": 1,
+        "ab_ex_deshipwrrmastyard": 2,
+        "ab_ex_deshipwrsteps": 1,
+        "ab_flora_kelpbranchedgroup01": 1,
+        "ab_flora_kelpshrubgroup01": 1,
+        "ab_flora_kelpshrubgroup02": 1,
+        "ab_furn_barrel02broken01": 1,
+        "ab_furn_crate03lid": 2,
+        "ab_furn_crate03open": 1,
+        "ab_furn_cratebroken01": 1,
+        "ab_furn_cratebroken05": 3,
+        "ab_furn_cratebrokenside01": 1,
+        "ab_furn_cratebrokenwood01": 4,
+        "ab_furn_cratebrokenwood02": 2,
+        "ab_furn_deflagon_01": 1,
+        "ab_furn_deplnloom00": 1,
+        "ab_furn_deplnloom01": 1,
+        "ab_furn_urnbroken03": 1,
+        "ab_furn_urnshell02": 1,
+        "ab_furn_urnshell03": 1,
+        "ab_light@_dark1000": 1,
+        "ab_misc_bobbin_01": 1,
+        "ab_misc_bobbin_02": 1,
+        "ab_misc_bobbin_04": 1,
+        "ab_misc_bobbin_05": 1,
+        "ab_misc_depillowl_04": 2,
+        "ab_misc_depillowl_06": 1,
+        "ab_misc_depillows_03": 2,
+        "ab_misc_depillows_05": 1,
+        "ab_misc_depillows_06": 1,
+        "ab_misc_depillowsilk_01": 1,
+        "ab_misc_pursecoin": 2,
+        "ab_o_corpsefresh06": 1,
+        "ab_o_corpsefresh06loot": 1,
+        "ab_o_crate01bottles": 2,
+        "barrel_01_drinks": 1,
+        "barrel_01_float_food20": 2,
+        "barrel_01_ingredients": 2,
+        "barrel_02_floater": 2,
+        "barrel_02_floater_ing": 1,
+        "bk_pillowinvoice": 1,
+        "blue coast ref 1024": 2,
+        "com_cupboard_01_booze": 1,
+        "crate_02_pillows": 3,
+        "crate_02_pillows_float": 2,
+        "ex_scrapwood01": 3,
+        "ex_scrapwood02": 1,
+        "flora_kelp_01": 2,
+        "flora_kelp_02": 7,
+        "flora_kelp_03": 8,
+        "flora_kelp_04": 1,
+        "furn_de_p_table_05": 1,
+        "h2o_all_lev+2": 1,
+        "kollop_01_pearl": 2,
+        "kollop_03_pearl": 1,
+        "misc_clothbolt_01": 1,
+        "misc_clothbolt_02": 1,
+        "misc_clothbolt_03": 1,
+        "misc_com_bottle_01": 1,
+        "misc_com_bottle_07_float": 1,
+        "misc_com_bottle_14_float": 1,
+        "misc_com_bucket_01": 1,
+        "misc_shears_01": 1
+      },
+      "modified": {
+        "barrel_02_floater_ing": 1,
+        "blue coast ref 1024": 1,
+        "ex_scrapwood01": 2,
+        "ex_scrapwood02": 1,
+        "flora_kelp_01": 2,
+        "flora_kelp_02": 4,
+        "flora_kelp_03": 2,
+        "flora_kelp_04": 1,
+        "h2o_all_lev+2": 1,
+        "kollop_01_pearl": 1,
+        "kollop_03_pearl": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_map_20": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "misc_com_bottle_12": 1,
+        "misc_com_bottle_14": 2,
+        "xero_furn_crate_lid_01": 1,
+        "xero_furn_crate_open_01": 1,
+        "xero_marker": 1,
+        "xero_north_crate": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_water": 6
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 6
+      }
+    }
+  }
+}

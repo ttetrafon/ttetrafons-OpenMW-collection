@@ -1,0 +1,54 @@
+{
+  "cell": "5,24",
+  "plugins": {
+    "An Addendum to Tamrielic Lore - The Imperial Archivist.ESP": {
+      "added": {
+        "aatl_con_dae_coffer01_h": 1,
+        "aatl_furn_dae_bench02": 1,
+        "aatl_npc_eliza": 1,
+        "aatl_w_iron_spear_cyro": 1,
+        "aatl_w_iron_waxe_cyro": 1,
+        "ab_furn_barrel01water": 2,
+        "ab_in_daebridge_01": 2,
+        "ab_in_daebridge_02": 8,
+        "ab_in_daecolumn02": 2,
+        "ab_in_daecolumnspiked01": 3,
+        "ab_in_daeroomarchfull": 1,
+        "ab_in_daeroomarchhalf": 1,
+        "ab_in_daeroommezzside": 6,
+        "ab_o_crate01food": 2,
+        "active_de_bedroll": 6,
+        "barrel_01_cheapfood20": 1,
+        "barrel_01_ingredients": 1,
+        "barrel_01_torch": 1,
+        "ex_dae_pillar_01": 1,
+        "ex_dae_pillar_02": 2,
+        "ex_dae_pillar_02_ruin": 1,
+        "ex_dae_pillar_02_ruin_02": 1,
+        "ex_dae_ruin_01": 1,
+        "ex_dae_wall_256_04": 2,
+        "ex_dae_wall_512_08": 1,
+        "furn_de_firepit_f": 1,
+        "furn_de_p_stool_02": 4,
+        "in_dae_platform_stairs": 1,
+        "in_dae_rubble_01b": 1,
+        "in_dae_rubble_01c": 1,
+        "in_dae_rubble_04a": 1,
+        "in_dae_rubble_05": 1,
+        "in_dae_rubble_06": 1,
+        "misc_com_wood_bowl_02": 1,
+        "pot_01": 1,
+        "t_com_var_ropeclothes_02": 1,
+        "t_com_var_ropeclothes_05": 1,
+        "t_com_var_ropeclothes_06": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "contain_corpse_water": 1,
+        "xero_marker": 1,
+        "xero_north_chest": 1
+      }
+    }
+  }
+}

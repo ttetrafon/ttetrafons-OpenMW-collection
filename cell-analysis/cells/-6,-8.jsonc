@@ -1,0 +1,30 @@
+{
+  "cell": "-6,-8",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "misc_com_metal_goblet_02": 1,
+        "xero_ex_barnacles_06": 1,
+        "xero_in_cave_plant10": 2,
+        "xero_marker": 2,
+        "xero_west_chest": 1,
+        "xero_west_crate": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_grandenchantscroll": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_water": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 2
+      }
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "cell": "Ebonheart, Six Fishes",
+  "name": "Ebonheart, Six Fishes",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "furn_com_rm_barstool": 3,
+        "gvrm_am_marker": 2,
+        "gvrm_s_merc4hire_impforts": 1,
+        "gvrm_sit_impports_e": 2
+      }
+    },
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_tawern_amb00": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_bard7": 1,
+        "am_misc_uni_pillow_02": 4,
+        "am_sitternight2": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "added": {
+        "daylight_fishes_300_east": 4,
+        "daylight_fishes_300_east 2": 4,
+        "daylight_fishes_300_north": 2,
+        "daylight_fishes_300_south": 2,
+        "daylight_fishes_300_west": 4
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_baker": 1,
+        "aa_wares_publican": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_tantimore_higore": 1
+      }
+    },
+    "Privileges&Services 1.1.esp": {
+      "added": {
+        "ss_scout_ebonheart": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_com_bed_02": 2,
+        "gold_001": 1,
+        "gold_025": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_imperial guard_ran": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_com_bed_02": 2,
+        "gold_001": 1,
+        "gold_025": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::141754",
+      "object": "active_com_bed_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::141756",
+      "object": "active_com_bed_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::427685",
+      "object": "gold_025",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::427686",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

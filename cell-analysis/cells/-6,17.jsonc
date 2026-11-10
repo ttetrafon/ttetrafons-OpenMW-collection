@@ -1,0 +1,25 @@
+{
+  "cell": "-6,17",
+  "plugins": {
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_sanguinebarstone": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_bandits": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_night_only_exterior_quarr": 1
+      }
+    }
+  }
+}

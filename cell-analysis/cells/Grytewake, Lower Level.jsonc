@@ -1,0 +1,36 @@
+{
+  "cell": "Grytewake, Lower Level",
+  "name": "Grytewake, Lower Level",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "light_com_lantern_01": 1,
+        "light_de_lantern_06a": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "light_com_lantern_01": 1,
+        "light_de_lantern_06a": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::299241",
+      "object": "light_de_lantern_06a",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299249",
+      "object": "light_com_lantern_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

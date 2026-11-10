@@ -1,0 +1,85 @@
+{
+  "cell": "Balmora, Council Club",
+  "name": "Balmora, Council Club",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1,
+        "gvrm_cm_wl": 1
+      }
+    },
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_tawern_amb00": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_eater01": 1,
+        "ingred_hound_meat_01": 1
+      },
+      "modified": {
+        "furn_de_p_bench_03": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_baker": 1,
+        "aa_wares_pawn": 1,
+        "aa_wares_publican": 1,
+        "aa_wares_savant": 1,
+        "aa_wares_smith": 1,
+        "aa_wares_thief": 1,
+        "aa_wares_trader": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "furn_de_bar_01": 2,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_04": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "furn_de_bar_01": 2,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_04": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::57059",
+      "object": "furn_de_bar_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::57060",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::57061",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::367729",
+      "object": "furn_de_bar_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

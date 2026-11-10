@@ -1,0 +1,23 @@
+{
+  "cell": "-8,-4",
+  "plugins": {
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_swamp_3": 1
+      }
+    },
+    "BC Sounds Naturalized.esp": {
+      "added": {
+        "opn_sound_swamp_3": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "contain_corpse_water": 1,
+        "xero_marker": 2,
+        "xero_west_chest": 1,
+        "xero_west_sack": 1
+      }
+    }
+  }
+}

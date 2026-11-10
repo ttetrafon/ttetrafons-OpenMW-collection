@@ -1,0 +1,16 @@
+{
+  "cell": "Abanabi",
+  "name": "Abanabi",
+  "plugins": {
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_npc_re_kahlisa": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "modified": {
+        "r0_h2o_all_lev+0_int": 1
+      }
+    }
+  }
+}

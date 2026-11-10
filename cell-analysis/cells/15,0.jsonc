@@ -1,0 +1,17 @@
+{
+  "cell": "15,0",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "ingred_muck_01": 4,
+        "xero_east_chest": 1,
+        "xero_marker": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_bandits": 1
+      }
+    }
+  }
+}

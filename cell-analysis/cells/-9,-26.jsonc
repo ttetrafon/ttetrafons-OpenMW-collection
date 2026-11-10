@@ -1,0 +1,71 @@
+{
+  "cell": "-9,-26",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_bedroll": 2,
+        "chitin boots": 1,
+        "chitin helm": 1,
+        "chitin short bow": 1,
+        "com_chest_01_misc07": 1,
+        "com_sack_01_chpfood5": 1,
+        "com_sack_02_gold_100": 1,
+        "contain_trama_shrub_01": 1,
+        "contain_trama_shrub_02": 3,
+        "ex_dwrv_statue00": 1,
+        "ex_dwrv_wall50": 1,
+        "flora_ash_grass_r_01": 48,
+        "flora_ash_grass_w_01": 10,
+        "flora_ash_log_01": 1,
+        "flora_ash_yam_01": 1,
+        "flora_ashtree_01": 2,
+        "flora_ashtree_02": 1,
+        "flora_ashtree_03": 1,
+        "flora_ashtree_04": 10,
+        "flora_ashtree_05": 9,
+        "flora_ashtree_06": 7,
+        "flora_ashtree_07": 2,
+        "flora_rm_scathecraw_02": 5,
+        "furn_ashl_bugbowl": 1,
+        "furn_de_ashl_post": 1,
+        "furn_de_firepit_f": 1,
+        "furn_hook_01": 2,
+        "ingred_racer_plumes_01": 1,
+        "ingred_scrib_jelly_01": 1,
+        "t_de_set_bannerburial_01": 1,
+        "t_de_set_bannerburial_02": 1,
+        "t_mw_cr_scribdiseased": 1,
+        "t_mw_rstat_armund20orp": 1,
+        "t_mw_terrrockash_rockstair_01": 2,
+        "terrain_ashland_rock_01": 12,
+        "terrain_ashland_rock_03": 17,
+        "terrain_ashland_rock_04": 2,
+        "terrain_ashland_rock_05": 2,
+        "terrain_ashland_rock_06": 2,
+        "terrain_ashland_rock_08": 1,
+        "terrain_ashland_rock_09": 5,
+        "terrain_ashland_rock_10": 13,
+        "terrain_ashland_rock_11": 10,
+        "terrain_ashland_rock_12": 2,
+        "terrain_ashland_rock_13": 2,
+        "terrain_ashland_rock_14": 5,
+        "terrain_ashland_rock_15": 2,
+        "terrain_ashland_rock_16": 47,
+        "terrain_cairn_al_03": 2,
+        "terrain_rock_rm_11": 2,
+        "terrain_rock_rm_12": 3,
+        "terrain_rock_rm_15": 7,
+        "terrain_rock_rm_17": 2,
+        "terrain_rock_rm_18": 3,
+        "terrain_rock_rm_19": 5,
+        "tr_m4_hansi": 1,
+        "tramaroot_02": 6
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_ex_dwe_spawn": 1
+      }
+    }
+  }
+}

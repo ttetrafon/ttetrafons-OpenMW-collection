@@ -1,0 +1,26 @@
+{
+  "cell": "Vivec, Hlaalu Weaponsmith",
+  "name": "Vivec, Hlaalu Weaponsmith",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_smith_hlaalu": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_smith_spawn": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "modified": {
+        "com_chest_02_v_weapon06": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_ordinator wan_ran": 1
+      }
+    }
+  }
+}

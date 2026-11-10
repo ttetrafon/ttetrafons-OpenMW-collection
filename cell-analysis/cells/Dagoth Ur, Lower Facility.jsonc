@@ -1,0 +1,80 @@
+{
+  "cell": "Dagoth Ur, Lower Facility",
+  "name": "Dagoth Ur, Lower Facility",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "in_dagoth_taunt7": 1,
+        "in_lava_1024": 2,
+        "sound_cave_wind00": 1,
+        "sound_dwemer_ruin00": 3
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "in_dagoth_taunt7": 1,
+        "in_lava_1024": 2,
+        "sound_cave_wind00": 1,
+        "sound_dwemer_ruin00": 3
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::234675",
+      "object": "in_lava_1024",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::268171",
+      "object": "in_dagoth_taunt7",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::371350",
+      "object": "sound_cave_wind00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::388269",
+      "object": "sound_dwemer_ruin00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::388270",
+      "object": "sound_dwemer_ruin00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::388271",
+      "object": "sound_dwemer_ruin00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::481961",
+      "object": "in_lava_1024",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

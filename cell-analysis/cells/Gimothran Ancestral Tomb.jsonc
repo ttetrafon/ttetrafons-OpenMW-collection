@@ -1,0 +1,23 @@
+{
+  "cell": "Gimothran Ancestral Tomb",
+  "name": "Gimothran Ancestral Tomb",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "un_lord_greater": 1,
+        "un_skeleton_arise": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_skeleton_arise": 2,
+        "aa_cr_u_all_1": 1
+      }
+    },
+    "LootWellUrned.ESP": {
+      "added": {
+        "_uyl_gimothran": 1
+      }
+    }
+  }
+}

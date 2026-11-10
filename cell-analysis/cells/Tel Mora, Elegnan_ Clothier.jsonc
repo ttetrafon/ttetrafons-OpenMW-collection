@@ -1,0 +1,21 @@
+{
+  "cell": "Tel Mora, Elegnan: Clothier",
+  "name": "Tel Mora, Elegnan: Clothier",
+  "plugins": {
+    "NOD - Core.esm": {
+      "added": {
+        "nod_de_p_chest_02_eleg": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_clothes": 1
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_ff_ildritt_trigger": 1
+      }
+    }
+  }
+}

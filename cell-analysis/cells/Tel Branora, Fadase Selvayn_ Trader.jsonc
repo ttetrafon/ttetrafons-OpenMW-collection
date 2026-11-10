@@ -1,0 +1,56 @@
+{
+  "cell": "Tel Branora, Fadase Selvayn: Trader",
+  "name": "Tel Branora, Fadase Selvayn: Trader",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_trader": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_traders_spawn": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "furn_de_bar_01": 1,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_04": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "furn_de_bar_01": 1,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_04": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::357343",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::357344",
+      "object": "furn_de_bar_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::357345",
+      "object": "furn_de_bar_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

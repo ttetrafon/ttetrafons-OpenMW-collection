@@ -1,0 +1,52 @@
+{
+  "cell": "37,-3",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_de_railing_02": 4,
+        "ex_de_railing_03": 2,
+        "ex_t_brace_01": 2,
+        "ex_t_doorway_02": 1,
+        "ex_t_housepod_01": 3,
+        "ex_t_root_02": 6,
+        "ex_t_root_05": 1,
+        "ex_t_root_bridge_01": 2,
+        "ex_t_root_hook": 1,
+        "ex_t_stair_01": 1,
+        "flora_bittergreen_01": 1,
+        "flora_chokeweed_02": 12,
+        "flora_emp_parasol_01": 1,
+        "flora_kelp_01": 31,
+        "flora_kelp_02": 26,
+        "flora_kelp_03": 15,
+        "flora_kelp_04": 18,
+        "flora_kreshweed_01": 2,
+        "flora_kreshweed_03": 1,
+        "flora_stoneflower_01": 9,
+        "flora_stoneflower_02": 3,
+        "flora_tree_wg_03": 1,
+        "furn_com_fence_01": 1,
+        "h2o_all_lev+0": 1,
+        "light_de_paper_lantern_02": 1,
+        "t_com_setmw_signwayaltbosara_01": 1,
+        "t_de_settelv_doorsmallin_05": 1,
+        "terrain_rock_wg_01": 2,
+        "terrain_rock_wg_02": 2,
+        "terrain_rock_wg_05": 1,
+        "terrain_rock_wg_07": 1,
+        "terrain_rock_wg_08": 4,
+        "terrain_rock_wg_10": 2,
+        "terrain_rock_wg_18": 1,
+        "terrain_rocks_wg_01": 8,
+        "terrain_rocks_wg_02": 5,
+        "terrain_rocks_wg_03": 25,
+        "terrain_rocks_wg_04": 3
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

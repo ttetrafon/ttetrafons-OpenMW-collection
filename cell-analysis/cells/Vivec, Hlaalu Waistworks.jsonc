@@ -1,0 +1,16 @@
+{
+  "cell": "Vivec, Hlaalu Waistworks",
+  "name": "Vivec, Hlaalu Waistworks",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_savant": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_ordinator wan_ran": 4
+      }
+    }
+  }
+}

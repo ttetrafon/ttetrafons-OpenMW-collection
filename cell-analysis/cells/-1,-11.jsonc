@@ -1,0 +1,67 @@
+{
+  "cell": "-1,-11",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_ship_bc_rocks_01": 1,
+        "_cor_ship_crate_arm01": 1,
+        "_cor_ship_de_shack_plank_03_a": 3,
+        "ab_ex_dedocksnetwall01": 1,
+        "ab_ex_deshipwrbackfull": 1,
+        "ab_ex_deshipwrflotsam01": 1,
+        "ab_furn_barrel02broken05": 1,
+        "ab_furn_boneskeltorsobroken": 1,
+        "ab_furn_cratebroken03": 1,
+        "crate_01_empty": 1,
+        "ex_com_bottle_11_float": 1,
+        "ex_scrapwood02": 1,
+        "terrain_rock_bc_16": 1,
+        "terrain_rock_bc_18": 1
+      },
+      "modified": {
+        "_cor_ship_de_shack_plank_03_a": 1,
+        "ex_barnacles_05": 1,
+        "ex_com_bottle_11_float": 1,
+        "ex_scrapwood02": 1,
+        "ex_scrapwood04": 1,
+        "ex_scrapwood05": 2,
+        "sound_boat_creak00": 1
+      }
+    },
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_swamp_1": 2,
+        "sound_swamp_2": 3
+      }
+    },
+    "BC Sounds Naturalized.esp": {
+      "added": {
+        "opn_a_photodragons": 2,
+        "opn_sound_swamp_1": 2,
+        "opn_sound_swamp_2": 3
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_marker": 1,
+        "xero_west_chest": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 2
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_ex_land_dreugh": 1,
+        "plx_water": 4
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 4
+      }
+    }
+  }
+}

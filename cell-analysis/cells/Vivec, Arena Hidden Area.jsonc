@@ -1,0 +1,442 @@
+{
+  "cell": "Vivec, Arena Hidden Area",
+  "name": "Vivec, Arena Hidden Area",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "furn_de_p_chair_02": 1,
+        "furn_de_r_chair_03": 1,
+        "gvrm_am_marker": 1,
+        "gvrm_dun_pray_mrgtng": 1,
+        "gvrm_mortng_dun_m_sit": 2,
+        "gvrm_mrtng_assassins": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_dreamerassassin": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_trader_mt": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_p_bed_10": 3,
+        "active_de_pr_bed_24": 1,
+        "active_de_r_bed_20": 1,
+        "chest_small_01_gold_ran": 1,
+        "com_basket_01_pos": 2,
+        "com_sack_02_pos": 2,
+        "de_p_chest_02_mclothes3": 3,
+        "de_r_chest_01_gold1": 1,
+        "de_r_chest_01_mcloth2": 1,
+        "de_r_drawers_01_mcloth": 1,
+        "light_de_lantern_02_128": 1,
+        "misc_com_bottle_04": 1,
+        "misc_com_bottle_06": 2,
+        "misc_com_bottle_07": 2,
+        "misc_com_bottle_09": 1,
+        "misc_com_metal_plate_04": 3,
+        "misc_com_wood_fork": 2,
+        "misc_com_wood_knife": 2,
+        "misc_com_wood_spoon_01": 1,
+        "misc_de_bowl_bugdesign_01": 1,
+        "misc_de_goblet_01": 2,
+        "misc_de_goblet_05": 1,
+        "misc_de_goblet_08": 1,
+        "misc_de_goblet_09": 1,
+        "misc_uni_pillow_01": 5,
+        "potion_comberry_brandy_01": 1,
+        "potion_local_liquor_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_p_bed_10": 3,
+        "active_de_pr_bed_24": 1,
+        "active_de_r_bed_20": 1,
+        "chest_small_01_gold_ran": 1,
+        "com_basket_01_pos": 2,
+        "com_sack_02_pos": 2,
+        "de_p_chest_02_mclothes3": 3,
+        "de_r_chest_01_gold1": 1,
+        "de_r_chest_01_mcloth2": 1,
+        "de_r_drawers_01_mcloth": 1,
+        "light_de_lantern_02_128": 1,
+        "misc_com_bottle_04": 1,
+        "misc_com_bottle_06": 2,
+        "misc_com_bottle_07": 2,
+        "misc_com_bottle_09": 1,
+        "misc_com_metal_plate_04": 3,
+        "misc_com_wood_fork": 2,
+        "misc_com_wood_knife": 2,
+        "misc_com_wood_spoon_01": 1,
+        "misc_de_bowl_bugdesign_01": 1,
+        "misc_de_goblet_01": 2,
+        "misc_de_goblet_05": 1,
+        "misc_de_goblet_08": 1,
+        "misc_de_goblet_09": 1,
+        "misc_uni_pillow_01": 5,
+        "potion_comberry_brandy_01": 1,
+        "potion_local_liquor_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::242388",
+      "object": "active_de_r_bed_20",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::242397",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::242398",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::242399",
+      "object": "chest_small_01_gold_ran",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::242400",
+      "object": "de_r_chest_01_mcloth2",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::242413",
+      "object": "misc_com_bottle_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::242414",
+      "object": "misc_com_bottle_09",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::242415",
+      "object": "misc_com_bottle_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::242437",
+      "object": "active_de_p_bed_10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::242442",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::242443",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::242444",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::242446",
+      "object": "misc_com_metal_plate_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::242448",
+      "object": "misc_com_wood_fork",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::242449",
+      "object": "misc_com_wood_knife",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::242450",
+      "object": "misc_com_wood_spoon_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::242451",
+      "object": "misc_com_wood_knife",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::242452",
+      "object": "misc_com_wood_fork",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::242453",
+      "object": "misc_de_goblet_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::242454",
+      "object": "misc_de_goblet_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::242455",
+      "object": "misc_de_goblet_09",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::242459",
+      "object": "misc_de_goblet_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::242460",
+      "object": "misc_com_bottle_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::242464",
+      "object": "active_de_pr_bed_24",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::281849",
+      "object": "de_r_drawers_01_mcloth",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::330935",
+      "object": "light_de_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::330938",
+      "object": "de_p_chest_02_mclothes3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::330939",
+      "object": "de_p_chest_02_mclothes3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::330940",
+      "object": "de_p_chest_02_mclothes3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::330957",
+      "object": "com_basket_01_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::330958",
+      "object": "com_basket_01_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::330959",
+      "object": "com_sack_02_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::330960",
+      "object": "com_sack_02_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::330961",
+      "object": "de_r_chest_01_gold1",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::330962",
+      "object": "misc_de_goblet_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::330963",
+      "object": "misc_com_bottle_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::330964",
+      "object": "misc_com_bottle_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::330965",
+      "object": "potion_local_liquor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::330966",
+      "object": "potion_comberry_brandy_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406481",
+      "object": "misc_com_metal_plate_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406482",
+      "object": "misc_com_metal_plate_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406528",
+      "object": "active_de_p_bed_10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406529",
+      "object": "active_de_p_bed_10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406530",
+      "object": "misc_de_bowl_bugdesign_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

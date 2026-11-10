@@ -1,0 +1,69 @@
+{
+  "cell": "2,-24",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_coiled_rope": 2,
+        "ex_de_docks_gate": 2,
+        "ex_hlaalu_wall_01": 12,
+        "ex_skiff": 1,
+        "ex_velothi_entrance_02": 1,
+        "ex_velothi_loaddoor_01": 1,
+        "flora_comberry_01": 16,
+        "flora_corkbulb": 1,
+        "flora_grass_01": 1,
+        "flora_grass_02": 1,
+        "flora_sedge_02": 3,
+        "furn_de_lightpost_01": 2,
+        "in_cave_plant10": 47,
+        "light_de_lantern_03_sway": 4,
+        "t_glb_flora_fern_01": 11,
+        "t_mw_cr_molecrab": 2,
+        "t_mw_cr_netchbetty": 1,
+        "t_mw_flora_templedom01": 2,
+        "t_mw_flora_templedom02": 4,
+        "t_mw_flora_treeoak_02": 1,
+        "t_mw_floraat_oranmoss01": 3,
+        "t_mw_floraat_oranmoss02": 1,
+        "t_mw_floraat_oranmoss03": 1,
+        "t_mw_floraat_treeb_01": 1,
+        "t_mw_floraat_treeb_02": 1,
+        "t_mw_floraat_treeb_03": 2,
+        "t_mw_floraat_treeb_04": 2,
+        "t_mw_floraat_treeg_01": 1,
+        "t_mw_floraat_treeg_02": 1,
+        "t_mw_floraat_treeg_03": 3,
+        "t_mw_floraat_treeg_04": 10,
+        "t_mw_floraat_treeg_05": 3,
+        "t_mw_floraat_treeg_06": 3,
+        "t_mw_light_aanthirinmushroom": 2,
+        "t_mw_rstat_aanthirinsleep": 1,
+        "t_mw_terrrockat_rock_14": 4,
+        "t_mw_terrrockat_rock_16": 2,
+        "t_mw_terrrockat_rock_18": 5,
+        "t_mw_terrrockat_rock_19": 1,
+        "t_mw_terrrockat_rock_21": 5,
+        "t_mw_terrrockat_rock_22": 21,
+        "t_mw_terrrockat_rock_23": 3,
+        "t_mw_terrrockat_rock_24": 2,
+        "t_mw_terrrockat_rock_25": 2,
+        "t_mw_terrrockat_rock_26": 8,
+        "t_mw_terrrockat_rock_27": 1,
+        "t_mw_terrrockat_rock_28": 13,
+        "t_mw_terrrockat_rock_29": 7,
+        "t_mw_terrrockat_rock_30": 6,
+        "t_mw_terrrockat_rockgrp_01": 20,
+        "t_mw_terrrockat_rockgrp_02": 6,
+        "t_mw_terrrockat_rockgrp_03": 13,
+        "t_mw_terrrockat_rockgrp_04": 7,
+        "tr_m4_s_ji'mohirr": 1,
+        "tr_m4_s_tsahsi": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_travelingtrader_hl_spawn": 1
+      }
+    }
+  }
+}

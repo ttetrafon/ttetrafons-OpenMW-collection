@@ -1,0 +1,91 @@
+{
+  "cell": "Ministry of Truth, Holding Cells",
+  "name": "Ministry of Truth, Holding Cells",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_bedroll": 3,
+        "ex_velothicave_door_03": 2,
+        "light_de_lantern_01": 3
+      }
+    },
+    "Ttooth's Missing NPCs - No Nolus.ESP": {
+      "modified": {
+        "ilden mirel": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_bedroll": 3,
+        "ex_velothicave_door_03": 2,
+        "light_de_lantern_01": 3
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::383545",
+      "object": "ex_velothicave_door_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::383546",
+      "object": "ex_velothicave_door_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::383547",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::383548",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::383549",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::383550",
+      "object": "light_de_lantern_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::383551",
+      "object": "light_de_lantern_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::383552",
+      "object": "light_de_lantern_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "cell": "Fair Helas, Lower Level",
+  "name": "Fair Helas, Lower Level",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "barrel_01_empty": 4,
+        "barrel_02_eggs": 2,
+        "barrel_02_ingred": 2,
+        "light_com_lantern_01": 1,
+        "light_de_lantern_06a": 1,
+        "potion_local_brew_01": 2,
+        "potion_local_liquor_01": 1,
+        "potion_skooma_01": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "barrel_01_empty": 4,
+        "barrel_02_eggs": 2,
+        "barrel_02_ingred": 2,
+        "light_com_lantern_01": 1,
+        "light_de_lantern_06a": 1,
+        "potion_local_brew_01": 2,
+        "potion_local_liquor_01": 1,
+        "potion_skooma_01": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::318308",
+      "object": "light_com_lantern_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318309",
+      "object": "light_de_lantern_06a",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318311",
+      "object": "barrel_02_eggs",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318312",
+      "object": "barrel_02_eggs",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318313",
+      "object": "barrel_02_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318314",
+      "object": "barrel_02_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318315",
+      "object": "barrel_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318316",
+      "object": "barrel_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318322",
+      "object": "potion_local_brew_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318323",
+      "object": "potion_local_brew_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318324",
+      "object": "potion_local_liquor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318325",
+      "object": "potion_skooma_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318326",
+      "object": "potion_skooma_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318327",
+      "object": "barrel_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318328",
+      "object": "barrel_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

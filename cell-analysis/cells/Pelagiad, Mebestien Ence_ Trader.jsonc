@@ -1,0 +1,22 @@
+{
+  "cell": "Pelagiad, Mebestien Ence: Trader",
+  "name": "Pelagiad, Mebestien Ence: Trader",
+  "plugins": {
+    "True_Lights_And_Darkness_1.1.esp": {
+      "added": {
+        "daylight_400": 3,
+        "daylight_mabestien_600": 3
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_trader": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_imperial guard_ran": 1
+      }
+    }
+  }
+}

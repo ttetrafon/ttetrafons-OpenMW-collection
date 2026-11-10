@@ -1,0 +1,16 @@
+{
+  "cell": "Urshilaku Camp, Zabamund's Yurt",
+  "name": "Urshilaku Camp, Zabamund's Yurt",
+  "plugins": {
+    "VA_ShalkArmor.ESP": {
+      "modified": {
+        "zabamund": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "modified": {
+        "light_ashl_lantern_01": 1
+      }
+    }
+  }
+}

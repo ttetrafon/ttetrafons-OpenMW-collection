@@ -1,0 +1,20 @@
+{
+  "cell": "Akulakhan's Chamber",
+  "name": "Akulakhan's Chamber",
+  "plugins": {
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_dreamer worker01": 1,
+        "aa_cr_dreamer worker02": 1
+      },
+      "modified": {
+        "aa_cr_dreamer worker03": 1
+      }
+    },
+    "Privileges&Services 1.1.esp": {
+      "added": {
+        "pp_removespellfromvivec": 1
+      }
+    }
+  }
+}

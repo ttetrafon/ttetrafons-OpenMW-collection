@@ -1,0 +1,16 @@
+{
+  "cell": "6,-14",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_marker": 1,
+        "xero_south_barrel": 1
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_ff_grash_trigger_message": 1
+      }
+    }
+  }
+}

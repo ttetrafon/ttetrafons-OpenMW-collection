@@ -1,0 +1,53 @@
+{
+  "cell": "32,-5",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_ruin_20": 1,
+        "ex_ruin_30": 1,
+        "ex_ruin_40": 1,
+        "flame light 768": 1,
+        "furn_com_fence_01": 1,
+        "furn_de_ex_bench_01": 3,
+        "furn_de_pathspear_01": 23,
+        "furn_de_rope_06": 15,
+        "furn_firepit00": 1,
+        "light_logpile_177": 1,
+        "misc_com_bottle_01": 1,
+        "misc_com_bottle_02": 1,
+        "misc_com_bottle_11": 1,
+        "misc_de_drum_01": 1,
+        "misc_de_lute_01": 1,
+        "misc_de_tankard_01": 3,
+        "t_com_setmw_signwayadurinoua_01": 1,
+        "t_com_setmw_signwayaltbosara_01": 1,
+        "t_com_setmw_signwayfortwindm_01": 1,
+        "t_com_setmw_signwayhelnim_01": 1,
+        "t_com_setmw_signwaynecrom_01": 1,
+        "t_com_setmw_signwaytelmuthad_01": 1,
+        "t_mw_flora_treeoak_02": 4,
+        "terrain_rock_wg_01": 2,
+        "terrain_rock_wg_04": 1,
+        "terrain_rock_wg_05": 5,
+        "terrain_rock_wg_07": 4,
+        "terrain_rock_wg_08": 2,
+        "terrain_rock_wg_09": 2,
+        "terrain_rock_wg_10": 2,
+        "terrain_rock_wg_12": 4,
+        "terrain_rock_wg_14": 1,
+        "terrain_rock_wg_17": 2,
+        "terrain_rock_wg_18": 2,
+        "terrain_rocks_wg_01": 2,
+        "terrain_rocks_wg_03": 11,
+        "tr_m2_o_nadari_felas": 1,
+        "tr_m2_o_nalfara": 1,
+        "tr_m2_o_nelaine": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

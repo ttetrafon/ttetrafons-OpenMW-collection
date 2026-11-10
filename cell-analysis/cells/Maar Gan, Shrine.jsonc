@@ -1,0 +1,49 @@
+{
+  "cell": "Maar Gan, Shrine",
+  "name": "Maar Gan, Shrine",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_dun_pray_4": 6
+      }
+    },
+    "NOD - Core.esm": {
+      "added": {
+        "_rv_trenes viridyn": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_priest": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_p_bed_28": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_p_bed_28": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::233630",
+      "object": "active_de_p_bed_28",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::233631",
+      "object": "active_de_p_bed_28",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

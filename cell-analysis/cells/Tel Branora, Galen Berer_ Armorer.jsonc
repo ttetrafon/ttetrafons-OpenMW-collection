@@ -1,0 +1,68 @@
+{
+  "cell": "Tel Branora, Galen Berer: Armorer",
+  "name": "Tel Branora, Galen Berer: Armorer",
+  "plugins": {
+    "NOD - Core.esm": {
+      "added": {
+        "nod_hat_bug_g": 1,
+        "nod_hat_telv_rm_headwear_12": 1,
+        "rp_telvanni_crate": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_smith": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_smith_spawn": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "furn_de_bar_01": 1,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_04": 1
+      }
+    },
+    "D2Items.esp": {
+      "modified": {
+        "_d2_bonemold_gah-julan_helm": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "furn_de_bar_01": 1,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_04": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::190267",
+      "object": "furn_de_bar_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::190268",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::190269",
+      "object": "furn_de_bar_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

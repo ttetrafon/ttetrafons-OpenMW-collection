@@ -1,0 +1,43 @@
+{
+  "cell": "Skaal Village, Bronrod the Roarer's House",
+  "name": "Skaal Village, Bronrod the Roarer's House",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "in_s_door": 1,
+        "ingred_gravetar_01": 1,
+        "ingred_rat_meat_01": 3,
+        "misc_com_metal_plate_05": 1
+      },
+      "modified": {
+        "misc_com_metal_plate_04": 1,
+        "sp_nor_setskaal_i_fireplace_01": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_healer": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "in_s_door": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "in_s_door": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::18982",
+      "object": "in_s_door",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

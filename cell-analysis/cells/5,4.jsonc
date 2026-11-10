@@ -1,0 +1,30 @@
+{
+  "cell": "5,4",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_wise": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "de_p_chest_02_gold_25": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "de_p_chest_02_gold_25": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::276586",
+      "object": "de_p_chest_02_gold_25",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

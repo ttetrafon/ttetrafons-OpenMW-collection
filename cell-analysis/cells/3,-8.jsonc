@@ -1,0 +1,73 @@
+{
+  "cell": "3,-8",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_un_skm_cm_dun_30": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_marker": 1,
+        "xero_south_barrel": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_butterfly": 1,
+        "plx_water": 3
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_ai": 1,
+        "aa_cr_w_creature_list_1": 3
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "flora_willow_flower_01": 1,
+        "hlaalu_loaddoor_ 02": 1,
+        "urn_02_food": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "flora_willow_flower_01": 1,
+        "hlaalu_loaddoor_ 02": 1,
+        "urn_02_food": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::82224",
+      "object": "hlaalu_loaddoor_ 02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318708",
+      "object": "urn_02_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318764",
+      "object": "flora_willow_flower_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

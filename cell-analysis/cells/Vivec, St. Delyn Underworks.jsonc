@@ -1,0 +1,35 @@
+{
+  "cell": "Vivec, St. Delyn Underworks",
+  "name": "Vivec, St. Delyn Underworks",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1
+      }
+    },
+    "The Undead.esm": {
+      "added": {
+        "_und_zombies_random": 3
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_dreamerbm2": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "added": {
+        "light_glowing_lichen_512_d": 5
+      },
+      "modified": {
+        "light_glowing_lichen_256_d": 1,
+        "light_glowing_lichen_512_d": 3
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_sewers": 4
+      }
+    }
+  }
+}

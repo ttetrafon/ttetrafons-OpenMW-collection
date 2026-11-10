@@ -1,0 +1,51 @@
+{
+  "cell": "Vivec, St. Delyn Canal South-Two",
+  "name": "Vivec, St. Delyn Canal South-Two",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "gold_001": 1,
+        "gold_010": 1,
+        "gold_025": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "modified": {
+        "light_de_lamp_06_77": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "gold_001": 1,
+        "gold_010": 1,
+        "gold_025": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::405563",
+      "object": "gold_025",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::405564",
+      "object": "gold_010",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::405565",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

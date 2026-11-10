@@ -1,0 +1,71 @@
+{
+  "cell": "Ald-ruhn, Tuveso Beleth: Smith",
+  "name": "Ald-ruhn, Tuveso Beleth: Smith",
+  "plugins": {
+    "NOD - Core.esm": {
+      "added": {
+        "ar_chest_r": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_smith_redo": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_smith_spawn": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_redoran guard_ran": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "hammer_repair": 1,
+        "misc_com_bucket_metal": 1,
+        "repair_prongs": 1
+      }
+    },
+    "D2Items.esp": {
+      "modified": {
+        "_d2_bonemold_gah-julan_helm": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "hammer_repair": 1,
+        "misc_com_bucket_metal": 1,
+        "repair_prongs": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::468863",
+      "object": "hammer_repair",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::468864",
+      "object": "repair_prongs",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::468871",
+      "object": "misc_com_bucket_metal",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "cell": "Strange Shipwreck, Upper Level",
+  "name": "Strange Shipwreck, Upper Level",
+  "plugins": {
+    "Expansions Integrated.esp": {
+      "added": {
+        "adamantium_claymore": 1
+      }
+    },
+    "OAAB - Shipwrecks.esm": {
+      "modified": {
+        "ex_de_ship_trapdoor": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "cell": "-8,-3",
+  "plugins": {
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_swamp_3": 1
+      }
+    },
+    "BC Sounds Naturalized.esp": {
+      "added": {
+        "opn_sound_swamp_3": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_ex_barnacles_03": 1,
+        "xero_marker": 1,
+        "xero_west_crate": 1
+      }
+    }
+  }
+}

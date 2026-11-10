@@ -1,0 +1,86 @@
+{
+  "cell": "Yassu Mine",
+  "name": "Yassu Mine",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1,
+        "gvrm_un_mn_cm_dun": 2
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_miner11": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "added": {
+        "green light_128": 6
+      },
+      "modified": {
+        "green light_128": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "light_com_lantern_01": 1,
+        "miner's pick": 1,
+        "torch": 3
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_imperial guard_ran": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "light_com_lantern_01": 1,
+        "miner's pick": 1,
+        "torch": 3
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::334491",
+      "object": "light_com_lantern_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::346738",
+      "object": "miner's pick",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::425206",
+      "object": "torch",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::425207",
+      "object": "torch",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::425209",
+      "object": "torch",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

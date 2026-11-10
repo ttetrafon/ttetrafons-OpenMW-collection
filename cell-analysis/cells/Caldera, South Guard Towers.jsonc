@@ -1,0 +1,26 @@
+{
+  "cell": "Caldera, South Guard Towers",
+  "name": "Caldera, South Guard Towers",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bookskill_destruction5": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bookskill_destruction5": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::483354",
+      "object": "bookskill_destruction5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

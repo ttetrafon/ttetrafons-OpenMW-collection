@@ -1,0 +1,22 @@
+{
+  "cell": "9,-12",
+  "name": "Bal Fell",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_east_sack": 1,
+        "xero_marker": 1
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_comp_arran": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_ex_daed_bat": 2
+      }
+    }
+  }
+}

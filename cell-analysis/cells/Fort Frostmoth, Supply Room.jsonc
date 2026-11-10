@@ -1,0 +1,64 @@
+{
+  "cell": "Fort Frostmoth, Supply Room",
+  "name": "Fort Frostmoth, Supply Room",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "com_chest_02_l_weap_01": 1,
+        "com_chest_02_l_weap_02": 1,
+        "in_impsmall_door_01": 2,
+        "in_impsmall_loaddoor_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "com_chest_02_l_weap_01": 1,
+        "com_chest_02_l_weap_02": 1,
+        "in_impsmall_door_01": 2,
+        "in_impsmall_loaddoor_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::12633",
+      "object": "in_impsmall_loaddoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::15861",
+      "object": "in_impsmall_door_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::15862",
+      "object": "in_impsmall_door_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33621",
+      "object": "com_chest_02_l_weap_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33622",
+      "object": "com_chest_02_l_weap_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

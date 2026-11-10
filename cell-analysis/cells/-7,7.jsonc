@@ -1,0 +1,15 @@
+{
+  "cell": "-7,7",
+  "plugins": {
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_night_only_exterior_undea": 1
+      }
+    },
+    "Creatures and Critters Light the Path.ESP": {
+      "added": {
+        "aa_cr_i_moth_all": 2
+      }
+    }
+  }
+}

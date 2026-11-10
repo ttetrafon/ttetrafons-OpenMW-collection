@@ -1,0 +1,66 @@
+{
+  "cell": "31,-13",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "com_chest_02_l_weap_02": 1,
+        "ex_vivec_waterfall_03": 1,
+        "flora_bittergreen_09": 2,
+        "flora_bush_01": 11,
+        "flora_chokeweed_02": 16,
+        "flora_corkbulb": 5,
+        "flora_grass_01": 24,
+        "flora_kreshweed_01": 7,
+        "flora_kreshweed_02": 1,
+        "flora_kreshweed_03": 4,
+        "flora_plant_01": 21,
+        "flora_roobrush_02": 7,
+        "flora_stoneflower_01": 9,
+        "flora_stoneflower_02": 11,
+        "flora_tree_wg_01": 5,
+        "flora_tree_wg_05": 2,
+        "furn_com_fence_01": 2,
+        "furn_crate_open_01": 1,
+        "furn_guarcart00": 1,
+        "t_com_setmw_signakamorab_01": 3,
+        "t_com_setmw_signakamorae_01": 2,
+        "t_com_setmw_signwaytomarilma_01": 2,
+        "t_com_var_cratebroken_02": 1,
+        "t_imp_drink_winetwinmoon_01": 1,
+        "t_mw_flora_treendg_04": 1,
+        "t_mw_lvl_kwamaexplorers+0": 2,
+        "t_mw_lvl_nixhounds+2": 1,
+        "t_mw_terrrockwg_cliff_02": 2,
+        "t_mw_terrrockwg_cliff_03": 1,
+        "terrain_rock_wg_02": 2,
+        "terrain_rock_wg_04": 3,
+        "terrain_rock_wg_07": 3,
+        "terrain_rock_wg_08": 3,
+        "terrain_rock_wg_11": 1,
+        "terrain_rock_wg_12": 21,
+        "terrain_rock_wg_13": 2,
+        "terrain_rock_wg_14": 4,
+        "terrain_rock_wg_15": 7,
+        "terrain_rock_wg_16": 24,
+        "terrain_rock_wg_17": 10,
+        "terrain_rock_wg_18": 4,
+        "terrain_rocks_wg_01": 42,
+        "terrain_rocks_wg_03": 19,
+        "tr_m2_mark_q_27_mineguard_f": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1,
+        "_aa_travelingtrader_indo_spawn": 1
+      }
+    },
+    "DM_TR_AkaMoreIndoril.esp": {
+      "modified": {
+        "t_mw_terrrockwg_cliff_03": 1,
+        "terrain_rock_wg_12": 2,
+        "terrain_rocks_wg_01": 2
+      }
+    }
+  }
+}

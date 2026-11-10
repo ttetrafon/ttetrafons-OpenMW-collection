@@ -1,0 +1,104 @@
+{
+  "cell": "Gnaar Mok, Caryarel's Shack",
+  "name": "Gnaar Mok, Caryarel's Shack",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "barrel_02_cheapfood5": 1,
+        "com_chest_02_pos": 1,
+        "com_sack_01_chpfood5": 1,
+        "com_sack_01_saltrice_5": 2,
+        "com_sack_02_ingred": 1,
+        "com_sack_03_chpfood5": 1,
+        "crate_02_de_mclothes": 1,
+        "misc_uni_pillow_02": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "barrel_02_cheapfood5": 1,
+        "com_chest_02_pos": 1,
+        "com_sack_01_chpfood5": 1,
+        "com_sack_01_saltrice_5": 2,
+        "com_sack_02_ingred": 1,
+        "com_sack_03_chpfood5": 1,
+        "crate_02_de_mclothes": 1,
+        "misc_uni_pillow_02": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::113480",
+      "object": "barrel_02_cheapfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::113506",
+      "object": "com_chest_02_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::113507",
+      "object": "crate_02_de_mclothes",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::113508",
+      "object": "com_sack_02_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::113509",
+      "object": "com_sack_01_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::113510",
+      "object": "com_sack_03_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::113511",
+      "object": "com_sack_01_saltrice_5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::113512",
+      "object": "com_sack_01_saltrice_5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::484186",
+      "object": "misc_uni_pillow_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

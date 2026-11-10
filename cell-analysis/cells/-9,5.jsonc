@@ -1,0 +1,24 @@
+{
+  "cell": "-9,5",
+  "name": "Andasreth",
+  "plugins": {
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_swamp_1": 1,
+        "sound_swamp_2": 1
+      }
+    },
+    "BC Sounds Naturalized.esp": {
+      "added": {
+        "opn_sound_swamp_1": 1,
+        "opn_sound_swamp_2": 1
+      }
+    },
+    "EKM Traveling Trader.ESP": {
+      "added": {
+        "ekm_traderk_andasreth": 1,
+        "ekm_traderkc_andasreth": 1
+      }
+    }
+  }
+}

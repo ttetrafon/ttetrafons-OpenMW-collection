@@ -1,0 +1,378 @@
+{
+  "cell": "Mournhold, Vacant Manor",
+  "name": "Mournhold, Vacant Manor",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bk_commontongue": 1,
+        "com_basket_01_pos": 2,
+        "com_sack_01_saltrice_10": 6,
+        "com_sack_02_pos": 2,
+        "com_sack_03_ingredients": 1,
+        "crate_01_eggs10": 2,
+        "crate_01_food": 1,
+        "crate_02_food": 2,
+        "misc_com_bottle_01": 1,
+        "misc_com_bottle_02": 1,
+        "misc_com_bottle_03": 1,
+        "misc_com_bottle_04": 2,
+        "misc_com_bottle_05": 2,
+        "misc_com_bottle_08": 2,
+        "misc_com_bottle_09": 1,
+        "misc_com_bottle_10": 2,
+        "misc_com_bottle_11": 1,
+        "misc_com_bottle_13": 1,
+        "misc_com_bottle_14": 2,
+        "misc_com_bottle_15": 1,
+        "misc_de_basket_01": 1,
+        "sack_small_(scale)00": 1,
+        "urn_02_food": 1,
+        "urn_03_ingred": 1,
+        "urn_04_food": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bk_commontongue": 1,
+        "com_basket_01_pos": 2,
+        "com_sack_01_saltrice_10": 6,
+        "com_sack_02_pos": 2,
+        "com_sack_03_ingredients": 1,
+        "crate_01_eggs10": 2,
+        "crate_01_food": 1,
+        "crate_02_food": 2,
+        "misc_com_bottle_01": 1,
+        "misc_com_bottle_02": 1,
+        "misc_com_bottle_03": 1,
+        "misc_com_bottle_04": 2,
+        "misc_com_bottle_05": 2,
+        "misc_com_bottle_08": 2,
+        "misc_com_bottle_09": 1,
+        "misc_com_bottle_10": 2,
+        "misc_com_bottle_11": 1,
+        "misc_com_bottle_13": 1,
+        "misc_com_bottle_14": 2,
+        "misc_com_bottle_15": 1,
+        "misc_de_basket_01": 1,
+        "sack_small_(scale)00": 1,
+        "urn_02_food": 1,
+        "urn_03_ingred": 1,
+        "urn_04_food": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "tribunal::16337",
+      "object": "crate_02_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16338",
+      "object": "crate_01_eggs10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16339",
+      "object": "crate_01_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16340",
+      "object": "misc_com_bottle_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16341",
+      "object": "misc_com_bottle_15",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16342",
+      "object": "misc_com_bottle_11",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16343",
+      "object": "misc_com_bottle_14",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16344",
+      "object": "misc_com_bottle_10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16345",
+      "object": "misc_com_bottle_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16346",
+      "object": "misc_com_bottle_13",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16347",
+      "object": "urn_03_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16348",
+      "object": "sack_small_(scale)00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16349",
+      "object": "urn_02_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16350",
+      "object": "misc_com_bottle_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16351",
+      "object": "crate_02_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16352",
+      "object": "misc_de_basket_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16353",
+      "object": "crate_01_eggs10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16354",
+      "object": "urn_04_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16355",
+      "object": "com_basket_01_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16356",
+      "object": "com_basket_01_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16357",
+      "object": "com_sack_02_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16358",
+      "object": "com_sack_01_saltrice_10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16359",
+      "object": "com_sack_01_saltrice_10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16360",
+      "object": "com_sack_01_saltrice_10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16361",
+      "object": "com_sack_03_ingredients",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16362",
+      "object": "misc_com_bottle_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16365",
+      "object": "com_sack_01_saltrice_10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16366",
+      "object": "com_sack_01_saltrice_10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16367",
+      "object": "com_sack_01_saltrice_10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16368",
+      "object": "com_sack_02_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16369",
+      "object": "misc_com_bottle_09",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16370",
+      "object": "misc_com_bottle_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16371",
+      "object": "misc_com_bottle_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16372",
+      "object": "misc_com_bottle_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16373",
+      "object": "misc_com_bottle_14",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16374",
+      "object": "misc_com_bottle_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16375",
+      "object": "misc_com_bottle_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16376",
+      "object": "misc_com_bottle_10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24775",
+      "object": "bk_commontongue",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

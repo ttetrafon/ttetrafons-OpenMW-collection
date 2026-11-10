@@ -1,0 +1,607 @@
+{
+  "cell": "Gnisis, Arvs-Drelen",
+  "name": "Gnisis, Arvs-Drelen",
+  "plugins": {
+    "NOD - Core.esm": {
+      "added": {
+        "nod_dnk_dwem_mask": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_demsingingstone": 3,
+        "bc3000_enchantdiamond": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_p_bed_04": 4,
+        "active_de_p_bed_10": 1,
+        "active_de_p_bed_28": 3,
+        "bookskill_alteration2": 1,
+        "bookskill_restoration4": 1,
+        "bookskill_speechcraft2": 1,
+        "chest_small_02_rndgold": 1,
+        "com_chest_02_l_arm_01": 1,
+        "com_chest_02_lev_gold": 1,
+        "com_chest_02_vault_03": 1,
+        "crate_01_armor_iron": 1,
+        "crate_01_de_weapons": 1,
+        "crate_01_ebony": 1,
+        "crate_01_random_pos": 2,
+        "crate_02_random_pos": 1,
+        "de_p_closet_02_de_mclot": 2,
+        "de_p_table_01_pos3": 1,
+        "de_p_table_01_pos4": 1,
+        "flora_fire_fern_01": 2,
+        "flora_fire_fern_03": 2,
+        "flora_rm_scathecraw_01": 1,
+        "flora_rm_scathecraw_02": 1,
+        "gold_100": 1,
+        "in_v_s_jaildoor_01": 1,
+        "in_velothismall_ndoor_01": 1,
+        "key_summoning_room": 1,
+        "light_com_lantern_02_177": 1,
+        "light_de_lantern_05_128_carry": 1,
+        "misc_com_bucket_01": 1,
+        "misc_com_metal_plate_05": 1,
+        "misc_com_pitcher_metal_01": 1,
+        "misc_com_tankard_01": 1,
+        "misc_com_wood_fork": 1,
+        "misc_com_wood_knife": 1,
+        "misc_com_wood_spoon_01": 1,
+        "misc_uni_pillow_01": 5,
+        "sc_paper plain": 1,
+        "torch_128": 13
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_p_bed_04": 4,
+        "active_de_p_bed_10": 1,
+        "active_de_p_bed_28": 3,
+        "bookskill_alteration2": 1,
+        "bookskill_restoration4": 1,
+        "bookskill_speechcraft2": 1,
+        "chest_small_02_rndgold": 1,
+        "com_chest_02_l_arm_01": 1,
+        "com_chest_02_lev_gold": 1,
+        "com_chest_02_vault_03": 1,
+        "crate_01_armor_iron": 1,
+        "crate_01_de_weapons": 1,
+        "crate_01_ebony": 1,
+        "crate_01_random_pos": 2,
+        "crate_02_random_pos": 1,
+        "de_p_closet_02_de_mclot": 2,
+        "de_p_table_01_pos3": 1,
+        "de_p_table_01_pos4": 1,
+        "flora_fire_fern_01": 2,
+        "flora_fire_fern_03": 2,
+        "flora_rm_scathecraw_01": 1,
+        "flora_rm_scathecraw_02": 1,
+        "gold_100": 1,
+        "in_v_s_jaildoor_01": 1,
+        "in_velothismall_ndoor_01": 1,
+        "key_summoning_room": 1,
+        "light_com_lantern_02_177": 1,
+        "light_de_lantern_05_128_carry": 1,
+        "misc_com_bucket_01": 1,
+        "misc_com_metal_plate_05": 1,
+        "misc_com_pitcher_metal_01": 1,
+        "misc_com_tankard_01": 1,
+        "misc_com_wood_fork": 1,
+        "misc_com_wood_knife": 1,
+        "misc_com_wood_spoon_01": 1,
+        "misc_uni_pillow_01": 5,
+        "sc_paper plain": 1,
+        "torch_128": 13
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::3244",
+      "object": "crate_01_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::33838",
+      "object": "active_de_p_bed_28",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::33839",
+      "object": "active_de_p_bed_28",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::33840",
+      "object": "active_de_p_bed_28",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::33842",
+      "object": "active_de_p_bed_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::33843",
+      "object": "active_de_p_bed_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::33844",
+      "object": "active_de_p_bed_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::33845",
+      "object": "active_de_p_bed_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::33846",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::33847",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::33848",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::33849",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::37994",
+      "object": "gold_100",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::38032",
+      "object": "key_summoning_room",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::38051",
+      "object": "active_de_p_bed_10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::38053",
+      "object": "de_p_closet_02_de_mclot",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::38054",
+      "object": "crate_02_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::38055",
+      "object": "crate_01_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48118",
+      "object": "de_p_closet_02_de_mclot",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48125",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48142",
+      "object": "light_de_lantern_05_128_carry",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48143",
+      "object": "misc_com_wood_fork",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48144",
+      "object": "misc_com_wood_knife",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48145",
+      "object": "misc_com_wood_spoon_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48146",
+      "object": "misc_com_metal_plate_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48147",
+      "object": "misc_com_tankard_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48148",
+      "object": "misc_com_pitcher_metal_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::148795",
+      "object": "in_velothismall_ndoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::281906",
+      "object": "crate_01_de_weapons",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::281907",
+      "object": "crate_01_ebony",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::281908",
+      "object": "crate_01_armor_iron",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::148787",
+      "object": "in_v_s_jaildoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::390066",
+      "object": "torch_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::390071",
+      "object": "torch_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::390074",
+      "object": "misc_com_bucket_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::390076",
+      "object": "torch_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::390078",
+      "object": "torch_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::390079",
+      "object": "torch_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::390085",
+      "object": "torch_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::390087",
+      "object": "torch_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::465826",
+      "object": "torch_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::469010",
+      "object": "com_chest_02_lev_gold",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::469011",
+      "object": "com_chest_02_l_arm_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::469012",
+      "object": "com_chest_02_vault_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::469013",
+      "object": "torch_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::469025",
+      "object": "flora_rm_scathecraw_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::469026",
+      "object": "flora_fire_fern_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::469029",
+      "object": "flora_fire_fern_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::469032",
+      "object": "flora_rm_scathecraw_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::469037",
+      "object": "flora_fire_fern_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::469038",
+      "object": "flora_fire_fern_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::469094",
+      "object": "torch_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::469096",
+      "object": "torch_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::469127",
+      "object": "de_p_table_01_pos3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::469128",
+      "object": "de_p_table_01_pos4",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::469129",
+      "object": "chest_small_02_rndgold",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::469131",
+      "object": "bookskill_speechcraft2",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::469132",
+      "object": "sc_paper plain",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::475256",
+      "object": "torch_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::478854",
+      "object": "torch_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::478856",
+      "object": "light_com_lantern_02_177",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483383",
+      "object": "bookskill_restoration4",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483385",
+      "object": "bookskill_alteration2",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

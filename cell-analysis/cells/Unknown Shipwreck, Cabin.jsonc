@@ -1,0 +1,16 @@
+{
+  "cell": "Unknown Shipwreck, Cabin",
+  "name": "Unknown Shipwreck, Cabin",
+  "plugins": {
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_map_03": 1
+      }
+    },
+    "OAAB - Shipwrecks.esm": {
+      "modified": {
+        "in_de_ship_cabindoor": 1
+      }
+    }
+  }
+}

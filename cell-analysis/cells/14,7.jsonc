@@ -1,0 +1,21 @@
+{
+  "cell": "14,7",
+  "plugins": {
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_bk_skill_immortal_blood": 1,
+        "aatl_con_dae_coffer01_l": 1,
+        "aatl_m_dae_sigilstone_im": 1,
+        "aatl_m_pot_empty_3": 1,
+        "aatl_m_telescope_p": 1,
+        "contain_corpse10": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_marker": 1,
+        "xero_west_barrel": 1
+      }
+    }
+  }
+}

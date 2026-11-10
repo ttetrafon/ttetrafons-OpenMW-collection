@@ -1,0 +1,22 @@
+{
+  "cell": "Mamaea, Sanctum of Awakening",
+  "name": "Mamaea, Sanctum of Awakening",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_dreamers": 3,
+        "plx_dreamers_rare": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_6_dream_list_1": 3,
+        "dreamer_02": 1,
+        "dreamer_06": 1
+      },
+      "modified": {
+        "aa_cr_dreamer_f_03": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "cell": "Caldera, Verick Gemain: Trader",
+  "name": "Caldera, Verick Gemain: Trader",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_trader": 1
+      }
+    },
+    "Tales of the Mad God.ESP": {
+      "added": {
+        "aom_bookchest5": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_traders_spawn": 1
+      }
+    },
+    "TTD_UnderMassersGaze.esp": {
+      "added": {
+        "ttd_pickaxechest": 2
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "light_com_candle_01_64": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_imperial guard_ran": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "light_com_candle_01_64": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::398537",
+      "object": "light_com_candle_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

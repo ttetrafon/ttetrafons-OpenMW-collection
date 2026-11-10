@@ -1,0 +1,150 @@
+{
+  "cell": "Ebonheart, Imperial Chapels",
+  "name": "Ebonheart, Imperial Chapels",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_impc_s_rb_imp": 2
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_apothecary": 1,
+        "aa_wares_healer": 1,
+        "aa_wares_magical_ic": 1,
+        "aa_wares_priest": 1,
+        "aa_wares_savant": 1,
+        "aa_wares_trader_ic": 1
+      }
+    },
+    "Illy's Oh my Goddess.ESP": {
+      "added": {
+        "active_com_bed_02": 1,
+        "active_com_bed_06": 1,
+        "bk_aedraanddaedra": 1,
+        "bk_ancestorsandthedunmer": 1,
+        "bk_bookofdaedra": 1,
+        "bk_overviewofgodsandworship": 1,
+        "bk_reflectionsoncultworship...": 1,
+        "bk_varietiesoffaithintheempire": 1,
+        "bookskill_speechcraft3": 1,
+        "chest_small_02_socucius": 3,
+        "com_basket_01": 2,
+        "com_chest_01": 1,
+        "com_drawers_01": 1,
+        "furn_c_t_arkay_01": 1,
+        "furn_c_t_dibella_01": 3,
+        "furn_c_t_julianos_01": 1,
+        "furn_c_t_stendarr_01": 12,
+        "furn_com_pm_chair_02": 3,
+        "furn_com_r_bookshelf_01_telvos": 1,
+        "furn_com_r_chair_01": 1,
+        "furn_com_rm_bench_02": 3,
+        "furn_com_rm_table_03": 1,
+        "furn_de_rug_big_04": 7,
+        "furn_mist512": 2,
+        "furn_spinwheel00": 1,
+        "in_impsmall_3way_01": 2,
+        "in_impsmall_door_01": 1,
+        "in_impsmall_doorjam_01": 2,
+        "in_impsmall_r_3way_01": 2,
+        "in_impsmall_r_corner_01": 8,
+        "in_impsmall_r_entr_01": 2,
+        "ingred_sload_soap_01": 6,
+        "light_com_candle_07_64": 1,
+        "light_com_chandelier_01_128": 1,
+        "light_com_sconce_02_128": 4,
+        "mg_bathtub": 2,
+        "mg_chest": 1,
+        "mg_impsmall_door_01": 1,
+        "mg_orchid_1": 2,
+        "mg_orchid_2": 1,
+        "mg_orchid_3": 3,
+        "mg_verginita": 1,
+        "misc_com_basket_02": 1,
+        "misc_com_bottle_05": 1,
+        "misc_com_redware_bowl": 1,
+        "misc_com_redware_flask": 5,
+        "misc_com_redware_pitcher": 2,
+        "misc_com_redware_vase": 1,
+        "misc_de_foldedcloth00": 11,
+        "misc_flask_01": 4,
+        "misc_flask_02": 1,
+        "misc_flask_03": 1,
+        "misc_flask_04": 2,
+        "misc_imp_silverware_bowl": 1,
+        "misc_imp_silverware_cup": 1,
+        "misc_imp_silverware_cup_01": 6,
+        "misc_imp_silverware_pitcher": 1,
+        "misc_inkwell": 1,
+        "misc_lw_flask": 1,
+        "misc_quill": 2,
+        "misc_shears_01": 1,
+        "misc_spool_01": 3,
+        "misc_uni_pillow_01": 4,
+        "sc_paper_plain_01_canodia": 1,
+        "text_paper_roll_01": 3
+      },
+      "modified": {
+        "furn_c_t_dibella_01": 1,
+        "furn_c_t_stendarr_01": 1,
+        "in_impsmall_doorjam_01": 1,
+        "in_impsmall_r_3way_01": 1,
+        "in_impsmall_r_corner_01": 4,
+        "in_impsmall_r_entr_01": 1,
+        "light_com_sconce_02_128": 1,
+        "mg_impsmall_door_01": 1,
+        "sarmosia vant": 1
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_comp_0s_healer": 1,
+        "aa_ff_amalie_trigger": 1
+      }
+    },
+    "Privileges&Services 1.1.esp": {
+      "added": {
+        "abm_placeshrinser": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "furn_imp_altar_cure_01": 1,
+        "gold_025": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "furn_imp_altar_cure_01": 1,
+        "gold_025": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::276864",
+      "object": "gold_025",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276865",
+      "object": "gold_025",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::376622",
+      "object": "furn_imp_altar_cure_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

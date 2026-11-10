@@ -1,0 +1,91 @@
+{
+  "cell": "-10,11",
+  "name": "Gnisis",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_balmoracitizens": 1,
+        "gvrm_imp_wl_imc_or": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_telemage_spawn": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "door_cavern_doors10": 1,
+        "food_kwama_egg_01": 4,
+        "food_kwama_egg_02": 1,
+        "miner's pick": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "door_cavern_doors10": 1,
+        "food_kwama_egg_01": 4,
+        "food_kwama_egg_02": 1,
+        "miner's pick": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::5678",
+      "object": "door_cavern_doors10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::5688",
+      "object": "food_kwama_egg_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::5689",
+      "object": "food_kwama_egg_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::5690",
+      "object": "food_kwama_egg_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::5691",
+      "object": "food_kwama_egg_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::5692",
+      "object": "food_kwama_egg_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::484411",
+      "object": "miner's pick",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

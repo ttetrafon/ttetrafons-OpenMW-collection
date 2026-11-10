@@ -1,0 +1,66 @@
+{
+  "cell": "Vivec, St. Delyn Waist North-Two",
+  "name": "Vivec, St. Delyn Waist North-Two",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_r_bed_19": 1,
+        "bk_cantatasofvivec": 1,
+        "de_r_chest_01_empty": 1,
+        "de_r_closet_01_empty": 1,
+        "misc_uni_pillow_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_r_bed_19": 1,
+        "bk_cantatasofvivec": 1,
+        "de_r_chest_01_empty": 1,
+        "de_r_closet_01_empty": 1,
+        "misc_uni_pillow_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::158958",
+      "object": "active_de_r_bed_19",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::158959",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::158970",
+      "object": "de_r_chest_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::158972",
+      "object": "de_r_closet_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::424158",
+      "object": "bk_cantatasofvivec",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

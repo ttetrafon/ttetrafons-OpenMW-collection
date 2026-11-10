@@ -1,0 +1,71 @@
+{
+  "cell": "Narsis, Ulveni Salavel: Armorer",
+  "name": "Narsis, Ulveni Salavel: Armorer",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "bonemold bolt": 12,
+        "bonemold_bracer_left": 1,
+        "bonemold_bracer_right": 1,
+        "bonemold_chuzei_helm": 1,
+        "bonemold_shield": 1,
+        "bonemold_towershield": 1,
+        "flora_grass_01": 1,
+        "furn_anvil00": 1,
+        "furn_coals_hot": 1,
+        "furn_de_rope_03": 1,
+        "furn_de_rug_big_06": 1,
+        "furn_de_tapestry_07": 3,
+        "furn_planter_02": 1,
+        "in_hlaalu_doorjamb_load": 1,
+        "in_hlaalu_loaddoor_01": 1,
+        "in_hlaalu_room_corner": 4,
+        "in_hlaalu_room_entry": 1,
+        "in_hlaalu_room_side": 1,
+        "ingred_bonemeal_01": 1,
+        "ingred_resin_01": 1,
+        "iron_cuirass": 1,
+        "light_de_candle_08_64": 2,
+        "light_de_lamp_01_128": 1,
+        "light_de_lantern_04_157": 1,
+        "light_logpile_177": 1,
+        "misc_com_redware_bowl_01": 1,
+        "northmarker": 1,
+        "repair_journeyman_01": 1,
+        "repair_prongs": 1,
+        "t_com_iron_helm_03": 1,
+        "t_com_iron_helm_04": 1,
+        "t_com_metalpieceiron_01": 3,
+        "t_de_bonemold_chuzei_cuirass": 1,
+        "t_de_bonemold_chuzei_greaves": 1,
+        "t_de_bonemold_chuzei_pauldl": 1,
+        "t_de_bonemold_chuzei_pauldr": 1,
+        "t_de_bonemoldmarad_helm_02": 1,
+        "t_de_bonemoldmarad_pauldronl_01": 1,
+        "t_de_bonemoldmarad_pauldronr_01": 1,
+        "t_de_bonemoldmarad_shield_fire": 1,
+        "t_de_bonemoldsammas_helm_01": 1,
+        "t_de_dreugh_boots_01": 1,
+        "t_de_dreugh_greaves_01": 1,
+        "t_de_dreugh_hunter_helm_01": 1,
+        "t_de_furnm_bar_01": 4,
+        "t_de_furnm_bar_end_01": 2,
+        "t_de_furnm_bar_end_02": 2,
+        "t_de_furnm_bookshelf_01": 2,
+        "t_de_kagoutihide_boots_01": 1,
+        "t_de_sethla_f_forge_01": 1,
+        "t_de_stonewarebowl_03": 1,
+        "t_mwcom_var_bs1ingnars": 1,
+        "t_mwcom_var_bss1ing": 1,
+        "t_mwcom_var_cr1chuz_01": 1,
+        "tr_m7_narsis_ulvenibarr": 1,
+        "tr_m7_ulveni salavel": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_smith": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "cell": "-9,2",
+  "plugins": {
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "a_photodragons": 1,
+        "sound_swamp_1": 1,
+        "sound_swamp_2": 2
+      }
+    },
+    "BC Sounds Naturalized.esp": {
+      "added": {
+        "opn_a_photodragons": 1,
+        "opn_sound_swamp_1": 1,
+        "opn_sound_swamp_2": 2
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_marker": 1,
+        "xero_west_sack": 1
+      }
+    },
+    "OAAB - Shipwrecks.esm": {
+      "modified": {
+        "_cor_ship_de_shack_plank_03_a": 2
+      }
+    }
+  }
+}

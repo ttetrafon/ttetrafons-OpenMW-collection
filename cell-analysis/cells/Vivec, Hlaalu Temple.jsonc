@@ -1,0 +1,62 @@
+{
+  "cell": "Vivec, Hlaalu Temple",
+  "name": "Vivec, Hlaalu Temple",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1
+      }
+    },
+    "Holy Art.ESP": {
+      "added": {
+        "vd_velothismall_12": 2
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_cleaner8": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_priest": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "misc_clothbolt_02": 3
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "misc_clothbolt_02": 3
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::407734",
+      "object": "misc_clothbolt_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::407735",
+      "object": "misc_clothbolt_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::407736",
+      "object": "misc_clothbolt_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

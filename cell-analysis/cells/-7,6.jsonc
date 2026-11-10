@@ -1,0 +1,55 @@
+{
+  "cell": "-7,6",
+  "plugins": {
+    "Friends & Frens - Bantam Guar.esp": {
+      "added": {
+        "aa_ff_bantamguar02": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_wg": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "ex_redoran_hut_01_a": 1,
+        "urn_01_food": 1,
+        "urn_04_food": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "ex_redoran_hut_01_a": 1,
+        "urn_01_food": 1,
+        "urn_04_food": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::76985",
+      "object": "ex_redoran_hut_01_a",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::324013",
+      "object": "urn_01_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::324014",
+      "object": "urn_04_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

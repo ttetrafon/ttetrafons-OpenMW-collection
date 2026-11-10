@@ -1,0 +1,19 @@
+{
+  "cell": "21,-1",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_t_menhir_l_01": 2,
+        "t_mw_rlvl_innerseawater+0": 1,
+        "t_mw_rlvl_innerseawater+2": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_chest_empty": 1,
+        "xero_east_chest": 1,
+        "xero_marker": 1
+      }
+    }
+  }
+}

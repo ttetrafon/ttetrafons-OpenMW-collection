@@ -1,0 +1,17 @@
+{
+  "cell": "-3,5",
+  "plugins": {
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_ff_nix-hound_rabid": 1,
+        "nix-hound": 1,
+        "nix-hound blighted": 1
+      }
+    },
+    "Creatures and Critters Light the Path.ESP": {
+      "added": {
+        "aa_cr_i_moth_all": 1
+      }
+    }
+  }
+}

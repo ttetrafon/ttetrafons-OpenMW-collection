@@ -1,0 +1,22 @@
+{
+  "cell": "Andrano Ancestral Tomb",
+  "name": "Andrano Ancestral Tomb",
+  "plugins": {
+    "Holy Art.ESP": {
+      "added": {
+        "vd_velothismall_09": 1,
+        "vd_velothismall_11": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_u_all_1": 2
+      }
+    },
+    "Unique Uniques.ESP": {
+      "modified": {
+        "dagger of judgement": 1
+      }
+    }
+  }
+}

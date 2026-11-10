@@ -1,0 +1,75 @@
+{
+  "cell": "Anvil, Albatross Apartments",
+  "name": "Anvil, Albatross Apartments",
+  "plugins": {
+    "Cyr_Main.ESM": {
+      "added": {
+        "furn_com_rm_chair_03": 2,
+        "furn_com_rm_table_05": 2,
+        "furn_hook_01": 2,
+        "hammer_repair": 1,
+        "light_com_candle_05_64": 2,
+        "light_com_lamp_01_77": 3,
+        "light_com_sconce_01_77": 2,
+        "misc_com_bottle_02": 1,
+        "misc_com_bottle_05": 1,
+        "misc_com_bottle_07": 1,
+        "misc_com_bottle_14": 1,
+        "misc_com_broom_01": 1,
+        "misc_com_bucket_01": 1,
+        "northmarker": 1,
+        "t_com_nails_01": 1,
+        "t_com_nails_02": 1,
+        "t_cyrcom_var_bl2msccol2": 1,
+        "t_cyrcom_var_bl2rice": 1,
+        "t_cyrcom_var_bs1empty": 1,
+        "t_cyrcom_var_bs1foodgc": 1,
+        "t_cyrcom_var_cr2foodgc": 1,
+        "t_cyrcom_var_cr4dricol": 1,
+        "t_cyrimp_furnm_ds1empty": 1,
+        "t_imp_furn_rug_02": 1,
+        "t_imp_furn_rug_04": 1,
+        "t_imp_furn_rug_06": 1,
+        "t_imp_furn_rugbigcm_05": 1,
+        "t_imp_furn_tapestry_22": 2,
+        "t_imp_furn_tapestry_30": 7,
+        "t_imp_setanv_door_i01": 1,
+        "t_imp_setanv_i_window_03": 2,
+        "t_imp_setgc_doorin_01": 4,
+        "t_imp_setgc_doorin_02": 1,
+        "t_imp_setgc_i_4way_01": 1,
+        "t_imp_setgc_i_ceiling_01": 1,
+        "t_imp_setgc_i_corner_03": 4,
+        "t_imp_setgc_i_dframerich_01": 1,
+        "t_imp_setgc_i_djambrich_01": 4,
+        "t_imp_setgc_i_djambrich_02": 1,
+        "t_imp_setgc_i_endcap_01": 2,
+        "t_imp_setgc_i_hall_01": 2,
+        "t_imp_setgc_i_pillarrich_02": 8,
+        "t_imp_setgc_i_pillarrich_03": 4,
+        "t_imp_setgc_i_side_02": 2,
+        "t_imp_setgc_i_skirting_01": 3,
+        "t_imp_setgc_i_stair_01": 1,
+        "t_imp_setgc_i_stair_22": 1,
+        "t_imp_setgc_i_wall_01": 1
+      }
+    },
+    "UnderharborFlat.ESP": {
+      "added": {
+        "in_v_s_trapdoor_01": 1
+      },
+      "modified": {
+        "hammer_repair": 1,
+        "misc_com_bottle_02": 1,
+        "misc_com_bottle_07": 1,
+        "misc_com_bucket_01": 1,
+        "t_cyrcom_var_bl2mscgc2": 1,
+        "t_cyrcom_var_bs1empty": 1,
+        "t_cyrcom_var_bs1foodgc": 1,
+        "t_cyrcom_var_cr2foodgc": 1,
+        "t_imp_setgc_doorin_02": 1,
+        "t_imp_setgc_i_corner_03": 2
+      }
+    }
+  }
+}

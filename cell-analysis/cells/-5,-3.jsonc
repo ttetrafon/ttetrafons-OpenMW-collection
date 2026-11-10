@@ -1,0 +1,31 @@
+{
+  "cell": "-5,-3",
+  "plugins": {
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "a_photodragons": 2,
+        "sound_swamp_1": 3,
+        "sound_swamp_2": 1,
+        "sound_swamp_3": 1
+      }
+    },
+    "BC Sounds Naturalized.esp": {
+      "added": {
+        "opn_a_photodragons": 2,
+        "opn_sound_swamp_1": 3,
+        "opn_sound_swamp_2": 1,
+        "opn_sound_swamp_3": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_hl_spawn": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_crt_deepforest_bc": 2
+      }
+    }
+  }
+}

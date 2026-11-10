@@ -1,0 +1,22 @@
+{
+  "cell": "20,2",
+  "plugins": {
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_m_cook_pot_r_l": 1,
+        "aatl_m_shovel_rust_broke": 1,
+        "ab_o_crate03smuggler": 1,
+        "active_de_bedroll": 3,
+        "furn_de_firepit_f": 1,
+        "t_cyrrga_ch2smug": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "gold_001": 10,
+        "xero_east_chest": 1,
+        "xero_marker": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "cell": "0,-11",
+  "plugins": {
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_swamp_2": 1
+      }
+    },
+    "BC Sounds Naturalized.esp": {
+      "added": {
+        "opn_a_photodragons": 2,
+        "opn_sound_swamp_2": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_marker": 1,
+        "xero_west_sack": 1
+      }
+    }
+  }
+}

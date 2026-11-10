@@ -1,0 +1,42 @@
+{
+  "cell": "43,-15",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_dae_door_load_oval": 1,
+        "ex_dae_pillar_03": 1,
+        "ex_dae_ruin_01": 1,
+        "ex_dae_ruin_02": 1,
+        "ex_dae_ruin_03": 1,
+        "ex_dae_ruin_04": 1,
+        "ex_dae_ruin_entry.max": 1,
+        "ex_dae_ruin_stair01_short": 1,
+        "ex_dae_wall_512_01": 3,
+        "ex_velothi_entrance_02": 1,
+        "ex_velothi_loaddoor_01": 1,
+        "ex_vivec_waterfall_05": 4,
+        "ex_waterfall_mist_s_01": 6,
+        "flora_grass_01": 2,
+        "flora_grass_02": 1,
+        "flora_grass_03": 8,
+        "flora_kreshweed_02": 2,
+        "flora_root_wg_01": 1,
+        "flora_tree_wg_05": 1,
+        "flora_tree_wg_06": 1,
+        "t_glb_terrwater_sqrstill1024_01": 4,
+        "terrain_rock_wg_10": 11,
+        "terrain_rock_wg_12": 2,
+        "terrain_rock_wg_17": 28,
+        "terrain_rock_wg_18": 3,
+        "terrain_rocks_wg_01": 1,
+        "terrain_rocks_wg_02": 1,
+        "terrain_rocks_wg_03": 2
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_ex_daedric_ruins_spawn": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "cell": "23,13",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_cave_door_01": 1,
+        "ex_cave_entrance_bc_01": 1,
+        "flora_chokeweed_02": 1,
+        "flora_stoneflower_01": 1,
+        "flora_stoneflower_02": 1,
+        "flora_tree_wg_01": 6,
+        "flora_tree_wg_02": 1,
+        "flora_tree_wg_03": 2,
+        "flora_tree_wg_06": 2,
+        "flora_tree_wg_07": 3,
+        "furn_de_ex_stool_02": 1,
+        "light_pitfire01": 1,
+        "misc_com_basket_01": 1,
+        "misc_de_lute_01": 1,
+        "t_mw_rlvl_boethiahspineland-2": 1,
+        "terrain_rock_wg_09": 1,
+        "terrain_rock_wg_10": 1,
+        "terrain_rock_wg_12": 3,
+        "terrain_rock_wg_17": 10,
+        "terrain_rock_wg_18": 9,
+        "terrain_rocks_wg_03": 45,
+        "tr_m1_r_maten releth": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

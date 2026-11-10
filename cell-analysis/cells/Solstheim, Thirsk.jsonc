@@ -1,0 +1,394 @@
+{
+  "cell": "Solstheim, Thirsk",
+  "name": "Solstheim, Thirsk",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 2
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_bardbmthirsk": 1,
+        "am_bardbmthirsk2": 1,
+        "am_misc_uni_pillow_02": 2
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_bookseller": 1
+      }
+    },
+    "Privileges&Services 1.1.esp": {
+      "added": {
+        "abm_bmmercenaryplacer": 1,
+        "ss_thirsk": 1
+      }
+    },
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "modified": {
+        "crate_02_mead_unique": 1,
+        "ex_s_door_double": 1,
+        "furn_rug_redwolf": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_bedroll": 4,
+        "bk_houseoftroubles_c": 1,
+        "bm nordic silver axe": 1,
+        "bm nordic silver dagger": 1,
+        "in_thirsk_door": 1,
+        "light_com_torch_01_128": 5,
+        "misc_com_tankard_01": 4,
+        "misc_com_wood_bowl_02": 3,
+        "misc_inkwell": 1,
+        "misc_quill": 1,
+        "misc_uni_pillow_01": 1,
+        "sc_paper plain": 3,
+        "silver arrow_thirsk_0": 1,
+        "silver arrow_thirsk_1": 1,
+        "silver arrow_thirsk_2": 1,
+        "silver arrow_thirsk_3": 1,
+        "silver arrow_thirsk_4": 1,
+        "silver arrow_thirsk_5": 3,
+        "silver arrow_thirsk_6": 1,
+        "silver arrow_thirsk_7": 1,
+        "silver arrow_thirsk_8": 1,
+        "silver arrow_thirsk_9": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_bedroll": 4,
+        "bk_houseoftroubles_c": 1,
+        "bm nordic silver axe": 1,
+        "bm nordic silver dagger": 1,
+        "in_thirsk_door": 1,
+        "light_com_torch_01_128": 5,
+        "misc_com_tankard_01": 4,
+        "misc_com_wood_bowl_02": 3,
+        "misc_inkwell": 1,
+        "misc_quill": 1,
+        "misc_uni_pillow_01": 1,
+        "sc_paper plain": 3,
+        "silver arrow_thirsk_0": 1,
+        "silver arrow_thirsk_1": 1,
+        "silver arrow_thirsk_2": 1,
+        "silver arrow_thirsk_3": 1,
+        "silver arrow_thirsk_4": 1,
+        "silver arrow_thirsk_5": 3,
+        "silver arrow_thirsk_6": 1,
+        "silver arrow_thirsk_7": 1,
+        "silver arrow_thirsk_8": 1,
+        "silver arrow_thirsk_9": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::18026",
+      "object": "silver arrow_thirsk_1",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::18027",
+      "object": "silver arrow_thirsk_0",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::18028",
+      "object": "silver arrow_thirsk_2",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::18029",
+      "object": "silver arrow_thirsk_3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::18030",
+      "object": "silver arrow_thirsk_4",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::18031",
+      "object": "silver arrow_thirsk_5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::18032",
+      "object": "silver arrow_thirsk_7",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::18033",
+      "object": "silver arrow_thirsk_8",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::18034",
+      "object": "silver arrow_thirsk_9",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::18036",
+      "object": "silver arrow_thirsk_6",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::30506",
+      "object": "silver arrow_thirsk_5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::30507",
+      "object": "silver arrow_thirsk_5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::11853",
+      "object": "in_thirsk_door",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::11857",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::11864",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::11865",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::11866",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::11887",
+      "object": "light_com_torch_01_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::11889",
+      "object": "light_com_torch_01_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::11897",
+      "object": "light_com_torch_01_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::11943",
+      "object": "misc_com_tankard_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::11944",
+      "object": "misc_com_wood_bowl_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::11945",
+      "object": "misc_com_tankard_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::11947",
+      "object": "bk_houseoftroubles_c",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::11952",
+      "object": "bm nordic silver axe",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::11953",
+      "object": "bm nordic silver dagger",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::20435",
+      "object": "light_com_torch_01_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::20437",
+      "object": "light_com_torch_01_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::30511",
+      "object": "misc_com_wood_bowl_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::30512",
+      "object": "misc_com_wood_bowl_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::30513",
+      "object": "misc_com_tankard_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::30514",
+      "object": "misc_com_tankard_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::32710",
+      "object": "misc_inkwell",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::32711",
+      "object": "misc_quill",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::32712",
+      "object": "sc_paper plain",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::32713",
+      "object": "sc_paper plain",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::32714",
+      "object": "sc_paper plain",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::32917",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "cell": "2,5",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_dun_pray_5": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_pilgrim_spawn": 1
+      }
+    }
+  }
+}

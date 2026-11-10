@@ -1,0 +1,60 @@
+{
+  "cell": "Balmora, Ra'Virr: Trader",
+  "name": "Balmora, Ra'Virr: Trader",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_balmoracitizens": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_trader": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_ajulaalteration": 1,
+        "bc3000_mediumenchantscroll": 2
+      },
+      "modified": {
+        "com_chest_02_v_armor02": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_traders_spawn": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "furn_de_bar_05": 1,
+        "in_hlaalu_door": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "furn_de_bar_05": 1,
+        "in_hlaalu_door": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::131950",
+      "object": "in_hlaalu_door",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::132060",
+      "object": "furn_de_bar_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

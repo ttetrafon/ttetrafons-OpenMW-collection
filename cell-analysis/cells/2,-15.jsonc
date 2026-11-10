@@ -1,0 +1,61 @@
+{
+  "cell": "2,-15",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "blue coast ref 1024": 2,
+        "contain_corpse21": 1,
+        "contain_corpse_water": 1,
+        "dark_512_01": 1,
+        "ex_barnacles_01": 1,
+        "ex_barnacles_02": 12,
+        "ex_barnacles_03": 4,
+        "ex_longboatwrk": 1,
+        "flora_kelp_01": 4,
+        "flora_kelp_02": 8,
+        "flora_kelp_03": 5,
+        "flora_kelp_04": 5,
+        "in_cave_plant00": 6,
+        "in_moldboulder04": 2,
+        "iron war axe": 1,
+        "kollop_03_pearl": 2,
+        "t_com_iron_cuirass_01": 2,
+        "t_com_iron_helm_01": 3,
+        "t_com_var_barrelbroken_01": 1,
+        "t_com_var_cratebroken_01": 1,
+        "t_com_var_cratebroken_02": 1,
+        "t_com_var_shackles_01": 2,
+        "t_glb_var_skeletonfootr_01": 1,
+        "t_glb_var_skeletonshinr_01": 1,
+        "t_mw_cr_slaugherfish": 1,
+        "t_mw_terrrockai_rock_08": 1,
+        "t_mw_terrrockai_rock_09": 1,
+        "t_mw_terrrockai_rock_12": 2,
+        "t_mw_terrrockat_rock_27": 1,
+        "terrain_rock_ai_02": 1,
+        "terrain_rock_ai_07": 1,
+        "terrain_rock_ai_08": 1,
+        "terrain_rock_ai_09": 2,
+        "terrain_rock_ai_12": 2,
+        "terrain_rocks_ai_01": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_marker": 1,
+        "xero_south_crate": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_water": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_ai": 1,
+        "aa_cr_w_creature_list_1": 1
+      }
+    }
+  }
+}

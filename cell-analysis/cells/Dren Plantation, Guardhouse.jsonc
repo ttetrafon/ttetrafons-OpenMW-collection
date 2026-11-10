@@ -1,0 +1,57 @@
+{
+  "cell": "Dren Plantation, Guardhouse",
+  "name": "Dren Plantation, Guardhouse",
+  "plugins": {
+    "Enchanted Batons.ESP": {
+      "added": {
+        "bng_ebo_btn": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_p_bed_03": 1,
+        "sc_paper plain": 3
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_p_bed_03": 1,
+        "sc_paper plain": 3
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::179319",
+      "object": "active_de_p_bed_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::441714",
+      "object": "sc_paper plain",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::441715",
+      "object": "sc_paper plain",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::441716",
+      "object": "sc_paper plain",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cell": "-9,-2",
+  "plugins": {
+    "Sea Forts of Morrowind 1.0v.ESP": {
+      "added": {
+        "terrain_rock_bc_08": 1,
+        "terrain_rock_bc_16": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_ex_barnacles_01": 1,
+        "xero_ex_barnacles_06": 1,
+        "xero_in_cave_plant10": 1,
+        "xero_marker": 1,
+        "xero_west_barrel": 1
+      }
+    }
+  }
+}

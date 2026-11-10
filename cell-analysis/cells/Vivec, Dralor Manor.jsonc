@@ -1,0 +1,36 @@
+{
+  "cell": "Vivec, Dralor Manor",
+  "name": "Vivec, Dralor Manor",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_r_bed_01": 1,
+        "active_de_r_bed_17": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_r_bed_01": 1,
+        "active_de_r_bed_17": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::187918",
+      "object": "active_de_r_bed_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::187919",
+      "object": "active_de_r_bed_17",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "cell": "-3,12",
+  "name": "Maar Gan",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_aldruhncit_m": 3,
+        "gvrm_am_marker": 1,
+        "gvrm_mercwand_dun": 1,
+        "gvrm_redoranwand_dun": 3
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "ab01ambeggarbowl9": 1,
+        "am_beggar9": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_hiddencache": 6
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_mugger_spawn": 1,
+        "_aa_pilgrim_spawn": 2,
+        "_aa_telemage_spawn": 1
+      }
+    },
+    "Creatures and Critters Light the Path.ESP": {
+      "added": {
+        "aa_cr_i_moth_all": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_redoran guard_ran": 3
+      }
+    },
+    "Local Lore - Silt Striders and Caravaners - Silt Strider Animation Restored.ESP": {
+      "modified": {
+        "kil_silt_silkwalker": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "cell": "Port Telvannis, Turosi Salvel: Enchanter",
+  "name": "Port Telvannis, Turosi Salvel: Enchanter",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_bed_30": 1,
+        "bk_onoblivion": 1,
+        "blessed_shield": 1,
+        "chest_small_02_gold_25": 1,
+        "dark_128": 1,
+        "de_p_chest_02_pos3": 1,
+        "de_p_closet_02_de_robes": 1,
+        "de_p_desk_01_pos": 1,
+        "flora_bc_vine_03": 4,
+        "flora_bc_vine_07": 5,
+        "flora_heather_01": 1,
+        "furn_de_p_bookshelf_01": 1,
+        "furn_de_p_chair_02": 1,
+        "furn_de_p_table_01": 1,
+        "furn_de_rug_big_02": 1,
+        "furn_de_rug_big_08": 1,
+        "furn_de_tapestry_03": 1,
+        "furn_planter_01": 1,
+        "in_t_housepod_01": 1,
+        "in_t_housepod_2flr_stair": 1,
+        "in_t_housepod_door_exit": 1,
+        "in_t_housepod_pole_01": 2,
+        "in_t_housepod_pole_02": 1,
+        "in_t_housepod_pole_04": 1,
+        "in_t_railing_pole": 1,
+        "in_t_railing_pole_rails": 4,
+        "light_de_candle_08": 1,
+        "light_de_candle_09": 1,
+        "light_de_paper_lantern_01_128": 2,
+        "misc_com_redware_platter": 1,
+        "misc_soulgem_common": 1,
+        "misc_soulgem_grand": 1,
+        "misc_soulgem_greater": 1,
+        "misc_soulgem_lesser": 2,
+        "misc_soulgem_petty": 1,
+        "misc_uni_pillow_02": 1,
+        "northmarker": 1,
+        "p_cure_common_s": 1,
+        "p_disease_resistance_c": 1,
+        "p_dispel_s": 1,
+        "p_fortify_magicka_q": 1,
+        "p_levitation_s": 1,
+        "potion_t_bug_musk_01": 1,
+        "sc_healing": 1,
+        "sc_hellfire": 1,
+        "sc_leaguestep": 2,
+        "sc_selynsmistslippers": 1,
+        "sc_sixthbarrier": 1,
+        "sc_summonskeletalservant": 1,
+        "sc_supremedomination": 1,
+        "sc_thirdbarrier": 1,
+        "sc_tranasasspelltwist": 1,
+        "silver sparksword": 1,
+        "steel staff of war": 1,
+        "t_bk_songofpelinaltr_v6": 1,
+        "t_de_ep_ring_disruption": 1,
+        "t_de_ep_ring_sparks": 1,
+        "tr_m1_molecrab_cuirass_protect": 1,
+        "tr_m1_turosi_salvel": 1,
+        "tr_m1_w_orcish_longsword_flame": 1,
+        "tr_m1_w_silver_mace_flame": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_magical_telv": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_in_traders_spawn": 1
+      }
+    }
+  }
+}

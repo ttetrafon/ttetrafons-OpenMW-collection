@@ -1,0 +1,36 @@
+{
+  "cell": "Maar Gan, Guard Tower 2",
+  "name": "Maar Gan, Guard Tower 2",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_rd_s_bom_guards": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_redoran guard_ran": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "in_r_trapdoor_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "in_r_trapdoor_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::233812",
+      "object": "in_r_trapdoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

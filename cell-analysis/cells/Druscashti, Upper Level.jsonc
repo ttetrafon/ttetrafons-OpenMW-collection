@@ -1,0 +1,177 @@
+{
+  "cell": "Druscashti, Upper Level",
+  "name": "Druscashti, Upper Level",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_smith": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bookskill_sneak4": 1,
+        "common_amulet_05": 1,
+        "common_belt_03": 1,
+        "common_pants_03": 1,
+        "crate_01_silver_weapons": 1,
+        "door_dwrv_inner00": 2,
+        "dreugh_cuirass": 1,
+        "dwrv_barrel00": 2,
+        "dwrv_barrel10": 1,
+        "ingred_bc_hypha_facia": 1,
+        "netch_leather_helm": 1,
+        "repair_journeyman_01": 1,
+        "repair_master_01": 1,
+        "repair_prongs": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bookskill_sneak4": 1,
+        "common_amulet_05": 1,
+        "common_belt_03": 1,
+        "common_pants_03": 1,
+        "crate_01_silver_weapons": 1,
+        "door_dwrv_inner00": 2,
+        "dreugh_cuirass": 1,
+        "dwrv_barrel00": 2,
+        "dwrv_barrel10": 1,
+        "ingred_bc_hypha_facia": 1,
+        "netch_leather_helm": 1,
+        "repair_journeyman_01": 1,
+        "repair_master_01": 1,
+        "repair_prongs": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::194561",
+      "object": "door_dwrv_inner00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::194665",
+      "object": "door_dwrv_inner00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::306796",
+      "object": "dwrv_barrel00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::306797",
+      "object": "dwrv_barrel00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::306798",
+      "object": "dwrv_barrel10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::414215",
+      "object": "ingred_bc_hypha_facia",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::414216",
+      "object": "dreugh_cuirass",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::414218",
+      "object": "repair_journeyman_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::414220",
+      "object": "common_amulet_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::414221",
+      "object": "common_belt_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::414222",
+      "object": "common_pants_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::414223",
+      "object": "crate_01_silver_weapons",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::414224",
+      "object": "netch_leather_helm",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::440288",
+      "object": "repair_master_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::440289",
+      "object": "repair_prongs",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483368",
+      "object": "bookskill_sneak4",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

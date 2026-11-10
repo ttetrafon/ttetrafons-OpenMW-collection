@@ -1,0 +1,21 @@
+{
+  "cell": "Nammu",
+  "name": "Nammu",
+  "plugins": {
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_npc_merc_percivius": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_trader_ic": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_vermin_marker_box": 2
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "cell": "Erabenimsun Camp, Ashkhan's Yurt",
+  "name": "Erabenimsun Camp, Ashkhan's Yurt",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_drum": 1,
+        "am_drummer5": 1
+      }
+    },
+    "Aoimevelho Wares with ALL NPCs.ESP": {
+      "added": {
+        "_ar_ashstatue_erab": 1
+      }
+    }
+  }
+}

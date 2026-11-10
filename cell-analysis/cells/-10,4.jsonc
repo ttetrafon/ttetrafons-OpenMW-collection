@@ -1,0 +1,97 @@
+{
+  "cell": "-10,4",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_ship_crate_empty01": 3,
+        "_cor_ship_de_shack_plank_03_a": 4,
+        "_cor_ship_rusty_broad": 8,
+        "_cor_ship_rusty_claymore": 4,
+        "_cor_ship_rusty_long": 3,
+        "ab_ex_craneattachcrate": 1,
+        "ab_ex_deshipwrbackfull": 1,
+        "ab_ex_deshipwrfrontfull": 1,
+        "ab_ex_deshipwrmast03": 2,
+        "ab_ex_deshipwrrmastyard": 1,
+        "ab_furn_barrel02broken03": 2,
+        "ab_furn_barrel02broken04": 1,
+        "ab_furn_barrel02broken05": 2,
+        "ab_furn_boneskelfootl": 1,
+        "ab_furn_boneskelfootr": 1,
+        "ab_furn_boneskelskull": 2,
+        "ab_furn_boneskeltorsobroken": 1,
+        "ab_furn_cratebroken03": 2,
+        "ab_furn_cratebroken05": 4,
+        "ab_furn_cratebrokenwood02": 5,
+        "ab_furn_cratefgopen": 1,
+        "ab_furn_ropecoil": 1,
+        "ab_furn_weprackwall": 1,
+        "ab_o_corpse20": 2,
+        "ab_o_crate01bottles": 1,
+        "ab_o_cratefg": 1,
+        "ab_o_cratefgarmor": 1,
+        "ab_o_cratefgmissiles": 1,
+        "ab_o_cratefgsmithing": 1,
+        "ab_o_deplndeskwriting": 1,
+        "ab_w_ironrapier": 1,
+        "ab_w_ironrapierfla": 1,
+        "barrel_01_arrows": 1,
+        "barrel_01_ingredients_f": 1,
+        "barrel_02_floater_ing": 2,
+        "blue coast ref 1024": 2,
+        "chest_small_01_soulgem": 1,
+        "com_sack_02_gold_100": 1,
+        "contain_corpse10_water": 2,
+        "contain_corpse_water": 1,
+        "crate_01_empty_float": 1,
+        "ex_com_bottle_11_float": 2,
+        "ex_scrapwood02": 8,
+        "ex_scrapwood03": 1,
+        "ex_scrapwood04": 1,
+        "ex_scrapwood05": 3,
+        "flora_kelp_01": 1,
+        "flora_kelp_02": 14,
+        "flora_kelp_03": 4,
+        "flora_kelp_04": 2,
+        "furn_ashl_bugbowl_03": 1,
+        "furn_bone_skull_01": 1,
+        "h2o_all_lev+2": 2,
+        "kollop_03_pearl": 2
+      },
+      "modified": {
+        "blue coast ref 1024": 1,
+        "chest_small_01_gold_10": 1,
+        "ex_barnacles_01": 2,
+        "ex_barnacles_06": 2,
+        "flora_kelp_02": 4,
+        "flora_kelp_03": 2,
+        "flora_kelp_04": 2,
+        "h2o_all_lev+2": 2,
+        "kollop_03_pearl": 2,
+        "slaughterfish": 1,
+        "sound_boat_creak00": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_m05_key": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_marker": 1,
+        "xero_west_sack": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_water": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 2
+      }
+    }
+  }
+}

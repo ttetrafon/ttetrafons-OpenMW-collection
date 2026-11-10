@@ -1,0 +1,32 @@
+{
+  "cell": "4,16",
+  "plugins": {
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_m_cook_pot_r": 1,
+        "aatl_m_shovel_rust": 1,
+        "aatl_npc_ash_sai_kabash": 1,
+        "ab_ex_comtent01": 1,
+        "ab_misc_debluespoon_01": 1,
+        "ab_o_corpse20flies": 1,
+        "ab_terr_ashpile_s": 1,
+        "active_de_bedroll": 1,
+        "com_sack_02_ingred": 1,
+        "com_sack_02_saltrice_10": 1,
+        "furn_de_firepit_f_400": 1,
+        "guar_hrmudcrabnest": 1,
+        "ingred_ash_yam_01": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_night_only_exterior_undea": 1
+      }
+    }
+  }
+}

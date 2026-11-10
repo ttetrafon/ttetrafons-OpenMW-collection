@@ -1,0 +1,74 @@
+{
+  "cell": "Vivec, St. Olms Waist South-One",
+  "name": "Vivec, St. Olms Waist South-One",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "flora_black_anther_01": 2,
+        "gold_010": 1,
+        "gold_025": 1,
+        "iron spider dagger": 1,
+        "light_de_lantern_05_128_carry": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "flora_black_anther_01": 2,
+        "gold_010": 1,
+        "gold_025": 1,
+        "iron spider dagger": 1,
+        "light_de_lantern_05_128_carry": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::405584",
+      "object": "gold_025",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::405585",
+      "object": "gold_010",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::424828",
+      "object": "light_de_lantern_05_128_carry",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::424838",
+      "object": "flora_black_anther_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::424839",
+      "object": "flora_black_anther_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::460143",
+      "object": "iron spider dagger",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

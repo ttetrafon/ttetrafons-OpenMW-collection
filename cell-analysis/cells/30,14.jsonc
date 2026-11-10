@@ -1,0 +1,68 @@
+{
+  "cell": "30,14",
+  "name": "Ashamul",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_cave_door_01": 1,
+        "ex_cave_entrance_bc_01": 1,
+        "ex_de_docks_piling_01": 2,
+        "ex_de_railing_01": 1,
+        "ex_de_railing_02": 1,
+        "flora_comberry_01": 3,
+        "flora_gold_kanet_01": 1,
+        "flora_gold_kanet_02": 1,
+        "flora_kreshweed_03": 3,
+        "flora_tree_wg_02": 1,
+        "flora_tree_wg_04": 1,
+        "flora_tree_wg_06": 1,
+        "flora_tree_wg_07": 1,
+        "flora_wickwheat_01": 1,
+        "flora_wickwheat_02": 1,
+        "flora_wickwheat_03": 1,
+        "flora_wickwheat_04": 1,
+        "furn_bannerd_welcome_01": 1,
+        "furn_com_fence_01": 1,
+        "furn_de_pathspear_02": 26,
+        "furn_de_railing_05": 4,
+        "furn_de_rope1_01": 1,
+        "furn_de_roped_pole_01": 1,
+        "furn_de_signpost_02": 2,
+        "furn_hook_01": 2,
+        "furn_planter_01": 1,
+        "furn_pottedplant": 1,
+        "light_de_lantern_04_sway": 1,
+        "light_de_lantern_05_sway": 1,
+        "light_de_lantern_09_sway": 1,
+        "t_com_setmw_signwayashamul_01": 1,
+        "t_com_setmw_signwayboelighth_01": 1,
+        "t_com_setmw_signwayfirewat_01": 1,
+        "t_com_setmw_signwayllothanis_01": 1,
+        "t_com_setmw_signwayranyonru_01": 1,
+        "t_com_setmw_signwaytelouada_01": 1,
+        "t_de_set_bannertownashamul_01": 1,
+        "t_mw_flora_blackrose01": 1,
+        "t_mw_terrrockwg_cliff_05": 1,
+        "terrain_rock_wg_01": 8,
+        "terrain_rock_wg_02": 2,
+        "terrain_rock_wg_07": 1,
+        "terrain_rock_wg_09": 1,
+        "terrain_rock_wg_10": 9,
+        "terrain_rock_wg_12": 5,
+        "terrain_rock_wg_13": 2,
+        "terrain_rock_wg_15": 2,
+        "terrain_rock_wg_18": 1,
+        "terrain_rocks_wg_01": 1,
+        "terrain_rocks_wg_02": 7,
+        "terrain_rocks_wg_03": 16,
+        "terrain_rocks_wg_04": 5,
+        "tr_m1_q_ashamulguard": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

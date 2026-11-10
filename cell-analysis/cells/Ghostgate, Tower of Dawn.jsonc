@@ -1,0 +1,38 @@
+{
+  "cell": "Ghostgate, Tower of Dawn",
+  "name": "Ghostgate, Tower of Dawn",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_tem_s_ord_guards": 1
+      }
+    },
+    "Holy Art.ESP": {
+      "added": {
+        "vd_velothismall_02": 1,
+        "vd_velothismall_03": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_apothecary": 1,
+        "aa_wares_healer": 1
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_comp_ana_indo": 1
+      }
+    },
+    "Privileges&Services 1.1.esp": {
+      "added": {
+        "abm_placeguard": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_ordinator wan_ran": 1
+      }
+    }
+  }
+}

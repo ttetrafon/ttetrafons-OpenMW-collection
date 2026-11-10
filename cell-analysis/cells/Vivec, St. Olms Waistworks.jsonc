@@ -1,0 +1,56 @@
+{
+  "cell": "Vivec, St. Olms Waistworks",
+  "name": "Vivec, St. Olms Waistworks",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_cleaner12": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_trader": 2
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_traders_spawn": 1
+      }
+    },
+    "Ttooth's Missing NPCs - No Nolus.ESP": {
+      "added": {
+        "ttooth_baram": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "light_de_lantern_05_128_carry": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_ordinator wan_ran": 3
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "light_de_lantern_05_128_carry": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::259817",
+      "object": "light_de_lantern_05_128_carry",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

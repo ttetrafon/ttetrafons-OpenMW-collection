@@ -1,0 +1,125 @@
+{
+  "cell": "-12,11",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_balmoracitizens": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_pilgrim_spawn": 1,
+        "_aa_solo_imp_spawn": 1
+      }
+    },
+    "Creatures and Critters Light the Path.ESP": {
+      "added": {
+        "aa_cr_i_moth_all": 3
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "flora_muckspunge_01": 1,
+        "flora_muckspunge_02": 2,
+        "flora_muckspunge_03": 2,
+        "flora_muckspunge_04": 1,
+        "flora_muckspunge_05": 2,
+        "flora_muckspunge_06": 1,
+        "misc_de_muck_shovel_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "flora_muckspunge_01": 1,
+        "flora_muckspunge_02": 2,
+        "flora_muckspunge_03": 2,
+        "flora_muckspunge_04": 1,
+        "flora_muckspunge_05": 2,
+        "flora_muckspunge_06": 1,
+        "misc_de_muck_shovel_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::1409",
+      "object": "flora_muckspunge_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::1410",
+      "object": "flora_muckspunge_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::1411",
+      "object": "flora_muckspunge_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::1412",
+      "object": "flora_muckspunge_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::1413",
+      "object": "flora_muckspunge_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::1415",
+      "object": "flora_muckspunge_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::1416",
+      "object": "flora_muckspunge_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::1417",
+      "object": "flora_muckspunge_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::1418",
+      "object": "flora_muckspunge_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::1433",
+      "object": "misc_de_muck_shovel_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

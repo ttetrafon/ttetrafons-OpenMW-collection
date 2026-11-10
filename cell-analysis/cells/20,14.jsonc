@@ -1,0 +1,53 @@
+{
+  "cell": "20,14",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "de_p_chest_02_fclothes3": 1,
+        "ex_t_menhir_01": 2,
+        "ex_t_menhir_l_01": 28,
+        "ex_velothi_entrance_02": 1,
+        "ex_velothi_loaddoor_01": 1,
+        "flora_black_anther_01": 2,
+        "flora_black_anther_02": 1,
+        "flora_emp_parasol_01": 1,
+        "flora_emp_parasol_02": 1,
+        "flora_emp_parasol_03": 1,
+        "flora_kreshweed_01": 3,
+        "flora_kreshweed_02": 3,
+        "flora_kreshweed_03": 2,
+        "flora_t_podbud_01": 5,
+        "flora_t_podbud_02": 4,
+        "flora_t_podbud_03": 5,
+        "flora_t_podbud_04": 4,
+        "flora_tree_ac_01": 2,
+        "flora_tree_ac_02": 1,
+        "flora_tree_ac_03": 2,
+        "flora_tree_ac_04": 1,
+        "furn_de_ex_stool_02": 2,
+        "furn_de_firepit_f": 1,
+        "misc_com_bottle_06": 1,
+        "misc_com_bottle_13": 1,
+        "misc_com_bucket_01": 1,
+        "misc_com_metal_goblet_02": 2,
+        "t_mw_cr_nixhound": 1,
+        "t_mw_rlvl_boethiahspinesky+0": 4,
+        "t_mw_rlvl_dagonurul+2": 2,
+        "terrain_rock_ac_01": 1,
+        "terrain_rock_ac_02": 3,
+        "terrain_rock_ac_03": 5,
+        "terrain_rock_ac_04": 4,
+        "terrain_rock_ac_07": 1,
+        "terrain_rock_ac_10": 6,
+        "terrain_rock_ac_11": 4,
+        "terrain_rock_ac_12": 6,
+        "tr_m1_r_mondras ravil": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_ex_tomb70_spawn": 1
+      }
+    }
+  }
+}

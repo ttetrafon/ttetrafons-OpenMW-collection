@@ -1,0 +1,29 @@
+{
+  "cell": "-8,4",
+  "plugins": {
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_swamp_1": 1,
+        "sound_swamp_2": 1
+      }
+    },
+    "BC Sounds Naturalized.esp": {
+      "added": {
+        "opn_sound_swamp_1": 1,
+        "opn_sound_swamp_2": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "ingred_muck_01": 4,
+        "xero_marker": 1,
+        "xero_west_chest": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_fresh_list": 1
+      }
+    }
+  }
+}

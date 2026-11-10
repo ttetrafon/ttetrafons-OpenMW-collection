@@ -1,0 +1,101 @@
+{
+  "cell": "Raven Rock, Uryn Maren's House",
+  "name": "Raven Rock, Uryn Maren's House",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "com_sack_01_ingred": 1,
+        "ex_colony_door03_int": 1,
+        "furn_colony_shelf06": 1,
+        "furn_de_rug_big_02": 1,
+        "light_com_candle_07": 1,
+        "light_logpile_128": 1,
+        "misc_com_bottle_15": 2,
+        "misc_com_metal_plate_05": 1,
+        "misc_de_goblet_06": 2,
+        "northmarker": 1,
+        "sp_bm_colony_i_fireplace_01": 1,
+        "t_de_furn_rugsmall_03": 1,
+        "t_imp_furn_tapestrywoollarge_01": 1
+      },
+      "modified": {
+        "bm_colony_wall01.nif": 1,
+        "com_basket_01_pos": 1,
+        "com_sack_01_ingred": 8,
+        "com_sack_02_ingred": 3,
+        "furn_colony_shelf01": 1,
+        "furn_colony_shelf04": 1,
+        "furn_colony_shelf05": 1,
+        "furn_colony_shelf06": 1,
+        "furn_com_pm_chair_02": 1,
+        "furn_de_p_chair_02": 4,
+        "furn_de_p_table_06": 1,
+        "furn_de_tapestry_03": 1,
+        "light_com_candle_07_77": 1,
+        "light_com_candle_12_77": 1,
+        "light_de_candle_09": 1,
+        "light_de_lantern_01white": 1,
+        "misc_com_bottle_02": 1,
+        "misc_com_bottle_07": 1,
+        "misc_com_bottle_08": 3,
+        "misc_com_bottle_10": 6,
+        "misc_com_bottle_14": 3,
+        "misc_com_bucket_01": 1,
+        "misc_com_metal_plate_05": 8,
+        "misc_com_redware_pitcher": 1,
+        "misc_com_tankard_01": 7,
+        "misc_com_wood_cup_02": 5,
+        "misc_com_wood_fork": 3,
+        "misc_com_wood_knife": 3,
+        "misc_com_wood_spoon_01": 3,
+        "misc_de_bowl_glass_yellow_01": 1,
+        "urn_05_food": 1
+      }
+    },
+    "GITD_WL_RR_Interiors.esp": {
+      "added": {
+        "gitd_in_colony_win_01": 4
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "com_chest_02_maryn": 1,
+        "ex_colony_door03_int": 1,
+        "ex_colony_door08": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "com_chest_02_maryn": 1,
+        "ex_colony_door03_int": 1,
+        "ex_colony_door08": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::21533",
+      "object": "ex_colony_door03_int",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::29440",
+      "object": "com_chest_02_maryn",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21535",
+      "object": "ex_colony_door08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

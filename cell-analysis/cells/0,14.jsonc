@@ -1,0 +1,32 @@
+{
+  "cell": "0,14",
+  "name": "Kogoruhn",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_6h_hos": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_map11_trigger": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_dreamers": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_6_dream_list_1": 2,
+        "aa_cr_dreamer warri01": 1,
+        "aa_cr_dreamer warrior03": 1,
+        "dreamer_05": 1
+      },
+      "modified": {
+        "aa_cr_dreamer_01": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "cell": "-1,-30",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "contain_trama_shrub_02": 1,
+        "door_dwrv_load00": 1,
+        "ex_dwrv_enter00": 1,
+        "ex_dwrv_ruin_tower00": 1,
+        "flora_ash_grass_r_01": 16,
+        "flora_ash_grass_w_01": 6,
+        "flora_ashtree_04": 4,
+        "flora_ashtree_05": 3,
+        "flora_ashtree_06": 4,
+        "flora_ashtree_07": 2,
+        "flora_rm_scathecraw_01": 1,
+        "flora_trama_shrub_04": 1,
+        "t_mw_cr_armunkag": 1,
+        "t_mw_terrrockrm_mtpeak_01": 4,
+        "t_mw_terrrockrm_mtpeak_03": 7,
+        "t_mw_terrrockrm_mtridge_02": 1,
+        "t_mw_terrrockrm_mtridge_03": 1,
+        "terrain_ashland_rock_01": 1,
+        "terrain_ashland_rock_03": 3,
+        "terrain_ashland_rock_05": 3,
+        "terrain_ashland_rock_07": 2,
+        "terrain_ashland_rock_10": 2,
+        "terrain_ashland_rock_11": 5,
+        "terrain_ashland_rock_15": 6,
+        "terrain_ashland_rock_16": 11,
+        "terrain_rock_rm_01": 4,
+        "terrain_rock_rm_02": 2,
+        "terrain_rock_rm_03": 1,
+        "terrain_rock_rm_04": 1,
+        "terrain_rock_rm_05": 1,
+        "terrain_rock_rm_06": 1,
+        "terrain_rock_rm_07": 4,
+        "terrain_rock_rm_08": 1,
+        "terrain_rock_rm_09": 1,
+        "terrain_rock_rm_10": 3,
+        "terrain_rock_rm_12": 2,
+        "terrain_rock_rm_13": 2,
+        "terrain_rock_rm_14": 1,
+        "terrain_rock_rm_15": 2,
+        "terrain_rock_rm_17": 2,
+        "terrain_rock_rm_18": 4,
+        "terrain_rock_rm_19": 3,
+        "terrain_rock_rm_21": 1,
+        "terrain_rock_rm_24": 2,
+        "tr_m4_aa_borderbarrier_06": 1,
+        "tramaroot_01": 1,
+        "tramaroot_02": 6
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_ex_dwe_spawn": 1
+      }
+    }
+  }
+}

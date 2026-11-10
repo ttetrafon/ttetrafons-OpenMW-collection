@@ -1,0 +1,52 @@
+{
+  "cell": "Ebonheart, Grand Council Chambers",
+  "name": "Ebonheart, Grand Council Chambers",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1,
+        "gvrm_bcom_am_marker": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_cleaner3": 1
+      }
+    },
+    "Aoimevelho Wares with ALL NPCs.ESP": {
+      "added": {
+        "!aoi_nobles_all": 2
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "gold_005": 1,
+        "gold_025": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "gold_005": 1,
+        "gold_025": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::427683",
+      "object": "gold_025",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::427684",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

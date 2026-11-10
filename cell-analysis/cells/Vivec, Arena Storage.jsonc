@@ -1,0 +1,245 @@
+{
+  "cell": "Vivec, Arena Storage",
+  "name": "Vivec, Arena Storage",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_vermin_marker_box": 2
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_bedroll": 1,
+        "bookskill_security4": 1,
+        "com_sack_02_thief": 1,
+        "in_v_s_trapdoor_01": 1,
+        "in_velothismall_ndoor_01": 2,
+        "ingred_bread_01": 1,
+        "ingred_scrib_jelly_01": 1,
+        "iron tanto": 1,
+        "misc_clothbolt_01": 3,
+        "misc_clothbolt_02": 1,
+        "misc_clothbolt_03": 1,
+        "misc_com_metal_plate_04": 1,
+        "misc_com_wood_bowl_01": 1,
+        "misc_com_wood_cup_01": 1,
+        "misc_com_wood_knife": 1,
+        "misc_com_wood_spoon_01": 1,
+        "pick_journeyman_01": 1,
+        "probe_apprentice_01": 1,
+        "probe_journeyman_01": 1,
+        "sc_paper plain": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_bedroll": 1,
+        "bookskill_security4": 1,
+        "com_sack_02_thief": 1,
+        "in_v_s_trapdoor_01": 1,
+        "in_velothismall_ndoor_01": 2,
+        "ingred_bread_01": 1,
+        "ingred_scrib_jelly_01": 1,
+        "iron tanto": 1,
+        "misc_clothbolt_01": 3,
+        "misc_clothbolt_02": 1,
+        "misc_clothbolt_03": 1,
+        "misc_com_metal_plate_04": 1,
+        "misc_com_wood_bowl_01": 1,
+        "misc_com_wood_cup_01": 1,
+        "misc_com_wood_knife": 1,
+        "misc_com_wood_spoon_01": 1,
+        "pick_journeyman_01": 1,
+        "probe_apprentice_01": 1,
+        "probe_journeyman_01": 1,
+        "sc_paper plain": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::242212",
+      "object": "in_v_s_trapdoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::242186",
+      "object": "in_velothismall_ndoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::242190",
+      "object": "in_velothismall_ndoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::242267",
+      "object": "misc_clothbolt_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::242268",
+      "object": "misc_clothbolt_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::242269",
+      "object": "misc_clothbolt_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::335535",
+      "object": "misc_clothbolt_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::335536",
+      "object": "misc_clothbolt_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479058",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479061",
+      "object": "misc_com_metal_plate_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479062",
+      "object": "misc_com_wood_cup_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479063",
+      "object": "misc_com_wood_knife",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479064",
+      "object": "misc_com_wood_spoon_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479065",
+      "object": "misc_com_wood_bowl_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479066",
+      "object": "ingred_scrib_jelly_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479067",
+      "object": "ingred_bread_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479068",
+      "object": "com_sack_02_thief",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479074",
+      "object": "sc_paper plain",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479075",
+      "object": "probe_apprentice_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479076",
+      "object": "probe_journeyman_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479077",
+      "object": "pick_journeyman_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::479078",
+      "object": "iron tanto",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483492",
+      "object": "bookskill_security4",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

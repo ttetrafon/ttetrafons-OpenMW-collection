@@ -1,0 +1,143 @@
+{
+  "cell": "Mournhold, Armory",
+  "name": "Mournhold, Armory",
+  "plugins": {
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_con_com_trade_buck": 1
+      }
+    },
+    "Immersive Mournhold.esp": {
+      "added": {
+        "bk_reflectionsoncultworship...": 1,
+        "bonemold_cuirass": 1,
+        "catia sosia": 1,
+        "chest_small_01_gold_10": 1,
+        "chest_small_01_gold_50": 1,
+        "chest_small_02_gold_50": 1,
+        "chitin cuirass": 1,
+        "com_chest_02_v_armor09": 1,
+        "com_sack_01_ingred": 2,
+        "com_sack_02_pos": 1,
+        "dragonscale_helm": 1,
+        "flora_plant_02": 1,
+        "flora_plant_03": 1,
+        "furn_de_tapestry_10": 1,
+        "furn_planter_01": 1,
+        "glass jinkblade": 1,
+        "in_mh_window_01": 2,
+        "iron_gauntlet_left": 1,
+        "iron_gauntlet_right": 1,
+        "iron_helmet": 1,
+        "light_de_candle_02_64": 2,
+        "light_de_candle_09_64": 1,
+        "light_de_lamp_03_128": 2,
+        "light_de_lantern_06_128": 1,
+        "misc_com_bottle_05": 2,
+        "misc_de_bowl_01": 1,
+        "misc_de_bowl_bugdesign_01": 1,
+        "misc_de_foldedcloth00": 2,
+        "misc_de_goblet_01": 1,
+        "misc_de_goblet_04": 1,
+        "misc_de_pitcher_01": 1,
+        "misc_de_pot_blue_02": 1,
+        "netch_leather_greaves": 1,
+        "nordic broadsword": 1,
+        "nordic_ringmail_cuirass": 1,
+        "orcish_greaves": 1,
+        "steel_greaves": 1
+      },
+      "modified": {
+        "furn_de_tapestry_07": 1,
+        "furn_de_tapestry_10": 2,
+        "glass_bracer_right": 1,
+        "glass_pauldron_left": 1,
+        "glass_pauldron_right": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_smith": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_smith_spawn": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "furn_de_bar_01": 4,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_03": 1,
+        "furn_de_bar_04": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "furn_de_bar_01": 4,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_03": 1,
+        "furn_de_bar_04": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "tribunal::20483",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20484",
+      "object": "furn_de_bar_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20485",
+      "object": "furn_de_bar_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20490",
+      "object": "furn_de_bar_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20512",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20516",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25067",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

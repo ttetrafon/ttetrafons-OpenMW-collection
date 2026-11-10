@@ -1,0 +1,34 @@
+{
+  "cell": "Skaal Village, Rigmor's Hut",
+  "name": "Skaal Village, Rigmor's Hut",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "in_s_door": 1
+      },
+      "modified": {
+        "sp_nor_setskaal_i_fireplace_01": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "in_s_door": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "in_s_door": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::11551",
+      "object": "in_s_door",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

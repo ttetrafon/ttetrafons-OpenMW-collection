@@ -1,0 +1,43 @@
+{
+  "cell": "4,0",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "com_sack_03_chpfood5": 2,
+        "de_p_chest_02_gold_25": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "com_sack_03_chpfood5": 2,
+        "de_p_chest_02_gold_25": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::276614",
+      "object": "com_sack_03_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276615",
+      "object": "com_sack_03_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276616",
+      "object": "de_p_chest_02_gold_25",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

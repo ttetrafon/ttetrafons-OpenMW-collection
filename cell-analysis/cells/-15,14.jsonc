@@ -1,0 +1,91 @@
+{
+  "cell": "-15,14",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_ship_dreugh": 2,
+        "_cor_ship_smug_key_01": 1,
+        "_cor_ship_smug_long_01": 1,
+        "_cor_ship_smug_long_02": 1,
+        "_cor_ship_smug_short_01": 1,
+        "ab_ex_deshipwrbackfull": 1,
+        "ab_ex_deshipwrfrontfull": 1,
+        "ab_ex_deshipwrmast03": 1,
+        "ab_ex_deshipwrtable01": 1,
+        "ab_furn_barrel01broken02": 2,
+        "ab_furn_barrel01broken03": 1,
+        "ab_furn_barrel02broken01": 1,
+        "ab_furn_barrel02broken02": 1,
+        "ab_furn_barrel02broken03": 1,
+        "ab_furn_barrel02broken04": 2,
+        "ab_furn_barrel02plank": 1,
+        "ab_furn_cratebroken01": 1,
+        "ab_furn_cratebroken03": 1,
+        "ab_furn_cratebroken04": 1,
+        "ab_furn_cratebroken05": 2,
+        "ab_furn_cratebrokenside02": 1,
+        "ab_furn_cratebrokenside03": 2,
+        "ab_furn_cratebrokenwood01": 1,
+        "ab_furn_cratebrokenwood02": 2,
+        "ab_misc_bkruinedfolio": 1,
+        "ab_misc_bkruinedoctavo02": 1,
+        "ab_o_comchestwornmsugar": 1,
+        "ab_o_crate01silverware": 1,
+        "ab_o_crate03food": 1,
+        "barrel_01_empty": 1,
+        "barrel_01_float_food20": 2,
+        "chest_small_01_ingredie": 1,
+        "contain_corpse_water": 1,
+        "crate_01_armor_glass": 1,
+        "ex_de_railing_03": 1,
+        "in_cave_plant10": 11,
+        "kollop_02_pearl": 1,
+        "terrain_rock_wg_16": 6,
+        "terrain_rock_wg_17": 3
+      },
+      "modified": {
+        "barrel_01_empty": 1,
+        "ex_barnacles_01": 1,
+        "ex_barnacles_02": 1,
+        "ex_barnacles_03": 3,
+        "ex_barnacles_04": 2,
+        "ex_barnacles_05": 2,
+        "ex_barnacles_06": 2,
+        "ex_de_railing_03": 1,
+        "ex_scrapwood05b": 1,
+        "ex_ship_stair": 1,
+        "in_cave_plant10": 5,
+        "terrain_rock_wg_18": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_m13_bottle": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "gold_001": 3,
+        "misc_com_metal_goblet_02": 1,
+        "xero_marker": 1,
+        "xero_north_chest": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_ex_daedric_ruins_spawn": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_ex_daed_bat": 2,
+        "plx_water": 9
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 9
+      }
+    }
+  }
+}

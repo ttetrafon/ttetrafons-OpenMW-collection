@@ -1,0 +1,22 @@
+{
+  "cell": "Mamaea, Sanctum of Black Hope",
+  "name": "Mamaea, Sanctum of Black Hope",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "in_6th_ash_lev-2": 1,
+        "plx_dreamers": 4,
+        "plx_dreamers_rare": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_6_dream_list_1": 4,
+        "aa_cr_dreamer_f_02": 1
+      },
+      "modified": {
+        "aa_cr_dreamer_01": 1
+      }
+    }
+  }
+}

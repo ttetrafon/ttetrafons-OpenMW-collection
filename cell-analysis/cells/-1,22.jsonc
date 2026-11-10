@@ -1,0 +1,42 @@
+{
+  "cell": "-1,22",
+  "plugins": {
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_m_telescope_r": 1,
+        "aatl_w_iron_dag_cyro": 1,
+        "com_sack_gold_rnd": 1,
+        "ex_de_oar": 2,
+        "ex_de_rowboat": 1
+      }
+    },
+    "Helm of Tohan Naturalized.esp": {
+      "added": {
+        "dalin norvayne": 1,
+        "daris norvayne": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_marker": 1,
+        "xero_north_sack": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_ex_daedric_ruins_spawn": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_daedra_shrine_sheograth": 3,
+        "plx_ex_daed_bat": 3
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_shrine_sheograth": 3
+      }
+    }
+  }
+}

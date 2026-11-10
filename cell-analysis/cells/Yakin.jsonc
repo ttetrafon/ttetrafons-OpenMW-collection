@@ -1,0 +1,18 @@
+{
+  "cell": "Yakin",
+  "name": "Yakin",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_dreamers": 3,
+        "plx_dreamers_rare": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_6_dream_list_1": 3,
+        "aa_cr_dreamer_f_c02": 1
+      }
+    }
+  }
+}

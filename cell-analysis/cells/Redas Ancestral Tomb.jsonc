@@ -1,0 +1,22 @@
+{
+  "cell": "Redas Ancestral Tomb",
+  "name": "Redas Ancestral Tomb",
+  "plugins": {
+    "LootWellUrned.ESP": {
+      "added": {
+        "_uyl_light": 1,
+        "_uyl_redas": 1
+      }
+    },
+    "Unique Uniques.ESP": {
+      "modified": {
+        "dwarven war axe_redas": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "modified": {
+        "in_vs_pitfloor_01": 1
+      }
+    }
+  }
+}

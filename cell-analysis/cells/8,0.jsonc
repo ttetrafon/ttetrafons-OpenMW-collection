@@ -1,0 +1,15 @@
+{
+  "cell": "8,0",
+  "plugins": {
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_ex_dwe_spawn": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_night_only_exterior_berne": 1
+      }
+    }
+  }
+}

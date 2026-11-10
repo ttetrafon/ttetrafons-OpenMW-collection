@@ -1,0 +1,28 @@
+{
+  "cell": "Addadshashanammu, Shrine",
+  "name": "Addadshashanammu, Shrine",
+  "plugins": {
+    "NOD - Core.esm": {
+      "added": {
+        "nod_rv_daedric_helm_sheo": 1
+      }
+    },
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_l_dae_summcircle": 1,
+        "ab_light_skullcandleblackrf_128": 4
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_daedra_shrine_sheograth": 1,
+        "plx_vermin_marker_box": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_shrine_sheograth": 1
+      }
+    }
+  }
+}

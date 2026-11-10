@@ -1,0 +1,66 @@
+{
+  "cell": "Gnisis, Underground Stream",
+  "name": "Gnisis, Underground Stream",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "egg_kwama00": 6
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "egg_kwama00": 6
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::282240",
+      "object": "egg_kwama00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::282253",
+      "object": "egg_kwama00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::282254",
+      "object": "egg_kwama00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::282255",
+      "object": "egg_kwama00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::282256",
+      "object": "egg_kwama00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::282257",
+      "object": "egg_kwama00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

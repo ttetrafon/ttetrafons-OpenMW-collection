@@ -1,0 +1,121 @@
+{
+  "cell": "Solstheim, Gloomy Cave",
+  "name": "Solstheim, Gloomy Cave",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "bm_ic_door_pelt": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "com_sack_03_ingredients": 1,
+        "contain_bm_fakerock_2": 1,
+        "misc_com_bottle_01": 1,
+        "misc_com_bottle_03": 1,
+        "misc_com_bucket_01": 1,
+        "misc_com_metal_plate_05": 1,
+        "misc_com_wood_bowl_02": 1,
+        "misc_com_wood_knife": 1,
+        "misc_com_wood_spoon_01": 1,
+        "p_levitation_e": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "com_sack_03_ingredients": 1,
+        "contain_bm_fakerock_2": 1,
+        "misc_com_bottle_01": 1,
+        "misc_com_bottle_03": 1,
+        "misc_com_bucket_01": 1,
+        "misc_com_metal_plate_05": 1,
+        "misc_com_wood_bowl_02": 1,
+        "misc_com_wood_knife": 1,
+        "misc_com_wood_spoon_01": 1,
+        "p_levitation_e": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::23937",
+      "object": "misc_com_wood_bowl_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::23938",
+      "object": "misc_com_metal_plate_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::23939",
+      "object": "misc_com_bottle_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::23940",
+      "object": "misc_com_bucket_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::23942",
+      "object": "misc_com_wood_knife",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::23943",
+      "object": "misc_com_wood_spoon_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::23945",
+      "object": "com_sack_03_ingredients",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::23951",
+      "object": "misc_com_bottle_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33634",
+      "object": "contain_bm_fakerock_2",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33635",
+      "object": "p_levitation_e",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

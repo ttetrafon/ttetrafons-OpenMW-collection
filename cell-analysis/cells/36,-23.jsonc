@@ -1,0 +1,56 @@
+{
+  "cell": "36,-23",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_mh_door_01": 1,
+        "flora_bush_01": 9,
+        "flora_comberry_01": 9,
+        "flora_corkbulb": 16,
+        "flora_plant_01": 13,
+        "flora_saltrice_01": 14,
+        "flora_saltrice_02": 19,
+        "flora_sedge_01": 15,
+        "flora_tree_gl_04": 1,
+        "flora_tree_gl_05": 1,
+        "flora_tree_gl_06": 1,
+        "flora_tree_gl_10": 1,
+        "flora_tree_mh_01": 12,
+        "flora_tree_mh_02": 24,
+        "furn_com_fence_01": 1,
+        "furn_com_fence_02": 6,
+        "furn_de_lightpost_01": 1,
+        "furn_de_signpost_02": 2,
+        "guar_pack": 1,
+        "light_de_lantern_03_s_256": 1,
+        "misc_com_bucket_01": 1,
+        "t_com_setmw_signwayalmalexia_01": 1,
+        "t_com_setmw_signwaynecrom_01": 1,
+        "t_com_setmw_signwaysailen_01": 1,
+        "t_com_setmw_signwayseitur_01": 1,
+        "t_de_setmh_x_b_buildingf_09": 1,
+        "t_de_setmh_x_b_doorjamb_02a": 1,
+        "t_de_setmh_x_b_window_01": 4,
+        "t_de_setmh_x_well_01": 1,
+        "terrain_rock_wg_01": 2,
+        "terrain_rock_wg_02": 2,
+        "terrain_rock_wg_05": 1,
+        "terrain_rock_wg_08": 2,
+        "terrain_rock_wg_10": 1,
+        "terrain_rock_wg_14": 4,
+        "terrain_rock_wg_15": 1,
+        "terrain_rock_wg_16": 1,
+        "terrain_rock_wg_17": 1,
+        "terrain_rock_wg_18": 8,
+        "terrain_rocks_wg_01": 18,
+        "terrain_rocks_wg_03": 11,
+        "tr_m3_a7_hound_inn": 2
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

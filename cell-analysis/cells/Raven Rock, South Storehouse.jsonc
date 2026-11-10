@@ -1,0 +1,213 @@
+{
+  "cell": "Raven Rock, South Storehouse",
+  "name": "Raven Rock, South Storehouse",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "ex_colony_door01.nif": 1
+      },
+      "modified": {
+        "chest_01_v_potion_ap_03": 1,
+        "com_chest_01_pos": 1,
+        "com_sack_02_chpfood3": 1,
+        "com_sack_03": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "barrel_01_cheapfood5": 1,
+        "chest_01_v_potion_ap_03": 1,
+        "com_chest_01_pos": 1,
+        "com_sack_02_chpfood3": 4,
+        "com_sack_03": 1,
+        "crate_01_random_pos": 3,
+        "light_com_lantern_01_256": 1,
+        "misc_com_bottle_09": 2,
+        "misc_com_bottle_12": 3,
+        "misc_com_bottle_15": 2,
+        "misc_com_bucket_metal": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "barrel_01_cheapfood5": 1,
+        "chest_01_v_potion_ap_03": 1,
+        "com_chest_01_pos": 1,
+        "com_sack_02_chpfood3": 4,
+        "com_sack_03": 1,
+        "crate_01_random_pos": 3,
+        "light_com_lantern_01_256": 1,
+        "misc_com_bottle_09": 2,
+        "misc_com_bottle_12": 3,
+        "misc_com_bottle_15": 2,
+        "misc_com_bucket_metal": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::33548",
+      "object": "com_sack_02_chpfood3",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33555",
+      "object": "com_sack_03",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33561",
+      "object": "chest_01_v_potion_ap_03",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33565",
+      "object": "com_chest_01_pos",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33545",
+      "object": "light_com_lantern_01_256",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33549",
+      "object": "com_sack_02_chpfood3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33550",
+      "object": "crate_01_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33551",
+      "object": "crate_01_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33553",
+      "object": "com_sack_02_chpfood3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33554",
+      "object": "com_sack_02_chpfood3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33558",
+      "object": "crate_01_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33560",
+      "object": "misc_com_bucket_metal",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33562",
+      "object": "barrel_01_cheapfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33563",
+      "object": "misc_com_bottle_15",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33564",
+      "object": "misc_com_bottle_09",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33566",
+      "object": "misc_com_bottle_12",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33567",
+      "object": "misc_com_bottle_12",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33568",
+      "object": "misc_com_bottle_12",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33569",
+      "object": "misc_com_bottle_09",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33570",
+      "object": "misc_com_bottle_15",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

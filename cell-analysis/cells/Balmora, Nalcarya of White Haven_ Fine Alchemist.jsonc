@@ -1,0 +1,16 @@
+{
+  "cell": "Balmora, Nalcarya of White Haven: Fine Alchemist",
+  "name": "Balmora, Nalcarya of White Haven: Fine Alchemist",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_alchemist": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_hlaalu guard_ran": 1
+      }
+    }
+  }
+}

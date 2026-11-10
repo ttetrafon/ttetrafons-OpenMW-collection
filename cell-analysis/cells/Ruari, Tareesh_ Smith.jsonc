@@ -1,0 +1,73 @@
+{
+  "cell": "Ruari, Tareesh: Smith",
+  "name": "Ruari, Tareesh: Smith",
+  "plugins": {
+    "Sky_Main.ESM": {
+      "added": {
+        "furn_anvil00": 1,
+        "furn_coalpile00": 2,
+        "furn_hook_01": 2,
+        "gold_001": 3,
+        "iron long spear": 1,
+        "light_com_candle_01": 2,
+        "light_fire_nosmoke_128": 1,
+        "miner's pick": 2,
+        "misc_com_basket_01": 1,
+        "misc_com_bottle_06": 1,
+        "misc_com_bottle_07": 1,
+        "misc_com_bottle_10": 1,
+        "misc_com_bucket_metal": 1,
+        "misc_de_foldedcloth00": 1,
+        "northmarker": 1,
+        "orange_256_01_d": 1,
+        "repair_prongs": 1,
+        "sky_qre_kwmg6_tareesh": 1,
+        "steel arrow": 3,
+        "steel war axe": 1,
+        "t_com_furn_peltcowtattered_05": 1,
+        "t_com_iron_dagger_02": 2,
+        "t_com_metalpieceiron_01": 3,
+        "t_com_metalpiecesteel_01": 1,
+        "t_com_nails_01": 1,
+        "t_com_setfarm_haypile_02": 1,
+        "t_imp_furn_rugbigcm_04": 1,
+        "t_imp_furn_tapestrybast_04": 1,
+        "t_imp_furn_tapestrybast_09": 1,
+        "t_imp_furnp_grindstone_01": 1,
+        "t_nor_furnp_bed_01": 1,
+        "t_nor_furnp_shelf_03": 1,
+        "t_nor_pillowwool_01": 1,
+        "t_nor_set_benchstem_01": 1,
+        "t_nor_set_forge_01": 2,
+        "t_nor_set_woodstep_01": 1,
+        "t_nor_var_lantern_01": 1,
+        "t_nor_woodentankard_01": 1,
+        "t_rea_furn_palmsprig_014": 1,
+        "t_rea_set_i_ladder_01": 1,
+        "t_rga_lamellar_cuirass_b": 1,
+        "t_rga_setreach_door_01": 1,
+        "t_rga_setreach_i_house_01": 1,
+        "t_rga_setreach_x_doorframe_01": 1,
+        "t_rga_setreach_x_planks_01": 2,
+        "t_rga_setreach_x_window_01": 1,
+        "t_rga_setreach_x_window_03": 1,
+        "t_skycom_furn_chhv1g150": 1,
+        "t_skycom_var_bl3torch": 1,
+        "t_skycom_var_bl3wpn3": 1,
+        "t_skycom_var_cr6tool2": 1,
+        "t_skycom_var_cr7hide": 1,
+        "t_skycom_var_cr7wpn1": 1,
+        "t_skycom_var_cr8tool": 1,
+        "t_skycom_var_cr9wpn1": 1,
+        "t_skycom_var_cr9wpn3": 1,
+        "t_skycom_var_sk3pos": 1,
+        "t_skycom_var_sk4fur": 1
+      }
+    },
+    "Wares_SHOTN_traders.esp": {
+      "added": {
+        "aa_wares_smith": 1
+      }
+    }
+  }
+}

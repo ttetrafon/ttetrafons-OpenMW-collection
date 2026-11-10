@@ -1,0 +1,16 @@
+{
+  "cell": "Bal Fell, Inner Shrine",
+  "name": "Bal Fell, Inner Shrine",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_daedra_shrine_sheograth": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_shrine_sheograth": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cell": "Tukushapal",
+  "name": "Tukushapal",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "in_tomb_skele_lev-2": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "modified": {
+        "light_velothi_brazier": 1
+      }
+    }
+  }
+}

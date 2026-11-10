@@ -1,0 +1,44 @@
+{
+  "cell": "39,17",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_dae_buttress_ruin_01": 2,
+        "ex_dae_door_load_oval": 1,
+        "ex_dae_pillar_02_ruin": 1,
+        "ex_dae_pillar_02_ruin_02": 2,
+        "ex_dae_ruin_entry.max": 1,
+        "ex_dae_ruin_platform_01": 1,
+        "ex_dae_ruin_stair01_short": 1,
+        "ex_dae_wall_512_01": 2,
+        "ex_dae_wall_512_02": 5,
+        "ex_dae_wall_512_07": 3,
+        "ex_dae_wall_512_08": 2,
+        "ex_dae_wall_512_09": 3,
+        "ex_t_clawgrowth_01": 1,
+        "ex_t_menhir_l_01": 48,
+        "ex_t_root_stem": 2,
+        "ex_t_root_xl_02": 1,
+        "flora_kreshweed_02": 1,
+        "flora_t_mushroom_01": 1,
+        "flora_t_mushroom_02": 1,
+        "flora_t_podbud_02": 2,
+        "flora_t_podbud_04": 1,
+        "flora_t_shelffungus_01": 3,
+        "flora_tree_ac_01": 1,
+        "flora_tree_ac_02": 1,
+        "t_mw_rlvl_telvanniislesland+2": 1,
+        "terrain_rock_ac_07": 1,
+        "terrain_rock_ac_08": 5,
+        "terrain_rock_ac_09": 1,
+        "terrain_rock_ac_10": 4,
+        "terrain_rock_ac_12": 5
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_ex_daedric_ruins_spawn": 1
+      }
+    }
+  }
+}

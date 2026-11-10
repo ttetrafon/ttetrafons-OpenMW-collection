@@ -1,0 +1,62 @@
+{
+  "cell": "Vivec, Redoran Waistworks",
+  "name": "Vivec, Redoran Waistworks",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_savant": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "flora_rm_scathecraw_01": 2,
+        "flora_rm_scathecraw_02": 2
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_ordinator wan_ran": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "flora_rm_scathecraw_01": 2,
+        "flora_rm_scathecraw_02": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::423481",
+      "object": "flora_rm_scathecraw_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::423482",
+      "object": "flora_rm_scathecraw_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::423483",
+      "object": "flora_rm_scathecraw_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::423484",
+      "object": "flora_rm_scathecraw_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

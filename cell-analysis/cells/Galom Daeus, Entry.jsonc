@@ -1,0 +1,92 @@
+{
+  "cell": "Galom Daeus, Entry",
+  "name": "Galom Daeus, Entry",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_smith": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_skybleeder": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bk_antecedantsdwemerlaw": 1,
+        "door_dwrv_inner00": 2,
+        "dwrv_table00": 2,
+        "light_de_candle_05_77": 1,
+        "misc_com_plate_04": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bk_antecedantsdwemerlaw": 1,
+        "door_dwrv_inner00": 2,
+        "dwrv_table00": 2,
+        "light_de_candle_05_77": 1,
+        "misc_com_plate_04": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::250208",
+      "object": "door_dwrv_inner00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::250209",
+      "object": "door_dwrv_inner00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::306950",
+      "object": "dwrv_table00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::306951",
+      "object": "dwrv_table00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::414248",
+      "object": "bk_antecedantsdwemerlaw",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::414253",
+      "object": "misc_com_plate_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::414254",
+      "object": "light_de_candle_05_77",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

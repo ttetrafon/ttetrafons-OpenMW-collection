@@ -1,0 +1,33 @@
+{
+  "cell": "Lonesome Shipwreck, Cabin",
+  "name": "Lonesome Shipwreck, Cabin",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_ship_smug_key_02": 1,
+        "ab_bk_daedralesser": 1,
+        "ab_misc_bkruinedfolio": 1,
+        "ab_misc_bkruinedoctavo01": 2,
+        "ab_misc_bkruinedoctavo02": 2,
+        "ab_misc_bkruinedquarto": 1,
+        "ab_misc_comcard07": 1,
+        "ab_misc_comcard08": 1,
+        "ab_misc_comcard12": 1,
+        "gold_001": 6,
+        "misc_clothbolt_01": 1,
+        "misc_clothbolt_03": 1,
+        "misc_com_bottle_05": 2
+      },
+      "modified": {
+        "de_p_desk_01": 1,
+        "misc_com_metal_plate_04": 1,
+        "sound_boat_creak00": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_m07_chest": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "cell": "Ald-ruhn, Llethri Manor Bedrooms",
+  "name": "Ald-ruhn, Llethri Manor Bedrooms",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_r_bed_17": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_r_bed_17": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::80332",
+      "object": "active_de_r_bed_17",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

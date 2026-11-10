@@ -1,0 +1,51 @@
+{
+  "cell": "Raven Rock, Gratian Caerellius' House",
+  "name": "Raven Rock, Gratian Caerellius' House",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "com_closet_01_mclothes": 1,
+        "ex_colony_door05": 1,
+        "furn_com_tapestry_02": 2,
+        "furn_de_rug_big_04": 1,
+        "light_logpile": 1,
+        "sp_bm_colony_i_fireplace_01": 1
+      },
+      "modified": {
+        "com_sack_02_ingred": 1,
+        "furn_com_tapestry_02": 2,
+        "misc_de_bowl_glass_yellow_01": 1,
+        "misc_de_bowl_redware_02": 1,
+        "misc_de_bowl_white_01": 1,
+        "urn_01_ingred": 1
+      }
+    },
+    "GITD_WL_RR_Interiors.esp": {
+      "added": {
+        "gitd_in_colony_win_01": 1,
+        "gitd_in_colony_win_03": 5,
+        "gitd_in_colony_win_04": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "ex_colony_door05": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "ex_colony_door05": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::21135",
+      "object": "ex_colony_door05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

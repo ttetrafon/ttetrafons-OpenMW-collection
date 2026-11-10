@@ -1,0 +1,148 @@
+{
+  "cell": "Ghostgate, Temple",
+  "name": "Ghostgate, Temple",
+  "plugins": {
+    "NOD - Core.esm": {
+      "added": {
+        "_rv_nod_arnes_othril": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_priest": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "light_de_candle_ivory_01_64": 15
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "light_de_candle_ivory_01_64": 15
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::409224",
+      "object": "light_de_candle_ivory_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::409225",
+      "object": "light_de_candle_ivory_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::409226",
+      "object": "light_de_candle_ivory_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::409227",
+      "object": "light_de_candle_ivory_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::409228",
+      "object": "light_de_candle_ivory_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::409229",
+      "object": "light_de_candle_ivory_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::409230",
+      "object": "light_de_candle_ivory_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::409231",
+      "object": "light_de_candle_ivory_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::409232",
+      "object": "light_de_candle_ivory_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::409233",
+      "object": "light_de_candle_ivory_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::409234",
+      "object": "light_de_candle_ivory_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::409235",
+      "object": "light_de_candle_ivory_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::409236",
+      "object": "light_de_candle_ivory_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::409237",
+      "object": "light_de_candle_ivory_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::409238",
+      "object": "light_de_candle_ivory_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

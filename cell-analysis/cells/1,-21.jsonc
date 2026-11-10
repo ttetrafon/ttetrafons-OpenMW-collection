@@ -1,0 +1,63 @@
+{
+  "cell": "1,-21",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "bc mushroom 128": 1,
+        "flora_grass_01": 12,
+        "flora_muckpod_01": 1,
+        "flora_muckpod_02": 1,
+        "flora_muckpod_05": 1,
+        "flora_muckspunge_01": 1,
+        "flora_muckspunge_02": 1,
+        "flora_muckspunge_03": 1,
+        "flora_muckspunge_05": 1,
+        "flora_muckspunge_06": 1,
+        "t_mw_cr_cliffracer": 1,
+        "t_mw_flora_bluefoot02": 1,
+        "t_mw_flora_bluefoot04": 1,
+        "t_mw_flora_munzur_01": 2,
+        "t_mw_flora_munzur_02": 1,
+        "t_mw_flora_munzur_03": 1,
+        "t_mw_flora_templedom01": 2,
+        "t_mw_flora_templedom02": 1,
+        "t_mw_flora_terrastree_01": 4,
+        "t_mw_light_aanthirinmushroom": 1,
+        "t_mw_rstat_wildernessd01": 2,
+        "t_mw_terrrockat_mtpeaktrv_01": 4,
+        "t_mw_terrrockat_mtpeaktrv_03": 3,
+        "t_mw_terrrockat_rock_08": 2,
+        "t_mw_terrrockat_rock_10": 1,
+        "t_mw_terrrockat_rock_12": 1,
+        "t_mw_terrrockat_rock_20": 1,
+        "t_mw_terrrockat_rock_21": 1,
+        "t_mw_terrrockat_rock_23": 1,
+        "t_mw_terrrockat_rock_24": 1,
+        "t_mw_terrrockat_rock_25": 1,
+        "t_mw_terrrockat_rock_26": 2,
+        "t_mw_terrrockat_rock_28": 3,
+        "t_mw_terrrockat_rock_29": 1,
+        "t_mw_terrrockat_rockgrp_01": 1,
+        "t_mw_terrrockat_rockgrp_03": 2,
+        "t_mw_terrrockrr_mtpeak_01": 3,
+        "t_mw_terrrockrr_rock_08": 9,
+        "t_mw_terrrockrr_rock_10": 1,
+        "t_mw_terrrockrr_rock_11": 1,
+        "t_mw_terrrockrr_rock_14": 4,
+        "t_mw_terrrockrr_rock_16": 2,
+        "t_mw_terrrockrr_rock_18": 1,
+        "t_mw_terrrockrr_rock_20": 3,
+        "t_mw_terrrockrr_rock_28": 2,
+        "t_mw_terrrockrr_rockgrp_01": 6,
+        "t_mw_terrrockrr_rockgrp_02": 4,
+        "t_mw_terrrockrr_rockgrp_03": 12,
+        "t_mw_terrrockrr_rockgrp_04": 4
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

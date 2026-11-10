@@ -1,0 +1,80 @@
+{
+  "cell": "Port Telvannis, Bren Galdis: General Store",
+  "name": "Port Telvannis, Bren Galdis: General Store",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "chest_small_01_gold_50": 1,
+        "chitin dagger": 1,
+        "chitin throwing star": 6,
+        "chitin war axe": 1,
+        "furn_de_bar_01": 3,
+        "furn_de_bar_03": 1,
+        "furn_de_bar_04": 2,
+        "furn_de_r_bookshelf_02": 4,
+        "furn_de_tapestry_06": 1,
+        "in_t_housepod_02": 1,
+        "in_t_housepod_door_exit": 1,
+        "in_t_housepod_pole_01": 1,
+        "in_t_housepod_pole_03": 1,
+        "in_t_housepod_pole_04": 1,
+        "iron broadsword": 1,
+        "iron_shield": 1,
+        "left leather bracer": 1,
+        "light_de_lantern_04": 1,
+        "misc_com_bottle_03": 2,
+        "misc_com_bottle_05": 5,
+        "misc_com_bottle_07": 2,
+        "misc_com_bottle_10": 3,
+        "misc_com_bottle_12": 1,
+        "misc_com_broom_01": 1,
+        "misc_com_plate_01": 2,
+        "misc_com_plate_02": 1,
+        "misc_com_plate_03": 1,
+        "misc_com_plate_04": 1,
+        "misc_com_redware_bowl": 2,
+        "misc_com_redware_pitcher": 1,
+        "misc_com_redware_plate": 1,
+        "misc_com_redware_vase": 1,
+        "misc_com_wood_bowl_02": 2,
+        "misc_de_basket_01": 3,
+        "misc_de_drum_01": 2,
+        "misc_de_goblet_05": 4,
+        "misc_de_pot_blue_01": 2,
+        "misc_de_pot_glass_peach_01": 3,
+        "misc_inkwell": 1,
+        "misc_rollingpin_01": 1,
+        "misc_shears_01": 1,
+        "misc_spool_01": 1,
+        "netch_leather_boiled_helm": 1,
+        "netch_leather_cuirass": 1,
+        "netch_leather_towershield": 1,
+        "northmarker": 1,
+        "t_de_chitin_longsword_fire": 1,
+        "t_de_dresbonemold_greaves_01": 1,
+        "t_de_dreugh_pauldronl_01": 1,
+        "t_de_dreugh_pauldronr_01": 1,
+        "t_de_furn_tapestry_10": 1,
+        "t_de_molecrab_bracerl_conj": 1,
+        "t_de_molecrab_greaves_01": 1,
+        "t_de_scales_01": 1,
+        "t_de_weight_01": 1,
+        "t_de_weight_02": 1,
+        "t_de_weight_03": 1,
+        "t_de_weight_04": 1,
+        "tr_m1_bren_galdis": 1,
+        "tr_m1_tel_guard_s": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_trader_telv": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_in_traders_spawn": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "cell": "Caldera, Falanaamo: Clothier",
+  "name": "Caldera, Falanaamo: Clothier",
+  "plugins": {
+    "NOD - Core.esm": {
+      "added": {
+        "nod_de_p_chest_02_fala": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "added": {
+        "daylight_falanaamo_300_north": 3,
+        "light_com_candle_09_64": 1,
+        "light_de_candle_01_64": 1
+      },
+      "modified": {
+        "light_de_candle_01_64": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_clothes": 1
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_ff_ildritt_trigger": 1
+      }
+    }
+  }
+}

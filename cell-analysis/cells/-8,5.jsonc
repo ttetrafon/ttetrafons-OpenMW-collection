@@ -1,0 +1,17 @@
+{
+  "cell": "-8,5",
+  "plugins": {
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_swamp_2": 1,
+        "sound_swamp_3": 1
+      }
+    },
+    "BC Sounds Naturalized.esp": {
+      "added": {
+        "opn_sound_swamp_2": 1,
+        "opn_sound_swamp_3": 1
+      }
+    }
+  }
+}

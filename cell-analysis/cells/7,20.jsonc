@@ -1,0 +1,15 @@
+{
+  "cell": "7,20",
+  "plugins": {
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_comp_corneliu": 1
+      }
+    }
+  }
+}

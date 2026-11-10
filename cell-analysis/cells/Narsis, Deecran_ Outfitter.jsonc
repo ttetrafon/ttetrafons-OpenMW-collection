@@ -1,0 +1,65 @@
+{
+  "cell": "Narsis, Deecran: Outfitter",
+  "name": "Narsis, Deecran: Outfitter",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "chest_small_02": 1,
+        "furn_de_bar_01": 1,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_04": 1,
+        "furn_de_p_shelf_02": 2,
+        "furn_de_rope_03": 1,
+        "furn_de_rug_big_07": 1,
+        "furn_de_tapestry_10": 2,
+        "furn_web00": 1,
+        "furn_web10": 1,
+        "gold_025": 1,
+        "in_hlaalu_doorjamb_load": 1,
+        "in_hlaalu_loaddoor_01": 1,
+        "in_hlaalu_room_corner": 3,
+        "in_hlaalu_room_door1": 1,
+        "light_de_candle_05_64": 1,
+        "light_de_lamp_05_128": 1,
+        "northmarker": 1,
+        "t_arg_ceramicbottle_01": 1,
+        "t_arg_ceramiccup_01": 2,
+        "t_arg_ceramicflask_01": 1,
+        "t_arg_ceramicjug_02": 1,
+        "t_arg_ceramicplate_01": 1,
+        "t_arg_ceramicpot_02": 1,
+        "t_arg_hist_cuirass_01": 1,
+        "t_arg_woodenbowl_01": 1,
+        "t_arg_woodenbowl_03": 1,
+        "t_arg_woodencup_01": 2,
+        "t_arg_woodencup_02": 2,
+        "t_arg_woodencup_03": 1,
+        "t_arg_woodenfork_01": 2,
+        "t_arg_woodenkettle_01": 1,
+        "t_arg_woodenknife_01": 2,
+        "t_arg_woodenladle_01": 1,
+        "t_arg_woodenmat_01": 1,
+        "t_arg_woodenpitcher_01": 1,
+        "t_arg_woodenplate_01": 1,
+        "t_arg_woodenplatter_01": 1,
+        "t_arg_woodenpot_02_pos": 1,
+        "t_arg_woodenspoon_01": 1,
+        "t_bk_argonianaccountpc_v1": 1,
+        "t_bk_argonianaccountpc_v2": 1,
+        "t_bk_argonianaccountpc_v3": 1,
+        "t_de_furnp_bookshelf_01": 1,
+        "t_de_scales_01": 1,
+        "t_de_var_lanterngreen03_128": 1,
+        "t_mwcom_var_bs1pos": 1,
+        "t_mwcom_var_bs2pos": 1,
+        "t_mwde_furnp_ch2pos": 1,
+        "tr_m7_deecran": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_trader": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "cell": "Hunza Camp, Shairan's Tent",
+  "name": "Hunza Camp, Shairan's Tent",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_bedroll": 1,
+        "apparatus_j_mortar_01": 1,
+        "apparatus_j_retort_01": 1,
+        "bk_consolationsofprayer": 1,
+        "bk_livesofthesaints": 1,
+        "com_basket_01_food": 1,
+        "com_sack_02_chpfood3": 1,
+        "furn_de_cushion_round_01": 1,
+        "furn_de_cushion_round_02": 1,
+        "gold_005": 2,
+        "light_de_candle_07_64": 1,
+        "light_de_lantern_05_128_s": 1,
+        "misc_de_drum_01": 1,
+        "northmarker": 1,
+        "p_fortify_health_c": 1,
+        "p_fortify_health_s": 1,
+        "p_fortify_strength_s": 2,
+        "t_com_coppetteapot_01": 1,
+        "t_de_cm_shoes_03": 1,
+        "t_de_furn_rugsmall_03": 1,
+        "t_de_furn_rugsmall_04": 1,
+        "t_de_furnp_table_04": 1,
+        "t_de_set_i_tent_01": 1,
+        "t_de_set_i_tent_01_banner_05": 1,
+        "t_de_set_i_tent_01_door_01": 1,
+        "t_de_stonewarecup_01": 2,
+        "t_de_stonewarepot_03": 1,
+        "t_mwcom_furn_potionh2": 1,
+        "t_mwcom_var_sk3ingnars": 1,
+        "t_mwcom_var_sks1ingr": 1,
+        "t_mwde_furn_chs1ingnars": 1,
+        "t_skycom_var_sks1ingr": 1,
+        "tr_m7_shairan": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_healer": 1
+      }
+    }
+  }
+}

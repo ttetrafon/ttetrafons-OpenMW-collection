@@ -1,0 +1,49 @@
+{
+  "cell": "Nirthfly: Upper Level",
+  "name": "Nirthfly: Upper Level",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_bed_29": 2,
+        "active_de_p_bed_28": 1,
+        "barrel_01_cheapfood20": 2,
+        "barrel_01_drinks": 2,
+        "barrel_02_eggs": 3,
+        "com_sack_01": 3,
+        "com_sack_01_chpfood5": 2,
+        "crate_01": 3,
+        "crate_01_eggs": 3,
+        "crate_01_food": 1,
+        "crate_02": 4,
+        "crate_02_food": 1,
+        "de_p_chest_02_gold_25": 1,
+        "de_p_chest_02_gold_50": 1,
+        "furn_com_p_bench_01": 2,
+        "furn_de_shack_hook": 2,
+        "gold_001": 3,
+        "gold_005": 1,
+        "in_de_ship_upperlevel": 1,
+        "in_de_shipdoor_toplevel": 2,
+        "light_com_candle_01": 1,
+        "misc_com_bottle_05": 1,
+        "misc_com_bottle_06": 2,
+        "misc_com_bottle_11": 1,
+        "misc_com_bucket_01": 1,
+        "misc_com_tankard_01": 2,
+        "northmarker": 1,
+        "t_com_brokenbottle_01": 1,
+        "t_de_furn_rug_19": 1,
+        "t_mwde_furn_vs2ing": 1,
+        "t_we_drink_pigmilkbeerjagga_01": 1,
+        "tr_m1_ardala": 1,
+        "tr_m1_fg_nirthflyrecallblocker": 1,
+        "tr_m1_tidros tirandus": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_trader": 1
+      }
+    }
+  }
+}

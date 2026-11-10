@@ -1,0 +1,26 @@
+{
+  "cell": "Llovyn's Farmhouse",
+  "name": "Llovyn's Farmhouse",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "flora_corkbulb": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "flora_corkbulb": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::441968",
+      "object": "flora_corkbulb",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

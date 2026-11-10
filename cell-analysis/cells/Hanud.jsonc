@@ -1,0 +1,31 @@
+{
+  "cell": "Hanud",
+  "name": "Hanud",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "gold_005": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "modified": {
+        "light_com_candle_07_77": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "gold_005": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::84436",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

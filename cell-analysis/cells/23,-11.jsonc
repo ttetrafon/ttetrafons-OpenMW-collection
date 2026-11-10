@@ -1,0 +1,41 @@
+{
+  "cell": "23,-11",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "contain_trama_shrub_01": 1,
+        "contain_trama_shrub_02": 1,
+        "contain_trama_shrub_04": 1,
+        "contain_trama_shrub_06": 1,
+        "ex_velothi_tower_01": 1,
+        "ex_wild_netch_lev+0": 1,
+        "flora_ash_grass_w_01": 4,
+        "t_mw_rlvl_sunderedscarland+0": 1,
+        "t_mw_terrash_pile_07": 1,
+        "t_mw_terrrockss_plateau_01": 1,
+        "t_mw_terrrockss_plateau_03": 1,
+        "t_mw_terrrockss_rock_06": 3,
+        "t_mw_terrrockss_rock_10": 1,
+        "t_mw_terrrockss_rock_25": 1,
+        "t_mw_terrrockss_rock_49": 6,
+        "t_mw_terrrockss_rock_51": 1,
+        "t_mw_terrrockss_rock_53": 1,
+        "t_mw_terrrockss_rock_550": 10,
+        "t_mw_terrrockss_rock_57": 5,
+        "t_mw_terrrockss_rock_58": 4,
+        "t_mw_terrrockss_rock_67": 1,
+        "t_mw_terrrockss_rock_79": 1,
+        "t_mwde_furn_chsogem": 1,
+        "terrain_rock_ma_04": 5,
+        "terrain_rock_ma_07": 6,
+        "terrain_rock_ma_09": 7,
+        "terrain_rock_ma_19": 5
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_ex_dwe_spawn": 1
+      }
+    }
+  }
+}

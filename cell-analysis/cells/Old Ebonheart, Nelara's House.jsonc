@@ -1,0 +1,73 @@
+{
+  "cell": "Old Ebonheart, Nelara's House",
+  "name": "Old Ebonheart, Nelara's House",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_com_bed_04": 1,
+        "apparatus_a_mortar_01": 1,
+        "barrel_01": 5,
+        "barrel_01_cheapfood20": 2,
+        "bk_onmorrowind": 1,
+        "bk_provinces_of_tamriel": 1,
+        "chest_small_01_gold_ran": 1,
+        "com_chest_01_misc01": 1,
+        "com_chest_11_clothing": 1,
+        "com_cupboard_01_booze": 1,
+        "com_hutch_01": 1,
+        "com_sack_01": 2,
+        "com_sack_01_chpfood5": 2,
+        "com_sack_02": 3,
+        "com_sack_02_chpfood3": 2,
+        "com_sack_02_ingred": 1,
+        "com_sack_03_chpfood5": 1,
+        "com_sack_gold_05": 1,
+        "crate_01_eggs": 1,
+        "ex_nord_door_01": 1,
+        "ex_nord_win_01": 4,
+        "flora_plant_02": 1,
+        "furn_com_p_bench_01": 1,
+        "furn_com_p_shelf_03": 1,
+        "furn_com_p_shelf_04": 1,
+        "furn_com_p_table_01": 1,
+        "furn_com_planter": 1,
+        "in_nord_doorf_01": 1,
+        "in_nord_house_03": 1,
+        "in_nord_rafterboards_01": 2,
+        "ingred_bread_01": 2,
+        "ingred_hackle-lo_leaf_01": 1,
+        "ingred_scrib_jelly_01": 1,
+        "ingred_scrib_jerky_01": 4,
+        "light_com_candle_01_64": 1,
+        "light_com_candle_07_128": 1,
+        "light_com_candle_07_77": 1,
+        "misc_com_basket_01": 1,
+        "misc_com_basket_02": 1,
+        "misc_com_metal_plate_05": 4,
+        "misc_com_tankard_01": 4,
+        "misc_inkwell": 1,
+        "misc_quill": 1,
+        "misc_rollingpin_01": 1,
+        "misc_uni_pillow_01": 1,
+        "northmarker": 1,
+        "sc_paper plain": 1,
+        "t_com_cuttingboard_01": 1,
+        "t_de_hacklopipe_01": 1,
+        "t_de_pan_01": 2,
+        "t_de_panscribpie_02": 2,
+        "t_imp_drink_winefreeestat_01": 2,
+        "t_imp_furn_rugroundxp_03": 1,
+        "t_imp_furn_tapestry_09": 1,
+        "t_imp_furn_tapestry_17": 1,
+        "t_ingfood_scribpie_01": 1,
+        "t_news_bellman_spawner_freq": 1,
+        "tr_m3_nelara": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_trader": 1
+      }
+    }
+  }
+}

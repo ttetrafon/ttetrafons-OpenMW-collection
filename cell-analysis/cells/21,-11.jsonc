@@ -1,0 +1,31 @@
+{
+  "cell": "21,-11",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "blue coast ref 1024": 5,
+        "ex_t_menhir_l_01": 5,
+        "flora_kelp_01": 9,
+        "flora_kelp_02": 15,
+        "flora_kelp_03": 2,
+        "flora_kelp_04": 3,
+        "t_glb_flora_kelp1group_01": 4,
+        "t_glb_flora_kelp1group_02": 5,
+        "t_glb_var_skeletonarmr_01": 1,
+        "t_glb_var_skeletonjawkhaj_01": 1,
+        "t_glb_var_skeletonspine_01": 1,
+        "t_mw_rlvl_sunderedscarwater+0": 1,
+        "t_mw_terrrockss_plateau_02": 1,
+        "t_mw_terrrockss_rock_550": 2,
+        "t_mw_terrrockss_rock_57": 1,
+        "t_mw_terrrockss_rock_79": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_marker": 1,
+        "xero_west_barrel": 1
+      }
+    }
+  }
+}

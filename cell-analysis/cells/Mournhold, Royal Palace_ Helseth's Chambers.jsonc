@@ -1,0 +1,78 @@
+{
+  "cell": "Mournhold, Royal Palace: Helseth's Chambers",
+  "name": "Mournhold, Royal Palace: Helseth's Chambers",
+  "plugins": {
+    "Immersive Mournhold.esp": {
+      "added": {
+        "ab_furn_derchwallscreen": 3,
+        "ab_misc_deebonyflask_01": 2,
+        "ab_misc_deebonyglass_01": 4,
+        "ab_misc_deebonyplate_01": 2,
+        "ab_misc_depillowl_04": 4,
+        "ab_misc_depillowl_06": 2,
+        "ab_misc_depillows_06": 4,
+        "flora_grass_06": 8,
+        "flora_plant_02": 6,
+        "flora_plant_03": 8,
+        "furn_de_r_bench_01": 2,
+        "furn_de_r_table_09": 2,
+        "furn_planter_mh_01": 2,
+        "nb_mourn_02_cr": 2,
+        "t_imp_silverwarebell_01": 1
+      },
+      "modified": {
+        "light_com_lamp_01": 2,
+        "t_de_furn_tapestryind_04": 3,
+        "t_de_furn_tapestryind_05a": 4
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "de_r_chest_01_gold1": 1,
+        "de_r_chest_01_gold2": 1,
+        "in_mh_door_02": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "de_r_chest_01_gold1": 1,
+        "de_r_chest_01_gold2": 1,
+        "in_mh_door_02": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "tribunal::17413",
+      "object": "in_mh_door_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::15955",
+      "object": "in_mh_door_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25613",
+      "object": "de_r_chest_01_gold2",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25614",
+      "object": "de_r_chest_01_gold1",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

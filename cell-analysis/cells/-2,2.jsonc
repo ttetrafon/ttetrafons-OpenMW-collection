@@ -1,0 +1,227 @@
+{
+  "cell": "-2,2",
+  "name": "Caldera",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1,
+        "gvrm_impforts": 4,
+        "gvrm_mage": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "ab01ambeggarbowl7": 1,
+        "am_beggar7": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_conrillchest": 1,
+        "bc3000_conrillova": 1,
+        "bc3000_hiddencache": 6
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_mugger_spawn": 1,
+        "_aa_n_all_nightlife_spawn": 5,
+        "_aa_telemage_spawn": 2
+      }
+    },
+    "Olive the Enchanter.esp": {
+      "added": {
+        "chest_small_01_gold_25": 1,
+        "com_chest_02_v_trader01": 1,
+        "furn_com_rm_table_04": 1,
+        "lhs_olive": 1,
+        "lhs_power_sword_show": 1,
+        "lhs_shortblade_redchurch_show": 1,
+        "lhs_trader_banner": 1,
+        "light_de_candle_07_64": 1,
+        "p_chameleon_e": 1,
+        "p_fire_resistance_e": 1,
+        "p_fortify_speech_e": 1
+      }
+    },
+    "Creatures and Critters Light the Path.ESP": {
+      "added": {
+        "aa_cr_i_moth_all": 2
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "light_com_lantern_02_128": 19
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "modified": {
+        "ex_common_door_01": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_imperial guard_ran": 5
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "light_com_lantern_02_128": 19
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::140755",
+      "object": "light_com_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::140756",
+      "object": "light_com_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::140758",
+      "object": "light_com_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::140766",
+      "object": "light_com_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::140768",
+      "object": "light_com_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::140771",
+      "object": "light_com_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::140773",
+      "object": "light_com_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::248713",
+      "object": "light_com_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::248715",
+      "object": "light_com_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::248717",
+      "object": "light_com_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::248719",
+      "object": "light_com_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::248721",
+      "object": "light_com_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::248723",
+      "object": "light_com_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::248725",
+      "object": "light_com_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::248727",
+      "object": "light_com_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::248747",
+      "object": "light_com_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::248748",
+      "object": "light_com_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::248750",
+      "object": "light_com_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::248754",
+      "object": "light_com_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

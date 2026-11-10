@@ -1,0 +1,18 @@
+{
+  "cell": "-10,18",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_band_arg_dru": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_in_cave_plant00": 1,
+        "xero_in_cave_plant10": 2,
+        "xero_marker": 1,
+        "xero_north_chest": 1
+      }
+    }
+  }
+}

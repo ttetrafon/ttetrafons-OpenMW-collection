@@ -1,0 +1,80 @@
+{
+  "cell": "Suran, Suran Temple",
+  "name": "Suran, Suran Temple",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "furn_de_p_chair_02": 1,
+        "gvrm_am_marker": 1,
+        "gvrm_dun_pray_4": 1,
+        "gvrm_tem_s+e_temall": 1,
+        "gvrm_tem_s_temall": 1
+      }
+    },
+    "Holy Art.ESP": {
+      "added": {
+        "vd_velothismall_04": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_cleaner6": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_priest": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "furn_de_bar_02": 1,
+        "furn_de_bar_04": 1,
+        "in_velothismall_ndoor_01": 1,
+        "torch_128": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "furn_de_bar_02": 1,
+        "furn_de_bar_04": 1,
+        "in_velothismall_ndoor_01": 1,
+        "torch_128": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::352035",
+      "object": "furn_de_bar_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::352036",
+      "object": "furn_de_bar_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::248445",
+      "object": "in_velothismall_ndoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::409556",
+      "object": "torch_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "cell": "Falasmaryon, Lower Level",
+  "name": "Falasmaryon, Lower Level",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 3
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_dreameraf": 1,
+        "am_dreameram": 1,
+        "am_dreamerbm": 1,
+        "furn_6th_corprus_plate_01": 1,
+        "ingred_6th_corprusmeat_07": 3
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_dreamers": 3,
+        "plx_dreamers_rare": 1,
+        "plx_dreamersbell": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_6_dream_list_1": 3,
+        "aa_cr_dreamer_f_c01": 1,
+        "aa_cr_dreamer_f_c02": 1,
+        "dreamer_02": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "cell": "5,2",
+  "plugins": {
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "crate_01_empty": 1,
+        "crate_01_food": 1,
+        "de_p_chest_02_gold_50": 1,
+        "misc_com_bottle_12": 1,
+        "misc_com_wood_cup_02": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "crate_01_empty": 1,
+        "crate_01_food": 1,
+        "de_p_chest_02_gold_50": 1,
+        "misc_com_bottle_12": 1,
+        "misc_com_wood_cup_02": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::276601",
+      "object": "crate_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276602",
+      "object": "de_p_chest_02_gold_50",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276603",
+      "object": "misc_com_bottle_12",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276604",
+      "object": "misc_com_wood_cup_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276605",
+      "object": "misc_com_wood_cup_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276606",
+      "object": "crate_01_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "cell": "19,-1",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_ship_de_shack_plank_03_a": 2,
+        "_cor_ship_flotsam_03": 1,
+        "ab_furn_crate03lid": 1,
+        "ab_furn_cratebroken03": 1,
+        "ab_furn_cratebrokenwood02": 1,
+        "ab_misc_bkruinedquarto": 1,
+        "ab_misc_boneskelribs": 1,
+        "ab_misc_boneskelskullnojaw": 1,
+        "ab_o_alchjarectoplasm": 1,
+        "ab_o_barrel01smuggler": 1,
+        "ab_o_comclosetthin": 1,
+        "ab_o_corpseburnt01loot": 1,
+        "ab_o_crate02pos": 1,
+        "ab_o_deplntable02": 1,
+        "ab_o_sacklargefood": 2,
+        "blue coast ref 1024": 1,
+        "crate_01_moonsugar10": 1,
+        "de_p_chest_02_potions": 1,
+        "flora_kelp_01": 2,
+        "flora_kelp_02": 4,
+        "flora_kelp_03": 2
+      },
+      "modified": {
+        "flora_kelp_01": 1,
+        "flora_kelp_02": 2,
+        "flora_kelp_03": 2
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_water": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 2
+      }
+    }
+  }
+}

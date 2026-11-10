@@ -1,0 +1,83 @@
+{
+  "cell": "Tel Vos, Services Tower",
+  "name": "Tel Vos, Services Tower",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_alchemist7": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_apothecary": 1,
+        "aa_wares_healer": 1,
+        "aa_wares_magical_telv": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_telvanni guard_ran": 2
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_p_bed_03": 1,
+        "bk_brownbook426": 1,
+        "in_impsmall_d_hidden_01": 1,
+        "in_impsmall_door_01": 1
+      }
+    },
+    "Unique Uniques.ESP": {
+      "modified": {
+        "dwemer jinksword": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_p_bed_03": 1,
+        "bk_brownbook426": 1,
+        "in_impsmall_d_hidden_01": 1,
+        "in_impsmall_door_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::312934",
+      "object": "active_de_p_bed_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::312950",
+      "object": "in_impsmall_door_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::459862",
+      "object": "in_impsmall_d_hidden_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483488",
+      "object": "bk_brownbook426",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

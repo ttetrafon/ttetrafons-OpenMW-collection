@@ -1,0 +1,29 @@
+{
+  "cell": "7,-9",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "barrel_01_empty": 1,
+        "xero_east_barrel": 1,
+        "xero_marker": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_ex_daed_bat": 1,
+        "plx_flowers": 1,
+        "plx_water": 4
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 4
+      }
+    }
+  }
+}

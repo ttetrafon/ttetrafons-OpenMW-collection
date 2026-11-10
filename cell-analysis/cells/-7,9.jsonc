@@ -1,0 +1,27 @@
+{
+  "cell": "-7,9",
+  "plugins": {
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_ex_daedric_ruins_spawn": 1
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_cm_winged twilight": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_crt_deepforest_wg": 1,
+        "plx_daedra_shrine_malacath": 3,
+        "plx_ex_daed_bat": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_shrine_malacath": 3
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "cell": "10,14",
+  "name": "Tel Vos",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1,
+        "gvrm_balmoracitizens": 1,
+        "gvrm_telvguardwand": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_bard13": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_telemage_spawn": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_telvanni archer_ran": 3,
+        "sp_telvanni guard_ran": 2
+      }
+    }
+  }
+}

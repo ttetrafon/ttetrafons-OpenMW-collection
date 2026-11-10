@@ -1,0 +1,36 @@
+{
+  "cell": "Mournhold, Geon Auline's House",
+  "name": "Mournhold, Geon Auline's House",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "in_mh_door_01": 1,
+        "silver dagger_droth_unique_a": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "in_mh_door_01": 1,
+        "silver dagger_droth_unique_a": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "tribunal::7672",
+      "object": "in_mh_door_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::26382",
+      "object": "silver dagger_droth_unique_a",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

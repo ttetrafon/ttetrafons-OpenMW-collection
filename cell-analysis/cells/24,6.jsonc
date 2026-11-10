@@ -1,0 +1,59 @@
+{
+  "cell": "24,6",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_de_railing_02": 2,
+        "ex_de_railing_03": 1,
+        "ex_t_menhir_l_01": 21,
+        "ex_velothi_entrance_02": 1,
+        "ex_velothi_loaddoor_01": 1,
+        "ex_velothi_tower_01": 1,
+        "flora_black_anther_01": 2,
+        "flora_black_anther_02": 2,
+        "flora_emp_parasol_02": 3,
+        "flora_emp_parasol_03": 5,
+        "flora_kreshweed_01": 10,
+        "flora_kreshweed_02": 3,
+        "flora_kreshweed_03": 12,
+        "flora_t_podbud_01": 7,
+        "flora_t_podbud_02": 6,
+        "flora_t_podbud_03": 10,
+        "flora_t_podbud_04": 3,
+        "flora_tree_ac_01": 6,
+        "flora_tree_ac_02": 6,
+        "flora_tree_ac_03": 1,
+        "flora_tree_ac_04": 4,
+        "flora_willow_flower_01": 2,
+        "flora_willow_flower_02": 1,
+        "furn_com_fence_01": 1,
+        "t_com_setmw_signwayfirewat_01": 1,
+        "t_com_setmw_signwayhelnim_01": 1,
+        "t_com_setmw_signwayhlabulor_01": 1,
+        "t_com_setmw_signwayllothanis_01": 1,
+        "t_com_setmw_signwaynecrom_01": 1,
+        "t_com_setmw_signwayranyonru_01": 1,
+        "t_com_setmw_signwaytelmothri_01": 1,
+        "t_com_setmw_signwaytelmuthad_01": 1,
+        "t_mw_rlvl_dagonurul+0": 2,
+        "t_mw_rlvl_dagonurul+2": 1,
+        "terrain_rock_ac_01": 2,
+        "terrain_rock_ac_02": 5,
+        "terrain_rock_ac_03": 7,
+        "terrain_rock_ac_04": 10,
+        "terrain_rock_ac_06": 5,
+        "terrain_rock_ac_07": 1,
+        "terrain_rock_ac_08": 10,
+        "terrain_rock_ac_09": 1,
+        "terrain_rock_ac_10": 5,
+        "terrain_rock_ac_11": 4,
+        "terrain_rock_ac_12": 8
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

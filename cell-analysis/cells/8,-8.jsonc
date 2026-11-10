@@ -1,0 +1,30 @@
+{
+  "cell": "8,-8",
+  "plugins": {
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_npc_ash_ceradae": 1,
+        "ab_furn_guarcartruined": 1,
+        "ab_misc_bottlebrkredbot": 1,
+        "ab_o_comchestwornpos": 1,
+        "ab_o_comcrate04bandit": 1,
+        "guar": 1,
+        "t_com_var_cratebroken_07": 1,
+        "t_de_furn_urndres_broken_03": 1,
+        "t_de_var_pitcherbroken_02": 1,
+        "t_de_var_urnbroken_18": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_ex_tomb_spawn": 1,
+        "_aa_solo_spawn_no_guard": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_night_only_exterior_undea": 1
+      }
+    }
+  }
+}

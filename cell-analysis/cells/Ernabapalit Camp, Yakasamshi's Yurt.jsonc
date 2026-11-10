@@ -1,0 +1,50 @@
+{
+  "cell": "Ernabapalit Camp, Yakasamshi's Yurt",
+  "name": "Ernabapalit Camp, Yakasamshi's Yurt",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_bedroll": 2,
+        "chitin boots": 1,
+        "chitin_towershield": 1,
+        "flora_ashtree_03": 1,
+        "furn_ashl_bugbowl": 1,
+        "furn_ashl_bugbowl_02": 1,
+        "furn_coals_hot": 1,
+        "furn_de_firepit": 1,
+        "gold_025": 1,
+        "in_ashl_door_02": 1,
+        "in_ashl_tent_02": 1,
+        "in_ashl_tent_banner_01": 3,
+        "in_lava_blacksquare": 1,
+        "ingred_alit_hide_01": 2,
+        "ingred_ash_salts_01": 1,
+        "ingred_ash_yam_01": 5,
+        "ingred_rat_meat_01": 2,
+        "ingred_resin_01": 1,
+        "ingred_scrap_metal_01": 1,
+        "light_ashl_lantern_02_256": 1,
+        "light_fire": 1,
+        "misc_de_bowl_orange_green_01": 1,
+        "misc_de_drum_01": 1,
+        "misc_dwrv_coin00": 1,
+        "misc_flask_04": 1,
+        "northmarker": 1,
+        "short bow": 1,
+        "t_de_ashlander_dagger_01": 1,
+        "t_de_furnp_bench_01": 1,
+        "t_de_furnp_table_04": 1,
+        "t_de_guarskin_shield_damfatigue": 1,
+        "t_mwde_furnm_ch1pos": 1,
+        "tr_m4_ibbisin-mammus": 1,
+        "tr_m4_mark_amandin": 1,
+        "tr_m4_yakasamshi": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_trader_ash": 1
+      }
+    }
+  }
+}

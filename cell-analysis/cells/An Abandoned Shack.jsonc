@@ -1,0 +1,21 @@
+{
+  "cell": "An Abandoned Shack",
+  "name": "An Abandoned Shack",
+  "plugins": {
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_swamp_2": 1
+      }
+    },
+    "BC Sounds Naturalized.esp": {
+      "added": {
+        "opn_sound_swamp_2": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_vermin_marker_cloth": 3
+      }
+    }
+  }
+}

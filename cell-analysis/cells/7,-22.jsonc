@@ -1,0 +1,70 @@
+{
+  "cell": "7,-22",
+  "name": "Felms Ithul",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_de_docks_end": 1,
+        "ex_de_docks_steps_01": 1,
+        "ex_velothi_loaddoor_01": 1,
+        "flora_comberry_01": 9,
+        "flora_emp_parasol_01": 1,
+        "flora_emp_parasol_02": 1,
+        "flora_plant_03": 1,
+        "flora_sedge_01": 1,
+        "flora_sedge_02": 6,
+        "furn_com_fence_01": 1,
+        "t_com_setmw_signwaydondril_01": 1,
+        "t_com_setmw_signwayfelmsi_01": 1,
+        "t_com_setmw_signwayoldebonh_01": 1,
+        "t_com_setmw_signwayvhul_01": 1,
+        "t_de_set_x_woodfence_03": 1,
+        "t_de_set_x_woodfence_03_128": 1,
+        "t_de_setveloth_x_house_03": 1,
+        "t_glb_flora_fern_01": 9,
+        "t_mw_cr_netchbetty": 1,
+        "t_mw_cr_scrib": 2,
+        "t_mw_cr_slaugherfish": 1,
+        "t_mw_flora_hamumroot01": 14,
+        "t_mw_flora_shroomtableo_02": 1,
+        "t_mw_flora_shroomtableo_03": 1,
+        "t_mw_flora_shroomtableo_04": 2,
+        "t_mw_flora_shroomtableo_06": 4,
+        "t_mw_flora_templedom01": 5,
+        "t_mw_flora_templedom02": 4,
+        "t_mw_flora_timsacomeb02": 2,
+        "t_mw_flora_timsacomeb04": 3,
+        "t_mw_floraat_oranmoss01": 4,
+        "t_mw_floraat_oranmoss02": 1,
+        "t_mw_floraat_oranmoss03": 1,
+        "t_mw_floraat_treeb_01": 1,
+        "t_mw_floraat_treeg_01": 1,
+        "t_mw_floraat_treeg_02": 2,
+        "t_mw_floraat_treeg_03": 2,
+        "t_mw_floraat_treeg_04": 6,
+        "t_mw_floraat_treeg_05": 5,
+        "t_mw_light_aanthirinmushroom": 2,
+        "t_mw_terrrockat_rock_08": 3,
+        "t_mw_terrrockat_rock_09": 1,
+        "t_mw_terrrockat_rock_10": 3,
+        "t_mw_terrrockat_rock_12": 1,
+        "t_mw_terrrockat_rock_17": 1,
+        "t_mw_terrrockat_rock_18": 6,
+        "t_mw_terrrockat_rock_22": 1,
+        "t_mw_terrrockat_rock_24": 2,
+        "t_mw_terrrockat_rock_26": 1,
+        "t_mw_terrrockat_rock_27": 1,
+        "t_mw_terrrockat_rock_28": 3,
+        "t_mw_terrrockat_rock_29": 3,
+        "t_mw_terrrockat_rockgrp_01": 6,
+        "t_mw_terrrockat_rockgrp_03": 9,
+        "t_mw_terrrockat_rockgrp_04": 2
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_indo_spawn": 1
+      }
+    }
+  }
+}

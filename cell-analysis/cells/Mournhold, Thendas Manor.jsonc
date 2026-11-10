@@ -1,0 +1,137 @@
+{
+  "cell": "Mournhold, Thendas Manor",
+  "name": "Mournhold, Thendas Manor",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "flora_plant_01": 1,
+        "flora_plant_02": 1,
+        "flora_plant_03": 3,
+        "flora_plant_04": 1,
+        "flora_sedge_02": 1,
+        "imperial boots": 1,
+        "imperial broadsword": 1,
+        "imperial helmet armor": 1,
+        "imperial shield": 1,
+        "urn_04_food": 1
+      }
+    },
+    "Immersive Mournhold.esp": {
+      "modified": {
+        "in_mh_door_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "flora_plant_01": 1,
+        "flora_plant_02": 1,
+        "flora_plant_03": 3,
+        "flora_plant_04": 1,
+        "flora_sedge_02": 1,
+        "imperial boots": 1,
+        "imperial broadsword": 1,
+        "imperial helmet armor": 1,
+        "imperial shield": 1,
+        "urn_04_food": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "tribunal::16271",
+      "object": "flora_plant_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16282",
+      "object": "urn_04_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16290",
+      "object": "flora_plant_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16292",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16294",
+      "object": "flora_sedge_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16296",
+      "object": "flora_plant_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16300",
+      "object": "flora_plant_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::16302",
+      "object": "flora_plant_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24586",
+      "object": "imperial shield",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24587",
+      "object": "imperial helmet armor",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24588",
+      "object": "imperial boots",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24589",
+      "object": "imperial broadsword",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

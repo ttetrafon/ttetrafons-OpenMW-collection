@@ -1,0 +1,17 @@
+{
+  "cell": "20,-5",
+  "plugins": {
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "ex_ship_stair": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "crate_01_empty": 1,
+        "xero_east_crate": 1,
+        "xero_marker": 1
+      }
+    }
+  }
+}

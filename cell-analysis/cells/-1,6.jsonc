@@ -1,0 +1,72 @@
+{
+  "cell": "-1,6",
+  "plugins": {
+    "A Merchant's Whim.ESP": {
+      "added": {
+        "aatl_npc_ggguard04": 1,
+        "aatl_npc_ggguard06": 1,
+        "aatl_npc_ggguard08": 1,
+        "ab_flora_tramatendril_03b": 1,
+        "ab_o_barrel01group": 1,
+        "contain_trama_shrub_03": 1,
+        "ex_redoran_awning_01": 1,
+        "ex_redoran_building_03": 1,
+        "flora_rm_scathecraw_01": 1,
+        "furn_de_overhang_07": 1,
+        "in_redoran_hut_door_01": 1,
+        "light_de_lantern_05": 2,
+        "t_de_setred_x_steps_01": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_hiddencache": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_red_spawn": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "com_basket_01_ingredien": 1,
+        "ex_redoran_hut_01_a": 1,
+        "urn_02_ingred": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "com_basket_01_ingredien": 1,
+        "ex_redoran_hut_01_a": 1,
+        "urn_02_ingred": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::49143",
+      "object": "ex_redoran_hut_01_a",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::49149",
+      "object": "urn_02_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::49150",
+      "object": "com_basket_01_ingredien",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

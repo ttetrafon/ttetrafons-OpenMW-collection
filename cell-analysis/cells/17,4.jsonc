@@ -1,0 +1,213 @@
+{
+  "cell": "17,4",
+  "name": "Sadrith Mora",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "tr_m0_anedhil": 1
+      }
+    },
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 5,
+        "gvrm_telvguardwand": 4,
+        "gvrm_tlv_w_dun_sdrthmra": 4
+      }
+    },
+    "NOD - Core.esm": {
+      "added": {
+        "ar_chest_t": 1,
+        "rp_telvanni_crate": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "ab01ambeggarbowl14": 1,
+        "am_alchemist5": 1,
+        "am_bard11": 1,
+        "am_beggar14": 1,
+        "am_fisherman17": 1,
+        "am_fisherman18": 1,
+        "furn_de_p_stool_02": 1,
+        "gold_001": 27,
+        "misc_de_bowl_redware_02": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_alchemist": 1,
+        "aa_wares_smith": 1,
+        "aa_wares_trader": 1,
+        "aa_wares_trader_telv": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_hiddencache": 3
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_n_all_nightlife_spawn": 1,
+        "_aa_sailor_list_spawn": 1,
+        "_aa_telemage_spawn": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "t_mw_fau_ceph_01": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_telvanni guard_ran": 4
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "com_sack_03_chpfood5": 1,
+        "crate_01_empty": 2,
+        "ex_de_ship_cabindoor": 1,
+        "ex_de_ship_trapdoor": 1,
+        "iron shortsword": 1,
+        "light_de_lantern_05": 2,
+        "misc_de_basket_01": 1,
+        "misc_de_foldedcloth00": 1,
+        "steel crossbow": 1,
+        "urn_03_food": 1,
+        "urn_04_ingred": 1
+      }
+    },
+    "Enchanted Batons.ESP": {
+      "modified": {
+        "crate_01_anruin": 1
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "modified": {
+        "ex_t_door_slavepod_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "com_sack_03_chpfood5": 1,
+        "crate_01_empty": 2,
+        "ex_de_ship_cabindoor": 1,
+        "ex_de_ship_trapdoor": 1,
+        "iron shortsword": 1,
+        "light_de_lantern_05": 2,
+        "misc_de_basket_01": 1,
+        "misc_de_foldedcloth00": 1,
+        "steel crossbow": 1,
+        "urn_03_food": 1,
+        "urn_04_ingred": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::262034",
+      "object": "ex_de_ship_cabindoor",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299124",
+      "object": "ex_de_ship_trapdoor",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48020",
+      "object": "misc_de_basket_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48035",
+      "object": "misc_de_foldedcloth00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48075",
+      "object": "com_sack_03_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48867",
+      "object": "light_de_lantern_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::48868",
+      "object": "light_de_lantern_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299440",
+      "object": "crate_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299441",
+      "object": "crate_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299442",
+      "object": "urn_04_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299443",
+      "object": "urn_03_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::481610",
+      "object": "iron shortsword",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::481611",
+      "object": "steel crossbow",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

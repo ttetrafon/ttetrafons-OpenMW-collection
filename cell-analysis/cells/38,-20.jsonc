@@ -1,0 +1,63 @@
+{
+  "cell": "38,-20",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_velothi_entrance_02": 1,
+        "ex_velothi_loaddoor_01": 1,
+        "flora_comberry_01": 1,
+        "flora_green_lichen_01": 2,
+        "flora_green_lichen_02": 2,
+        "flora_hackle-lo_01": 4,
+        "flora_hackle-lo_02": 7,
+        "flora_tree_gl_07": 2,
+        "flora_tree_gl_08": 1,
+        "flora_tree_gl_09": 1,
+        "flora_wickwheat_01": 7,
+        "flora_wickwheat_02": 8,
+        "flora_wickwheat_03": 2,
+        "flora_wickwheat_04": 2,
+        "furn_de_pathspear_02": 5,
+        "furn_de_pathspear_03": 3,
+        "furn_de_pathspear_04": 12,
+        "t_mw_cr_alit": 1,
+        "t_mw_flora_blackrose01": 8,
+        "t_mw_flora_blackrose02": 6,
+        "terrain_rock_gl_01": 3,
+        "terrain_rock_gl_02": 3,
+        "terrain_rock_gl_03": 4,
+        "terrain_rock_gl_04": 2,
+        "terrain_rock_gl_05": 3,
+        "terrain_rock_gl_06": 3,
+        "terrain_rock_gl_08": 2,
+        "terrain_rock_gl_09": 1,
+        "terrain_rock_gl_10": 3,
+        "terrain_rock_gl_11": 2,
+        "terrain_rock_gl_12": 4,
+        "terrain_rock_wg_01": 3,
+        "terrain_rock_wg_02": 3,
+        "terrain_rock_wg_08": 1,
+        "terrain_rock_wg_09": 3,
+        "terrain_rock_wg_10": 1,
+        "terrain_rock_wg_13": 1,
+        "terrain_rock_wg_14": 7,
+        "terrain_rock_wg_15": 5,
+        "terrain_rock_wg_16": 4,
+        "terrain_rock_wg_17": 5,
+        "terrain_rock_wg_18": 5,
+        "terrain_rocks_gl_01": 6,
+        "terrain_rocks_gl_02": 1,
+        "terrain_rocks_gl_03": 2,
+        "terrain_rocks_gl_04": 1,
+        "terrain_rocks_wg_01": 7,
+        "terrain_rocks_wg_02": 1,
+        "terrain_rocks_wg_03": 10
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

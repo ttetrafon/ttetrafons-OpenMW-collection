@@ -1,0 +1,56 @@
+{
+  "cell": "Vivec, Curio Manor",
+  "name": "Vivec, Curio Manor",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_bard14": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_r_bed_17": 1,
+        "active_de_r_bed_19": 1,
+        "bookskill_light armor3": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_r_bed_17": 1,
+        "active_de_r_bed_19": 1,
+        "bookskill_light armor3": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::201161",
+      "object": "active_de_r_bed_19",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::201180",
+      "object": "active_de_r_bed_17",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483494",
+      "object": "bookskill_light armor3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

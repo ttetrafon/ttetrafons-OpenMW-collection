@@ -1,0 +1,31 @@
+{
+  "cell": "-5,4",
+  "plugins": {
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1,
+        "_aa_travelingtrader_spawn": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "ex_de_shack_door": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "ex_de_shack_door": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::295149",
+      "object": "ex_de_shack_door",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

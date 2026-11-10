@@ -1,0 +1,36 @@
+{
+  "cell": "Valenvaryon, Propylon Chamber",
+  "name": "Valenvaryon, Propylon Chamber",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_alchemist": 1
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_ff_deg_scroll07": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "light_de_candle_03": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "light_de_candle_03": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::429025",
+      "object": "light_de_candle_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "cell": "4,-12",
+  "name": "Vivec, St. Olms",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_balmoracitizens": 5,
+        "gvrm_ordguardwand": 3
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_n_all_nightlife_spawn": 6,
+        "_aa_telemage_spawn": 1
+      }
+    }
+  }
+}

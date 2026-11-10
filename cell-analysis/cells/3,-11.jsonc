@@ -1,0 +1,39 @@
+{
+  "cell": "3,-11",
+  "name": "Vivec, Redoran",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1,
+        "gvrm_band_arg_dru": 1,
+        "gvrm_bcom_am_marker": 1,
+        "gvrm_ordguardwand": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_fisherman25": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_hiddencache": 1
+      },
+      "modified": {
+        "ex_v_ban_faith_01": 1,
+        "ex_v_ban_vivec_02": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_n_all_nightlife_spawn": 5,
+        "_aa_telemage_spawn": 2
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_ordinator wan_ran": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "cell": "Vivec, No Name Club",
+  "name": "Vivec, No Name Club",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 2,
+        "gvrm_cm_e": 1,
+        "gvrm_cm_w": 1,
+        "gvrm_cm_wl": 1,
+        "gvrm_cm_wl_d": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_eaternight11": 1,
+        "am_smith6": 1
+      },
+      "modified": {
+        "furn_com_rm_barstool": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_pawn": 1,
+        "aa_wares_savant": 1,
+        "aa_wares_smith": 1,
+        "aa_wares_thief": 1,
+        "aa_wares_trader": 2
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "in_velothismall_ndoor_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "in_velothismall_ndoor_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::201740",
+      "object": "in_velothismall_ndoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

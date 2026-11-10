@@ -1,0 +1,15 @@
+{
+  "cell": "7,10",
+  "plugins": {
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "aa_herd_ash_u": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_bandits": 1
+      }
+    }
+  }
+}

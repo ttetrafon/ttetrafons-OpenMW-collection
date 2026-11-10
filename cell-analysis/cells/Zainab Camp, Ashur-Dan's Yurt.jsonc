@@ -1,0 +1,21 @@
+{
+  "cell": "Zainab Camp, Ashur-Dan's Yurt",
+  "name": "Zainab Camp, Ashur-Dan's Yurt",
+  "plugins": {
+    "VA_ShalkArmor.ESP": {
+      "added": {
+        "va_shk_sellchest_z": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_trader_ash": 1
+      }
+    },
+    "Sig_VintageMorrowind_TR.esp": {
+      "added": {
+        "sig_ashland_vendor": 1
+      }
+    }
+  }
+}

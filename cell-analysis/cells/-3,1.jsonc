@@ -1,0 +1,57 @@
+{
+  "cell": "-3,1",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "light_com_lantern_01_128": 5
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "light_com_lantern_01_128": 5
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::146687",
+      "object": "light_com_lantern_01_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::146688",
+      "object": "light_com_lantern_01_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::146690",
+      "object": "light_com_lantern_01_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::146692",
+      "object": "light_com_lantern_01_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::146694",
+      "object": "light_com_lantern_01_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "cell": "-22,24",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "barrel_01_drinks_nord": 2,
+        "barrel_01_ingredients": 1,
+        "barrel_02_cheapfood5": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "barrel_01_drinks_nord": 2,
+        "barrel_01_ingredients": 1,
+        "barrel_02_cheapfood5": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::33298",
+      "object": "barrel_02_cheapfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33299",
+      "object": "barrel_01_drinks_nord",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33300",
+      "object": "barrel_01_ingredients",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33301",
+      "object": "barrel_01_drinks_nord",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

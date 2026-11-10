@@ -1,0 +1,502 @@
+{
+  "cell": "Raven Rock, Sados Relothan's House",
+  "name": "Raven Rock, Sados Relothan's House",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "com_sack_01_ingred": 4,
+        "ex_colony_door04": 1,
+        "furn_com_rm_shelf_01": 2,
+        "misc_com_bottle_02": 1,
+        "misc_com_bottle_08": 1,
+        "misc_com_bottle_10": 4,
+        "misc_com_bottle_14": 2,
+        "misc_com_bottle_15": 2,
+        "misc_com_broom_01": 1,
+        "misc_com_bucket_01": 1,
+        "misc_com_redware_pitcher": 1,
+        "misc_com_wood_cup_02": 2,
+        "misc_de_goblet_06": 1,
+        "sp_bm_sados relothan": 1
+      },
+      "modified": {
+        "com_basket_01_pos": 2,
+        "com_sack_02_ingred": 2,
+        "furn_de_bannerpost_01": 1,
+        "furn_rug_redwolf": 1,
+        "light_com_candle_12_77": 1,
+        "light_com_lantern_01_256": 1,
+        "misc_com_bottle_07": 1,
+        "misc_com_metal_plate_05": 2,
+        "misc_com_redware_pitcher": 1,
+        "misc_com_tankard_01": 2,
+        "misc_com_wood_fork": 2,
+        "misc_com_wood_knife": 2,
+        "misc_com_wood_spoon_01": 2,
+        "misc_de_bowl_glass_yellow_01": 1,
+        "misc_de_bowl_orange_green_01": 1,
+        "urn_05_food": 1
+      }
+    },
+    "GITD_WL_RR_Interiors.esp": {
+      "added": {
+        "gitd_in_colony_win_01": 4
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_com_bed_04": 1,
+        "com_basket_01_pos": 2,
+        "com_chest_01": 1,
+        "com_sack_01_ingred": 4,
+        "com_sack_02_ingred": 2,
+        "light_com_candle_12_77": 1,
+        "light_com_lantern_01_256": 1,
+        "light_de_lantern_01white": 1,
+        "misc_com_bottle_02": 1,
+        "misc_com_bottle_07": 1,
+        "misc_com_bottle_08": 1,
+        "misc_com_bottle_10": 3,
+        "misc_com_bottle_14": 2,
+        "misc_com_bottle_15": 2,
+        "misc_com_broom_01": 1,
+        "misc_com_bucket_01": 1,
+        "misc_com_metal_plate_05": 2,
+        "misc_com_redware_pitcher": 2,
+        "misc_com_tankard_01": 2,
+        "misc_com_wood_cup_02": 4,
+        "misc_com_wood_fork": 2,
+        "misc_com_wood_knife": 2,
+        "misc_com_wood_spoon_01": 2,
+        "misc_de_bowl_glass_yellow_01": 1,
+        "misc_de_bowl_orange_green_01": 1,
+        "misc_de_goblet_06": 1,
+        "misc_uni_pillow_01": 1,
+        "urn_05_food": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_com_bed_04": 1,
+        "com_basket_01_pos": 2,
+        "com_chest_01": 1,
+        "com_sack_01_ingred": 4,
+        "com_sack_02_ingred": 2,
+        "light_com_candle_12_77": 1,
+        "light_com_lantern_01_256": 1,
+        "light_de_lantern_01white": 1,
+        "misc_com_bottle_02": 1,
+        "misc_com_bottle_07": 1,
+        "misc_com_bottle_08": 1,
+        "misc_com_bottle_10": 3,
+        "misc_com_bottle_14": 2,
+        "misc_com_bottle_15": 2,
+        "misc_com_broom_01": 1,
+        "misc_com_bucket_01": 1,
+        "misc_com_metal_plate_05": 2,
+        "misc_com_redware_pitcher": 2,
+        "misc_com_tankard_01": 2,
+        "misc_com_wood_cup_02": 4,
+        "misc_com_wood_fork": 2,
+        "misc_com_wood_knife": 2,
+        "misc_com_wood_spoon_01": 2,
+        "misc_de_bowl_glass_yellow_01": 1,
+        "misc_de_bowl_orange_green_01": 1,
+        "misc_de_goblet_06": 1,
+        "misc_uni_pillow_01": 1,
+        "urn_05_food": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::21358",
+      "object": "light_com_lantern_01_256",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21363",
+      "object": "light_com_candle_12_77",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21371",
+      "object": "com_sack_02_ingred",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21372",
+      "object": "com_basket_01_pos",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21376",
+      "object": "com_sack_02_ingred",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21385",
+      "object": "misc_com_redware_pitcher",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21392",
+      "object": "misc_de_bowl_orange_green_01",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21398",
+      "object": "misc_com_metal_plate_05",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21399",
+      "object": "misc_com_wood_spoon_01",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21400",
+      "object": "misc_com_wood_knife",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21401",
+      "object": "misc_com_wood_fork",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21402",
+      "object": "misc_com_wood_spoon_01",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21403",
+      "object": "misc_com_wood_knife",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21404",
+      "object": "misc_com_metal_plate_05",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21405",
+      "object": "misc_com_wood_fork",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21406",
+      "object": "misc_com_tankard_01",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21407",
+      "object": "misc_com_tankard_01",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21408",
+      "object": "misc_com_bottle_07",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21412",
+      "object": "urn_05_food",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21414",
+      "object": "com_basket_01_pos",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::25604",
+      "object": "misc_de_bowl_glass_yellow_01",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21364",
+      "object": "misc_com_bottle_10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21365",
+      "object": "misc_com_bottle_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21366",
+      "object": "misc_com_bottle_10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21367",
+      "object": "misc_com_bucket_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21369",
+      "object": "com_sack_01_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21375",
+      "object": "misc_com_bottle_10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21377",
+      "object": "com_chest_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21378",
+      "object": "active_com_bed_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21379",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21380",
+      "object": "misc_com_redware_pitcher",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21382",
+      "object": "misc_com_bottle_15",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21383",
+      "object": "misc_de_goblet_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21386",
+      "object": "misc_com_wood_cup_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21387",
+      "object": "misc_com_bottle_14",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21388",
+      "object": "misc_com_bottle_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21389",
+      "object": "misc_com_bottle_14",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21390",
+      "object": "misc_com_wood_cup_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21391",
+      "object": "misc_com_wood_cup_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21393",
+      "object": "misc_com_wood_cup_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21397",
+      "object": "misc_com_bottle_15",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21413",
+      "object": "misc_com_broom_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21419",
+      "object": "com_sack_01_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21420",
+      "object": "com_sack_01_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21421",
+      "object": "com_sack_01_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::25603",
+      "object": "light_de_lantern_01white",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

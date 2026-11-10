@@ -1,0 +1,16 @@
+{
+  "cell": "Ald-ruhn, Arobar Manor Entrance",
+  "name": "Ald-ruhn, Arobar Manor Entrance",
+  "plugins": {
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_comp_annah": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_redoran guard_ran": 4
+      }
+    }
+  }
+}

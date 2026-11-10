@@ -1,0 +1,21 @@
+{
+  "cell": "Raven Rock, Mine Entrance",
+  "name": "Raven Rock, Mine Entrance",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "ex_colony_minedoor": 1,
+        "in_mold_rock_03": 1
+      },
+      "modified": {
+        "in_mold_rock_03": 1
+      }
+    },
+    "GITD_WL_RR_Interiors.esp": {
+      "added": {
+        "gitd_in_colony_win_03": 1,
+        "gitd_in_colony_win_05": 4
+      }
+    }
+  }
+}

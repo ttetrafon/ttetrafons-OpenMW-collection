@@ -1,0 +1,22 @@
+{
+  "cell": "14,0",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_east_barrel": 1,
+        "xero_ex_barnacles_06": 1,
+        "xero_marker": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "aa_herd_ash_e": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_herd_ash_e": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "cell": "0,4",
+  "plugins": {
+    "Aoimevelho Wares with ALL NPCs.ESP": {
+      "added": {
+        "_ar05": 1,
+        "_ar06": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_arm_spawn": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_bandits": 1
+      }
+    }
+  }
+}

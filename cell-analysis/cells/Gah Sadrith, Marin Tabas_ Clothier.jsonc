@@ -1,0 +1,60 @@
+{
+  "cell": "Gah Sadrith, Marin Tabas: Clothier",
+  "name": "Gah Sadrith, Marin Tabas: Clothier",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "com_chest_11_clothing": 1,
+        "common_glove_left_01": 1,
+        "common_glove_right_01": 1,
+        "common_robe_03": 1,
+        "common_shirt_04_b": 1,
+        "common_shirt_05": 1,
+        "common_shoes_01": 1,
+        "common_skirt_01": 1,
+        "common_skirt_03": 1,
+        "de_p_chest_02_fclothes3": 1,
+        "expensive_pants_02": 1,
+        "expensive_pants_03": 1,
+        "expensive_robe_01": 1,
+        "expensive_robe_02": 1,
+        "expensive_shirt_02": 1,
+        "expensive_shirt_03": 1,
+        "expensive_skirt_02": 2,
+        "exquisite_robe_01": 1,
+        "extravagant_belt_01": 2,
+        "extravagant_glove_left_01": 1,
+        "extravagant_glove_right_01": 1,
+        "extravagant_robe_01_b": 1,
+        "extravagant_skirt_02": 1,
+        "furn_de_p_chair_02": 1,
+        "furn_de_p_table_04": 2,
+        "furn_de_p_table_05": 3,
+        "furn_de_rug_big_01": 1,
+        "furn_de_screen_guar_01": 3,
+        "furn_spinningwheel_01": 1,
+        "in_t_housepod_02": 1,
+        "in_t_housepod_door_exit": 1,
+        "in_t_housepod_pole_01": 1,
+        "in_t_housepod_pole_03": 1,
+        "in_t_housepod_pole_04": 1,
+        "light_de_lantern_04": 1,
+        "light_de_lantern_06": 2,
+        "light_de_lantern_10": 1,
+        "misc_clothbolt_01": 1,
+        "misc_clothbolt_02": 1,
+        "misc_clothbolt_03": 1,
+        "misc_shears_01": 1,
+        "northmarker": 1,
+        "t_de_cm_shirt_02": 1,
+        "t_de_et_robe_01": 1,
+        "tr_m1_marin_tabas": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_clothes": 1
+      }
+    }
+  }
+}

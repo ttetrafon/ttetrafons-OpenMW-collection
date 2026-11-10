@@ -1,0 +1,28 @@
+{
+  "cell": "Ald-ruhn, Redoran Council Hall",
+  "name": "Ald-ruhn, Redoran Council Hall",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_bcom_am_marker": 4,
+        "gvrm_rd_sf2_all": 11,
+        "gvrm_w_redwr_redcounchall": 2
+      }
+    },
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_blacksmith_amb00": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_savant": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_redoran guard_ran": 3
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "cell": "Falas Ancestral Tomb",
+  "name": "Falas Ancestral Tomb",
+  "plugins": {
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_m_bk_burnt_00": 1,
+        "aatl_m_bk_burnt_01": 2,
+        "aatl_m_bk_burnt_02": 1,
+        "aatl_m_bone_skull_elf": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "in_dae_dremora_lev-2": 1
+      }
+    },
+    "LootWellUrned.ESP": {
+      "added": {
+        "_uyl_falas": 1
+      }
+    }
+  }
+}

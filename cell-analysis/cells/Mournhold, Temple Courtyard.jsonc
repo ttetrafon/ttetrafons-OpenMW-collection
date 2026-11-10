@@ -1,0 +1,127 @@
+{
+  "cell": "Mournhold, Temple Courtyard",
+  "name": "Mournhold, Temple Courtyard",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1,
+        "gvrm_dun_pray_1": 1,
+        "gvrm_mhcit_dun": 7,
+        "gvrm_tem_g_ho_dun_m_01p": 2
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "ab01ambeggarbowl13": 1,
+        "am_beggar13": 1
+      }
+    },
+    "Immersive Mournhold.esp": {
+      "added": {
+        "act_flora_tree_mh_01": 5,
+        "act_flora_tree_mh_02": 1,
+        "act_flora_treedead_mh_01": 6,
+        "act_flora_treedead_mh_02": 1,
+        "active_de_bedroll": 1,
+        "bk_commontongue": 1,
+        "com_sack_02_chpfood3": 2,
+        "editormarker_box_02": 1,
+        "ex_dwrv_block30": 8,
+        "ex_mh_bazaar_stage": 2,
+        "ex_mh_lantern_post": 12,
+        "ex_mh_palace_tower": 6,
+        "ex_mh_palacewin_03": 2,
+        "ex_mh_pav_spout": 8,
+        "ex_mh_pav_water_spray_nodisab": 8,
+        "ex_mh_road_02": 1,
+        "ex_mh_temple": 1,
+        "flora_bc_lilypad": 109,
+        "flora_bc_lilypad_02": 319,
+        "flora_bc_lilypad_03": 60,
+        "flora_comberry_01": 8,
+        "flora_grass_01": 14,
+        "flora_grass_02": 2,
+        "flora_grass_05": 197,
+        "flora_grass_06": 118,
+        "flora_ivy_01": 18,
+        "flora_ivy_02": 19,
+        "flora_plant_01": 15,
+        "flora_plant_02": 13,
+        "flora_plant_03": 72,
+        "flora_plant_04": 47,
+        "flora_plant_05": 9,
+        "flora_plant_06": 6,
+        "flora_plant_08": 24,
+        "flora_sedge_01": 10,
+        "flora_sedge_02": 2,
+        "flora_tree_mh_02": 1,
+        "furn_banner_hanger_01": 8,
+        "furn_banner_helseth_01": 8,
+        "furn_de_r_bench_01": 2,
+        "furn_de_rope_03": 2,
+        "furn_planter_mh_01": 9,
+        "light_de_lantern_03_sway": 12,
+        "light_mh_streetlamp_01": 2,
+        "mh_tree03": 17,
+        "mh_tree10": 2,
+        "mhbeggar": 1,
+        "misc_com_bottle_02": 2,
+        "misc_com_wood_cup_01": 2,
+        "ordinator_mournhold_now": 6,
+        "rp_t_glb_fauna_glowbug_02": 3,
+        "rp_t_glb_fauna_glowbug_04": 3,
+        "rp_t_glb_fauna_glowbugs_01": 2,
+        "sound_mournenv1": 5,
+        "sound_mournspraynodisable": 8,
+        "sound_waterfall00": 2,
+        "t_de_setind_f_gongstand_01": 2,
+        "t_de_var_lanterngreen03_256": 2,
+        "t_de_var_swimlantcyan01fl_177": 6,
+        "t_de_var_swimlantgreen01_177": 2,
+        "t_de_var_swimlantorange01fl_177": 3,
+        "t_de_var_swimlantpurple01fl_177": 2,
+        "t_de_var_swimlantred01fl_177": 3,
+        "t_de_var_swimlantyellow01fl_177": 2,
+        "t_glb_flora_wtlilywht01": 45,
+        "t_mw_flora_hornlilly01": 2,
+        "t_mw_flora_nirthfly02": 2,
+        "t_mw_flora_timsacomeb04": 1,
+        "terrain_rock_bc_01": 6,
+        "terrain_rock_bc_02": 2,
+        "terrain_rock_bc_03": 2,
+        "terrain_rock_bc_05": 3,
+        "terrain_rock_bc_06": 1,
+        "terrain_rock_bc_08": 2,
+        "terrain_rock_bc_09": 1
+      },
+      "modified": {
+        "act_flora_tree_mh_01": 10,
+        "act_flora_tree_mh_02": 71,
+        "act_flora_treedead_mh_01": 9,
+        "act_flora_treedead_mh_02": 71,
+        "ex_mh_palace_tower": 2,
+        "ex_mh_palacewin_02": 2,
+        "ex_mh_palacewin_03": 1,
+        "ex_mh_pav_gate_door": 2,
+        "ex_mh_pavillion_gate_02": 2,
+        "ex_mh_wall_02": 1,
+        "ex_mh_wall_tower_01": 1,
+        "in_vs_pitfloor_01": 2,
+        "light_mh_streetlamp_01": 1,
+        "sound_mournenv1": 3,
+        "terrain_rock_bc_08": 2,
+        "terrain_rock_bc_09": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_healer": 1
+      }
+    },
+    "Aoimevelho Wares with ALL NPCs.ESP": {
+      "added": {
+        "!aoi_nobles_i": 2
+      }
+    }
+  }
+}

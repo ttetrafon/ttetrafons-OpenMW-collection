@@ -1,0 +1,35 @@
+{
+  "cell": "Skaal Village, Ice-Mane's Hut",
+  "name": "Skaal Village, Ice-Mane's Hut",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "ex_s_door_rounded": 1
+      },
+      "modified": {
+        "ex_s_window_closed": 2,
+        "sp_nor_setskaal_i_fireplace_01": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "ex_s_door_rounded": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "ex_s_door_rounded": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::19062",
+      "object": "ex_s_door_rounded",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "cell": "Alen Ancestral Tomb",
+  "name": "Alen Ancestral Tomb",
+  "plugins": {
+    "Holy Art.ESP": {
+      "added": {
+        "vd_velothismall_01": 1,
+        "vd_velothismall_10": 1
+      }
+    },
+    "LootWellUrned.ESP": {
+      "added": {
+        "_uyl_alen": 1,
+        "_uyl_light": 1
+      }
+    }
+  }
+}

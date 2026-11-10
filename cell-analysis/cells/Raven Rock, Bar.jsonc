@@ -1,0 +1,132 @@
+{
+  "cell": "Raven Rock, Bar",
+  "name": "Raven Rock, Bar",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "com_closet_01_mclothes": 1,
+        "com_cupboard_01_pos": 3,
+        "com_hutch_01_misc": 1,
+        "ex_colony_bardoor": 1,
+        "furn_colony_shelf01": 2,
+        "furn_de_p_bookshelf_01": 1,
+        "furn_de_rug_big_02": 1,
+        "furn_de_tapestry_03": 1,
+        "light_com_candle_01": 2,
+        "light_com_lamp_01_77": 2,
+        "misc_com_bottle_14": 5,
+        "misc_com_bucket_01": 3,
+        "misc_com_metal_plate_05": 2,
+        "misc_com_pitcher_metal_01": 2,
+        "misc_com_tankard_01": 10,
+        "misc_de_bowl_orange_green_01": 1,
+        "misc_de_foldedcloth00": 1,
+        "misc_de_glass_green_01": 7,
+        "misc_de_goblet_03": 2,
+        "misc_de_pot_green_01": 2,
+        "t_de_furn_rugsmall_04": 2
+      },
+      "modified": {
+        "misc_com_bottle_10": 2
+      }
+    },
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 2
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_bard10": 1,
+        "am_sitternight9": 1
+      },
+      "modified": {
+        "furn_com_rm_barstool": 2
+      }
+    },
+    "GITD_WL_RR_Interiors.esp": {
+      "added": {
+        "gitd_in_colony_win_01": 7,
+        "gitd_in_colony_win_03": 12
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_baker": 1,
+        "aa_wares_publican": 1
+      }
+    },
+    "RepopulatedBloodmoon.ESP": {
+      "added": {
+        "furn_com_rm_barstool": 1,
+        "furn_com_rm_bench_02": 1,
+        "furn_de_p_chair_02": 1,
+        "gvrm_bm_rr_bar_sit_bmcpy": 3
+      }
+    },
+    "Privileges&Services 1.1.esp": {
+      "added": {
+        "abm_bmmercenaryplacer": 1,
+        "ss_raven": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_com_bed_04": 1,
+        "ex_colony_bardoor": 1,
+        "ex_colony_door08": 2,
+        "rent_colony_door": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_com_bed_04": 1,
+        "ex_colony_bardoor": 1,
+        "ex_colony_door08": 2,
+        "rent_colony_door": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::18559",
+      "object": "ex_colony_bardoor",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::20996",
+      "object": "rent_colony_door",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::18693",
+      "object": "active_com_bed_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::20997",
+      "object": "ex_colony_door08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::20998",
+      "object": "ex_colony_door08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

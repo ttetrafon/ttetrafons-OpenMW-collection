@@ -1,0 +1,59 @@
+{
+  "cell": "29,-14",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_cave_door_01": 1,
+        "ex_velothi_entrance_02": 1,
+        "ex_velothi_loaddoor_01": 1,
+        "ex_wg_cave_entrance_01": 1,
+        "flora_bittergreen_07": 1,
+        "flora_bittergreen_08": 1,
+        "flora_bm_grass_04": 1,
+        "flora_chokeweed_02": 8,
+        "flora_gold_kanet_02": 1,
+        "flora_hackle-lo_02": 2,
+        "flora_kreshweed_01": 4,
+        "flora_kreshweed_02": 5,
+        "flora_kreshweed_03": 4,
+        "flora_roobrush_02": 2,
+        "flora_stoneflower_01": 11,
+        "flora_stoneflower_02": 7,
+        "flora_tree_wg_01": 1,
+        "flora_tree_wg_04": 1,
+        "flora_tree_wg_05": 1,
+        "flora_tree_wg_07": 2,
+        "flora_tree_wg_08": 2,
+        "furn_com_fence_01": 1,
+        "t_com_setmw_signakamorab_01": 1,
+        "t_glb_terrwater_circle2048_01": 1,
+        "t_mw_rlvl_sacredlandsland+0": 1,
+        "t_mw_stat_rodentrats": 1,
+        "t_mw_terrrockwg_cliff_02": 1,
+        "terrain_rock_gl_10": 1,
+        "terrain_rock_wg_01": 4,
+        "terrain_rock_wg_02": 3,
+        "terrain_rock_wg_03": 1,
+        "terrain_rock_wg_08": 2,
+        "terrain_rock_wg_09": 4,
+        "terrain_rock_wg_11": 1,
+        "terrain_rock_wg_12": 5,
+        "terrain_rock_wg_13": 2,
+        "terrain_rock_wg_14": 3,
+        "terrain_rock_wg_15": 1,
+        "terrain_rock_wg_17": 2,
+        "terrain_rock_wg_18": 7,
+        "terrain_rocks_wg_01": 31,
+        "terrain_rocks_wg_02": 11,
+        "terrain_rocks_wg_03": 9,
+        "terrain_rocks_wg_04": 2,
+        "tr_m2_d_heafida": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cell": "6,23",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_ship_cont_bot_02": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_marker": 1,
+        "xero_north_sack": 1
+      }
+    }
+  }
+}

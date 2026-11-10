@@ -1,0 +1,33 @@
+{
+  "cell": "Ald-ruhn, Daynes Redothril: Pawnbroker",
+  "name": "Ald-ruhn, Daynes Redothril: Pawnbroker",
+  "plugins": {
+    "NOD - Core.esm": {
+      "added": {
+        "nod_hat_ash_ah_dustmask": 1,
+        "nod_hat_ash_r0_gogglehood_w": 1,
+        "rp_al_equipment": 1
+      },
+      "modified": {
+        "common_skirt_03": 2,
+        "daynes redothril": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_pawn": 1,
+        "aa_wares_trader": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_traders_spawn": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_redoran guard_ran": 1
+      }
+    }
+  }
+}

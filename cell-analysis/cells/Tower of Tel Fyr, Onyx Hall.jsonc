@@ -1,0 +1,46 @@
+{
+  "cell": "Tower of Tel Fyr, Onyx Hall",
+  "name": "Tower of Tel Fyr, Onyx Hall",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_bedroll": 1,
+        "dwrv_chest_divayth04": 1,
+        "in_t_door_small": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_bedroll": 1,
+        "dwrv_chest_divayth04": 1,
+        "in_t_door_small": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::370836",
+      "object": "dwrv_chest_divayth04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::465978",
+      "object": "in_t_door_small",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::480774",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "cell": "4,-14",
+  "name": "Vivec, Temple",
+  "plugins": {
+    "NOD - Core.esm": {
+      "added": {
+        "_1aordinator_stationary": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "crate_01_empty": 1,
+        "misc_com_redware_bowl": 1,
+        "misc_com_redware_flask": 1,
+        "misc_de_pot_redware_01": 1,
+        "xero_furn_crate_lid_01": 1,
+        "xero_furn_crate_open_01": 1,
+        "xero_marker": 1,
+        "xero_south_crate": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_hiddencache": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "ex_velothi_loaddoor_01": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "modified": {
+        "ex_velothi_loaddoor_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "ex_velothi_loaddoor_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::137153",
+      "object": "ex_velothi_loaddoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "True_Lights_And_Darkness_1.1.esp",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "cell": "Hal Sadek, Ferginus Ura's House",
+  "name": "Hal Sadek, Ferginus Ura's House",
+  "plugins": {
+    "Cyr_Main.ESM": {
+      "added": {
+        "active_com_bed_03": 1,
+        "bk_briefhistoryempire1": 1,
+        "bk_varietiesoffaithintheempire": 1,
+        "ex_coiled_rope": 1,
+        "furn_com_p_bench_01": 1,
+        "furn_com_p_shelf_03": 1,
+        "furn_com_p_table_01": 1,
+        "light_com_candle_01_64": 3,
+        "light_com_candle_09_128": 1,
+        "light_com_lantern_01_128": 1,
+        "misc_com_redware_bowl": 3,
+        "misc_com_redware_cup": 3,
+        "misc_com_redware_flask": 2,
+        "misc_com_redware_pitcher": 1,
+        "misc_com_redware_plate": 3,
+        "misc_com_wood_bowl_01": 2,
+        "misc_com_wood_cup_01": 2,
+        "misc_com_wood_fork": 1,
+        "misc_com_wood_knife": 1,
+        "misc_uni_pillow_01": 1,
+        "northmarker": 1,
+        "pc_m1_ferginus": 1,
+        "t_bk_pocketguide1pc": 1,
+        "t_com_clothbrown_01": 1,
+        "t_com_var_metalhook_01": 1,
+        "t_com_woodbowl_b01": 1,
+        "t_cyrcom_var_bl1msccol1": 1,
+        "t_cyrcom_var_bs1foodgc": 1,
+        "t_cyrcom_var_cr4ceramic": 2,
+        "t_cyrcom_var_sk1inggc": 3,
+        "t_cyrimp_furn_chs1lockp": 1,
+        "t_cyrimp_furn_chs2g050": 1,
+        "t_cyrimp_furnp_st1g": 1,
+        "t_imp_furn_rug_02": 1,
+        "t_imp_furn_tapestry_26": 3,
+        "t_imp_furnp_bookshelf_01": 1,
+        "t_imp_furnp_table_02": 1,
+        "t_imp_setgcpoor_door_01": 1,
+        "t_imp_setgcpoor_i_house_01": 1,
+        "t_imp_setgcpoor_i_wall_01": 1,
+        "t_imp_setgcpoor_x_doorframe_02": 1,
+        "t_imp_setgcpoor_x_window_02": 1,
+        "t_ingfood_breadcolovian_01": 1,
+        "t_ingfood_cheesecolovian_01": 1,
+        "t_ingfood_fishbrowntrout_01": 1
+      }
+    },
+    "Wares_PC_traders.esp": {
+      "added": {
+        "aa_wares_thief": 1
+      }
+    }
+  }
+}

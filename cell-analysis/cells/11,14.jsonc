@@ -1,0 +1,62 @@
+{
+  "cell": "11,14",
+  "name": "Vos",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "templemarker": 1
+      }
+    },
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_balmoracitizens": 4
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_n_all_nightlife_spawn": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_telvanni guard_ran": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "ex_velothi_loaddoor_01": 3
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "ex_velothi_loaddoor_01": 3
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::177337",
+      "object": "ex_velothi_loaddoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::177342",
+      "object": "ex_velothi_loaddoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::177339",
+      "object": "ex_velothi_loaddoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

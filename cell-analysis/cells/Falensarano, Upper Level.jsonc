@@ -1,0 +1,267 @@
+{
+  "cell": "Falensarano, Upper Level",
+  "name": "Falensarano, Upper Level",
+  "plugins": {
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_solarglasshelmet": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_com_bed_04": 1,
+        "com_chest_01_alfhedil": 1,
+        "com_chest_02_lev_gold": 1,
+        "com_closet_01_mclothes": 1,
+        "com_hutch_01_misc": 1,
+        "com_sack_01_saltrice_10": 1,
+        "com_sack_03_chpfood5": 1,
+        "in_strong_vaultdoor00": 1,
+        "light_de_candle_10": 1,
+        "misc_com_bottle_14": 1,
+        "misc_com_pitcher_metal_01": 1,
+        "misc_com_redware_pitcher": 1,
+        "misc_com_redware_vase": 1,
+        "misc_com_wood_bowl_02": 4,
+        "misc_com_wood_cup_01": 4,
+        "misc_de_tankard_01": 2,
+        "misc_uni_pillow_01": 1,
+        "p_fortify_health_b": 1,
+        "steel axe": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_com_bed_04": 1,
+        "com_chest_01_alfhedil": 1,
+        "com_chest_02_lev_gold": 1,
+        "com_closet_01_mclothes": 1,
+        "com_hutch_01_misc": 1,
+        "com_sack_01_saltrice_10": 1,
+        "com_sack_03_chpfood5": 1,
+        "in_strong_vaultdoor00": 1,
+        "light_de_candle_10": 1,
+        "misc_com_bottle_14": 1,
+        "misc_com_pitcher_metal_01": 1,
+        "misc_com_redware_pitcher": 1,
+        "misc_com_redware_vase": 1,
+        "misc_com_wood_bowl_02": 4,
+        "misc_com_wood_cup_01": 4,
+        "misc_de_tankard_01": 2,
+        "misc_uni_pillow_01": 1,
+        "p_fortify_health_b": 1,
+        "steel axe": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::128212",
+      "object": "misc_com_wood_cup_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::128213",
+      "object": "misc_com_wood_cup_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::128214",
+      "object": "misc_com_wood_cup_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::128215",
+      "object": "misc_com_wood_cup_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::128165",
+      "object": "in_strong_vaultdoor00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::128170",
+      "object": "misc_com_redware_pitcher",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::128173",
+      "object": "light_de_candle_10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::128185",
+      "object": "misc_de_tankard_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::128186",
+      "object": "misc_de_tankard_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::128204",
+      "object": "active_com_bed_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::128205",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::128206",
+      "object": "com_closet_01_mclothes",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::128208",
+      "object": "misc_com_bottle_14",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::128209",
+      "object": "com_hutch_01_misc",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::128210",
+      "object": "com_sack_01_saltrice_10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::128211",
+      "object": "com_sack_03_chpfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::128216",
+      "object": "misc_com_redware_vase",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::128217",
+      "object": "misc_com_pitcher_metal_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::128218",
+      "object": "misc_com_wood_bowl_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::128219",
+      "object": "misc_com_wood_bowl_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::128220",
+      "object": "misc_com_wood_bowl_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::128221",
+      "object": "misc_com_wood_bowl_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::128227",
+      "object": "steel axe",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::128228",
+      "object": "com_chest_01_alfhedil",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::250691",
+      "object": "p_fortify_health_b",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::428100",
+      "object": "com_chest_02_lev_gold",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "cell": "Balmora, Drarayne Thelas' House",
+  "name": "Balmora, Drarayne Thelas' House",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "in_hlaalu_door": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "in_hlaalu_door": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::378032",
+      "object": "in_hlaalu_door",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

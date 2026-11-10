@@ -1,0 +1,45 @@
+{
+  "cell": "2,-4",
+  "plugins": {
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_pilgrim_spawn": 2
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_flowers": 4
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_ai": 3
+      }
+    },
+    "Creatures and Critters Light the Path.ESP": {
+      "added": {
+        "aa_cr_i_moth_all": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bk_notes-kagouti mating habits": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bk_notes-kagouti mating habits": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::465705",
+      "object": "bk_notes-kagouti mating habits",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

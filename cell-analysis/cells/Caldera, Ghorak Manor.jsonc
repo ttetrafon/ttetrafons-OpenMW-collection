@@ -1,0 +1,126 @@
+{
+  "cell": "Caldera, Ghorak Manor",
+  "name": "Caldera, Ghorak Manor",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_drum": 1,
+        "am_drummer4": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "added": {
+        "dark_177": 2,
+        "daylight_ghorac_300_east": 3,
+        "daylight_ghorac_300_north": 4,
+        "daylight_ghorac_300_north 2": 2,
+        "daylight_ghorac_300_south": 1,
+        "daylight_ghorac_300_south 2": 2,
+        "daylight_ghorac_300_west": 4
+      }
+    },
+    "TTD_UnderMassersGaze.esp": {
+      "added": {
+        "tdd_bucket_alcohol": 1,
+        "ttd_borkul": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_bedroll": 3,
+        "gold_001": 2,
+        "gold_005": 1,
+        "gold_025": 1,
+        "misc_de_drum_01": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_bedroll": 3,
+        "gold_001": 2,
+        "gold_005": 1,
+        "gold_025": 1,
+        "misc_de_drum_01": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::175871",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::175941",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::175942",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::389698",
+      "object": "gold_025",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::389699",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::389700",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::389701",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::468320",
+      "object": "misc_de_drum_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::468321",
+      "object": "misc_de_drum_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "cell": "Khuul, Brurid's Shack",
+  "name": "Khuul, Brurid's Shack",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "chest_small_02_rndgold": 1,
+        "light_de_lantern_05_128_carry": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "chest_small_02_rndgold": 1,
+        "light_de_lantern_05_128_carry": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::101784",
+      "object": "light_de_lantern_05_128_carry",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::398623",
+      "object": "chest_small_02_rndgold",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

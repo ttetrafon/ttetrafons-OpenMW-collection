@@ -1,0 +1,56 @@
+{
+  "cell": "23,10",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_bedroll": 1,
+        "com_basket_01_bones": 1,
+        "com_basket_01_chpfood5": 1,
+        "com_sack_02_gold_100": 3,
+        "crate_01_food": 1,
+        "crate_02_food": 1,
+        "door_dwrv_load00": 1,
+        "ex_dwrv_enter00": 1,
+        "ex_dwrv_pipe00": 1,
+        "ex_dwrv_ruin00": 1,
+        "ex_dwrv_ruin60": 1,
+        "ex_dwrv_ruin_tower00": 1,
+        "ex_t_menhir_l_01": 26,
+        "flora_emp_parasol_02": 1,
+        "flora_emp_parasol_03": 1,
+        "flora_kreshweed_01": 1,
+        "flora_kreshweed_03": 4,
+        "flora_t_podbud_01": 2,
+        "flora_t_podbud_02": 2,
+        "flora_t_podbud_03": 1,
+        "flora_t_podbud_04": 2,
+        "flora_tree_ac_01": 2,
+        "flora_tree_ac_02": 2,
+        "flora_tree_ac_03": 1,
+        "flora_tree_ac_04": 1,
+        "flora_willow_flower_01": 1,
+        "flora_willow_flower_02": 2,
+        "furn_de_overhang_04": 1,
+        "light_pitfire01": 1,
+        "t_mw_rlvl_boethiahspinesky+0": 4,
+        "t_mw_rlvl_dagonurul-2": 1,
+        "t_mwcom_var_bs1food": 1,
+        "terrain_rock_ac_02": 1,
+        "terrain_rock_ac_03": 2,
+        "terrain_rock_ac_04": 3,
+        "terrain_rock_ac_07": 1,
+        "terrain_rock_ac_08": 3,
+        "terrain_rock_ac_10": 1,
+        "terrain_rock_ac_11": 2,
+        "terrain_rock_ac_12": 6,
+        "tr_m1_o_gra_ghosh": 1,
+        "tr_m2_mark_hermea": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_ex_dwe_spawn": 1
+      }
+    }
+  }
+}

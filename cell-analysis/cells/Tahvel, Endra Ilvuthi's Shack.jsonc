@@ -1,0 +1,67 @@
+{
+  "cell": "Tahvel, Endra Ilvuthi's Shack",
+  "name": "Tahvel, Endra Ilvuthi's Shack",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_bed_30": 1,
+        "bk_bookofdaedra": 1,
+        "bk_reflectionsoncultworship...": 1,
+        "bk_vivecandmephala": 1,
+        "com_sack_01_ingred": 1,
+        "com_sack_02": 1,
+        "com_sack_03_chpfood5": 1,
+        "common_pants_01": 1,
+        "common_pants_04": 1,
+        "common_shirt_03_b": 1,
+        "common_shoes_07": 1,
+        "crate_01_de_weapons": 1,
+        "crate_01_eggs10": 1,
+        "crate_02_bottle05_5": 1,
+        "crate_02_food": 1,
+        "de_p_chest_02_mclothes3": 1,
+        "de_p_chest_02_potions": 1,
+        "furn_de_p_shelf_02": 2,
+        "furn_de_p_stool_02": 1,
+        "furn_de_p_table_02": 2,
+        "furn_de_rope1_01": 1,
+        "furn_de_shack_hook": 1,
+        "furn_de_shack_post": 2,
+        "in_de_shack_05": 1,
+        "in_de_shack_door": 1,
+        "ingred_rat_meat_01": 1,
+        "light_de_candle_08": 1,
+        "light_de_candle_18_64": 1,
+        "light_de_paper_lantern_01_200": 1,
+        "misc_com_bottle_06": 1,
+        "misc_com_bottle_10": 1,
+        "misc_com_bottle_14": 2,
+        "misc_com_plate_02": 3,
+        "misc_com_wood_fork": 2,
+        "misc_com_wood_knife": 2,
+        "misc_de_bowl_glass_yellow_01": 1,
+        "misc_de_bowl_orange_green_01": 1,
+        "misc_de_foldedcloth00": 1,
+        "misc_de_goblet_07": 4,
+        "misc_de_pitcher_01": 1,
+        "misc_de_pot_blue_01": 1,
+        "misc_de_pot_mottled_01": 1,
+        "misc_de_tankard_01": 2,
+        "misc_uni_pillow_02": 1,
+        "northmarker": 1,
+        "potion_local_brew_01": 1,
+        "t_bk_djulighanasroletr": 1,
+        "t_bk_thenecklacetr": 1,
+        "t_com_var_cratebroken_01": 1,
+        "t_mwcom_var_bl1driall": 1,
+        "t_mwcom_var_bl2chpfood05": 1,
+        "tr_m3_endra ilvuthi": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_priest": 1
+      }
+    }
+  }
+}

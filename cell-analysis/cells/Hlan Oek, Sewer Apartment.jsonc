@@ -1,0 +1,64 @@
+{
+  "cell": "Hlan Oek, Sewer Apartment",
+  "name": "Hlan Oek, Sewer Apartment",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_p_bed_28": 1,
+        "bk_annotatedanuad": 1,
+        "com_sack_02_chpfood3": 1,
+        "food_kwama_egg_01": 1,
+        "furn_com_cauldron_01": 1,
+        "furn_de_p_chair_01": 2,
+        "furn_de_p_shelf_02": 1,
+        "furn_de_p_table_01": 1,
+        "furn_de_rope_03": 1,
+        "furn_de_rug_big_06": 1,
+        "furn_de_screen_guar_01": 2,
+        "in_hlaalu_doorjamb": 1,
+        "in_hlaalu_loaddoor_01": 1,
+        "ingred_bread_01": 1,
+        "light_de_candle_08_64": 1,
+        "light_de_candle_09_64": 1,
+        "light_de_candle_18_64": 1,
+        "light_de_lantern_03_128": 1,
+        "misc_com_bottle_01": 1,
+        "misc_com_bottle_04": 1,
+        "misc_com_bottle_06": 2,
+        "misc_com_bottle_07": 1,
+        "misc_com_bottle_13": 1,
+        "misc_com_redware_flask": 3,
+        "misc_com_redware_plate": 2,
+        "misc_com_wood_cup_01": 3,
+        "misc_de_basket_01": 1,
+        "misc_de_cloth10": 1,
+        "misc_de_pot_blue_02": 1,
+        "misc_quill": 1,
+        "misc_uni_pillow_02": 1,
+        "northmarker": 1,
+        "p_disease_resistance_b": 2,
+        "potion_local_brew_01": 1,
+        "sc_paper plain": 1,
+        "t_de_blueglassbowl_01": 1,
+        "t_de_bluewarefork01": 1,
+        "t_de_bluewareinkwell01": 1,
+        "t_de_bluewareplate_01": 1,
+        "t_de_furnp_bookshelf_01": 1,
+        "t_de_furnp_table_04": 1,
+        "t_de_sethla_i_sewerl_room_3way1": 1,
+        "t_de_sethla_i_sewerl_room_corn1": 3,
+        "t_mwcom_var_sk1scrbjr07": 1,
+        "t_mwde_furn_chs2ing3": 1,
+        "t_mwde_furn_u1food": 1,
+        "t_mwde_furn_u2food": 1,
+        "t_mwde_furn_u4food": 1,
+        "tr_m7_gilasi rothari": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_assassin": 1
+      }
+    }
+  }
+}

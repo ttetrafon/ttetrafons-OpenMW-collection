@@ -1,0 +1,86 @@
+{
+  "cell": "-1,23",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_ship_dreugh": 2,
+        "_cor_ship_drowned_float": 2,
+        "_cor_ship_f_corpse_01": 2,
+        "_cor_ship_f_corpse_03": 1,
+        "_cor_ship_smug_long_03": 1,
+        "_cor_ship_smug_long_04": 1,
+        "_cor_ship_table_key": 1,
+        "ab_ex_deshipwrbackfull": 1,
+        "ab_ex_deshipwrfrontfull": 1,
+        "ab_ex_deshipwrmast02": 1,
+        "ab_furn_barrel01broken01": 1,
+        "ab_furn_barrel01broken02": 1,
+        "ab_furn_barrel02broken02": 3,
+        "ab_furn_barrel02broken03": 1,
+        "ab_furn_barrel02plank": 1,
+        "ab_furn_cratebroken04": 1,
+        "ab_furn_cratebroken05": 1,
+        "ab_furn_cratebrokenwood01": 1,
+        "ab_furn_cratebrokenwood02": 1,
+        "ab_furn_dwrvbarrelexploded": 1,
+        "ab_furn_dwrvbarrellid": 1,
+        "ab_furn_dwrvmachbeamprefab02": 1,
+        "ab_furn_dwrvmachboxjunction": 1,
+        "ab_furn_dwrvmachcylinrib01": 2,
+        "ab_furn_dwrvmachflangem": 1,
+        "ab_furn_dwrvshelfstandshort": 1,
+        "ab_furn_dwrvstooltall": 2,
+        "ab_misc_dwbust": 1,
+        "ab_misc_dwgyro00": 2,
+        "ab_misc_dwrvdisk00": 2,
+        "ab_misc_dwrvlanternbroken": 2,
+        "ab_misc_dwrvtoolcrank": 1,
+        "ab_misc_dwrvtoolfork": 1,
+        "ab_o_combasket01pos": 1,
+        "ab_o_comchestworncloth": 1,
+        "ab_o_corpseburnt01loot": 1,
+        "ab_o_deplndeskempty": 1,
+        "ab_o_dwbarreling": 3,
+        "ab_o_dwbarrelshorting": 1,
+        "ab_o_dwcabstand02pos": 1,
+        "ab_o_sackbentpos": 3,
+        "ab_o_sackflating": 1,
+        "barrel_01_drinks": 1,
+        "barrel_02_marshmerrow": 1,
+        "com_sack_02_gold_100": 1,
+        "crate_01_de_r_clothes01": 2,
+        "crate_01_dwrv_stuff": 2,
+        "crate_01_eggs10": 2,
+        "dwemer_bracer_right": 1,
+        "dwemer_helm": 1
+      },
+      "modified": {
+        "ex_de_ship_cabindoor": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_m15_chest": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "misc_com_bottle_08": 5,
+        "xero_furn_crate_lid_01": 1,
+        "xero_furn_crate_open_01": 1,
+        "xero_marker": 1,
+        "xero_north_crate": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_water": 11
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 11
+      }
+    }
+  }
+}

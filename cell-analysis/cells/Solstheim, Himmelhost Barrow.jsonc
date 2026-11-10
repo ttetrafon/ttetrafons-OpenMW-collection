@@ -1,0 +1,16 @@
+{
+  "cell": "Solstheim, Himmelhost Barrow",
+  "name": "Solstheim, Himmelhost Barrow",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "ex_bm_tomb_door_01": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_nord_anc_helm": 1
+      }
+    }
+  }
+}

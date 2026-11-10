@@ -1,0 +1,73 @@
+{
+  "cell": "18,-2",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_ship_ruddy_claw": 1,
+        "ab_ex_cranesmall02": 1,
+        "ab_furn_bkruinedpages": 1,
+        "ab_furn_cratebrokenside02": 1,
+        "ab_furn_cratebrokenwood01": 1,
+        "ab_furn_demarketstanda01": 1,
+        "ab_furn_demidstool": 1,
+        "ab_furn_demidtable01": 1,
+        "ab_furn_urnbroken01": 1,
+        "ab_furn_urnbrokenash02": 1,
+        "ab_furn_urnlid": 1,
+        "ab_furn_urnshard05": 2,
+        "ab_furn_washbasin": 1,
+        "ab_fx_watercircle64": 1,
+        "ab_misc_abacus": 1,
+        "ab_misc_bkruinedfolio": 1,
+        "ab_misc_bkruinedoctavo01": 1,
+        "ab_misc_bkruinedoctavo02": 1,
+        "ab_misc_boneracerskull": 1,
+        "ab_misc_deblueglass_01": 2,
+        "ab_o_alchjarectoplasm": 1,
+        "ab_o_alchjartelresin": 1,
+        "ab_o_telchestlargeuni2": 1,
+        "ex_de_docks_128": 1,
+        "ex_de_docks_ends": 1,
+        "ex_t_rock_coastal_01": 1,
+        "ex_t_rock_coastal_02": 1,
+        "gold_001": 6,
+        "gold_025": 1,
+        "light_com_candle_08_64": 2,
+        "light_de_lantern_05": 1
+      },
+      "modified": {
+        "ex_t_rock_coastal_01": 1,
+        "ex_t_rock_coastal_02": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_map03_trigger": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_east_crate": 1,
+        "xero_furn_crate_lid_01": 1,
+        "xero_furn_crate_open_01": 1,
+        "xero_marker": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_ex_tomb_spawn": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_water": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_night_only_exterior_undea": 1,
+        "aa_cr_w_creature_list_1": 2
+      }
+    }
+  }
+}

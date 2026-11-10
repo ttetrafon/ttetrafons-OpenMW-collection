@@ -1,0 +1,96 @@
+{
+  "cell": "Ebonheart, Grand Council Chambers Tower",
+  "name": "Ebonheart, Grand Council Chambers Tower",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "com_chest_01_arrows": 1,
+        "crate_01_armor_steel": 1,
+        "crate_01_imp_weaponsmul": 1,
+        "crate_01_levelweapons": 1,
+        "iron shardsword": 1,
+        "iron shortsword": 1,
+        "iron spear": 1,
+        "light_com_lantern_02_128": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "com_chest_01_arrows": 1,
+        "crate_01_armor_steel": 1,
+        "crate_01_imp_weaponsmul": 1,
+        "crate_01_levelweapons": 1,
+        "iron shardsword": 1,
+        "iron shortsword": 1,
+        "iron spear": 1,
+        "light_com_lantern_02_128": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::331110",
+      "object": "crate_01_imp_weaponsmul",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::331111",
+      "object": "crate_01_levelweapons",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::331112",
+      "object": "light_com_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::331113",
+      "object": "crate_01_armor_steel",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::331115",
+      "object": "com_chest_01_arrows",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::331116",
+      "object": "iron shardsword",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::331117",
+      "object": "iron shortsword",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::331118",
+      "object": "iron spear",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

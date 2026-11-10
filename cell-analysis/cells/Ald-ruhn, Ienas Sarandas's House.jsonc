@@ -1,0 +1,70 @@
+{
+  "cell": "Ald-ruhn, Ienas Sarandas's House",
+  "name": "Ald-ruhn, Ienas Sarandas's House",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bk_saryonissermons": 1,
+        "gold_001": 3,
+        "gold_005": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bk_saryonissermons": 1,
+        "gold_001": 3,
+        "gold_005": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::296129",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::296130",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::296131",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::296132",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::296133",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::476628",
+      "object": "bk_saryonissermons",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

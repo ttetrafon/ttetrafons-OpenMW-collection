@@ -1,0 +1,84 @@
+{
+  "cell": "6,24",
+  "name": "Vasarillidas",
+  "plugins": {
+    "An Addendum to Tamrielic Lore - The Imperial Archivist.ESP": {
+      "added": {
+        "aatl_con_dae_crate00": 1,
+        "aatl_con_dae_urn01": 1,
+        "aatl_con_dae_urn02": 1,
+        "aatl_furn_com_haybale": 1,
+        "aatl_furn_com_haybales2": 2,
+        "aatl_furn_com_hayground": 5,
+        "aatl_furn_com_haypile": 3,
+        "aatl_furn_dae_bench02": 4,
+        "aatl_furn_dae_urn02_open": 3,
+        "aatl_furn_dae_urnlid2": 1,
+        "aatl_m_shovel_rust": 1,
+        "aatl_npc_ladrin": 1,
+        "aatl_npc_llorendo_hlera": 1,
+        "aatl_npc_torrel": 1,
+        "aatl_vslds_npc_guard1": 1,
+        "aatl_vslds_npc_guard2": 1,
+        "ab_ex_daefloorrubbleedge01": 2,
+        "ab_furn_barrel01open": 2,
+        "ab_furn_barrel01water": 1,
+        "ab_furn_barrelfillcoal": 1,
+        "ab_furn_barrelfilldirt": 1,
+        "ab_furn_crate03open": 2,
+        "ab_furn_guarcart02": 1,
+        "ab_furn_guarcart02tarp": 1,
+        "ab_in_daebridge_01": 2,
+        "ab_in_daebridge_02": 2,
+        "ab_in_daecolumn02": 1,
+        "ab_in_daecolumnspiked01": 1,
+        "ab_in_daeroommezzside": 4,
+        "barrel_01": 1,
+        "ex_cave_door_01": 1,
+        "ex_cave_entrance_ac_01": 1,
+        "ex_dae_buttress_ruin_01": 3,
+        "ex_dae_claw_02": 2,
+        "ex_dae_pillar_01": 1,
+        "ex_dae_pillar_02": 1,
+        "ex_dae_pillar_02_ruin": 4,
+        "ex_dae_pillar_02_ruin_02": 4,
+        "ex_dae_ruin_02_skew": 1,
+        "ex_dae_ruin_03": 2,
+        "ex_dae_ruin_04": 1,
+        "ex_dae_ruin_platform_01": 1,
+        "ex_dae_wall_512_02": 1,
+        "ex_dae_wall_512_07": 2,
+        "ex_dae_wall_512_09": 1,
+        "furn_de_p_stool_02": 1,
+        "guar": 2,
+        "in_dae_mezzanine_edge": 3,
+        "in_dae_rubble_01c": 4,
+        "in_dae_rubble_05": 2,
+        "light_tikitorch003": 1,
+        "t_dae_dngruin_rubbletvrdirt_01": 2
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_marker": 1,
+        "xero_north_sack": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_frostedgrahleye": 1,
+        "bc3000_ysvet_morning": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_water": 3
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 3
+      }
+    }
+  }
+}

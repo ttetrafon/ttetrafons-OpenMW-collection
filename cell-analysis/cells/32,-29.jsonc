@@ -1,0 +1,73 @@
+{
+  "cell": "32,-29",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "door_dwrv_load00": 1,
+        "ex_barnacles_01": 1,
+        "ex_barnacles_03": 1,
+        "ex_dwrv_bridge00": 3,
+        "ex_dwrv_enter00": 1,
+        "ex_dwrv_ruin20": 3,
+        "ex_dwrv_ruin30": 1,
+        "ex_dwrv_ruin40": 1,
+        "ex_dwrv_ruin50": 2,
+        "ex_dwrv_ruin60": 1,
+        "ex_dwrv_ruin70": 1,
+        "ex_dwrv_ruin80": 1,
+        "ex_dwrv_ruin_tower00": 4,
+        "flora_bush_01": 1,
+        "flora_comberry_01": 2,
+        "flora_corkbulb": 2,
+        "flora_emp_parasol_02": 1,
+        "flora_gold_kanet_01": 4,
+        "flora_gold_kanet_02": 2,
+        "flora_grass_01": 1,
+        "flora_kelp_04": 1,
+        "flora_stoneflower_01": 4,
+        "flora_stoneflower_02": 1,
+        "flora_tree_ai_03": 1,
+        "flora_tree_ai_05": 2,
+        "flora_tree_ai_06": 4,
+        "flora_tree_mh_01": 6,
+        "flora_willow_flower_01": 7,
+        "in_dwe_hall00_exp": 4,
+        "in_dwe_hall_wall00_exp": 2,
+        "in_dwe_pill_bk00": 2,
+        "t_mw_flora_treendb_04": 2,
+        "t_mw_flora_treendb_05": 1,
+        "t_mw_flora_treendg_01": 2,
+        "t_mw_flora_treendg_02": 1,
+        "t_mw_flora_treendg_06": 1,
+        "t_mw_flora_treendstump_01": 1,
+        "t_mw_flora_treeoak_01": 1,
+        "t_mw_flora_treeoak_03": 1,
+        "t_mw_terrrockai_clifftile_13": 1,
+        "t_mw_terrrockai_rock_08": 10,
+        "t_mw_terrrockai_rock_10": 6,
+        "t_mw_terrrockai_rock_12": 12,
+        "t_mw_terrrockai_rock_14": 1,
+        "t_mw_terrrockai_rock_17": 2,
+        "t_mw_terrrockai_rock_18": 2,
+        "terrain_rock_ai_02": 1,
+        "terrain_rock_ai_03": 1,
+        "terrain_rock_ai_04": 3,
+        "terrain_rock_ai_05": 2,
+        "terrain_rock_ai_08": 2,
+        "terrain_rock_ai_09": 1,
+        "terrain_rock_ai_10": 14,
+        "terrain_rock_ai_11": 1,
+        "terrain_rock_ai_12": 17,
+        "terrain_rocks_ai_01": 21,
+        "terrain_rocks_ai_02": 6,
+        "terrain_rocks_ai_03": 19,
+        "terrain_rocks_ai_04": 2
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_ex_dwe_spawn": 1
+      }
+    }
+  }
+}

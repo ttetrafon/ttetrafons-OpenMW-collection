@@ -1,0 +1,62 @@
+{
+  "cell": "Idathren, Sadri's Cornerclub",
+  "name": "Idathren, Sadri's Cornerclub",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "com_sack_02_chpfood3": 1,
+        "crate_01_eggs": 3,
+        "de_p_chest_02_gold_25": 1,
+        "furn_de_bar_01": 2,
+        "furn_de_bar_04": 2,
+        "furn_de_ex_stool_01": 5,
+        "furn_de_p_bench_04": 1,
+        "furn_de_p_chair_01": 2,
+        "furn_de_p_chair_02": 1,
+        "furn_de_p_shelf_02": 3,
+        "furn_de_rope_03": 2,
+        "furn_de_rope_04": 2,
+        "furn_de_shack_basket_01": 1,
+        "furn_de_shack_basket_02": 2,
+        "furn_de_shack_hook": 5,
+        "furn_hook_01": 4,
+        "furn_web00": 1,
+        "in_de_shack_04": 1,
+        "in_de_shack_door": 1,
+        "light_de_lantern_03": 1,
+        "light_de_lantern_05_128_carry": 1,
+        "misc_com_bottle_12": 1,
+        "misc_com_redware_bowl_01": 4,
+        "misc_com_redware_plate": 5,
+        "misc_com_wood_knife": 1,
+        "misc_com_wood_spoon_01": 4,
+        "misc_de_fishing_pole": 1,
+        "misc_de_tankard_01": 11,
+        "northmarker": 1,
+        "potion_comberry_brandy_01": 1,
+        "potion_comberry_wine_01": 1,
+        "potion_cyro_whiskey_01": 2,
+        "potion_local_brew_01": 5,
+        "t_com_dice_01": 1,
+        "t_de_furn_rugsmall_01": 1,
+        "t_de_furnp_table_01": 1,
+        "t_ingfood_breadcolovian_01": 1,
+        "t_ingfood_breadcolovian_02": 2,
+        "t_ingfood_fishleapertail_01": 1,
+        "t_ingfood_fishslaughterdried_02": 2,
+        "t_news_echo_spawner_rare": 1,
+        "tr_m7_dils sadri": 1,
+        "tr_m7_elegras": 1,
+        "tr_m7_mark_dils_sadri": 1,
+        "tr_m7_savris_fire_eater": 1,
+        "tr_m7_savris_sword": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_baker": 1,
+        "aa_wares_publican": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cell": "12,-12",
+  "plugins": {
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_map17_trigger": 1,
+        "x0_map31_trigger": 1
+      },
+      "modified": {
+        "flora_gold_kanet_01": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "barrel_01_empty": 1,
+        "xero_east_barrel": 1,
+        "xero_marker": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "tom_fristorox": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_ex_tomb70_spawn": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_b_wisp_all": 1,
+        "aa_cr_i_butterlfy_ac": 1,
+        "aa_cr_night_only_exterior_undea": 1
+      }
+    }
+  }
+}

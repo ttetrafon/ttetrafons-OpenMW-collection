@@ -1,0 +1,16 @@
+{
+  "cell": "Kogoruhn, Bleeding Heart",
+  "name": "Kogoruhn, Bleeding Heart",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_dreamers_rare": 3
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_dreamer_f_c02": 1
+      }
+    }
+  }
+}

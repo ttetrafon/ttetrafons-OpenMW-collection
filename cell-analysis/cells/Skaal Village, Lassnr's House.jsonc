@@ -1,0 +1,49 @@
+{
+  "cell": "Skaal Village, Lassnr's House",
+  "name": "Skaal Village, Lassnr's House",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "in_s_door": 1
+      },
+      "modified": {
+        "sp_nor_setskaal_i_fireplace_01": 2
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_bedroll": 1,
+        "in_s_door": 1
+      }
+    },
+    "Unique Uniques.ESP": {
+      "modified": {
+        "ingred_human_meat_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_bedroll": 1,
+        "in_s_door": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::9059",
+      "object": "in_s_door",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::13753",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

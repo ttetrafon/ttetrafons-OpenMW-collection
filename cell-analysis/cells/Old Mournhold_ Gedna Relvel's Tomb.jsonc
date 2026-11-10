@@ -1,0 +1,30 @@
+{
+  "cell": "Old Mournhold: Gedna Relvel's Tomb",
+  "name": "Old Mournhold: Gedna Relvel's Tomb",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "lich_relvel": 1
+      },
+      "modified": {
+        "skeleton_relvel": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "modified": {
+        "aa_cr_lich_gednarelvel": 1,
+        "aa_cr_skeleton_hero": 7
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "tribunal::21759",
+      "object": "skeleton_relvel",
+      "plugins": [
+        "Creatures_RP_Purist.ESP",
+        "Creatures and Critters.ESP"
+      ]
+    }
+  ]
+}

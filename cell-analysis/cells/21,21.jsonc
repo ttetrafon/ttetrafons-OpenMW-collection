@@ -1,0 +1,45 @@
+{
+  "cell": "21,21",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "door_cavern_doors10": 1,
+        "ex_common_plat_end": 20,
+        "ex_de_cave_entrance_01": 1,
+        "ex_de_docks_steps": 15,
+        "ex_de_docks_steps_01": 3,
+        "ex_de_scaffold_02a": 4,
+        "ex_de_shack_plank_03": 2,
+        "flora_chokeweed_02": 1,
+        "flora_grass_06": 1,
+        "flora_kreshweed_01": 2,
+        "flora_kreshweed_03": 2,
+        "flora_root_wg_03": 2,
+        "flora_root_wg_04": 4,
+        "flora_tree_wg_02": 2,
+        "flora_tree_wg_07": 3,
+        "flora_tree_wg_08": 1,
+        "t_mw_lvl_crabs+0": 1,
+        "terrain_rock_wg_02": 3,
+        "terrain_rock_wg_05": 3,
+        "terrain_rock_wg_07": 3,
+        "terrain_rock_wg_08": 3,
+        "terrain_rock_wg_09": 2,
+        "terrain_rock_wg_10": 6,
+        "terrain_rock_wg_11": 2,
+        "terrain_rock_wg_12": 9,
+        "terrain_rock_wg_15": 1,
+        "terrain_rock_wg_16": 2,
+        "terrain_rock_wg_18": 5,
+        "terrain_rocks_wg_01": 5,
+        "terrain_rocks_wg_02": 2,
+        "terrain_rocks_wg_03": 2
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

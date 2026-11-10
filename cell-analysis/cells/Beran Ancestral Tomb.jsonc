@@ -1,0 +1,16 @@
+{
+  "cell": "Beran Ancestral Tomb",
+  "name": "Beran Ancestral Tomb",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_trader": 1
+      }
+    },
+    "LootWellUrned.ESP": {
+      "added": {
+        "_uyl_beran": 1
+      }
+    }
+  }
+}

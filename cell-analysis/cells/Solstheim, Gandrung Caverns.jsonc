@@ -1,0 +1,41 @@
+{
+  "cell": "Solstheim, Gandrung Caverns",
+  "name": "Solstheim, Gandrung Caverns",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "ex_bm_tomb_door_01": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "misc_com_bottle_02": 1,
+        "misc_com_metal_plate_05": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "misc_com_bottle_02": 1,
+        "misc_com_metal_plate_05": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::32027",
+      "object": "misc_com_metal_plate_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::32029",
+      "object": "misc_com_bottle_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "cell": "Vemynal, Hall of Torque",
+  "name": "Vemynal, Hall of Torque",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "dark_768": 1,
+        "in_6th_all_lev-2": 2,
+        "red_256_pulse": 1,
+        "skeleton_vemynal": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "modified": {
+        "aa_cr_skeleton_undying": 1
+      }
+    }
+  }
+}

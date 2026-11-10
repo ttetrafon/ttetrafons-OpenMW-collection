@@ -1,0 +1,97 @@
+{
+  "cell": "Mournhold, Royal Palace: Reception Area",
+  "name": "Mournhold, Royal Palace: Reception Area",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1,
+        "gvrm_mhcit_dun": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_cleaner4": 1
+      }
+    },
+    "Immersive Mournhold.esp": {
+      "added": {
+        "nb_mourn_01_big": 4,
+        "nb_mourn_02_cr": 1
+      },
+      "modified": {
+        "flora_grass_06": 4,
+        "flora_plant_02": 3,
+        "flora_plant_03": 4,
+        "furn_planter_mh_01": 1,
+        "t_de_furn_tapestryind_02": 1,
+        "t_de_furn_tapestryind_03c": 1,
+        "t_de_furn_tapestryind_04": 16,
+        "t_de_furn_tapestryind_05a": 4
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "in_mh_door_01": 1,
+        "in_mh_door_02": 4,
+        "in_mh_door_02_hels_uni": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "in_mh_door_01": 1,
+        "in_mh_door_02": 4,
+        "in_mh_door_02_hels_uni": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "tribunal::17874",
+      "object": "in_mh_door_02_hels_uni",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17875",
+      "object": "in_mh_door_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17876",
+      "object": "in_mh_door_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17877",
+      "object": "in_mh_door_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17878",
+      "object": "in_mh_door_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17879",
+      "object": "in_mh_door_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

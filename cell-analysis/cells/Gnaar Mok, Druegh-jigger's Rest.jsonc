@@ -1,0 +1,52 @@
+{
+  "cell": "Gnaar Mok, Druegh-jigger's Rest",
+  "name": "Gnaar Mok, Druegh-jigger's Rest",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_bcom_am_marker": 1
+      }
+    },
+    "NOD - Core.esm": {
+      "added": {
+        "com_chest_02_v_dreugh": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_pawn": 1,
+        "aa_wares_trader": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_bed_29": 1,
+        "active_de_bed_30": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_bed_29": 1,
+        "active_de_bed_30": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::113126",
+      "object": "active_de_bed_29",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::113127",
+      "object": "active_de_bed_30",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

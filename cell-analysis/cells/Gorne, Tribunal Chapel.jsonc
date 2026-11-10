@@ -1,0 +1,16 @@
+{
+  "cell": "Gorne, Tribunal Chapel",
+  "name": "Gorne, Tribunal Chapel",
+  "plugins": {
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_priest": 1
+      }
+    },
+    "RepopulatedMainland.ESP": {
+      "added": {
+        "gvrm_dun_pray_3_trcpy": 2
+      }
+    }
+  }
+}

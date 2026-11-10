@@ -1,0 +1,52 @@
+{
+  "cell": "Rethan Manor, Gols' House",
+  "name": "Rethan Manor, Gols' House",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "gold_001": 1,
+        "gold_005": 3
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "gold_001": 1,
+        "gold_005": 3
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::368664",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::368665",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::368666",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::368667",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

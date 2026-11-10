@@ -1,0 +1,42 @@
+{
+  "cell": "Khuul, Rivame Samandas's Shack",
+  "name": "Khuul, Rivame Samandas's Shack",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "gold_001": 3
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "gold_001": 3
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::398637",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::398638",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::398639",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

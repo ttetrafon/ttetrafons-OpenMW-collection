@@ -1,0 +1,52 @@
+{
+  "cell": "Mournhold, Llethan Manor",
+  "name": "Mournhold, Llethan Manor",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "in_mh_door_01": 1,
+        "in_mh_door_02": 3
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "in_mh_door_01": 1,
+        "in_mh_door_02": 3
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "tribunal::8313",
+      "object": "in_mh_door_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8363",
+      "object": "in_mh_door_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8364",
+      "object": "in_mh_door_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8365",
+      "object": "in_mh_door_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

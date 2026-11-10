@@ -1,0 +1,18 @@
+{
+  "cell": "19,7",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_east_crate": 1,
+        "xero_furn_crate_open_01": 1,
+        "xero_furn_scrapwood01": 3,
+        "xero_marker": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_night_only_exterior_undea": 1
+      }
+    }
+  }
+}

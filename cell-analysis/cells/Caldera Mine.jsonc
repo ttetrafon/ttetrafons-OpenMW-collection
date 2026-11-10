@@ -1,0 +1,26 @@
+{
+  "cell": "Caldera Mine",
+  "name": "Caldera Mine",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 2,
+        "gvrm_un_mn_cm_dun": 6
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_miner1": 1,
+        "am_minerebony1": 1
+      },
+      "modified": {
+        "in_cavern_beam20": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_hlaalu guard_ran": 3
+      }
+    }
+  }
+}

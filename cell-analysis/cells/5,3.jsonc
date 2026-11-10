@@ -1,0 +1,50 @@
+{
+  "cell": "5,3",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_wise": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "barrel_01_empty": 1,
+        "barrel_01_ingredients": 1,
+        "de_p_chest_02_gold_50": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "barrel_01_empty": 1,
+        "barrel_01_ingredients": 1,
+        "de_p_chest_02_gold_50": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::276592",
+      "object": "de_p_chest_02_gold_50",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276593",
+      "object": "barrel_01_ingredients",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276594",
+      "object": "barrel_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

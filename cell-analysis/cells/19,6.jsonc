@@ -1,0 +1,71 @@
+{
+  "cell": "19,6",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_ship_landdreugh_c": 1,
+        "ab_bk_blacksmitharmor01": 1,
+        "ab_ex_deshipwrbackribs": 1,
+        "ab_ex_deshipwrfrontfull": 1,
+        "ab_ex_deshipwrmast03": 1,
+        "ab_flora_acsapling01": 2,
+        "ab_flora_acsapling02": 7,
+        "ab_flora_acsapling03": 1,
+        "ab_flora_acsapling04": 1,
+        "ab_furn_barrel02broken04": 1,
+        "ab_furn_bkruinedpages": 1,
+        "ab_furn_cratebroken01": 3,
+        "ab_furn_cratebroken02": 1,
+        "ab_furn_cratebroken05": 2,
+        "ab_furn_cratebrokenside02": 1,
+        "ab_furn_cratebrokenwood01": 2,
+        "ab_furn_cratebrokenwood02": 6,
+        "ab_scen_featheredgrace": 1,
+        "barrel_01_drinks": 1,
+        "barrel_01_empty": 1,
+        "barrel_shoes": 1,
+        "bk_pigchildren": 1,
+        "chest_small_01_soulgem": 1,
+        "chest_small_02_misc01": 1,
+        "com_chest_02_l_weap_01": 1,
+        "com_sack_02_ingred": 1,
+        "com_sack_03_ingredients": 2,
+        "com_sack_gold_05": 1,
+        "contain_corpse10_water": 1,
+        "contain_corpse_water": 1,
+        "crate__02_skooma2": 1,
+        "ex_t_menhir_l_01": 1,
+        "ex_t_rock_coastal_01": 1,
+        "flora_tree_ac_01": 1,
+        "flora_tree_ac_02": 2,
+        "flora_tree_ac_03": 1,
+        "urn_02": 1
+      },
+      "modified": {
+        "terrain_rock_ac_08": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_map_06": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "crate_01_empty": 1,
+        "xero_east_crate": 1,
+        "xero_marker": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_water": 5
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 5
+      }
+    }
+  }
+}

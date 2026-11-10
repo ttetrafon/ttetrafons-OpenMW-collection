@@ -1,0 +1,64 @@
+{
+  "cell": "32,-12",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "chitin boots": 1,
+        "flora_bc_grass_01": 1,
+        "flora_bc_moss_12": 2,
+        "flora_bittergreen_01": 1,
+        "flora_bittergreen_02": 3,
+        "flora_bittergreen_03": 2,
+        "flora_bittergreen_04": 5,
+        "flora_bittergreen_10": 1,
+        "flora_bittergreen_pod_01": 2,
+        "flora_bush_01": 5,
+        "flora_chokeweed_02": 29,
+        "flora_corkbulb": 2,
+        "flora_grass_01": 33,
+        "flora_kreshweed_01": 10,
+        "flora_kreshweed_02": 3,
+        "flora_kreshweed_03": 6,
+        "flora_plant_01": 9,
+        "flora_roobrush_02": 34,
+        "flora_root_wg_04": 1,
+        "flora_root_wg_06": 2,
+        "flora_stoneflower_01": 11,
+        "flora_stoneflower_02": 12,
+        "flora_tree_wg_01": 5,
+        "flora_tree_wg_05": 4,
+        "flora_tree_wg_06": 2,
+        "t_mw_lvl_kwamaexplorers+0": 1,
+        "t_mw_rlvl_mephalanvalesland+0": 1,
+        "t_mw_terrrockwg_cliff_02": 3,
+        "t_mw_terrrockwg_cliff_05": 1,
+        "terrain_rock_wg_04": 1,
+        "terrain_rock_wg_05": 3,
+        "terrain_rock_wg_07": 1,
+        "terrain_rock_wg_08": 4,
+        "terrain_rock_wg_09": 3,
+        "terrain_rock_wg_12": 18,
+        "terrain_rock_wg_14": 3,
+        "terrain_rock_wg_15": 3,
+        "terrain_rock_wg_16": 15,
+        "terrain_rock_wg_17": 9,
+        "terrain_rock_wg_18": 9,
+        "terrain_rocks_wg_01": 35,
+        "terrain_rocks_wg_02": 1,
+        "terrain_rocks_wg_03": 24,
+        "terrain_rocks_wg_04": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_indo_spawn": 1
+      }
+    },
+    "DM_TR_AkaMoreIndoril.esp": {
+      "modified": {
+        "terrain_rock_wg_08": 1,
+        "terrain_rock_wg_12": 1
+      }
+    }
+  }
+}

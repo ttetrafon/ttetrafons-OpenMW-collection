@@ -1,0 +1,1201 @@
+{
+  "cell": "Mournhold, Great Bazaar",
+  "name": "Mournhold, Great Bazaar",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 4,
+        "gvrm_bcom_am_marker": 2,
+        "gvrm_mhcit_dun": 8
+      }
+    },
+    "NOD - Core.esm": {
+      "added": {
+        "ar_chest_east": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "ab01ambeggarbowl11": 1,
+        "ab01ambeggarbowl12": 1,
+        "am_bard1": 1,
+        "am_beggar11": 1,
+        "am_beggar12": 1,
+        "am_sitternight5": 1
+      }
+    },
+    "Immersive Mournhold.esp": {
+      "added": {
+        "ab_app_grinder": 1,
+        "ab_bk_affairofbards": 1,
+        "ab_bk_alchemistbeginners": 1,
+        "ab_bk_avoidingdanger": 1,
+        "ab_bk_blacksmitharmor01": 1,
+        "ab_bk_blacksmitharmor02": 1,
+        "ab_bk_blacksmitharmor03": 1,
+        "ab_bk_crudejokes": 1,
+        "ab_bk_daedricalphabet": 1,
+        "ab_bk_dunmerinsults": 1,
+        "ab_bk_fragmentsfromtheadabal": 1,
+        "ab_bk_guars": 1,
+        "ab_bk_guidetoorcs": 1,
+        "ab_bk_imperialeggmining": 1,
+        "ab_bk_mapsofvvardenfell": 1,
+        "ab_c_expensivering01": 2,
+        "ab_c_expensivering02": 2,
+        "ab_c_expensivering03": 2,
+        "ab_c_exquisiteamulet01": 1,
+        "ab_c_exquisitering01": 2,
+        "ab_c_extravagantamulet01": 1,
+        "ab_c_extravagantring01": 2,
+        "ab_c_extravagantring02": 2,
+        "ab_furn_debasket_01": 1,
+        "ab_ingflor_telvanniresin": 1,
+        "ab_misc_deceramicflask_01": 1,
+        "ab_o_ashltrinketbox": 1,
+        "ab_o_sacklargeing": 1,
+        "ab_o_satchelingbasic": 1,
+        "ab_sc_alchemyrecipe01": 1,
+        "ab_sc_alchemyrecipe02": 1,
+        "ab_sc_alchemyrecipe03": 1,
+        "ab_sc_alchemyrecipe04": 1,
+        "ab_sc_alchemyrecipe05": 1,
+        "ab_sc_alchemyrecipe06": 1,
+        "act_flora_tree_mh_01": 7,
+        "act_flora_treedead_mh_01": 5,
+        "active_de_bedroll": 1,
+        "apparatus_j_alembic_01": 1,
+        "apparatus_j_calcinator_01": 1,
+        "apparatus_j_mortar_01": 1,
+        "barrel_01_cheapfood5": 1,
+        "barrel_01_drinks": 1,
+        "barrel_02": 1,
+        "barrel_02_eggs": 5,
+        "barrel_02_pants": 2,
+        "com_basket_01_food": 3,
+        "com_sack_01": 4,
+        "com_sack_01_chpfood5": 1,
+        "com_sack_02_saltrice_10": 2,
+        "com_sack_03_chpfood5": 3,
+        "com_sack_03_ingredients": 2,
+        "com_sack_03_saltrice_10": 1,
+        "crate_01": 7,
+        "crate_01_eggs": 6,
+        "crate_01_empty": 2,
+        "crate_01_food": 1,
+        "crate_01_food_misc01": 13,
+        "crate_01_misc01": 7,
+        "crate_02_pillows": 1,
+        "crate_02_torch": 1,
+        "ex_dwrv_block30": 2,
+        "ex_mh_bazaar_cart_01green": 1,
+        "ex_mh_bazaar_cart_01red": 1,
+        "ex_mh_canal_grate_01": 2,
+        "ex_mh_lantern_post": 19,
+        "ex_mh_palace_tower": 6,
+        "ex_mh_palace_tower02": 1,
+        "ex_mh_palacewin_03": 2,
+        "ex_mh_pav_spout": 2,
+        "ex_mh_pav_tower": 1,
+        "ex_mh_pav_water_spray_nodisab": 2,
+        "ex_mh_temple": 1,
+        "ex_mh_wall_tower_01": 1,
+        "ex_mh_window_01": 12,
+        "ex_vivec_waterfall_01": 2,
+        "ex_waterfall_mist_s_01": 2,
+        "expensive_amulet_01": 1,
+        "expensive_amulet_03": 1,
+        "exquisite_amulet_01": 1,
+        "extravagant_amulet_01": 1,
+        "flora_bc_lilypad": 25,
+        "flora_bc_lilypad_02": 97,
+        "flora_bc_lilypad_03": 35,
+        "flora_grass_05": 16,
+        "flora_grass_06": 14,
+        "flora_ivy_01": 25,
+        "flora_ivy_02": 35,
+        "flora_plant_02": 9,
+        "flora_plant_03": 9,
+        "flora_plant_04": 14,
+        "flora_plant_05": 5,
+        "flora_plant_06": 6,
+        "flora_plant_08": 4,
+        "furn_banner_hanger_01": 18,
+        "furn_banner_helseth_01": 8,
+        "furn_banner_imp_01": 10,
+        "furn_de_cushion_round_02": 2,
+        "furn_de_cushion_square_07": 1,
+        "furn_de_ex_bench_01": 2,
+        "furn_de_ex_stool_02": 1,
+        "furn_de_ex_table_03": 3,
+        "furn_de_r_table_08": 1,
+        "furn_de_r_table_09": 1,
+        "furn_de_rug_big_08": 1,
+        "furn_planter_mh_01": 9,
+        "furn_shrine_veloth_cure_01": 1,
+        "gold_001": 2,
+        "gold_005": 2,
+        "ingred_ash_salts_01": 1,
+        "ingred_black_anther_01": 1,
+        "light_de_lantern_03_sway": 23,
+        "light_de_lantern_06": 1,
+        "light_mh_streetlamp_01": 4,
+        "llcs_display_case": 1,
+        "mh_tree03": 9,
+        "mh_tree10": 2,
+        "mhbeggar03": 1,
+        "misc_com_bottle_11": 2,
+        "misc_com_bottle_12": 1,
+        "misc_com_bottle_13": 1,
+        "misc_com_bucket_01_float": 1,
+        "misc_com_bucket_metal": 2,
+        "misc_de_bowl_01": 1,
+        "misc_de_bowl_glass_yellow_01": 1,
+        "misc_de_bowl_redware_02": 1,
+        "misc_de_drum_01": 2,
+        "misc_de_drum_02": 1,
+        "misc_de_glass_yellow_01": 2,
+        "misc_de_lute_01": 1,
+        "misc_de_lute_01_phat": 2,
+        "misc_de_pot_mottled_01": 1,
+        "misc_de_tankard_01": 1,
+        "ordinator_mournhold_now": 4,
+        "p_restore_fatigue_q": 1,
+        "p_restore_health_q": 1,
+        "potion_comberry_wine_01": 1,
+        "rp_bazar_alchemist": 1,
+        "rp_bazar_bookseller": 1,
+        "rp_bazar_jeweler": 1,
+        "rp_mh_well_01": 1,
+        "sound_mournspraynodisable": 2,
+        "sound_waterfall00": 2,
+        "t_de_furnr_chair_01": 2,
+        "t_de_setind_bell_01": 1,
+        "t_de_setind_bell_02": 1,
+        "t_de_setind_bell_03": 1,
+        "t_de_setind_bell_04": 1,
+        "t_de_setind_bell_05": 1,
+        "t_de_setind_bell_06": 1,
+        "t_de_setind_drum_01": 1,
+        "t_de_setind_drum_02": 1,
+        "t_de_setind_drum_03": 1,
+        "t_de_setind_f_bellstand_01": 1,
+        "t_de_setind_f_gongstand_01": 2,
+        "t_de_setind_gong_01": 1,
+        "t_de_setind_gong_02": 1,
+        "t_de_setind_lanternwhite03_128": 1,
+        "t_de_setind_x_pagoda_01": 2,
+        "t_imp_pillowvelvetred_01": 2,
+        "t_mwde_setind_cul1food": 1,
+        "t_mwde_setind_cul2food": 2,
+        "urn_01": 2,
+        "urn_01_ingred": 1,
+        "urn_02": 3,
+        "urn_03_ingred": 3,
+        "urn_04_ingred": 1,
+        "urn_05": 1,
+        "urn_05_food": 1,
+        "urn_05_ingred": 1
+      },
+      "modified": {
+        "act_flora_tree_mh_01": 3,
+        "act_flora_tree_mh_02": 8,
+        "act_flora_treedead_mh_01": 5,
+        "act_flora_treedead_mh_02": 8,
+        "active_chimney_smoke02_ovis1": 1,
+        "active_chimney_smoke02_ovis2": 1,
+        "barrel_01_arrows": 1,
+        "barrel_01_ingredients": 1,
+        "bk_commontongue": 1,
+        "chest_01_v_potion_ap_01": 1,
+        "chest_small_01_gold_05": 1,
+        "chest_small_01_gold_50": 1,
+        "chest_small_02_gold_50": 1,
+        "com_basket_01_food": 1,
+        "com_basket_01_pos": 1,
+        "com_chest_02_v_armor07": 1,
+        "com_chest_02_v_weapon05": 1,
+        "com_sack_02_chpfood3": 1,
+        "com_sack_02_ingred": 1,
+        "com_sack_02_pos": 1,
+        "common_pants_01": 1,
+        "common_pants_04": 1,
+        "common_shirt_02": 1,
+        "common_shirt_03_b": 2,
+        "common_shirt_04": 1,
+        "crate_01_armor_fur": 1,
+        "crate_01_armor_iron": 1,
+        "crate_01_de_mclothes": 3,
+        "crate_01_food": 1,
+        "crate_01_food_misc01": 1,
+        "crate_01_iron_weapons": 3,
+        "crate_01_steel_weapons": 1,
+        "crate_02_de_fclothes": 1,
+        "crate_02_de_mclothes": 1,
+        "crate_02_imp_armor": 2,
+        "crate_02_random_pos": 1,
+        "crate_02_steel_weapons": 1,
+        "daron": 1,
+        "drathas reyas": 1,
+        "dravil indrano": 1,
+        "editormarker_box_02": 1,
+        "ex_mh_bazaar_bench_01": 5,
+        "ex_mh_bazaar_booth_01": 2,
+        "ex_mh_bazaar_bridge": 1,
+        "ex_mh_bazaar_cart_01": 1,
+        "ex_mh_bazaar_cart_01red": 1,
+        "ex_mh_bazaar_stage": 1,
+        "ex_mh_bazaar_stage_02": 1,
+        "ex_mh_building_10": 2,
+        "ex_mh_door_02": 6,
+        "ex_mh_doorjamb_02a": 6,
+        "ex_mh_palace_tower": 2,
+        "ex_mh_palace_wall_02": 1,
+        "ex_mh_palacewin_02": 2,
+        "ex_mh_palacewin_03": 5,
+        "ex_mh_pav_gate_door": 2,
+        "ex_mh_pavillion_gate_02": 2,
+        "ex_mh_road_03": 1,
+        "ex_mh_sewer_trapdoor_01": 1,
+        "ex_mh_wall_01": 1,
+        "ex_mh_wall_tower_01": 1,
+        "ex_mh_window_01": 4,
+        "flame light 768": 2,
+        "flora_grass_05": 44,
+        "flora_plant_01": 1,
+        "flora_plant_03": 12,
+        "flora_plant_04": 8,
+        "fonari indaren": 1,
+        "fons beren": 1,
+        "food_kwama_egg_01": 6,
+        "food_kwama_egg_02": 1,
+        "fur_boots": 1,
+        "fur_helm": 1,
+        "fur_pauldron_left": 1,
+        "fur_pauldron_right": 1,
+        "furn_banner_stage_01": 2,
+        "furn_crate_open_01": 1,
+        "furn_de_bannerpost_02": 2,
+        "furn_de_basket_01": 1,
+        "furn_de_ex_bench_01": 1,
+        "furn_de_ex_table_03": 1,
+        "furn_de_lightpost_01": 4,
+        "furn_de_r_table_07": 1,
+        "furn_de_rug_01": 1,
+        "furn_de_rug_big_08": 1,
+        "furn_planter_01": 1,
+        "furn_planter_mh_01": 4,
+        "furn_planter_mh_02": 5,
+        "furn_planter_mh_04": 4,
+        "gureryne selvilo": 1,
+        "imperial_studded_cuirass": 1,
+        "in_mh_door_02_play": 1,
+        "ingred_heather_01": 1,
+        "ingred_red_lichen_01": 1,
+        "ingred_scrib_jelly_01": 1,
+        "ingred_shalk_resin_01": 1,
+        "ingred_sload_soap_01": 1,
+        "ingred_vampire_dust_01": 1,
+        "iron broadsword": 1,
+        "iron mace": 1,
+        "iron_cuirass": 1,
+        "iron_helmet": 1,
+        "jodhur": 1,
+        "light_de_lantern_03_s_256": 2,
+        "light_de_lantern_03_sway": 2,
+        "light_mh_rope_lantern": 2,
+        "light_mh_streetlamp_01": 12,
+        "marena gilnith": 1,
+        "meralyn othan": 1,
+        "meryn othralas": 1,
+        "misc_de_bowl_glass_peach_01": 1,
+        "misc_de_pot_green_01": 1,
+        "misc_de_pot_redware_02": 2,
+        "misc_de_pot_redware_03": 1,
+        "netch_leather_gauntlet_left": 1,
+        "netch_leather_pauldron_left": 1,
+        "netch_leather_pauldron_right": 1,
+        "nevama sarobar": 1,
+        "northmarker": 1,
+        "ordinator_mournhold": 4,
+        "ovis velas": 1,
+        "rerlas mon": 1,
+        "roner arano": 1,
+        "sc_paper plain": 6,
+        "script_playscript": 1,
+        "silver war axe": 1,
+        "sound_mournenv1": 4,
+        "steel battle axe": 1,
+        "steel broadsword": 1,
+        "suldreni salandas": 1,
+        "urn_01": 2,
+        "urn_02_ingred": 3,
+        "urn_03_ingred": 1,
+        "urn_04_ingred": 1,
+        "urn_05_food": 1
+      }
+    },
+    "Greater Mournhold Bazaar.esp": {
+      "added": {
+        "ab_a_glasshelmclose": 1,
+        "ab_bk_mapsofvvardenfell": 1,
+        "ab_bk_ofjephre": 1,
+        "ab_c_exquisiteamulet01": 1,
+        "ab_c_extravagantamulet01": 1,
+        "ab_dri_guarmilk": 1,
+        "ab_ex_ashlstriderhovel": 1,
+        "ab_ex_derack01": 1,
+        "ab_furn_ashlrugz01rumpled": 1,
+        "ab_furn_bag01open": 1,
+        "ab_furn_barrel01water": 1,
+        "ab_furn_combucket02hang": 1,
+        "ab_furn_comeasel01": 1,
+        "ab_furn_comincense01": 1,
+        "ab_furn_commidtabletall": 1,
+        "ab_furn_comrchbench": 2,
+        "ab_furn_comrchtableside": 1,
+        "ab_furn_comrchtablesmall": 1,
+        "ab_furn_crate03open": 1,
+        "ab_furn_debannerenchanter01in": 1,
+        "ab_furn_demarketstandb01": 1,
+        "ab_furn_demarketstandc02": 1,
+        "ab_furn_demarketstandc04": 1,
+        "ab_furn_demarketstandc05": 1,
+        "ab_furn_demidtable05": 1,
+        "ab_furn_deplntable04": 1,
+        "ab_furn_deplntable05": 2,
+        "ab_furn_derchbookstand": 1,
+        "ab_furn_derugbig02torn": 2,
+        "ab_furn_guarcart02tarp": 1,
+        "ab_furn_metalgrill": 1,
+        "ab_furn_papersingle01": 1,
+        "ab_furn_roughtablesmall01": 2,
+        "ab_furn_tellectern": 1,
+        "ab_furn_wheelbarrow": 1,
+        "ab_ingcrea_daeteeth_01": 1,
+        "ab_ingcrea_scribshell_01": 1,
+        "ab_ingcrea_sfmeat_01": 7,
+        "ab_ingcrea_spidermilk": 1,
+        "ab_ingfood_bread01a": 1,
+        "ab_ingfood_bread01b": 1,
+        "ab_ingfood_saltricebread": 5,
+        "ab_ingmine_blackpearl_01": 1,
+        "ab_ingmine_lodestone": 1,
+        "ab_ingmine_peridot_01": 1,
+        "ab_light_delantglassblu01_128": 1,
+        "ab_light_delantpaperred03_256_s": 1,
+        "ab_misc_blotter": 1,
+        "ab_misc_bobbin_01": 1,
+        "ab_misc_bobbin_03": 1,
+        "ab_misc_boneracerskull": 1,
+        "ab_misc_ceramicteapot01": 1,
+        "ab_misc_coindram001": 1,
+        "ab_misc_cointriune": 2,
+        "ab_misc_comartpaintmorr01": 1,
+        "ab_misc_comartpaintskyr02": 1,
+        "ab_misc_comcard03": 1,
+        "ab_misc_comcarddeck03": 1,
+        "ab_misc_comkagoutihorn": 1,
+        "ab_misc_comnineholesboard": 1,
+        "ab_misc_comnineholespinred": 5,
+        "ab_misc_comnineholespinwhite": 5,
+        "ab_misc_compaintbrush01": 4,
+        "ab_misc_compaintbrush02": 2,
+        "ab_misc_compaintcanvas01g": 2,
+        "ab_misc_compaintcanvas02g": 2,
+        "ab_misc_compaintframe01": 1,
+        "ab_misc_compewtercup01": 9,
+        "ab_misc_comredwareteapot": 2,
+        "ab_misc_comtowelbrown02": 1,
+        "ab_misc_cork": 1,
+        "ab_misc_corkscrew": 1,
+        "ab_misc_daerunestone_01": 1,
+        "ab_misc_deblueglass_01": 3,
+        "ab_misc_deblueglassbowl_01": 1,
+        "ab_misc_deblueplate_01": 1,
+        "ab_misc_deceramiccup_02": 2,
+        "ab_misc_declaybowl_01": 1,
+        "ab_misc_declaycup_01": 5,
+        "ab_misc_decrglasscup_01": 3,
+        "ab_misc_decrglassplate_01": 3,
+        "ab_misc_deebonyglass_01": 1,
+        "ab_misc_degreenglasscup_01": 1,
+        "ab_misc_depillowl_01": 1,
+        "ab_misc_deredglassbowl_01": 1,
+        "ab_misc_deredglasspot_01": 1,
+        "ab_misc_deteaball_01": 2,
+        "ab_misc_deyelglasscup_01": 1,
+        "ab_misc_deyelglassflask_01": 2,
+        "ab_misc_drinkcyrobrandy": 1,
+        "ab_misc_drinkmazte": 1,
+        "ab_misc_file": 1,
+        "ab_misc_inkvial": 2,
+        "ab_misc_kettleceremonial": 1,
+        "ab_misc_scalesdeceram": 1,
+        "ab_misc_woodplatter": 1,
+        "ab_mrk_box01": 1,
+        "ab_mus_6thflute": 1,
+        "ab_mus_ashlflute": 1,
+        "ab_mus_delutethin": 1,
+        "ab_mus_delyre": 1,
+        "ab_o_bag02poscheap": 1,
+        "ab_o_comchestirongld50": 1,
+        "ab_o_comcrate03": 1,
+        "ab_sc_blank": 1,
+        "ab_w_flintspear": 1,
+        "ab_w_orcisharrow10x": 1,
+        "adamantium_shortsword_db": 1,
+        "amulet of water walking": 1,
+        "apparatus_j_mortar_01": 1,
+        "bigbread": 4,
+        "bk_arcanarestored": 1,
+        "bk_fellowshiptemple": 1,
+        "bk_legendaryscourge": 1,
+        "bk_vampiresofvvardenfell2": 1,
+        "blessed_shield": 1,
+        "bookskill_mercantile2": 1,
+        "bookskill_security3": 1,
+        "bookskill_sneak3": 1,
+        "bz_alchemist_memsat": 1,
+        "bz_baker_kali'r": 1,
+        "bz_baker_nielos": 1,
+        "bz_barmenu": 1,
+        "bz_barpatron": 1,
+        "bz_bartender": 1,
+        "bz_bartenderdrinks": 1,
+        "bz_basket": 1,
+        "bz_bigbread2": 1,
+        "bz_bookseller": 1,
+        "bz_booksellernote": 1,
+        "bz_breadeater": 1,
+        "bz_cupofflin": 1,
+        "bz_curiosityshop": 1,
+        "bz_dishbrush": 1,
+        "bz_enchanter": 1,
+        "bz_fishmonger": 1,
+        "bz_glassblowerman": 1,
+        "bz_glassblowerwoman": 1,
+        "bz_greefcup": 1,
+        "bz_guar": 1,
+        "bz_jeweler": 1,
+        "bz_luthier_reman": 1,
+        "bz_lyre": 2,
+        "bz_manskirt01": 14,
+        "bz_mauyssa amedlus": 1,
+        "bz_maztecup": 1,
+        "bz_noble": 1,
+        "bz_painter": 1,
+        "bz_shoemaker_eranro": 1,
+        "bz_shoeshine": 1,
+        "bz_shoewax": 2,
+        "bz_shopperhusband": 1,
+        "bz_shopperwife": 1,
+        "bz_skirtcustomer": 1,
+        "bz_skirtseller": 1,
+        "bz_snackseller": 1,
+        "bz_string": 2,
+        "bz_tea": 3,
+        "bz_teapotseller": 1,
+        "bz_teashopper": 1,
+        "bz_tedrave dresvam": 1,
+        "bz_tuner": 1,
+        "bz_varvaso dulnor": 1,
+        "bz_visionhelm": 1,
+        "com_basket_01_food": 1,
+        "common_shoes_03": 1,
+        "common_shoes_06": 1,
+        "common_shoes_07": 1,
+        "de_p_chest_02_books": 1,
+        "ex_mh_bazaar_booth_01": 1,
+        "ex_velothi_hilltent_01": 1,
+        "expensive_amulet_01": 1,
+        "expensive_amulet_03": 1,
+        "expensive_ring_01": 1,
+        "expensive_ring_02": 1,
+        "expensive_shoes_02": 1,
+        "exquisite_amulet_01": 1,
+        "exquisite_ring_02": 1,
+        "exquisite_shoes_01": 1,
+        "extravagant_ring_02": 1,
+        "extravagant_shoes_02": 1,
+        "flora_plant_01": 3,
+        "flora_plant_02": 3,
+        "flora_plant_03": 4,
+        "furn_ashl_chimes_01": 2,
+        "furn_com_rm_bar_01": 2,
+        "furn_com_rm_bar_02": 2,
+        "furn_com_rm_bar_06": 1,
+        "furn_com_rm_barstool": 4,
+        "furn_com_rm_table_04": 1,
+        "furn_com_rm_table_05": 5,
+        "furn_crate_lid_01": 1,
+        "furn_crate_open_01": 1,
+        "furn_de_basket_01": 2,
+        "furn_de_lecturn": 1,
+        "furn_de_overhang_18": 1,
+        "furn_de_p_chair_01": 7,
+        "furn_de_p_stool_01": 1,
+        "furn_de_p_stool_02": 2,
+        "furn_de_p_table_04": 1,
+        "furn_de_p_table_05": 2,
+        "furn_de_r_bench_01": 2,
+        "furn_de_r_table_03": 1,
+        "furn_de_rug_big_01": 1,
+        "furn_de_rug_big_06": 1,
+        "furn_de_shack_basket_02": 2,
+        "furn_planter_01": 2,
+        "furn_planter_04": 2,
+        "furn_planter_mh_03": 1,
+        "furn_pottedplant": 1,
+        "gondolier_helm": 1,
+        "indoril helmet": 1,
+        "indoril_belt": 1,
+        "ingred_bread_01": 5,
+        "ingred_comberry_01": 4,
+        "ingred_crab_meat_01": 6,
+        "ingred_frost_salts_01": 2,
+        "ingred_hackle-lo_leaf_01": 2,
+        "ingred_resin_01": 1,
+        "ingred_saltrice_01": 3,
+        "ingred_scales_01": 5,
+        "ingred_scrib_jerky_01": 10,
+        "ingred_timsa-come-by_01": 6,
+        "ingred_trama_root_01": 6,
+        "light_com_redware_lamp": 2,
+        "light_de_candle_19": 1,
+        "light_de_candle_ivory_64": 3,
+        "light_de_lantern_02_blue": 1,
+        "light_de_lantern_05": 1,
+        "light_de_lantern_14": 1,
+        "light_de_paper_lantern_04": 1,
+        "mark_ring": 1,
+        "misc_com_bottle_04": 1,
+        "misc_com_broom_01": 1,
+        "misc_com_wood_knife": 2,
+        "misc_de_bowl_redware_02": 1,
+        "misc_de_drum_02": 2,
+        "misc_de_fishing_pole": 1,
+        "misc_de_foldedcloth00": 4,
+        "misc_de_lute_01": 1,
+        "misc_de_pot_blue_01": 1,
+        "misc_dwrv_artifact60": 1,
+        "misc_inkwell": 1,
+        "misc_lw_cup": 1,
+        "misc_quill": 2,
+        "misc_soulgem_common": 2,
+        "misc_soulgem_grand": 1,
+        "misc_soulgem_greater": 1,
+        "misc_soulgem_lesser": 2,
+        "p_restore_agility_b": 1,
+        "p_restore_fatigue_c": 2,
+        "p_restore_health_q": 3,
+        "potion_cyro_brandy_01": 1,
+        "potion_cyro_whiskey_01": 1,
+        "potion_local_brew_01": 2,
+        "recall_ring": 1,
+        "sc_paper plain": 3,
+        "silver staff of hunger": 1,
+        "steel jinkblade of the aegis": 1,
+        "summon ancestor amulet": 1,
+        "third barrier belt": 1,
+        "urn_05_food": 1,
+        "vfx_alterationarea": 2,
+        "vfx_mysticismarea": 1
+      },
+      "modified": {
+        "ex_mh_road_03": 1,
+        "flora_plant_03": 1,
+        "flora_plant_04": 1,
+        "furn_planter_mh_02": 1,
+        "light_mh_streetlamp_01": 1,
+        "meralyn othan": 1,
+        "suldreni salandas": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_apothecary": 1,
+        "aa_wares_pawn": 1,
+        "aa_wares_smith": 1,
+        "aa_wares_trader": 1
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_ff_fancyhat_comp": 1,
+        "aa_ff_fancyhat_pc": 1,
+        "ab_misc_lwbowlsmall": 1,
+        "misc_lw_flask": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_mh": 4
+      }
+    },
+    "auction.omwaddon": {
+      "added": {
+        "auc_mournhold": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "barrel_01_ingredients": 1,
+        "chest_small_01_gold_50": 1,
+        "com_basket_01_food": 1,
+        "com_basket_01_pos": 1,
+        "com_sack_02_chpfood3": 1,
+        "com_sack_02_ingred": 1,
+        "com_sack_02_pos": 1,
+        "common_shirt_03_b": 1,
+        "crate_02_random_pos": 1,
+        "crate_02_steel_weapons": 1,
+        "flora_plant_01": 1,
+        "flora_plant_03": 12,
+        "flora_plant_04": 8,
+        "ingred_heather_01": 1,
+        "ingred_red_lichen_01": 1,
+        "ingred_scrib_jelly_01": 1,
+        "ingred_shalk_resin_01": 1,
+        "ingred_sload_soap_01": 1,
+        "ingred_vampire_dust_01": 1,
+        "misc_de_pot_green_01": 1,
+        "misc_de_pot_redware_02": 1,
+        "misc_de_pot_redware_03": 1,
+        "sc_paper plain": 6,
+        "urn_01": 1,
+        "urn_02_ingred": 1,
+        "urn_03_ingred": 1,
+        "urn_04_ingred": 1,
+        "urn_05_food": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "barrel_01_ingredients": 1,
+        "chest_small_01_gold_50": 1,
+        "com_basket_01_food": 1,
+        "com_basket_01_pos": 1,
+        "com_sack_02_chpfood3": 1,
+        "com_sack_02_ingred": 1,
+        "com_sack_02_pos": 1,
+        "common_shirt_03_b": 1,
+        "crate_02_random_pos": 1,
+        "crate_02_steel_weapons": 1,
+        "flora_plant_01": 1,
+        "flora_plant_03": 12,
+        "flora_plant_04": 8,
+        "ingred_heather_01": 1,
+        "ingred_red_lichen_01": 1,
+        "ingred_scrib_jelly_01": 1,
+        "ingred_shalk_resin_01": 1,
+        "ingred_sload_soap_01": 1,
+        "ingred_vampire_dust_01": 1,
+        "misc_de_pot_green_01": 1,
+        "misc_de_pot_redware_02": 1,
+        "misc_de_pot_redware_03": 1,
+        "sc_paper plain": 6,
+        "urn_01": 1,
+        "urn_02_ingred": 1,
+        "urn_03_ingred": 1,
+        "urn_04_ingred": 1,
+        "urn_05_food": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "tribunal::8027",
+      "object": "crate_02_steel_weapons",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8038",
+      "object": "common_shirt_03_b",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8041",
+      "object": "crate_02_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8044",
+      "object": "misc_de_pot_redware_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8045",
+      "object": "misc_de_pot_redware_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8057",
+      "object": "misc_de_pot_green_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8062",
+      "object": "barrel_01_ingredients",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8064",
+      "object": "com_sack_02_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8077",
+      "object": "sc_paper plain",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8078",
+      "object": "sc_paper plain",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8079",
+      "object": "sc_paper plain",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8080",
+      "object": "sc_paper plain",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8081",
+      "object": "sc_paper plain",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8082",
+      "object": "sc_paper plain",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8083",
+      "object": "ingred_heather_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8084",
+      "object": "ingred_red_lichen_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8085",
+      "object": "ingred_scrib_jelly_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8086",
+      "object": "ingred_shalk_resin_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8087",
+      "object": "ingred_sload_soap_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8088",
+      "object": "ingred_vampire_dust_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8090",
+      "object": "chest_small_01_gold_50",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8091",
+      "object": "com_basket_01_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8092",
+      "object": "com_basket_01_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8093",
+      "object": "com_sack_02_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8096",
+      "object": "urn_02_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8097",
+      "object": "urn_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8137",
+      "object": "flora_plant_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8138",
+      "object": "flora_plant_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8139",
+      "object": "flora_plant_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8140",
+      "object": "flora_plant_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8155",
+      "object": "flora_plant_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8156",
+      "object": "flora_plant_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8157",
+      "object": "flora_plant_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8158",
+      "object": "flora_plant_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8181",
+      "object": "flora_plant_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8182",
+      "object": "flora_plant_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Greater Mournhold Bazaar.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8183",
+      "object": "flora_plant_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8184",
+      "object": "flora_plant_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8186",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8187",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8192",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8193",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8198",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8199",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8204",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8205",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Greater Mournhold Bazaar.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8207",
+      "object": "flora_plant_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8208",
+      "object": "urn_05_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8209",
+      "object": "urn_03_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8210",
+      "object": "urn_04_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24270",
+      "object": "com_sack_02_chpfood3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::14411",
+      "object": "suldreni salandas",
+      "plugins": [
+        "Immersive Mournhold.esp",
+        "Greater Mournhold Bazaar.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24538",
+      "object": "meralyn othan",
+      "plugins": [
+        "Immersive Mournhold.esp",
+        "Greater Mournhold Bazaar.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::7942",
+      "object": "ex_mh_road_03",
+      "plugins": [
+        "Immersive Mournhold.esp",
+        "Greater Mournhold Bazaar.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::8168",
+      "object": "furn_planter_mh_02",
+      "plugins": [
+        "Immersive Mournhold.esp",
+        "Greater Mournhold Bazaar.esp"
+      ]
+    }
+  ]
+}

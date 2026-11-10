@@ -1,0 +1,116 @@
+{
+  "cell": "Dagon Fel, Vacant Tower",
+  "name": "Dagon Fel, Vacant Tower",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_bedroll": 1,
+        "bk_abcs": 1,
+        "common_shirt_01": 1,
+        "common_shoes_01": 1,
+        "light_com_candle_01": 1,
+        "misc_dwrv_artifact10": 1,
+        "misc_dwrv_bowl00": 1,
+        "misc_dwrv_gear00": 1,
+        "misc_dwrv_goblet00": 1,
+        "misc_dwrv_mug00": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_bedroll": 1,
+        "bk_abcs": 1,
+        "common_shirt_01": 1,
+        "common_shoes_01": 1,
+        "light_com_candle_01": 1,
+        "misc_dwrv_artifact10": 1,
+        "misc_dwrv_bowl00": 1,
+        "misc_dwrv_gear00": 1,
+        "misc_dwrv_goblet00": 1,
+        "misc_dwrv_mug00": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::214315",
+      "object": "misc_dwrv_artifact10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::214316",
+      "object": "misc_dwrv_bowl00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::214317",
+      "object": "misc_dwrv_gear00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::214318",
+      "object": "misc_dwrv_goblet00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::214319",
+      "object": "misc_dwrv_mug00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482371",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482373",
+      "object": "bk_abcs",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482374",
+      "object": "light_com_candle_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482375",
+      "object": "common_shirt_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482376",
+      "object": "common_shoes_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

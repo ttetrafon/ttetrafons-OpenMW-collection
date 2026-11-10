@@ -1,0 +1,99 @@
+{
+  "cell": "-7,18",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_ship_de_shack_plank_03_a": 4,
+        "ab_a_bonemlightboots": 1,
+        "ab_a_bonemlightcuirass": 1,
+        "ab_a_bonemlighthelm": 1,
+        "ab_ex_deshipwrbackfull": 1,
+        "ab_ex_deshipwrfrontfull": 1,
+        "ab_ex_deshipwrmast01": 1,
+        "ab_furn_barrel01broken02": 1,
+        "ab_furn_barrel02broken03": 1,
+        "ab_furn_barrel02broken05": 1,
+        "ab_furn_crate03open": 1,
+        "ab_furn_cratebroken01": 3,
+        "ab_furn_cratebroken02": 1,
+        "ab_furn_cratebroken04": 1,
+        "ab_furn_cratebroken05": 4,
+        "ab_furn_cratebrokenside01": 3,
+        "ab_furn_cratebrokenwood01": 2,
+        "ab_furn_cratebrokenwood02": 7,
+        "ab_furn_derugbig03torn": 1,
+        "ab_furn_urnbroken02": 1,
+        "ab_furn_urnbroken03": 1,
+        "ab_furn_urnbrokenash01": 1,
+        "ab_furn_urnbrokenash02": 1,
+        "ab_furn_urnlid": 2,
+        "ab_furn_urnopenash": 1,
+        "ab_furn_urnshard07": 1,
+        "ab_furn_urntippedash": 1,
+        "ab_misc_boneskelarmupperl": 1,
+        "ab_misc_boneskelarmwristr": 1,
+        "ab_misc_boneskelhandl": 2,
+        "ab_misc_boneskelhandr": 1,
+        "ab_misc_boneskellegl": 1,
+        "ab_misc_boneskellegshinl": 1,
+        "ab_misc_boneskelribs": 1,
+        "ab_misc_boneskelskullnojaw": 7,
+        "ab_misc_boneskeltorso": 1,
+        "ab_misc_boneskeltorsobroken": 1,
+        "ab_misc_deredglassbowl_01": 1,
+        "ab_misc_deredglassflask_01": 2,
+        "ab_misc_deredglasspot_01": 1,
+        "ab_misc_drinkgreef": 1,
+        "ab_misc_drinksujamma": 1,
+        "ab_o_barrel01group": 1,
+        "ab_o_demiddrawers2cloth": 1,
+        "ab_o_deplndeskwriting": 1,
+        "ab_und_zombie": 2,
+        "ab_w_dreughlongsword": 1,
+        "ab_w_resinstaffterror": 1,
+        "barrel_01_ingredients": 4,
+        "barrel_02_floater": 1,
+        "barrel_02_pants": 1,
+        "com_chest_11_empty": 2,
+        "crate_01_de_weapons": 1,
+        "crate_02_iron_weapons": 2,
+        "ex_scrapwood01": 2,
+        "ex_scrapwood02": 2,
+        "flora_ashtree_04": 1,
+        "key_cabin": 1,
+        "misc_com_bottle_07_float": 2,
+        "misc_com_bucket_01_float": 1,
+        "misc_skooma_vial": 5,
+        "p_fortify_magicka_b": 1,
+        "p_levitation_b": 1,
+        "potion_skooma_01": 1,
+        "skeleton archer": 1
+      },
+      "modified": {
+        "barrel_02": 1,
+        "barrel_02_floater": 1,
+        "barrel_02_floater_ing": 1,
+        "ex_de_ship_cabindoor": 1,
+        "ex_scrapwood01": 1,
+        "ex_scrapwood05": 1,
+        "misc_com_bottle_07_float": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_m11_chest": 1,
+        "x0_m11_key": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_water": 9
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 9
+      }
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "cell": "Caldera, Hodlismod: Armorer",
+  "name": "Caldera, Hodlismod: Armorer",
+  "plugins": {
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_con_com_trade_buck": 1
+      }
+    },
+    "Adamantium Armor Naturalized.esp": {
+      "added": {
+        "adamantium_greaves": 1,
+        "adamantium_pauldron_left": 1,
+        "adamantium_pauldron_right": 1,
+        "de_p_chest_02_meldor": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_smith": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_smith_spawn": 1
+      }
+    },
+    "NOD - Core.esm": {
+      "modified": {
+        "silver_cuirass": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "gold_001": 1,
+        "gold_005": 1,
+        "gold_010": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "modified": {
+        "crate_01_empty": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "gold_001": 1,
+        "gold_005": 1,
+        "gold_010": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::164925",
+      "object": "gold_010",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::164926",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::164927",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

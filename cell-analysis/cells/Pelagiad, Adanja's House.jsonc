@@ -1,0 +1,26 @@
+{
+  "cell": "Pelagiad, Adanja's House",
+  "name": "Pelagiad, Adanja's House",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bk_poisonsong5": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bk_poisonsong5": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::483453",
+      "object": "bk_poisonsong5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

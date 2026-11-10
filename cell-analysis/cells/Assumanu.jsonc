@@ -1,0 +1,96 @@
+{
+  "cell": "Assumanu",
+  "name": "Assumanu",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_p_bed_28": 1,
+        "apparatus_m_alembic_01": 1,
+        "apparatus_m_calcinator_01": 1,
+        "apparatus_m_mortar_01": 1,
+        "apparatus_m_retort_01": 1,
+        "chest_small_02_ingfine3": 1,
+        "com_chest_11_k01": 1,
+        "wizard_chest_01_all": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_p_bed_28": 1,
+        "apparatus_m_alembic_01": 1,
+        "apparatus_m_calcinator_01": 1,
+        "apparatus_m_mortar_01": 1,
+        "apparatus_m_retort_01": 1,
+        "chest_small_02_ingfine3": 1,
+        "com_chest_11_k01": 1,
+        "wizard_chest_01_all": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::116763",
+      "object": "com_chest_11_k01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::317616",
+      "object": "active_de_p_bed_28",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::386739",
+      "object": "apparatus_m_retort_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::386740",
+      "object": "apparatus_m_alembic_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::386741",
+      "object": "apparatus_m_calcinator_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::386742",
+      "object": "apparatus_m_mortar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::386744",
+      "object": "chest_small_02_ingfine3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::386748",
+      "object": "wizard_chest_01_all",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

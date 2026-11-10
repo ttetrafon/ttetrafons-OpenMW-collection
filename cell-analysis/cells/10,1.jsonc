@@ -1,0 +1,17 @@
+{
+  "cell": "10,1",
+  "name": "Uvirith's Grave",
+  "plugins": {
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_tel_spawn": 1,
+        "_aa_travelingtrader_tel_spawn": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_b_wisp_all": 1
+      }
+    }
+  }
+}

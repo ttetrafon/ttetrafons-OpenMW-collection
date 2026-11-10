@@ -1,0 +1,76 @@
+{
+  "cell": "Vivec, Arena Holding Cells",
+  "name": "Vivec, Arena Holding Cells",
+  "plugins": {
+    "Privileges&Services 1.1.esp": {
+      "added": {
+        "abm_trapgutemup": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "in_v_s_jaildoor_01": 6
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_ordinator wan_ran": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "in_v_s_jaildoor_01": 6
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::281853",
+      "object": "in_v_s_jaildoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::281854",
+      "object": "in_v_s_jaildoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::281855",
+      "object": "in_v_s_jaildoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::281856",
+      "object": "in_v_s_jaildoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::281857",
+      "object": "in_v_s_jaildoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::281852",
+      "object": "in_v_s_jaildoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

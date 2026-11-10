@@ -1,0 +1,34 @@
+{
+  "cell": "1,-12",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_ex_barnacles_05": 1,
+        "xero_marker": 1,
+        "xero_south_barrel": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_imp_spawn": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_flowers": 1,
+        "plx_water": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_ai": 3,
+        "aa_cr_w_creature_list_1": 2
+      }
+    },
+    "Creatures and Critters Light the Path.ESP": {
+      "added": {
+        "aa_cr_i_moth_all": 3
+      }
+    }
+  }
+}

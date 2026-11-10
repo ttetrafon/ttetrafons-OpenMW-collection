@@ -1,0 +1,403 @@
+{
+  "cell": "Balmora, Western Guard Tower North",
+  "name": "Balmora, Western Guard Tower North",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "furn_de_p_stool_02": 1,
+        "gvrm_hla_s+e_bom_guards": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_hlaalu guard_ran": 2
+      }
+    },
+    "Privileges&Services 1.1.esp": {
+      "added": {
+        "abm_caphlaalu": 1,
+        "abm_placeguard": 1,
+        "abm_trapguhlaup": 1,
+        "in_hlaalu_hall_4way": 1
+      },
+      "modified": {
+        "furn_de_tapestry_07": 1,
+        "in_hlaalu_hall_end": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_p_bed_03": 1,
+        "bonemold_armun-an_cuirass": 1,
+        "bonemold_armun-an_pauldron_l": 1,
+        "bonemold_gah-julan_cuirass": 1,
+        "bonemold_greaves": 1,
+        "bonemold_shield": 1,
+        "bookskill_long blade1": 1,
+        "chitin shortsword": 1,
+        "chitin war axe": 1,
+        "iron dagger": 4,
+        "iron longsword": 1,
+        "iron warhammer": 1,
+        "misc_com_bottle_05": 2,
+        "misc_com_bottle_09": 1,
+        "misc_de_bowl_bugdesign_01": 1,
+        "misc_de_bowl_redware_01": 1,
+        "misc_de_foldedcloth00": 1,
+        "misc_de_goblet_06": 6,
+        "misc_de_goblet_09": 1,
+        "misc_de_pitcher_01": 1,
+        "misc_uni_pillow_01": 2,
+        "silver shortsword": 3,
+        "steel katana": 2,
+        "steel staff": 1,
+        "urn_02_food": 1,
+        "urn_03_food": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_p_bed_03": 1,
+        "bonemold_armun-an_cuirass": 1,
+        "bonemold_armun-an_pauldron_l": 1,
+        "bonemold_gah-julan_cuirass": 1,
+        "bonemold_greaves": 1,
+        "bonemold_shield": 1,
+        "bookskill_long blade1": 1,
+        "chitin shortsword": 1,
+        "chitin war axe": 1,
+        "iron dagger": 4,
+        "iron longsword": 1,
+        "iron warhammer": 1,
+        "misc_com_bottle_05": 2,
+        "misc_com_bottle_09": 1,
+        "misc_de_bowl_bugdesign_01": 1,
+        "misc_de_bowl_redware_01": 1,
+        "misc_de_foldedcloth00": 1,
+        "misc_de_goblet_06": 6,
+        "misc_de_goblet_09": 1,
+        "misc_de_pitcher_01": 1,
+        "misc_uni_pillow_01": 2,
+        "silver shortsword": 3,
+        "steel katana": 2,
+        "steel staff": 1,
+        "urn_02_food": 1,
+        "urn_03_food": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::384205",
+      "object": "misc_com_bottle_09",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384206",
+      "object": "misc_de_pitcher_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384207",
+      "object": "misc_de_goblet_09",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384208",
+      "object": "misc_de_foldedcloth00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384209",
+      "object": "misc_com_bottle_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384211",
+      "object": "active_de_p_bed_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384212",
+      "object": "misc_de_goblet_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384213",
+      "object": "misc_de_goblet_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384214",
+      "object": "misc_de_goblet_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384215",
+      "object": "misc_com_bottle_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384216",
+      "object": "misc_de_goblet_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384217",
+      "object": "misc_de_bowl_redware_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384218",
+      "object": "misc_de_bowl_bugdesign_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384219",
+      "object": "chitin war axe",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384220",
+      "object": "iron dagger",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384221",
+      "object": "iron dagger",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384222",
+      "object": "iron dagger",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384223",
+      "object": "silver shortsword",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384224",
+      "object": "silver shortsword",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384225",
+      "object": "silver shortsword",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384226",
+      "object": "steel katana",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384227",
+      "object": "steel katana",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384228",
+      "object": "bonemold_armun-an_cuirass",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384229",
+      "object": "bonemold_armun-an_pauldron_l",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384230",
+      "object": "bonemold_gah-julan_cuirass",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384231",
+      "object": "bonemold_greaves",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384232",
+      "object": "bonemold_shield",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384256",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384257",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384259",
+      "object": "urn_02_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384260",
+      "object": "urn_03_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384261",
+      "object": "misc_de_goblet_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384262",
+      "object": "misc_de_goblet_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384265",
+      "object": "bookskill_long blade1",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384274",
+      "object": "iron warhammer",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384275",
+      "object": "steel staff",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384276",
+      "object": "iron dagger",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384277",
+      "object": "chitin shortsword",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::384278",
+      "object": "iron longsword",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

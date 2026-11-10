@@ -1,0 +1,59 @@
+{
+  "cell": "Obainat Camp, Zassar's Yurt",
+  "name": "Obainat Camp, Zassar's Yurt",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_bedroll": 1,
+        "chitin short bow": 1,
+        "com_basket_01_food": 1,
+        "com_sack_01_chpfood5": 1,
+        "com_sack_01_saltrice_5": 1,
+        "furn_ashl_bugbowl_02": 1,
+        "furn_ashl_bugbowl_03": 1,
+        "furn_de_cushion_round_03": 1,
+        "furn_de_ex_stool_02": 1,
+        "furn_de_ex_table_02": 2,
+        "furn_de_firepit_01": 1,
+        "furn_log_01": 1,
+        "furn_log_02": 2,
+        "furn_log_03": 1,
+        "furn_log_04": 1,
+        "gold_001": 2,
+        "in_ashl_door_02": 1,
+        "in_ashl_tent_02": 1,
+        "in_ashl_tent_banner_09": 3,
+        "ingred_alit_hide_01": 1,
+        "ingred_guar_hide_01": 2,
+        "ingred_kagouti_hide_01": 1,
+        "ingred_scuttle_01": 1,
+        "light_ashl_lantern_02": 4,
+        "light_logpile": 1,
+        "misc_com_bottle_01": 1,
+        "misc_com_bottle_05": 1,
+        "misc_com_bottle_06": 1,
+        "misc_com_wood_bowl_01": 1,
+        "misc_com_wood_cup_02": 2,
+        "misc_com_wood_knife": 1,
+        "misc_com_wood_spoon_01": 1,
+        "misc_de_basket_01": 1,
+        "misc_de_cloth10": 1,
+        "northmarker": 1,
+        "t_ingfood_meatalit_01": 1,
+        "t_ingfood_meatguar_01": 2,
+        "t_ingfood_meatkagouti_01": 1,
+        "t_mwcom_var_bl1arrowchit": 1,
+        "t_mwcom_var_sk1comberr06": 1,
+        "t_mwde_furn_u1food": 1,
+        "t_mwde_furn_u3ing": 1,
+        "t_mwde_furn_u5food": 1,
+        "tr_m4_zassar": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_trader_ash": 1
+      }
+    }
+  }
+}

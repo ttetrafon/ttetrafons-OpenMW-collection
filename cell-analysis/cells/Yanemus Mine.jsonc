@@ -1,0 +1,52 @@
+{
+  "cell": "Yanemus Mine",
+  "name": "Yanemus Mine",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_miner7": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "torch": 3
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "torch": 3
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::425188",
+      "object": "torch",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::425189",
+      "object": "torch",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::425191",
+      "object": "torch",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

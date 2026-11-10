@@ -1,0 +1,74 @@
+{
+  "cell": "16,5",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "barrel_01_empty": 1,
+        "xero_east_barrel": 1,
+        "xero_marker": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_water": 4
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_b_wisp_all": 1,
+        "aa_cr_i_butterlfy_ac": 2,
+        "aa_cr_w_creature_list_1": 4
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "barrel_01_empty": 1,
+        "de_p_chest_02_gold_25": 1,
+        "misc_com_bottle_09": 1,
+        "misc_com_bottle_12": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "barrel_01_empty": 1,
+        "de_p_chest_02_gold_25": 1,
+        "misc_com_bottle_09": 1,
+        "misc_com_bottle_12": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::276526",
+      "object": "de_p_chest_02_gold_25",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276527",
+      "object": "misc_com_bottle_09",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276528",
+      "object": "barrel_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276529",
+      "object": "misc_com_bottle_12",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

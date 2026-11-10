@@ -1,0 +1,29 @@
+{
+  "cell": "Forgotten Shipwreck",
+  "name": "Forgotten Shipwreck",
+  "plugins": {
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_m16_bottle": 1
+      },
+      "modified": {
+        "in_de_ship_cabindoor": 1
+      }
+    },
+    "OAAB - Shipwrecks.esm": {
+      "modified": {
+        "in_de_ship_cabindoor": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::225590",
+      "object": "in_de_ship_cabindoor",
+      "plugins": [
+        "OAAB - Shipwrecks.esm",
+        "Uncharted Artifacts.esp"
+      ]
+    }
+  ]
+}

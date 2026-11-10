@@ -1,0 +1,25 @@
+{
+  "cell": "4,3",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "potion_local_brew_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "potion_local_brew_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::281886",
+      "object": "potion_local_brew_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "cell": "5,23",
+  "plugins": {
+    "An Addendum to Tamrielic Lore - The Imperial Archivist.ESP": {
+      "added": {
+        "aatl_con_dae_chest01_m": 1,
+        "aatl_con_dae_crate01_l": 1,
+        "aatl_con_dae_urn03_l": 2,
+        "aatl_furn_dae_bench02": 2,
+        "aatl_furn_dae_planter": 1,
+        "ab_in_daebridge_01": 5,
+        "ab_in_daebridge_02": 11,
+        "ab_in_daecolumn02": 1,
+        "ab_in_daecolumnspiked01": 4,
+        "ab_in_daeroomarchfull": 1,
+        "ab_in_daeroomarchrafter256": 1,
+        "ab_in_daeroommezzside": 13,
+        "ex_dae_pillar_01": 2,
+        "ex_dae_pillar_02": 5,
+        "ex_dae_pillar_02_ruin": 1,
+        "ex_dae_ruin_03": 1,
+        "ex_dae_wall_512_06": 2,
+        "ex_dae_wall_512_09": 3,
+        "flora_bc_grass_01": 1,
+        "flora_grass_01": 1,
+        "flora_grass_02": 1,
+        "flora_kreshweed_01": 1,
+        "in_dae_rubble_05": 1,
+        "in_dae_rubble_07": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_marker": 1,
+        "xero_north_sack": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_sheo": 1,
+        "aa_cr_night_only_exterior_aunda": 1
+      }
+    }
+  }
+}

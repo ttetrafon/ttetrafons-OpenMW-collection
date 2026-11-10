@@ -1,0 +1,21 @@
+{
+  "cell": "Urshilaku, Astral Burial",
+  "name": "Urshilaku, Astral Burial",
+  "plugins": {
+    "Enchanted Batons.ESP": {
+      "added": {
+        "bng_bne_btn_calm": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "un_mummy": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_mummy": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "cell": "-6,-5",
+  "name": "Hla Oad",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "furn_de_ex_stool_02": 1,
+        "gvrm_am_marker": 1,
+        "gvrm_balmoracitizens": 2,
+        "gvrm_cm_wl_n": 1,
+        "gvrm_dun_fish_sit": 1
+      }
+    },
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "a_photodragons": 1,
+        "sound_swamp_1": 2,
+        "sound_swamp_3": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_fisherman13": 1
+      }
+    },
+    "BC Sounds Naturalized.esp": {
+      "added": {
+        "opn_a_photodragons": 1,
+        "opn_sound_swamp_1": 2,
+        "opn_sound_swamp_2": 2,
+        "opn_sound_swamp_3": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_hiddencache": 2
+      }
+    },
+    "EKM Traveling Trader.ESP": {
+      "added": {
+        "ekm_traderk_hlaoad": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_hl_spawn": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_rabbit_brown": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_hlaalu out_ran": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "com_chest_02_hhbt": 1,
+        "ex_de_shack_door": 1,
+        "gold_001": 1,
+        "key_relien_rirne": 1,
+        "misc_de_fishing_pole": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "com_chest_02_hhbt": 1,
+        "ex_de_shack_door": 1,
+        "gold_001": 1,
+        "key_relien_rirne": 1,
+        "misc_de_fishing_pole": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::67845",
+      "object": "ex_de_shack_door",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::255317",
+      "object": "misc_de_fishing_pole",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::295133",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::367675",
+      "object": "key_relien_rirne",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::374426",
+      "object": "com_chest_02_hhbt",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

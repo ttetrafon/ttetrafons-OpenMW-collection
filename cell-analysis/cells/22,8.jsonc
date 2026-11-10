@@ -1,0 +1,47 @@
+{
+  "cell": "22,8",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_cave_door_01": 1,
+        "ex_cave_entrance_ac_01": 1,
+        "ex_dae_door_load_oval": 1,
+        "ex_dae_pillar_02": 1,
+        "ex_dae_pillar_03": 1,
+        "ex_dae_ruin_01": 1,
+        "ex_dae_ruin_entry.max": 1,
+        "ex_dae_ruin_stair01_short": 1,
+        "ex_t_menhir_l_01": 40,
+        "ex_t_rock_coastal_01": 14,
+        "ex_t_rock_coastal_02": 4,
+        "flora_emp_parasol_01": 1,
+        "flora_emp_parasol_03": 1,
+        "flora_kreshweed_01": 1,
+        "flora_kreshweed_03": 1,
+        "flora_muckpod_03": 1,
+        "flora_muckspunge_04": 1,
+        "flora_muckspunge_05": 1,
+        "flora_saltrice_01": 3,
+        "flora_saltrice_02": 3,
+        "flora_t_podbud_01": 1,
+        "flora_t_podbud_02": 3,
+        "flora_t_podbud_03": 1,
+        "flora_t_podbud_04": 1,
+        "t_mw_rlvl_boethiahspinecoast+2": 2,
+        "t_mw_rlvl_innerseawater+2": 1,
+        "terrain_rock_ac_02": 1,
+        "terrain_rock_ac_03": 1,
+        "terrain_rock_ac_04": 2,
+        "terrain_rock_ac_06": 1,
+        "terrain_rock_ac_08": 1,
+        "terrain_rock_ac_10": 1,
+        "terrain_rock_ac_12": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_ex_daedric_ruins_spawn": 1
+      }
+    }
+  }
+}

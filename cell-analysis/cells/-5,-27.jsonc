@@ -1,0 +1,63 @@
+{
+  "cell": "-5,-27",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_bedroll": 1,
+        "com_sack_01": 1,
+        "com_sack_01_ingred": 1,
+        "com_sack_02_gold_05": 1,
+        "com_sack_02_ingred": 1,
+        "de_p_chest_02_gold_50": 1,
+        "ex_ashl_door_02": 1,
+        "ex_ashl_tent_02": 1,
+        "ex_siltstrider_02": 1,
+        "ex_siltstrider_04": 1,
+        "ex_siltstrider_05": 1,
+        "flora_ash_grass_r_01": 34,
+        "flora_ash_grass_w_01": 14,
+        "flora_ashtree_01": 3,
+        "flora_ashtree_02": 1,
+        "flora_ashtree_04": 3,
+        "flora_ashtree_05": 1,
+        "flora_ashtree_06": 1,
+        "flora_ashtree_07": 5,
+        "flora_rm_scathecraw_01": 5,
+        "flora_rm_scathecraw_02": 4,
+        "flora_trama_shrub_04": 4,
+        "flora_trama_shrub_05": 2,
+        "furn_ashl_bugbowl_02": 1,
+        "furn_de_firepit_f_01": 1,
+        "furn_hook_01": 1,
+        "guar_pack": 1,
+        "light_ashl_lantern_03": 1,
+        "t_de_woodenguar_01": 1,
+        "t_mw_fau_guarhrn_01": 1,
+        "t_mw_rstat_armund15orp": 1,
+        "terrain_ashland_rock_01": 7,
+        "terrain_ashland_rock_03": 8,
+        "terrain_ashland_rock_04": 1,
+        "terrain_ashland_rock_05": 1,
+        "terrain_ashland_rock_07": 5,
+        "terrain_ashland_rock_08": 6,
+        "terrain_ashland_rock_10": 2,
+        "terrain_ashland_rock_11": 5,
+        "terrain_ashland_rock_15": 8,
+        "terrain_ashland_rock_16": 38,
+        "terrain_ashmire_02": 1,
+        "tr_m4_adadnirai": 1,
+        "tr_m4_lugash": 1,
+        "tr_m4_sohemus": 1,
+        "tramaroot_02": 1,
+        "tramaroot_03": 2,
+        "urn_01_food": 1,
+        "urn_02_ingred": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_trader_ash": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cell": "Missamsi",
+  "name": "Missamsi",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_dreamersbell": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "modified": {
+        "in_lavacave4_00": 1
+      }
+    }
+  }
+}

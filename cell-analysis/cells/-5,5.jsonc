@@ -1,0 +1,30 @@
+{
+  "cell": "-5,5",
+  "plugins": {
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1,
+        "_aa_travelingtrader_hl_spawn": 1
+      }
+    },
+    "Creatures and Critters Light the Path.ESP": {
+      "added": {
+        "aa_cr_i_moth_all": 2
+      }
+    },
+    "TTD_UnderMassersGaze.esp": {
+      "added": {
+        "ab_ex_dwrvbuildbuttress01": 4,
+        "ab_ex_dwrvbuilddome": 1,
+        "ajira_ttd_escort": 1,
+        "terrain_rock_wg_01": 1,
+        "terrain_rock_wg_18": 1,
+        "terrain_rocks_wg_01": 1,
+        "terrain_rocks_wg_03": 1,
+        "ttd_borkul_ruin": 1,
+        "ttd_dwrv_build": 1,
+        "ttd_dwrv_door": 1
+      }
+    }
+  }
+}

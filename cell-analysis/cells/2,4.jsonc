@@ -1,0 +1,22 @@
+{
+  "cell": "2,4",
+  "name": "Ghostgate",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_ba_ghostgate": 1,
+        "gvrm_tem_g_ba_dun": 2
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_wise": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_travelingtrader_arm_spawn": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "cell": "Samarys Ancestral Tomb",
+  "name": "Samarys Ancestral Tomb",
+  "plugins": {
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_comp_erik": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "un_lord_lesser": 1,
+        "un_skeleton_arise": 1,
+        "urn_ash00": 1
+      },
+      "modified": {
+        "urn_ash00": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_skeleton_arise": 1,
+        "aa_cr_u_all_1": 1
+      }
+    },
+    "LootWellUrned.ESP": {
+      "added": {
+        "_uyl_light": 1,
+        "_uyl_samarys": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cell": "Vivec, Telvanni Monster Lab",
+  "name": "Vivec, Telvanni Monster Lab",
+  "plugins": {
+    "Holy Art.ESP": {
+      "added": {
+        "vd_velothismall_05": 1
+      }
+    },
+    "Unique Uniques.ESP": {
+      "modified": {
+        "dagoth dagger": 1
+      }
+    }
+  }
+}

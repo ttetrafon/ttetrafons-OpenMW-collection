@@ -1,0 +1,218 @@
+{
+  "cell": "Mournhold, Royal Palace: Guards' Quarters",
+  "name": "Mournhold, Royal Palace: Guards' Quarters",
+  "plugins": {
+    "Immersive Mournhold.esp": {
+      "added": {
+        "ab_furn_derchwallscreen": 2,
+        "nb_mourn_01_sm": 2,
+        "nb_mourn_02_cr": 2,
+        "nb_mourn_02_sm": 2
+      },
+      "modified": {
+        "common_shirt_06": 1,
+        "de_r_chest_01_alusan": 1,
+        "de_r_chest_01_diradeni2": 1,
+        "de_r_chest_01_drusus_g": 1,
+        "de_r_chest_01_irano": 1,
+        "t_de_furn_tapestryind_03b": 10,
+        "t_de_furn_tapestryind_05a": 4
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_r_bed_17": 6,
+        "bk_commontongue_irano": 1,
+        "bk_irano_note": 1,
+        "de_r_chest_01_alusan": 1,
+        "de_r_chest_01_aren": 1,
+        "de_r_chest_01_diradeni2": 1,
+        "de_r_chest_01_dralen": 1,
+        "de_r_chest_01_drusus_g": 1,
+        "de_r_chest_01_ervis_v": 1,
+        "in_mh_door_01": 2,
+        "in_mh_door_02": 4
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_r_bed_17": 6,
+        "bk_commontongue_irano": 1,
+        "bk_irano_note": 1,
+        "de_r_chest_01_alusan": 1,
+        "de_r_chest_01_aren": 1,
+        "de_r_chest_01_diradeni2": 1,
+        "de_r_chest_01_dralen": 1,
+        "de_r_chest_01_drusus_g": 1,
+        "de_r_chest_01_ervis_v": 1,
+        "in_mh_door_01": 2,
+        "in_mh_door_02": 4
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "tribunal::15951",
+      "object": "in_mh_door_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17206",
+      "object": "in_mh_door_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17207",
+      "object": "in_mh_door_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17208",
+      "object": "in_mh_door_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17209",
+      "object": "in_mh_door_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17210",
+      "object": "in_mh_door_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17330",
+      "object": "active_de_r_bed_17",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17334",
+      "object": "active_de_r_bed_17",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17337",
+      "object": "active_de_r_bed_17",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17339",
+      "object": "active_de_r_bed_17",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17340",
+      "object": "active_de_r_bed_17",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17343",
+      "object": "active_de_r_bed_17",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24114",
+      "object": "bk_irano_note",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24115",
+      "object": "bk_commontongue_irano",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25544",
+      "object": "de_r_chest_01_ervis_v",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25545",
+      "object": "de_r_chest_01_alusan",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25546",
+      "object": "de_r_chest_01_diradeni2",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25547",
+      "object": "de_r_chest_01_drusus_g",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25548",
+      "object": "de_r_chest_01_dralen",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25549",
+      "object": "de_r_chest_01_aren",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

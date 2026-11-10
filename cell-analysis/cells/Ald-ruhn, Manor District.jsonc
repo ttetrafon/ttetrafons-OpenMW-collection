@@ -1,0 +1,16 @@
+{
+  "cell": "Ald-ruhn, Manor District",
+  "name": "Ald-ruhn, Manor District",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_rdrnwtchmn_dunm_1": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_redoran guard_ran": 3
+      }
+    }
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "cell": "Ashmelech",
+  "name": "Ashmelech",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "tr_m0_passwall_act": 1
+      }
+    },
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_o_chest_prisashmel": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_smith": 1
+      }
+    },
+    "Tools of the Secret Master.esp": {
+      "added": {
+        "apparatus_sm_calcinator_01": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_bedroll": 1,
+        "bookskill_alchemy1": 1,
+        "common_robe_04": 1,
+        "de_p_chest_02_gold_25": 1,
+        "fur_bearskin_cuirass": 1,
+        "in_velothismall_ndoor_01": 7,
+        "ingred_scrib_jerky_01": 1,
+        "iron boots": 1,
+        "iron tanto": 1,
+        "light_de_candle_06_64": 1,
+        "misc_beaker_01": 1,
+        "misc_com_bottle_04": 1,
+        "misc_com_bottle_14": 1,
+        "pick_apprentice_01": 1,
+        "sound_haunted00": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_bedroll": 1,
+        "bookskill_alchemy1": 1,
+        "common_robe_04": 1,
+        "de_p_chest_02_gold_25": 1,
+        "fur_bearskin_cuirass": 1,
+        "in_velothismall_ndoor_01": 7,
+        "ingred_scrib_jerky_01": 1,
+        "iron boots": 1,
+        "iron tanto": 1,
+        "light_de_candle_06_64": 1,
+        "misc_beaker_01": 1,
+        "misc_com_bottle_04": 1,
+        "misc_com_bottle_14": 1,
+        "pick_apprentice_01": 1,
+        "sound_haunted00": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::194994",
+      "object": "in_velothismall_ndoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::195063",
+      "object": "in_velothismall_ndoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::195065",
+      "object": "in_velothismall_ndoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::195067",
+      "object": "in_velothismall_ndoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::195073",
+      "object": "in_velothismall_ndoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::195075",
+      "object": "in_velothismall_ndoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::306827",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::414149",
+      "object": "de_p_chest_02_gold_25",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::414150",
+      "object": "pick_apprentice_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::414151",
+      "object": "fur_bearskin_cuirass",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::414152",
+      "object": "iron boots",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::414153",
+      "object": "common_robe_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::414154",
+      "object": "ingred_scrib_jerky_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::414155",
+      "object": "misc_beaker_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::414156",
+      "object": "misc_com_bottle_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::414161",
+      "object": "bookskill_alchemy1",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::414162",
+      "object": "misc_com_bottle_14",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::414163",
+      "object": "iron tanto",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::414164",
+      "object": "light_de_candle_06_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::414171",
+      "object": "sound_haunted00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::195069",
+      "object": "in_velothismall_ndoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "cell": "Mournhold, Royal Palace: Barenziah's Chambers",
+  "name": "Mournhold, Royal Palace: Barenziah's Chambers",
+  "plugins": {
+    "Immersive Mournhold.esp": {
+      "added": {
+        "1jw_newchargenkollop": 1,
+        "ab_furn_derchwallscreen": 2,
+        "ab_fx_waterrect256a": 1,
+        "ab_light_deebcandle1pur_64": 2,
+        "ab_misc_decloth01large": 1,
+        "ab_misc_deebonybowl_01": 1,
+        "ab_misc_deebonycup_01": 1,
+        "ab_misc_deebonyflask_01": 4,
+        "ab_misc_deebonyglass_01": 3,
+        "ab_misc_deebonyinkwell_01": 1,
+        "ab_misc_deebonyplatter_01": 1,
+        "ab_misc_depillowl_06": 2,
+        "ab_misc_hairsilvercomb": 1,
+        "ab_o_comtrinketboxjewlr": 1,
+        "dim_barenzbox": 1,
+        "dim_barenzring": 1,
+        "ex_mh_bazaar_planter_02": 1,
+        "flora_grass_06": 8,
+        "flora_kelp_01": 1,
+        "flora_plant_02": 6,
+        "flora_plant_03": 9,
+        "furn_banner_hanger_01": 2,
+        "furn_banner_helseth_02": 2,
+        "furn_de_r_bench_01": 1,
+        "furn_de_r_chair_03": 2,
+        "furn_de_r_table_07": 1,
+        "furn_de_r_table_08": 1,
+        "furn_de_r_table_09": 1,
+        "furn_museum_display_02": 1,
+        "furn_planter_mh_01": 2,
+        "ingred_diamond_01": 1,
+        "ingred_emerald_01": 1,
+        "ingred_ruby_01": 1,
+        "ingred_timsa-come-by_01": 4,
+        "light_bar5_out_unique": 1,
+        "light_bar7_out_unique": 1,
+        "light_bar7_unique": 1,
+        "light_bar8_unique": 1,
+        "light_de_candle_02_64": 1,
+        "llcs_incense_burnrer_02": 1,
+        "misc_quill": 1,
+        "nb_mourn_01_sq": 1,
+        "potion_cyro_brandy_01": 1,
+        "potion_cyro_whiskey_01": 2,
+        "rp_mh_sand": 1,
+        "sc_paper plain": 1,
+        "t_de_furn_rug_19": 1,
+        "t_de_furn_tapestryind_04": 1,
+        "t_de_furn_tapestryind_05a": 1,
+        "t_de_setind_x_smallwall_01": 1,
+        "t_de_setind_x_smallwall_02": 1,
+        "t_glb_flora_wtlilywht01": 2,
+        "t_imp_handmirror_01": 1,
+        "t_imp_pillowsilk_01": 3,
+        "t_imp_pillowvelvetred_01": 2
+      },
+      "modified": {
+        "active_de_r_bed_20": 1,
+        "bk_bookdawnanddusk": 1,
+        "chest_small_01_gold_50": 1,
+        "furn_de_r_chair_03": 3,
+        "furn_de_r_table_09": 2,
+        "gold_005": 2,
+        "gold_010": 1,
+        "light_bar5_unique": 1,
+        "light_bar8_out_unique": 1,
+        "t_de_furn_tapestryind_04": 5
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_assassin_unique": 1,
+        "de_r_chest_01_gold1": 1,
+        "de_r_chest_01_mcloth2": 1,
+        "in_mh_door_02_bar1_uni": 1,
+        "in_mh_door_02_bar2_uni": 1,
+        "in_mh_door_02_bar4_uni": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_assassin_unique": 1,
+        "de_r_chest_01_gold1": 1,
+        "de_r_chest_01_mcloth2": 1,
+        "in_mh_door_02_bar1_uni": 1,
+        "in_mh_door_02_bar2_uni": 1,
+        "in_mh_door_02_bar4_uni": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "tribunal::17041",
+      "object": "in_mh_door_02_bar4_uni",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::22248",
+      "object": "active_assassin_unique",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::22247",
+      "object": "in_mh_door_02_bar1_uni",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24360",
+      "object": "in_mh_door_02_bar2_uni",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25611",
+      "object": "de_r_chest_01_mcloth2",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::25612",
+      "object": "de_r_chest_01_gold1",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

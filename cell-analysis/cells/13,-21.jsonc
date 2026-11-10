@@ -1,0 +1,72 @@
+{
+  "cell": "13,-21",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "contain_trama_shrub_01": 2,
+        "contain_trama_shrub_03": 1,
+        "contain_trama_shrub_04": 1,
+        "contain_trama_shrub_06": 1,
+        "ex_velothi_tower_01": 1,
+        "flora_ash_grass_b_01": 10,
+        "flora_ash_grass_r_01": 4,
+        "flora_ash_yam_01": 1,
+        "flora_red_lichen_01": 1,
+        "flora_rm_scathecraw_02": 2,
+        "furn_com_fence_01": 1,
+        "t_com_setmw_signwayalmasthrr_01": 1,
+        "t_com_setmw_signwaydarvon_01": 1,
+        "t_com_setmw_signwayoldebonh_01": 1,
+        "t_glb_blackdoor_02": 1,
+        "t_mw_cr_parastylus": 1,
+        "t_mw_fauna_ventworm_01": 1,
+        "t_mw_fauna_ventworm_02": 1,
+        "t_mw_fauna_ventworm_04": 1,
+        "t_mw_flora_blackrose01": 1,
+        "t_mw_flora_scathecraw03": 1,
+        "t_mw_flora_scathecraw04": 1,
+        "t_mw_flora_scathecraw05": 1,
+        "t_mw_flora_scathecraw07": 1,
+        "t_mw_flora_scathecraw08": 1,
+        "t_mw_florass_rougecam01": 5,
+        "t_mw_florass_rougecam02": 3,
+        "t_mw_florass_rougecam03": 2,
+        "t_mw_florass_rougecam04": 6,
+        "t_mw_lvl_cliffracers+0": 1,
+        "t_mw_rlvl_sunderedscarland+0": 3,
+        "t_mw_terrmineralpoolss_01": 3,
+        "t_mw_terrmineralpoolss_02": 1,
+        "t_mw_terrrockma_caveentr_10": 1,
+        "t_mw_terrrockss_rock_02": 1,
+        "t_mw_terrrockss_rock_06": 7,
+        "t_mw_terrrockss_rock_49": 3,
+        "t_mw_terrrockss_rock_53": 1,
+        "t_mw_terrrockss_rock_550": 13,
+        "t_mw_terrrockss_rock_57": 4,
+        "t_mw_terrrockss_rock_58": 1,
+        "t_mw_terrrockss_rock_67": 1,
+        "t_mw_terrrocksss_rock_02": 1,
+        "t_mw_terrrocksss_rock_07": 1,
+        "t_mw_terrrocksss_rock_09": 8,
+        "t_mw_terrrocksss_rock_10": 3,
+        "t_mw_terrrocksss_rock_13": 2,
+        "t_mw_terrrocksss_rock_40": 6,
+        "t_mw_terrrocksss_rock_53": 6,
+        "t_mw_terrrocksss_rock_550": 4,
+        "t_mw_terrrocksss_rock_58": 1,
+        "t_mw_terrrocksss_rock_59": 3,
+        "t_mw_terrrocksss_rock_67": 1,
+        "terrain_rock_ma_01": 3,
+        "terrain_rock_ma_04": 2,
+        "terrain_rock_ma_07": 1,
+        "terrain_rock_ma_19": 2,
+        "terrain_rock_ma_39": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "cell": "Vivec, Elven Nations Cornerclub",
+  "name": "Vivec, Elven Nations Cornerclub",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "furn_com_rm_barstool": 3,
+        "gvrm_am_marker": 2,
+        "gvrm_hla_dun_s+e": 2,
+        "gvrm_hla_dun_s+e+trav": 1
+      }
+    },
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_tawern_amb00": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_bard15": 1,
+        "am_eaterday07": 1
+      },
+      "modified": {
+        "furn_com_rm_bench_02": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_thief": 1,
+        "aa_wares_trader": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_com_bar_door": 1,
+        "in_velothismall_ndoor_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_com_bar_door": 1,
+        "in_velothismall_ndoor_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::201990",
+      "object": "active_com_bar_door",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::202030",
+      "object": "in_velothismall_ndoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

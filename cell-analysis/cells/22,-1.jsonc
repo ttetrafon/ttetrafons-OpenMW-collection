@@ -1,0 +1,21 @@
+{
+  "cell": "22,-1",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_t_rock_coastal_01": 1,
+        "t_mw_rlvl_boethiahspinewater+2": 1,
+        "t_mw_rlvl_innerseawater+0": 1,
+        "t_mw_rlvl_innerseawater+2": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "misc_com_bottle_14": 1,
+        "xero_corpse10_water": 1,
+        "xero_east_crate": 1,
+        "xero_marker": 1
+      }
+    }
+  }
+}

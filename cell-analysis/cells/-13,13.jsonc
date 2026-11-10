@@ -1,0 +1,23 @@
+{
+  "cell": "-13,13",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "ingred_muck_01": 4,
+        "xero_chest_empty": 1,
+        "xero_marker": 1,
+        "xero_north_chest": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_night_only_exterior_undea": 1
+      }
+    }
+  }
+}

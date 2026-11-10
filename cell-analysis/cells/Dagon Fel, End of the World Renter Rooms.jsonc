@@ -1,0 +1,69 @@
+{
+  "cell": "Dagon Fel, End of the World Renter Rooms",
+  "name": "Dagon Fel, End of the World Renter Rooms",
+  "plugins": {
+    "Expansions Integrated.esp": {
+      "added": {
+        "potion_nord_mead": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_pawn": 1,
+        "aa_wares_thief": 1,
+        "aa_wares_trader": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_destructionaltbook": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_com_bed_02": 1,
+        "in_c_door_arched": 3
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_com_bed_02": 1,
+        "in_c_door_arched": 3
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::213602",
+      "object": "active_com_bed_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::213646",
+      "object": "in_c_door_arched",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::213647",
+      "object": "in_c_door_arched",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::213648",
+      "object": "in_c_door_arched",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

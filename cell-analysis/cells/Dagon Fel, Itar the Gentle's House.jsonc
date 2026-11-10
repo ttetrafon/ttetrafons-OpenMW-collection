@@ -1,0 +1,26 @@
+{
+  "cell": "Dagon Fel, Itar the Gentle's House",
+  "name": "Dagon Fel, Itar the Gentle's House",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "misc_com_wood_spoon_02": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "misc_com_wood_spoon_02": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::441585",
+      "object": "misc_com_wood_spoon_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

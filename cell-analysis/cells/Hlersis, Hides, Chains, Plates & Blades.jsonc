@@ -1,0 +1,68 @@
+{
+  "cell": "Hlersis, Hides, Chains, Plates & Blades",
+  "name": "Hlersis, Hides, Chains, Plates & Blades",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_p_bed_28": 1,
+        "com_sack_01": 3,
+        "com_sack_01_chpfood5": 1,
+        "com_sack_02": 2,
+        "com_sack_02_chpfood3": 2,
+        "com_sack_02_gold_05": 1,
+        "com_sack_03": 1,
+        "crate_01": 4,
+        "crate_01_armor_chitin": 1,
+        "crate_01_armor_fur": 1,
+        "crate_01_armorchitin_me": 1,
+        "crate_01_armornetch_mel": 1,
+        "crate_01_de_weaponsmult": 1,
+        "de_drawers_02_empty": 1,
+        "de_p_chest_02_gold_25": 1,
+        "de_p_chest_02_pos5": 1,
+        "de_p_closet_02_de_mclot": 1,
+        "dragonscale_helm": 1,
+        "ex_velothicave_door_01": 1,
+        "furn_de_p_stool_02": 1,
+        "furn_de_p_table_04": 1,
+        "furn_de_p_table_05": 1,
+        "furn_de_rug_01": 1,
+        "furn_de_rug_big_08": 1,
+        "furn_de_screen_guar_01": 7,
+        "in_mudcave_stal10": 2,
+        "in_mudcave_stal30": 1,
+        "in_mudcave_stal50": 1,
+        "in_velothicave_02": 1,
+        "light_de_candle_18_64": 1,
+        "light_de_lamp_05_256": 1,
+        "misc_de_pot_blue_01": 1,
+        "misc_uni_pillow_02": 1,
+        "nordic_ringmail_cuirass": 1,
+        "northmarker": 1,
+        "t_com_steel_pauldronl_03": 1,
+        "t_de_dreugh_bracerl_01": 1,
+        "t_imp_legion_dagger_01": 1,
+        "t_mwcom_var_cr1wpniron": 1,
+        "t_mwcom_var_cr1wpnstl": 1,
+        "t_nor_bearskin_boots_01": 1,
+        "tr_i2-309_crate_iron01": 1,
+        "tr_i2-309_crate_iron02": 1,
+        "tr_i2-309_crate_ma01": 1,
+        "tr_i2-309_crate_ma02": 1,
+        "tr_i2-309_crate_ma03": 1,
+        "tr_i2-309_crate_steel01": 1,
+        "tr_m2_dalam_rethre": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_trader": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_in_smith_spawn": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "cell": "36,-24",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "flora_bush_01": 6,
+        "flora_corkbulb": 17,
+        "flora_plant_01": 16,
+        "flora_sedge_01": 10,
+        "flora_tree_gl_01": 1,
+        "flora_tree_gl_02": 1,
+        "flora_tree_gl_03": 2,
+        "flora_tree_gl_05": 3,
+        "flora_tree_gl_06": 2,
+        "flora_tree_gl_08": 2,
+        "flora_tree_gl_09": 1,
+        "flora_tree_gl_10": 1,
+        "flora_tree_gl_11": 1,
+        "flora_tree_mh_01": 5,
+        "flora_tree_mh_02": 28,
+        "flora_tree_wg_01": 1,
+        "furn_de_lightpost_01": 2,
+        "light_de_lantern_03_s_256": 2,
+        "t_de_setmh_x_b_window_01": 2,
+        "t_mw_rstat_wildernessd05": 1,
+        "terrain_rock_wg_01": 1,
+        "terrain_rock_wg_02": 4,
+        "terrain_rock_wg_04": 1,
+        "terrain_rock_wg_05": 1,
+        "terrain_rock_wg_06": 1,
+        "terrain_rock_wg_07": 1,
+        "terrain_rock_wg_08": 5,
+        "terrain_rock_wg_10": 1,
+        "terrain_rock_wg_14": 5,
+        "terrain_rock_wg_15": 3,
+        "terrain_rock_wg_16": 3,
+        "terrain_rock_wg_17": 3,
+        "terrain_rock_wg_18": 7,
+        "terrain_rocks_wg_01": 13,
+        "terrain_rocks_wg_02": 1,
+        "terrain_rocks_wg_03": 13
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

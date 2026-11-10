@@ -1,0 +1,43 @@
+{
+  "cell": "24,-7",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_velothi_entrance_02": 1,
+        "ex_velothi_loaddoor_01": 1,
+        "ex_vivec_ent_t_01": 1,
+        "flora_kreshweed_01": 6,
+        "flora_kreshweed_02": 1,
+        "flora_kreshweed_03": 21,
+        "flora_root_wg_01": 2,
+        "flora_root_wg_02": 1,
+        "flora_root_wg_03": 2,
+        "flora_root_wg_04": 3,
+        "flora_stoneflower_01": 5,
+        "flora_stoneflower_02": 4,
+        "flora_tree_wg_01": 1,
+        "flora_tree_wg_07": 1,
+        "skeleton entrance": 1,
+        "terrain_rock_wg_01": 3,
+        "terrain_rock_wg_02": 2,
+        "terrain_rock_wg_05": 3,
+        "terrain_rock_wg_07": 4,
+        "terrain_rock_wg_08": 7,
+        "terrain_rock_wg_09": 3,
+        "terrain_rock_wg_10": 2,
+        "terrain_rock_wg_12": 5,
+        "terrain_rock_wg_14": 2,
+        "terrain_rock_wg_17": 6,
+        "terrain_rocks_wg_01": 5,
+        "terrain_rocks_wg_02": 13,
+        "terrain_rocks_wg_03": 21,
+        "terrain_rocks_wg_04": 6
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_ex_tomb_spawn": 1
+      }
+    }
+  }
+}

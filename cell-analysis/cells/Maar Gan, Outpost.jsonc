@@ -1,0 +1,202 @@
+{
+  "cell": "Maar Gan, Outpost",
+  "name": "Maar Gan, Outpost",
+  "plugins": {
+    "NOD - Core.esm": {
+      "added": {
+        "nod_hat_ash_ah_dustmask": 1,
+        "nod_hat_ash_r0_gogglehood_w": 1,
+        "rp_al_equipment": 1
+      },
+      "modified": {
+        "arvso tharen": 1,
+        "steel shortsword": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_priest": 1,
+        "aa_wares_smith_redo": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_ajulaalteration": 1,
+        "bc3000_fuelfiredagger": 1,
+        "bc3000_oiljar": 3
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_smith_spawn": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bk_ravilamemorial": 1,
+        "flora_rm_scathecraw_01": 2,
+        "flora_rm_scathecraw_02": 2,
+        "furn_de_bar_01": 5,
+        "furn_de_bar_02": 2,
+        "furn_de_bar_03": 2,
+        "furn_de_bar_04": 2,
+        "silver viperslayer": 1
+      }
+    },
+    "D2Items.esp": {
+      "modified": {
+        "_d2_bonemold_gah-julan_helm": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bk_ravilamemorial": 1,
+        "flora_rm_scathecraw_01": 2,
+        "flora_rm_scathecraw_02": 2,
+        "furn_de_bar_01": 5,
+        "furn_de_bar_02": 2,
+        "furn_de_bar_03": 2,
+        "furn_de_bar_04": 2,
+        "silver viperslayer": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::233261",
+      "object": "furn_de_bar_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::233262",
+      "object": "furn_de_bar_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::233263",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::233264",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::233265",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::233346",
+      "object": "furn_de_bar_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::233347",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::233348",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::233350",
+      "object": "furn_de_bar_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::233401",
+      "object": "bk_ravilamemorial",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309863",
+      "object": "furn_de_bar_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::309864",
+      "object": "furn_de_bar_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::393457",
+      "object": "flora_rm_scathecraw_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::393459",
+      "object": "flora_rm_scathecraw_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::393461",
+      "object": "flora_rm_scathecraw_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::393463",
+      "object": "flora_rm_scathecraw_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::460135",
+      "object": "silver viperslayer",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "cell": "32,-8",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_de_railing_02": 2,
+        "ex_de_railing_03": 1,
+        "flora_hackle-lo_01": 6,
+        "flora_hackle-lo_02": 4,
+        "flora_tree_gl_01": 2,
+        "flora_tree_gl_02": 3,
+        "flora_tree_gl_04": 2,
+        "flora_tree_gl_05": 6,
+        "flora_tree_gl_06": 1,
+        "flora_tree_gl_08": 1,
+        "flora_tree_gl_09": 1,
+        "flora_tree_gl_10": 3,
+        "flora_wickwheat_01": 20,
+        "flora_wickwheat_02": 6,
+        "flora_wickwheat_03": 7,
+        "flora_wickwheat_04": 8,
+        "t_mw_rlvl_mephalanvalesland+0": 1,
+        "terrain_rock_gl_01": 2,
+        "terrain_rock_gl_02": 5,
+        "terrain_rock_gl_03": 6,
+        "terrain_rock_gl_04": 2,
+        "terrain_rock_gl_05": 4,
+        "terrain_rock_gl_06": 2,
+        "terrain_rock_gl_07": 5,
+        "terrain_rock_gl_08": 7,
+        "terrain_rock_gl_09": 4,
+        "terrain_rock_gl_10": 4,
+        "terrain_rock_gl_11": 4,
+        "terrain_rock_gl_12": 7,
+        "terrain_rock_wg_10": 2,
+        "terrain_rocks_gl_01": 7,
+        "terrain_rocks_gl_03": 5,
+        "terrain_rocks_gl_04": 1,
+        "terrain_rocks_wg_01": 1,
+        "terrain_rocks_wg_02": 8
+      }
+    },
+    "RepopulatedMainland.ESP": {
+      "added": {
+        "gvrm_slv_f2_cm_k_all+arg+trcpy": 1
+      }
+    }
+  }
+}

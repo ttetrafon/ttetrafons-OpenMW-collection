@@ -1,0 +1,34 @@
+{
+  "cell": "Caldera, Mining Bunkhouse",
+  "name": "Caldera, Mining Bunkhouse",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_com_bunk_01": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_com_bunk_01": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::173010",
+      "object": "active_com_bunk_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::173012",
+      "object": "active_com_bunk_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

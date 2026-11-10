@@ -1,0 +1,21 @@
+{
+  "cell": "Dreloth Ancestral Tomb",
+  "name": "Dreloth Ancestral Tomb",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "un_lich_skull_leveled": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_u_all_1": 1
+      }
+    },
+    "LootWellUrned.ESP": {
+      "added": {
+        "_uyl_dreloth": 1
+      }
+    }
+  }
+}

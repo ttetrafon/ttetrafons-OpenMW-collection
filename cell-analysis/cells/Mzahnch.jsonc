@@ -1,0 +1,17 @@
+{
+  "cell": "Mzahnch",
+  "name": "Mzahnch",
+  "plugins": {
+    "The Doors of Oblivion 1.4.esp": {
+      "added": {
+        "bs_m_centurions_ball_sm": 1,
+        "p_dwemer_lubricant00": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_cliffshaver": 1
+      }
+    }
+  }
+}

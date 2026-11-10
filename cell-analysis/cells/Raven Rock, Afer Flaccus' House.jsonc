@@ -1,0 +1,83 @@
+{
+  "cell": "Raven Rock, Afer Flaccus' House",
+  "name": "Raven Rock, Afer Flaccus' House",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "ex_colony_door04": 1,
+        "light_logpile_128": 1,
+        "sp_bm_colony_i_fireplace_01": 1,
+        "t_imp_furn_tapestrywool_01": 5,
+        "t_imp_furn_tapestrywoollarge_02": 1
+      },
+      "modified": {
+        "com_basket_01_pos": 1,
+        "com_sack_01_ingred": 2,
+        "furn_colony_shelf06": 1,
+        "light_com_candle_07": 1,
+        "misc_com_redware_pitcher": 1,
+        "misc_uni_pillow_01": 1,
+        "northmarker": 1,
+        "urn_05_food": 1
+      }
+    },
+    "GITD_WL_RR_Interiors.esp": {
+      "added": {
+        "gitd_in_colony_win_01": 1,
+        "gitd_in_colony_win_03": 5,
+        "gitd_in_colony_win_04": 1
+      },
+      "modified": {
+        "furn_colony_shelf06": 1,
+        "furn_colony_win01": 1,
+        "light_com_candle_07": 2,
+        "misc_com_bottle_15": 2,
+        "misc_com_redware_pitcher": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "ex_colony_door04": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "ex_colony_door04": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::25242",
+      "object": "misc_com_redware_pitcher",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "GITD_WL_RR_Interiors.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::25243",
+      "object": "light_com_candle_07",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "GITD_WL_RR_Interiors.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::25244",
+      "object": "furn_colony_shelf06",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "GITD_WL_RR_Interiors.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::20986",
+      "object": "ex_colony_door04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

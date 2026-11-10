@@ -1,0 +1,26 @@
+{
+  "cell": "Erabenimsun Camp, Ranabi's Yurt",
+  "name": "Erabenimsun Camp, Ranabi's Yurt",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "light_de_lantern_02_128": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "light_de_lantern_02_128": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::441871",
+      "object": "light_de_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

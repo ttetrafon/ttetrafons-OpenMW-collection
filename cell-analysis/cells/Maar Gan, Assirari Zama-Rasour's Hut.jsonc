@@ -1,0 +1,34 @@
+{
+  "cell": "Maar Gan, Assirari Zama-Rasour's Hut",
+  "name": "Maar Gan, Assirari Zama-Rasour's Hut",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "misc_clothbolt_03": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "misc_clothbolt_03": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::214543",
+      "object": "misc_clothbolt_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::393269",
+      "object": "misc_clothbolt_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

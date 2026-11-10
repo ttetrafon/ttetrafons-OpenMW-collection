@@ -1,0 +1,54 @@
+{
+  "cell": "Vivec, Telvanni Alchemist",
+  "name": "Vivec, Telvanni Alchemist",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_tlv_al_cm_dun_30": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_alchemist": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "flora_bc_podplant_02": 1,
+        "flora_bc_podplant_04": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "flora_bc_podplant_02": 1,
+        "flora_bc_podplant_04": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::443389",
+      "object": "flora_bc_podplant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::443390",
+      "object": "flora_bc_podplant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::443391",
+      "object": "flora_bc_podplant_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

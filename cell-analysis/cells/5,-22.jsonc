@@ -1,0 +1,55 @@
+{
+  "cell": "5,-22",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "blue water ref 128": 8,
+        "blue water ref 256": 5,
+        "blue water ref 512": 3,
+        "ex_barnacles_01": 10,
+        "ex_barnacles_02": 12,
+        "ex_barnacles_03": 12,
+        "ex_barnacles_04": 1,
+        "ex_barnacles_06": 1,
+        "ex_de_docks_pilings": 1,
+        "flora_comberry_01": 1,
+        "flora_corkbulb": 1,
+        "flora_kelp_01": 14,
+        "flora_kelp_02": 37,
+        "flora_kelp_03": 16,
+        "flora_kelp_04": 8,
+        "flora_sedge_02": 2,
+        "kollop_02_pearl": 2,
+        "kollop_03_pearl": 9,
+        "t_mw_cr_mudcrab": 2,
+        "t_mw_cr_slaugherfish": 1,
+        "t_mw_cr_slaugherfishsmall": 2,
+        "t_mw_flora_lichenor01": 1,
+        "t_mw_floraat_oranmoss02": 2,
+        "t_mw_floraat_treeg_03": 2,
+        "t_mw_terrrockat_rock_01": 4,
+        "t_mw_terrrockat_rock_02": 2,
+        "t_mw_terrrockat_rock_03": 1,
+        "t_mw_terrrockat_rock_05": 2,
+        "t_mw_terrrockat_rock_08": 3,
+        "t_mw_terrrockat_rock_10": 1,
+        "t_mw_terrrockat_rock_12": 1,
+        "t_mw_terrrockat_rock_14": 3,
+        "t_mw_terrrockat_rock_15": 5,
+        "t_mw_terrrockat_rock_17": 2,
+        "t_mw_terrrockat_rock_18": 1,
+        "t_mw_terrrockat_rock_21": 1,
+        "t_mw_terrrockat_rock_23": 1,
+        "t_mw_terrrockat_rock_30": 1,
+        "t_mw_terrrockat_rockgrp_01": 12,
+        "t_mw_terrrockat_rockgrp_02": 1,
+        "t_mw_terrrockat_rockgrp_03": 14
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

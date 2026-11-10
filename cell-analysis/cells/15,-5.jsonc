@@ -1,0 +1,15 @@
+{
+  "cell": "15,-5",
+  "plugins": {
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_ex_dwe_spawn": 1
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_cm_centurion_spider": 1
+      }
+    }
+  }
+}

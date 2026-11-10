@@ -1,0 +1,17 @@
+{
+  "cell": "Aleft",
+  "name": "Aleft",
+  "plugins": {
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_a_buck_dwemer_h": 1,
+        "aatl_m_cook_dwe_pot": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_jelfhutechelmet": 1
+      }
+    }
+  }
+}

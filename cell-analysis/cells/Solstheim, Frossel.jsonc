@@ -1,0 +1,16 @@
+{
+  "cell": "Solstheim, Frossel",
+  "name": "Solstheim, Frossel",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "bm_ka_door_dark_02": 1
+      }
+    },
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_npc_necro_cicerean": 1
+      }
+    }
+  }
+}

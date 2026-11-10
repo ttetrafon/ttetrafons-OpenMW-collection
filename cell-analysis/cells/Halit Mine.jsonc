@@ -1,0 +1,43 @@
+{
+  "cell": "Halit Mine",
+  "name": "Halit Mine",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 2,
+        "gvrm_un_mn_cm_dun": 6
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_miner3": 1,
+        "am_miner4": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "misc_skull00": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_imperial guard_ran": 4
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "misc_skull00": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::334157",
+      "object": "misc_skull00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

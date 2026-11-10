@@ -1,0 +1,57 @@
+{
+  "cell": "9,-30",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "a_ex_de_rowboat": 1,
+        "door_cavern_doors10": 1,
+        "ex_de_docks_center": 1,
+        "ex_de_docks_end": 2,
+        "ex_de_shack_04": 1,
+        "ex_de_shack_door": 1,
+        "ex_v_foundation_02": 1,
+        "ex_vivec_b_gap_t_01": 1,
+        "ex_vivec_w_e_01": 3,
+        "flora_comberry_01": 6,
+        "flora_emp_parasol_02": 1,
+        "flora_sedge_02": 5,
+        "food_kwama_egg_02": 2,
+        "furn_cart00": 1,
+        "furn_de_lightpost_01": 3,
+        "light_de_paper_lantern_01_128": 3,
+        "light_tikitorch00_256": 1,
+        "t_glb_flora_fern_01": 3,
+        "t_mw_cr_kwamaworker": 1,
+        "t_mw_cr_scrib": 2,
+        "t_mw_cr_slaugherfish": 1,
+        "t_mw_cr_slaugherfishsmall": 1,
+        "t_mw_flora_shroomtableo_06": 2,
+        "t_mw_floraat_lily_01": 10,
+        "t_mw_floraat_lilypadorange_01": 23,
+        "t_mw_floraat_lilypadorange_03": 4,
+        "t_mw_floraat_treeb_05": 1,
+        "t_mw_floraat_treeg_03": 1,
+        "t_mw_floraat_treeg_06": 1,
+        "t_mw_stat_fishpassive": 1,
+        "t_mw_terrrockat_caveentr_01": 1,
+        "t_mw_terrrockat_rock_05": 1,
+        "t_mw_terrrockat_rock_07": 2,
+        "t_mw_terrrockat_rock_08": 5,
+        "t_mw_terrrockat_rock_10": 2,
+        "t_mw_terrrockat_rock_16": 1,
+        "t_mw_terrrockat_rock_18": 4,
+        "t_mw_terrrockat_rock_20": 4,
+        "t_mw_terrrockat_rock_28": 1,
+        "t_mw_terrrockat_rock_30": 1,
+        "t_mw_terrrockat_rockgrp_01": 7,
+        "t_mw_terrrockat_rockgrp_03": 20,
+        "t_mw_terrrockat_rockgrp_04": 1
+      }
+    },
+    "RepopulatedMainland.ESP": {
+      "added": {
+        "gvrm_dun_fish_sit_trcpy": 1
+      }
+    }
+  }
+}

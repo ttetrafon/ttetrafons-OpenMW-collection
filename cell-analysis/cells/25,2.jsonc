@@ -1,0 +1,42 @@
+{
+  "cell": "25,2",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_t_menhir_l_01": 39,
+        "ex_t_rock_coastal_01": 1,
+        "ex_t_rock_coastal_02": 12,
+        "flora_emp_parasol_01": 1,
+        "flora_emp_parasol_02": 2,
+        "flora_emp_parasol_03": 1,
+        "flora_gold_kanet_02": 2,
+        "flora_kreshweed_01": 4,
+        "flora_kreshweed_02": 6,
+        "flora_stoneflower_01": 2,
+        "flora_stoneflower_02": 1,
+        "flora_t_podbud_01": 4,
+        "flora_t_podbud_02": 1,
+        "flora_t_podbud_03": 3,
+        "flora_t_podbud_04": 2,
+        "flora_tree_ac_01": 1,
+        "flora_tree_ac_02": 1,
+        "flora_tree_ac_04": 1,
+        "t_mw_flora_blackrose01": 2,
+        "t_mw_lvl_beetles-2": 3,
+        "t_mw_rlvl_boethiahspinesky+2": 3,
+        "terrain_rock_ac_01": 2,
+        "terrain_rock_ac_07": 7,
+        "terrain_rock_ac_08": 3,
+        "terrain_rock_ac_09": 4,
+        "terrain_rock_ac_10": 1,
+        "terrain_rock_ac_11": 3,
+        "terrain_rock_ac_12": 3
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

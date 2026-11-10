@@ -1,0 +1,113 @@
+{
+  "cell": "-10,5",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_old_merch_01": 1,
+        "_cor_ship_bc_rocks_01": 3,
+        "_cor_ship_de_shack_plank_03_a": 5,
+        "_cor_ship_old_man": 1,
+        "_cor_ship_oldman_chest": 1,
+        "_cor_ship_oldman_key": 1,
+        "ab_ex_deshipwrfloorcorner": 2,
+        "ab_ex_deshipwrfrontside": 1,
+        "ab_ex_deshipwrmast03": 1,
+        "ab_ex_deshipwrrmastyard": 2,
+        "ab_ex_deshipwrsteps": 1,
+        "ab_ex_deshipwrwall02": 1,
+        "ab_furn_barrel01broken01": 1,
+        "ab_furn_barrel01broken02": 1,
+        "ab_furn_barrel01lid": 1,
+        "ab_furn_barrel01plank": 2,
+        "ab_furn_barrel01ring02": 1,
+        "ab_furn_barrel02broken01": 1,
+        "ab_furn_barrel02broken02": 1,
+        "ab_furn_bkruinedpages": 1,
+        "ab_furn_bkruinedpile01": 1,
+        "ab_furn_boneskel01half": 1,
+        "ab_furn_boneskelhandl": 1,
+        "ab_furn_boneskelskullupper": 2,
+        "ab_furn_cartwheel": 1,
+        "ab_furn_combucket02": 1,
+        "ab_furn_crate03lid": 1,
+        "ab_furn_cratebroken02": 3,
+        "ab_furn_cratebroken04": 1,
+        "ab_furn_cratebroken05": 1,
+        "ab_furn_cratebrokenside01": 1,
+        "ab_furn_cratebrokenwood01": 2,
+        "ab_furn_cratebrokenwood02": 5,
+        "ab_furn_cratefgopen": 1,
+        "ab_furn_demarketstandc04": 1,
+        "ab_furn_derugbig06torn": 1,
+        "ab_furn_ropecoilhang": 1,
+        "ab_furn_ropewashhalf02": 1,
+        "ab_furn_urnbroken01": 1,
+        "ab_furn_urnbrokenash03": 1,
+        "ab_furn_urnlid": 1,
+        "ab_furn_urnshard06": 1,
+        "ab_furn_urnshard07": 1,
+        "ab_furn_urnshell02": 1,
+        "ab_furn_urnshell03": 1,
+        "ab_ingcrea_sfmeat_01": 2,
+        "ab_ingmine_goldpearl_01": 1,
+        "ab_misc_ashlflute": 1,
+        "ab_misc_cointriune10": 1,
+        "ab_misc_comcard03": 1,
+        "ab_misc_comcard07": 1,
+        "ab_misc_comcard09": 1,
+        "ab_misc_comcard12": 1,
+        "ab_misc_comcarddeck01": 1,
+        "ab_misc_comkagoutihorn": 1,
+        "ab_misc_degreenglasscup_01": 1,
+        "ab_misc_degreenplate": 1,
+        "ab_misc_dice": 1,
+        "ab_misc_drinkflin": 1,
+        "ab_misc_dwbust": 1,
+        "ab_misc_dwgyro00": 1,
+        "ab_misc_dwrvlanternbroken": 1,
+        "ab_misc_impcanteen": 1,
+        "ab_misc_shearssilver": 1,
+        "ab_o_bucketfillsfish": 1,
+        "ab_o_crate01clothcom": 1,
+        "ab_r_sfishsmalllay": 1,
+        "ab_w_ironrapiersha": 1,
+        "apparatus_a_spipe_01": 1,
+        "contain_corpse_water": 1,
+        "ex_barnacles_02": 2,
+        "ex_barnacles_05": 3,
+        "flora_bc_fern_04": 1,
+        "furn_de_rope_07": 1,
+        "ingred_moon_sugar_01": 1,
+        "light_de_lantern_10": 1,
+        "light_de_lantern_14": 1,
+        "misc_dwrv_coin00": 3,
+        "misc_soulgem_greater": 1
+      },
+      "modified": {
+        "_cor_ship_de_shack_plank_03_a": 3,
+        "barrel_01_empty": 1,
+        "barrel_shoes": 1,
+        "flora_bc_fern_04": 1,
+        "flora_bc_grass_01": 1
+      }
+    },
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_swamp_1": 1,
+        "sound_swamp_2": 1
+      }
+    },
+    "BC Sounds Naturalized.esp": {
+      "added": {
+        "opn_sound_swamp_1": 1,
+        "opn_sound_swamp_2": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_marker": 1,
+        "xero_west_sack": 1
+      }
+    }
+  }
+}

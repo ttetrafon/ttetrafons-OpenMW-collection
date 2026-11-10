@@ -1,0 +1,53 @@
+{
+  "cell": "Balmora, The Razor Hole",
+  "name": "Balmora, The Razor Hole",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_smith": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_hlaalu guard_ran": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "steel crossbow": 1
+      }
+    },
+    "Unique Uniques.ESP": {
+      "modified": {
+        "dwarven axe_soultrap": 1
+      }
+    },
+    "Enchanted Batons.ESP": {
+      "modified": {
+        "com_chest_02_v_weapon06": 1,
+        "com_chest_02_v_weapon07": 1,
+        "thorek": 1
+      }
+    },
+    "D2Items.esp": {
+      "modified": {
+        "furn_de_tapestry_07": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "steel crossbow": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::440510",
+      "object": "steel crossbow",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

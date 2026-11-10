@@ -1,0 +1,69 @@
+{
+  "cell": "30,16",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "blue water ref 512_ripple": 4,
+        "ex_com_dframe_lthus": 1,
+        "ex_common_door_01": 2,
+        "ex_common_lighthouse": 1,
+        "ex_de_ship_cabindoor": 1,
+        "ex_de_ship_trapdoor": 1,
+        "ex_de_shipwreck": 1,
+        "ex_t_bigroot_01": 1,
+        "ex_t_bigroot_02": 2,
+        "ex_t_hook": 1,
+        "ex_t_pole_hooked": 1,
+        "ex_t_root_01": 1,
+        "ex_t_root_02": 1,
+        "ex_t_root_spikes_02": 1,
+        "ex_t_root_stem": 2,
+        "flame light 768": 1,
+        "flora_kelp_01": 11,
+        "flora_kelp_02": 1,
+        "flora_kelp_03": 5,
+        "flora_kelp_04": 4,
+        "flora_tree_wg_01": 1,
+        "flora_tree_wg_03": 1,
+        "flora_tree_wg_04": 1,
+        "flora_tree_wg_05": 1,
+        "flora_tree_wg_06": 1,
+        "flora_tree_wg_07": 1,
+        "flora_wickwheat_02": 4,
+        "flora_wickwheat_04": 3,
+        "furn_de_p_bench_04": 1,
+        "furn_firepit00": 1,
+        "in_cave_plant00": 7,
+        "in_cave_plant10": 7,
+        "kollop_01_pearl": 1,
+        "kollop_02_pearl": 2,
+        "kollop_03_pearl": 3,
+        "light_logpile10": 1,
+        "t_mw_rlvl_boethiahspinewater-2": 1,
+        "t_mw_stat_mudcrabs": 3,
+        "terrain_rock_wg_01": 2,
+        "terrain_rock_wg_02": 4,
+        "terrain_rock_wg_04": 1,
+        "terrain_rock_wg_05": 2,
+        "terrain_rock_wg_07": 1,
+        "terrain_rock_wg_08": 1,
+        "terrain_rock_wg_10": 4,
+        "terrain_rock_wg_12": 3,
+        "terrain_rock_wg_14": 6,
+        "terrain_rock_wg_15": 12,
+        "terrain_rock_wg_16": 5,
+        "terrain_rock_wg_17": 6,
+        "terrain_rock_wg_18": 4,
+        "terrain_rocks_wg_01": 1,
+        "terrain_rocks_wg_02": 3,
+        "terrain_rocks_wg_03": 8,
+        "terrain_rocks_wg_04": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

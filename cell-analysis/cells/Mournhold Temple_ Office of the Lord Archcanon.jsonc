@@ -1,0 +1,851 @@
+{
+  "cell": "Mournhold Temple: Office of the Lord Archcanon",
+  "name": "Mournhold Temple: Office of the Lord Archcanon",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_reader9": 1
+      }
+    },
+    "TR_Factions.esp": {
+      "added": {
+        "tr_m0_necromkeyaplacer": 1
+      }
+    },
+    "Immersive Mournhold.esp": {
+      "added": {
+        "a1_menasi_tovin": 1,
+        "nb_temp_01_big": 1
+      },
+      "modified": {
+        "bk_blasphemousrevenants": 1,
+        "furn_de_r_chair_03": 2,
+        "furn_de_r_table_07": 1,
+        "light_de_candle_09_64": 1,
+        "misc_de_goblet_02": 5,
+        "misc_de_pot_mottled_01": 1,
+        "misc_inkwell": 1,
+        "misc_quill": 1,
+        "sc_paper plain": 1,
+        "t_de_furn_tapestrytribunal_01": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bk_aedraanddaedra": 3,
+        "bk_ancestorsandthedunmer": 3,
+        "bk_annotatedanuad": 2,
+        "bk_anticipations": 1,
+        "bk_arcturianheresy": 1,
+        "bk_biographybarenziah1": 1,
+        "bk_blasphemousrevenants": 1,
+        "bk_bookdawnanddusk": 1,
+        "bk_bookofdaedra": 2,
+        "bk_cantatasofvivec": 1,
+        "bk_childrenofthesky": 7,
+        "bk_childrensanuad": 7,
+        "bk_chroniclesnchuleft": 6,
+        "bk_consolationsofprayer": 7,
+        "bk_darkestdarkness": 1,
+        "bk_easternprovincesimpartial": 6,
+        "bk_firmament": 8,
+        "bk_fivesongsofkingwulfharth": 1,
+        "bk_graspingfortune": 6,
+        "bk_mysteriousakavir": 1,
+        "bk_pilgrimspath": 3,
+        "bookskill_armorer3": 1,
+        "bookskill_light armor5": 1,
+        "bookskill_spear4": 1,
+        "misc_com_bottle_01": 1,
+        "misc_com_bottle_06": 1,
+        "misc_com_bottle_12": 1,
+        "misc_de_goblet_02": 5,
+        "misc_de_pot_blue_01": 1,
+        "misc_de_pot_glass_peach_01": 2,
+        "misc_de_pot_glass_peach_02": 1,
+        "misc_de_pot_green_01": 2,
+        "misc_de_pot_mottled_01": 1,
+        "misc_inkwell": 1,
+        "misc_quill": 1,
+        "sc_paper plain": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bk_aedraanddaedra": 3,
+        "bk_ancestorsandthedunmer": 3,
+        "bk_annotatedanuad": 2,
+        "bk_anticipations": 1,
+        "bk_arcturianheresy": 1,
+        "bk_biographybarenziah1": 1,
+        "bk_blasphemousrevenants": 1,
+        "bk_bookdawnanddusk": 1,
+        "bk_bookofdaedra": 2,
+        "bk_cantatasofvivec": 1,
+        "bk_childrenofthesky": 7,
+        "bk_childrensanuad": 7,
+        "bk_chroniclesnchuleft": 6,
+        "bk_consolationsofprayer": 7,
+        "bk_darkestdarkness": 1,
+        "bk_easternprovincesimpartial": 6,
+        "bk_firmament": 8,
+        "bk_fivesongsofkingwulfharth": 1,
+        "bk_graspingfortune": 6,
+        "bk_mysteriousakavir": 1,
+        "bk_pilgrimspath": 3,
+        "bookskill_armorer3": 1,
+        "bookskill_light armor5": 1,
+        "bookskill_spear4": 1,
+        "misc_com_bottle_01": 1,
+        "misc_com_bottle_06": 1,
+        "misc_com_bottle_12": 1,
+        "misc_de_goblet_02": 5,
+        "misc_de_pot_blue_01": 1,
+        "misc_de_pot_glass_peach_01": 2,
+        "misc_de_pot_glass_peach_02": 1,
+        "misc_de_pot_green_01": 2,
+        "misc_de_pot_mottled_01": 1,
+        "misc_inkwell": 1,
+        "misc_quill": 1,
+        "sc_paper plain": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "tribunal::20323",
+      "object": "bk_pilgrimspath",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20324",
+      "object": "bk_pilgrimspath",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20325",
+      "object": "bk_pilgrimspath",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20326",
+      "object": "bk_mysteriousakavir",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20327",
+      "object": "bk_aedraanddaedra",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20328",
+      "object": "bk_ancestorsandthedunmer",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20329",
+      "object": "bk_ancestorsandthedunmer",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20330",
+      "object": "bk_aedraanddaedra",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20331",
+      "object": "bk_aedraanddaedra",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20332",
+      "object": "bk_annotatedanuad",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20333",
+      "object": "bk_anticipations",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20334",
+      "object": "bk_bookofdaedra",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20335",
+      "object": "bk_arcturianheresy",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20336",
+      "object": "bk_biographybarenziah1",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20337",
+      "object": "misc_de_pot_blue_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20338",
+      "object": "bk_annotatedanuad",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20339",
+      "object": "bk_bookofdaedra",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20340",
+      "object": "bk_ancestorsandthedunmer",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20341",
+      "object": "misc_de_pot_green_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20342",
+      "object": "misc_com_bottle_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20343",
+      "object": "misc_com_bottle_12",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20344",
+      "object": "misc_de_goblet_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20345",
+      "object": "misc_de_goblet_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20346",
+      "object": "misc_de_goblet_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20347",
+      "object": "misc_de_goblet_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20348",
+      "object": "misc_com_bottle_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20349",
+      "object": "misc_de_pot_mottled_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20350",
+      "object": "misc_de_pot_glass_peach_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20351",
+      "object": "misc_de_pot_glass_peach_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20352",
+      "object": "misc_de_pot_glass_peach_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20355",
+      "object": "bookskill_spear4",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20356",
+      "object": "bookskill_light armor5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20357",
+      "object": "bookskill_armorer3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20358",
+      "object": "misc_de_pot_green_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20359",
+      "object": "bk_blasphemousrevenants",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20360",
+      "object": "misc_de_goblet_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20362",
+      "object": "sc_paper plain",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20363",
+      "object": "misc_quill",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20364",
+      "object": "misc_inkwell",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20383",
+      "object": "bk_childrenofthesky",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20384",
+      "object": "bk_childrenofthesky",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20385",
+      "object": "bk_childrenofthesky",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20386",
+      "object": "bk_childrenofthesky",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20387",
+      "object": "bk_childrenofthesky",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20388",
+      "object": "bk_childrenofthesky",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20389",
+      "object": "bk_childrenofthesky",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20390",
+      "object": "bk_childrensanuad",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20391",
+      "object": "bk_childrensanuad",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20392",
+      "object": "bk_childrensanuad",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20393",
+      "object": "bk_childrensanuad",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20394",
+      "object": "bk_childrensanuad",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20395",
+      "object": "bk_childrensanuad",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20396",
+      "object": "bk_childrensanuad",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20397",
+      "object": "bk_chroniclesnchuleft",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20398",
+      "object": "bk_chroniclesnchuleft",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20399",
+      "object": "bk_chroniclesnchuleft",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20400",
+      "object": "bk_chroniclesnchuleft",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20401",
+      "object": "bk_chroniclesnchuleft",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20402",
+      "object": "bk_chroniclesnchuleft",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20403",
+      "object": "bk_cantatasofvivec",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20404",
+      "object": "bk_consolationsofprayer",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20405",
+      "object": "bk_consolationsofprayer",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20406",
+      "object": "bk_consolationsofprayer",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20407",
+      "object": "bk_consolationsofprayer",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20408",
+      "object": "bk_consolationsofprayer",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20409",
+      "object": "bk_consolationsofprayer",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20410",
+      "object": "bk_consolationsofprayer",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20411",
+      "object": "bk_darkestdarkness",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20412",
+      "object": "bk_easternprovincesimpartial",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20413",
+      "object": "bk_easternprovincesimpartial",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20414",
+      "object": "bk_easternprovincesimpartial",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20415",
+      "object": "bk_easternprovincesimpartial",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20416",
+      "object": "bk_easternprovincesimpartial",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20417",
+      "object": "bk_easternprovincesimpartial",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20418",
+      "object": "bk_firmament",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20419",
+      "object": "bk_firmament",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20420",
+      "object": "bk_firmament",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20421",
+      "object": "bk_firmament",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20422",
+      "object": "bk_firmament",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20423",
+      "object": "bk_firmament",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20424",
+      "object": "bk_firmament",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20425",
+      "object": "bk_firmament",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20426",
+      "object": "bk_fivesongsofkingwulfharth",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20427",
+      "object": "bk_graspingfortune",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20428",
+      "object": "bk_graspingfortune",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20429",
+      "object": "bk_graspingfortune",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20430",
+      "object": "bk_graspingfortune",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20431",
+      "object": "bk_graspingfortune",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20432",
+      "object": "bk_graspingfortune",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::20435",
+      "object": "bk_bookdawnanddusk",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

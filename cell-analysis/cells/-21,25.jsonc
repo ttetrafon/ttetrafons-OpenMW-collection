@@ -1,0 +1,30 @@
+{
+  "cell": "-21,25",
+  "plugins": {
+    "RepopulatedBloodmoon.ESP": {
+      "added": {
+        "gvrm_bm_npc_nd": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "ex_r_trapdoor_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "ex_r_trapdoor_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::8328",
+      "object": "ex_r_trapdoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

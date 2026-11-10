@@ -1,0 +1,27 @@
+{
+  "cell": "Arys Ancestral Tomb",
+  "name": "Arys Ancestral Tomb",
+  "plugins": {
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_bulwarkstonehelmet": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_vermin_marker_cloth": 6,
+        "un_lord_lesser": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_u_all_1": 1
+      }
+    },
+    "LootWellUrned.ESP": {
+      "added": {
+        "_uyl_arys": 1
+      }
+    }
+  }
+}

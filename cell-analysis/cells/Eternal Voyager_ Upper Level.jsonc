@@ -1,0 +1,70 @@
+{
+  "cell": "Eternal Voyager: Upper Level",
+  "name": "Eternal Voyager: Upper Level",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_bed_29": 2,
+        "barrel_01_cheapfood5": 1,
+        "com_basket_01_chpfood": 1,
+        "com_basket_01_chpfood5": 1,
+        "com_basket_01_food": 1,
+        "com_sack_01_saltrice_5": 1,
+        "com_sack_02_saltrice_10": 1,
+        "com_sack_03_pos": 1,
+        "com_sack_03_saltrice_10": 1,
+        "com_sack_03_wickwheat": 1,
+        "crate_01_armor_imp": 1,
+        "crate_01_eggs": 1,
+        "crate_01_iron_weapons": 1,
+        "crate_02_food": 1,
+        "crate_02_imp_armor": 2,
+        "crate_02_imp_weaponsmul": 2,
+        "crate_02_iron_weapons": 1,
+        "furn_com_p_bench_01": 1,
+        "furn_com_p_table_01": 1,
+        "furn_com_pm_chair_02": 1,
+        "furn_com_pm_stool_02": 2,
+        "furn_hook_01": 4,
+        "in_de_ship_upperlevel": 1,
+        "in_de_shipdoor_toplevel": 2,
+        "light_com_candle_05_64": 1,
+        "light_com_candle_09_64": 1,
+        "light_com_candle_12_77": 2,
+        "light_com_lantern_01_128": 2,
+        "light_com_lantern_01_256": 1,
+        "light_com_lantern_02_128": 2,
+        "misc_com_bottle_06": 1,
+        "misc_com_broom_01": 1,
+        "misc_com_bucket_01": 1,
+        "misc_com_metal_goblet_02": 3,
+        "misc_com_metal_plate_05": 3,
+        "misc_com_pitcher_metal_01": 1,
+        "misc_com_redware_cup": 1,
+        "misc_com_redware_flask": 1,
+        "misc_com_redware_plate": 1,
+        "misc_com_redware_platter": 1,
+        "misc_com_wood_fork": 4,
+        "misc_com_wood_knife": 4,
+        "northmarker": 1,
+        "sc_paper plain": 1,
+        "t_bk_epicofthegreyfalcontr": 1,
+        "t_bk_holidaysilliacbaytr": 1,
+        "t_imp_drink_winesuriliebr_01": 1,
+        "t_ingfood_fishslaughterdried_01": 1,
+        "t_ingfood_meatcliffracer_01": 1,
+        "t_mwcom_var_bl1arrowlgn": 1,
+        "t_mwcom_var_bl1driimp": 1,
+        "t_mwcom_var_bl2eggmolecr": 1,
+        "t_mwcom_var_bl2eggrand2": 1,
+        "tr_m2_carva hertia": 1,
+        "tr_m2_llarisa tevothar": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_trader": 1
+      }
+    }
+  }
+}

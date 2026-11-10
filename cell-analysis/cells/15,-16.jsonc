@@ -1,0 +1,29 @@
+{
+  "cell": "15,-16",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "blue coast ref 1024": 2,
+        "ex_t_menhir_l_01": 13,
+        "flora_kelp_01": 21,
+        "flora_kelp_02": 5,
+        "t_mw_rlvl_innerseawater+2": 1,
+        "t_mw_rlvl_innerseawater-2": 1,
+        "t_mw_terrrockss_rock_49": 1,
+        "t_mw_terrrockss_rock_550": 1,
+        "t_mw_terrrockss_rock_57": 1,
+        "terrain_rock_ma_04": 1,
+        "terrain_rock_ma_19": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "ex_de_rowboat": 1,
+        "misc_com_redware_cup": 1,
+        "xero_chest_empty": 1,
+        "xero_east_chest": 1,
+        "xero_marker": 1
+      }
+    }
+  }
+}

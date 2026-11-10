@@ -1,0 +1,145 @@
+{
+  "cell": "6,-7",
+  "name": "Suran",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 7,
+        "gvrm_balmoracitizens": 5,
+        "gvrm_dun_fish_sit": 1,
+        "gvrm_hla_dun_ch": 1,
+        "gvrm_hlalguardwand": 2
+      }
+    },
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_blacksmith_amb00": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "ab01ambeggarbowl17": 1,
+        "active_de_bedroll": 1,
+        "am_beggar17": 1,
+        "am_enchanter": 1,
+        "am_enchanter_sign": 2,
+        "am_fisherman20": 1,
+        "am_fisherman21": 1,
+        "am_fisherman22": 1,
+        "am_reader11": 1,
+        "am_smith4": 1,
+        "apparatus_a_spipe_01": 1,
+        "bookskill_destruction4": 1,
+        "bookskill_hand to hand2": 1,
+        "fiend katana": 1,
+        "furn_ashl_bugbowl_01": 1,
+        "furn_de_cushion_square_03": 2,
+        "furn_de_lightpost_01": 2,
+        "gold_001": 8,
+        "ingred_russula_01": 1,
+        "iron saber": 1,
+        "light_6th_candle_02": 1,
+        "light_com_lamp_02_177": 1,
+        "misc_com_plate_03": 1,
+        "misc_de_goblet_06": 1,
+        "misc_de_lute_01": 1,
+        "misc_de_pot_redware_04": 1,
+        "misc_soulgem_lesser": 1,
+        "misc_uni_pillow_01": 1,
+        "misc_uni_pillow_02": 1,
+        "urn_01_scrolls_01": 1
+      }
+    },
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_npc_alt_vicarean": 1,
+        "aatl_npc_ar_tadpole": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_hiddencache": 4
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_mugger_spawn": 1,
+        "_aa_n_all_nightlife_spawn": 8,
+        "_aa_pilgrim_spawn": 1,
+        "_aa_telemage_spawn": 3
+      }
+    },
+    "Ttooth's Missing NPCs - No Nolus.ESP": {
+      "added": {
+        "ttooth_nareseathrys": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "ex_barnacles_02": 1,
+        "plx_water": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 2
+      }
+    },
+    "Creatures and Critters Light the Path.ESP": {
+      "added": {
+        "aa_cr_i_moth_all": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_hlaalu out_ran": 2
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "flora_gold_kanet_01": 2,
+        "flora_kreshweed_02": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "flora_gold_kanet_01": 2,
+        "flora_kreshweed_02": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::262115",
+      "object": "flora_gold_kanet_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::262117",
+      "object": "flora_gold_kanet_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::262118",
+      "object": "flora_kreshweed_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::262119",
+      "object": "flora_kreshweed_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

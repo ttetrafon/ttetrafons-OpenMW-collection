@@ -1,0 +1,19 @@
+{
+  "cell": "Salmantu",
+  "name": "Salmantu",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_dreamers": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_6_dream_list_1": 2
+      },
+      "modified": {
+        "aa_cr_dreamer_01": 1
+      }
+    }
+  }
+}

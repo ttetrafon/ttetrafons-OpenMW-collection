@@ -1,0 +1,18 @@
+{
+  "cell": "Marog, The Swallow's Nest",
+  "name": "Marog, The Swallow's Nest",
+  "plugins": {
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_trader": 1
+      }
+    },
+    "RepopulatedMainland.ESP": {
+      "added": {
+        "furn_de_p_stool_01": 1,
+        "gvrm_dun_trav_s+e_trcpy": 1,
+        "gvrm_dun_trav_sit_trcpy": 1
+      }
+    }
+  }
+}

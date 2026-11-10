@@ -1,0 +1,64 @@
+{
+  "cell": "3,-23",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_de_docks_center": 3,
+        "ex_de_docks_centerb": 1,
+        "ex_de_docks_centers": 1,
+        "ex_de_docks_end": 2,
+        "ex_de_docks_steps_01": 2,
+        "flora_comberry_01": 3,
+        "flora_corkbulb": 2,
+        "flora_emp_parasol_02": 1,
+        "flora_kreshweed_02": 1,
+        "flora_kreshweed_03": 1,
+        "sound_boat_creak00": 1,
+        "t_mw_cr_guar": 1,
+        "t_mw_cr_ornada": 1,
+        "t_mw_flora_lichenor02": 1,
+        "t_mw_flora_shroomtableo_02": 1,
+        "t_mw_flora_templedom01": 4,
+        "t_mw_flora_templedom02": 6,
+        "t_mw_floraat_oranmoss01": 4,
+        "t_mw_floraat_oranmoss02": 8,
+        "t_mw_floraat_oranmoss03": 1,
+        "t_mw_floraat_spartiumbealei_01": 2,
+        "t_mw_floraat_spartiumbealei_02": 1,
+        "t_mw_floraat_treeb_03": 1,
+        "t_mw_floraat_treeg_02": 1,
+        "t_mw_floraat_treeg_03": 1,
+        "t_mw_floraat_treeg_04": 3,
+        "t_mw_floraat_treeg_05": 3,
+        "t_mw_floraat_treeg_06": 1,
+        "t_mw_light_aanthirinmushroom": 3,
+        "t_mw_rstat_aanthirind01orp": 1,
+        "t_mw_terrrockat_rock_10": 5,
+        "t_mw_terrrockat_rock_14": 1,
+        "t_mw_terrrockat_rock_15": 1,
+        "t_mw_terrrockat_rock_16": 2,
+        "t_mw_terrrockat_rock_18": 7,
+        "t_mw_terrrockat_rock_19": 1,
+        "t_mw_terrrockat_rock_20": 3,
+        "t_mw_terrrockat_rock_21": 4,
+        "t_mw_terrrockat_rock_22": 8,
+        "t_mw_terrrockat_rock_23": 7,
+        "t_mw_terrrockat_rock_24": 10,
+        "t_mw_terrrockat_rock_26": 4,
+        "t_mw_terrrockat_rock_27": 10,
+        "t_mw_terrrockat_rock_28": 12,
+        "t_mw_terrrockat_rock_29": 9,
+        "t_mw_terrrockat_rock_30": 4,
+        "t_mw_terrrockat_rockgrp_01": 28,
+        "t_mw_terrrockat_rockgrp_02": 2,
+        "t_mw_terrrockat_rockgrp_03": 12,
+        "t_mw_terrrockat_rockgrp_04": 3
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_hl_spawn": 1
+      }
+    }
+  }
+}

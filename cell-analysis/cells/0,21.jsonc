@@ -1,0 +1,22 @@
+{
+  "cell": "0,21",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "iron dagger": 1,
+        "xero_marker": 1,
+        "xero_north_chest": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_ex_daedric_ruins_spawn": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_ex_daed_bat": 2
+      }
+    }
+  }
+}

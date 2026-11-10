@@ -1,0 +1,73 @@
+{
+  "cell": "26,-5",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "a_siltstrider": 1,
+        "com_sack_03_chpfood5": 1,
+        "ex_t_gateway_great": 1,
+        "ex_t_housepod_03": 1,
+        "ex_t_platform_02": 1,
+        "ex_t_pole_hooked": 1,
+        "ex_t_root_02": 1,
+        "ex_t_root_xl_02": 1,
+        "ex_t_stair_90_l_short": 1,
+        "flora_emp_parasol_01": 13,
+        "flora_emp_parasol_02": 24,
+        "flora_emp_parasol_03": 1,
+        "flora_hackle-lo_01": 1,
+        "flora_kreshweed_01": 1,
+        "flora_kreshweed_02": 1,
+        "flora_kreshweed_03": 1,
+        "flora_roobrush_02": 1,
+        "flora_stoneflower_01": 1,
+        "flora_stoneflower_02": 1,
+        "flora_tree_gl_01": 2,
+        "flora_tree_gl_02": 3,
+        "flora_tree_gl_05": 1,
+        "flora_tree_gl_06": 7,
+        "flora_wickwheat_01": 5,
+        "flora_wickwheat_02": 4,
+        "flora_wickwheat_03": 6,
+        "flora_wickwheat_04": 6,
+        "furn_com_fence_01": 1,
+        "light_de_paper_lantern_04_177": 1,
+        "t_com_setmw_signwayaltbosara_01": 1,
+        "t_com_setmw_signwayfortwindm_01": 1,
+        "t_com_setmw_signwayhelnim_01": 1,
+        "t_com_setmw_signwaytelmuthad_01": 1,
+        "t_mw_flora_redfireflw01": 1,
+        "t_mw_rlvl_helnimfieldsland+0": 3,
+        "t_mw_rlvl_helnimfieldsland-2": 1,
+        "terrain_rock_gl_01": 3,
+        "terrain_rock_gl_02": 1,
+        "terrain_rock_gl_03": 4,
+        "terrain_rock_gl_04": 11,
+        "terrain_rock_gl_05": 2,
+        "terrain_rock_gl_06": 6,
+        "terrain_rock_gl_07": 7,
+        "terrain_rock_gl_08": 12,
+        "terrain_rock_gl_09": 4,
+        "terrain_rock_gl_10": 10,
+        "terrain_rock_gl_11": 7,
+        "terrain_rock_gl_12": 5,
+        "terrain_rocks_gl_01": 13,
+        "terrain_rocks_gl_02": 2,
+        "terrain_rocks_gl_03": 6,
+        "terrain_rocks_gl_04": 2,
+        "tr_m2_alenial": 1,
+        "tr_m2_valna sippusoti": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_alchemist": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_tel_spawn": 1
+      }
+    }
+  }
+}

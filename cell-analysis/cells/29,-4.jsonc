@@ -1,0 +1,55 @@
+{
+  "cell": "29,-4",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "bc mushroom 128": 1,
+        "ex_cave_door_01": 1,
+        "ex_cave_entrance_bc_01": 1,
+        "flora_bc_fern_01": 1,
+        "flora_bc_podplant_01": 1,
+        "flora_bc_podplant_02": 1,
+        "flora_bc_podplant_03": 1,
+        "flora_bc_tree_02": 1,
+        "flora_chokeweed_02": 1,
+        "flora_comberry_01": 2,
+        "flora_grass_01": 15,
+        "flora_kreshweed_01": 1,
+        "flora_sedge_02": 4,
+        "flora_stoneflower_01": 5,
+        "flora_stoneflower_02": 2,
+        "flora_tree_gl_01": 2,
+        "flora_tree_gl_02": 2,
+        "flora_tree_gl_04": 2,
+        "flora_tree_gl_05": 1,
+        "flora_tree_gl_06": 3,
+        "flora_tree_gl_07": 2,
+        "flora_tree_wg_01": 1,
+        "flora_wickwheat_01": 3,
+        "t_mw_rlvl_boethiahspineland+0": 4,
+        "t_mw_rlvl_boethiahspineland-2": 2,
+        "t_mw_rlvl_helnimfieldsland+2": 1,
+        "terrain_bc_scum_01": 2,
+        "terrain_rock_bc_09": 1,
+        "terrain_rock_wg_02": 2,
+        "terrain_rock_wg_03": 1,
+        "terrain_rock_wg_05": 3,
+        "terrain_rock_wg_08": 4,
+        "terrain_rock_wg_09": 4,
+        "terrain_rock_wg_10": 5,
+        "terrain_rock_wg_13": 1,
+        "terrain_rock_wg_16": 1,
+        "terrain_rock_wg_17": 5,
+        "terrain_rocks_wg_01": 12,
+        "terrain_rocks_wg_02": 3,
+        "terrain_rocks_wg_03": 3,
+        "terrain_rocks_wg_04": 2
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

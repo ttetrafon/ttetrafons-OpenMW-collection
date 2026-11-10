@@ -1,0 +1,47 @@
+{
+  "cell": "Abandoned Shipwreck, Cabin",
+  "name": "Abandoned Shipwreck, Cabin",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "ab_ex_deshipwrfloorcorner": 1,
+        "ab_ex_deshipwrrmastyard": 2,
+        "ab_furn_comtapestry02torn2": 1,
+        "ab_furn_crate03lid": 1,
+        "ab_furn_crate03open": 1,
+        "ab_furn_cratebroken01": 1,
+        "ab_furn_cratebroken05": 1,
+        "ab_furn_cratebrokenwood02": 1,
+        "ab_o_corpsefresh06": 1
+      },
+      "modified": {
+        "bk_pillowinvoice": 1,
+        "com_cupboard_01_booze": 1,
+        "furn_de_p_stool_01": 1,
+        "furn_de_p_table_05": 1,
+        "in_de_ship_cabindoor": 1,
+        "in_de_shipcabin": 1,
+        "northmarker": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "com_sack_02_saltrice_10": 1,
+        "x0_map_20": 1
+      },
+      "modified": {
+        "bk_pillowinvoice": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::313395",
+      "object": "bk_pillowinvoice",
+      "plugins": [
+        "OAAB - Shipwrecks.esm",
+        "Uncharted Artifacts.esp"
+      ]
+    }
+  ]
+}

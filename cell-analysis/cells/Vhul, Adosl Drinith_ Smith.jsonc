@@ -1,0 +1,16 @@
+{
+  "cell": "Vhul, Adosl Drinith: Smith",
+  "name": "Vhul, Adosl Drinith: Smith",
+  "plugins": {
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_smith": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_in_smith_spawn": 1
+      }
+    }
+  }
+}

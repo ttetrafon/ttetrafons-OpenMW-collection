@@ -1,0 +1,17 @@
+{
+  "cell": "Solstheim, Rimhull",
+  "name": "Solstheim, Rimhull",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "modified": {
+        "bm_ka_door_dark_02": 1,
+        "ex_r_trapdoor_01": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "modified": {
+        "aa_cr_skeleton_nord 2": 4
+      }
+    }
+  }
+}

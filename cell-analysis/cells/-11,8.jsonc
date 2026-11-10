@@ -1,0 +1,16 @@
+{
+  "cell": "-11,8",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_marker": 1,
+        "xero_west_sack": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_ex_land_dreugh": 1
+      }
+    }
+  }
+}

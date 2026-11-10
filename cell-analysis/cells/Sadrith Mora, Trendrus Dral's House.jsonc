@@ -1,0 +1,26 @@
+{
+  "cell": "Sadrith Mora, Trendrus Dral's House",
+  "name": "Sadrith Mora, Trendrus Dral's House",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bk_poisonsong2": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bk_poisonsong2": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::483465",
+      "object": "bk_poisonsong2",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

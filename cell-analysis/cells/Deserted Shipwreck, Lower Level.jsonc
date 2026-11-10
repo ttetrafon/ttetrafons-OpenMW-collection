@@ -1,0 +1,16 @@
+{
+  "cell": "Deserted Shipwreck, Lower Level",
+  "name": "Deserted Shipwreck, Lower Level",
+  "plugins": {
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_m17_bottle": 1
+      }
+    },
+    "Special_Artifacts.esp": {
+      "modified": {
+        "contain_corpse_water": 1
+      }
+    }
+  }
+}

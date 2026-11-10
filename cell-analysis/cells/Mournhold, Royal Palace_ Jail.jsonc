@@ -1,0 +1,303 @@
+{
+  "cell": "Mournhold, Royal Palace: Jail",
+  "name": "Mournhold, Royal Palace: Jail",
+  "plugins": {
+    "Immersive Mournhold.esp": {
+      "added": {
+        "nb_mourn_01_big": 2,
+        "t_de_furnm_chair_01": 6,
+        "t_de_furnm_stool_01": 2,
+        "t_de_furnm_table_01": 1,
+        "t_de_furnm_table_03": 1
+      },
+      "modified": {
+        "crate_02_bottle05_5": 1,
+        "crate_02_de_weapons": 1,
+        "crate_02_empty": 1,
+        "crate_02_foodmult": 1,
+        "light_com_candle_07_77": 1,
+        "light_de_lantern_06_64": 1,
+        "misc_com_bottle_14": 1,
+        "misc_com_metal_goblet_02": 2,
+        "misc_com_wood_bowl_02": 1,
+        "misc_inkwell": 1,
+        "misc_quill": 1,
+        "sc_paper plain": 1,
+        "stolen_goods": 1,
+        "t_de_furn_tapestryind_01b": 4
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_bedroll": 6,
+        "crate_02_bottle05_5": 2,
+        "crate_02_de_weapons": 2,
+        "crate_02_empty": 2,
+        "crate_02_foodmult": 2,
+        "in_mh_jaildoor_01": 6,
+        "light_de_lantern_06_64": 1,
+        "misc_com_bottle_14": 1,
+        "misc_com_metal_goblet_02": 2,
+        "misc_com_wood_bowl_02": 1,
+        "misc_inkwell": 1,
+        "misc_quill": 1,
+        "sc_paper plain": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_bedroll": 6,
+        "crate_02_bottle05_5": 2,
+        "crate_02_de_weapons": 2,
+        "crate_02_empty": 2,
+        "crate_02_foodmult": 2,
+        "in_mh_jaildoor_01": 6,
+        "light_de_lantern_06_64": 1,
+        "misc_com_bottle_14": 1,
+        "misc_com_metal_goblet_02": 2,
+        "misc_com_wood_bowl_02": 1,
+        "misc_inkwell": 1,
+        "misc_quill": 1,
+        "sc_paper plain": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "tribunal::17623",
+      "object": "in_mh_jaildoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17624",
+      "object": "in_mh_jaildoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17625",
+      "object": "in_mh_jaildoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17626",
+      "object": "in_mh_jaildoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17627",
+      "object": "in_mh_jaildoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17628",
+      "object": "in_mh_jaildoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17629",
+      "object": "misc_com_bottle_14",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17630",
+      "object": "misc_com_metal_goblet_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17631",
+      "object": "misc_com_metal_goblet_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17632",
+      "object": "misc_com_wood_bowl_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17637",
+      "object": "light_de_lantern_06_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17638",
+      "object": "crate_02_foodmult",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17639",
+      "object": "crate_02_bottle05_5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17640",
+      "object": "crate_02_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17641",
+      "object": "crate_02_de_weapons",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17643",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17645",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17653",
+      "object": "misc_quill",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17654",
+      "object": "sc_paper plain",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17655",
+      "object": "misc_inkwell",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17656",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17658",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17661",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17662",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17669",
+      "object": "crate_02_foodmult",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17670",
+      "object": "crate_02_bottle05_5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17671",
+      "object": "crate_02_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::17672",
+      "object": "crate_02_de_weapons",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

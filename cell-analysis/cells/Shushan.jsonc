@@ -1,0 +1,16 @@
+{
+  "cell": "Shushan",
+  "name": "Shushan",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_slavesittingaf": 1
+      }
+    }
+  }
+}

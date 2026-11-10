@@ -1,0 +1,17 @@
+{
+  "cell": "-4,2",
+  "plugins": {
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_hl_spawn": 1,
+        "_aa_solo_imp_spawn": 1,
+        "_aa_solo_spawn_no_guard": 2
+      }
+    },
+    "Creatures and Critters Light the Path.ESP": {
+      "added": {
+        "aa_cr_i_moth_all": 5
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "cell": "Bahrammu, Zalam Lonas' Shack",
+  "name": "Bahrammu, Zalam Lonas' Shack",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_bedroll": 1,
+        "barrel_01_cheapfood5": 1,
+        "com_basket_01_chpfood": 1,
+        "ex_de_shack_door": 1,
+        "furn_de_ex_stool_02": 2,
+        "furn_de_ex_table_02": 1,
+        "furn_de_rope_03": 2,
+        "furn_de_rope_04": 1,
+        "furn_de_shack_basket_01": 2,
+        "furn_de_shack_hook": 1,
+        "furn_de_shack_post": 1,
+        "in_de_shack_05": 1,
+        "light_de_lantern_05_200": 1,
+        "misc_com_tankard_01": 1,
+        "northmarker": 1,
+        "t_de_stonewarebowl_02": 2,
+        "t_de_stonewareplate_04": 1,
+        "t_ingfood_eggmolecrab_01": 1,
+        "t_ingfood_meatkwama_01": 1,
+        "t_mwde_furn_u2food": 1,
+        "tr_m1_zalam lonas": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_healer": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cell": "Old Mournhold: Temple Sewers",
+  "name": "Old Mournhold: Temple Sewers",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_sewer_rat_boss": 4
+      }
+    },
+    "D2Items.esp": {
+      "modified": {
+        "_d2u_rakescar": 1
+      }
+    }
+  }
+}

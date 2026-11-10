@@ -1,0 +1,62 @@
+{
+  "cell": "Rethan Manor, Tures' House",
+  "name": "Rethan Manor, Tures' House",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bookskill_unarmored1": 1,
+        "gold_001": 2,
+        "gold_005": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bookskill_unarmored1": 1,
+        "gold_001": 2,
+        "gold_005": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::272523",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272524",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272525",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::272526",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::398937",
+      "object": "bookskill_unarmored1",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

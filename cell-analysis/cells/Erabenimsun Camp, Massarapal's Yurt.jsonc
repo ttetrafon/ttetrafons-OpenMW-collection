@@ -1,0 +1,41 @@
+{
+  "cell": "Erabenimsun Camp, Massarapal's Yurt",
+  "name": "Erabenimsun Camp, Massarapal's Yurt",
+  "plugins": {
+    "VA_ShalkArmor.ESP": {
+      "added": {
+        "va_shk_sellchest_e": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_trader_ash": 1
+      }
+    },
+    "Sig_VintageMorrowind_TR.esp": {
+      "added": {
+        "sig_ashland_vendor": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_bedroll": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_bedroll": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::130830",
+      "object": "active_de_bedroll",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

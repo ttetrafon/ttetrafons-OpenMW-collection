@@ -1,0 +1,24 @@
+{
+  "cell": "Vandus Ancestral Tomb",
+  "name": "Vandus Ancestral Tomb",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "un_lich_skull_leveled": 1,
+        "un_lord_lesser": 1,
+        "un_skeleton_arise": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_skeleton_arise": 1,
+        "aa_cr_u_all_1": 2
+      }
+    },
+    "LootWellUrned.ESP": {
+      "added": {
+        "_uyl_vandus": 1
+      }
+    }
+  }
+}

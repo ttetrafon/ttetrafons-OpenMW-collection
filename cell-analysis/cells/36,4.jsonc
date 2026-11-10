@@ -1,0 +1,45 @@
+{
+  "cell": "36,4",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_common_door_01": 1,
+        "ex_common_lighthouse": 1,
+        "ex_de_railing_01": 3,
+        "ex_de_railing_02": 3,
+        "ex_de_railing_03": 3,
+        "ex_nord_door_01": 1,
+        "ex_nord_doorf_01": 1,
+        "flora_chokeweed_02": 2,
+        "flora_grass_01": 2,
+        "flora_kelp_01": 9,
+        "flora_kelp_02": 6,
+        "flora_kelp_03": 6,
+        "flora_plant_01": 3,
+        "flora_stoneflower_01": 2,
+        "flora_stoneflower_02": 2,
+        "flora_tree_wg_01": 1,
+        "flora_tree_wg_02": 2,
+        "flora_tree_wg_07": 1,
+        "furn_firepit00": 1,
+        "kollop_03_pearl": 1,
+        "light_logpile10": 2,
+        "t_mw_rlvl_boethiahspineland+0": 1,
+        "t_mw_rlvl_seaofghostswater+0": 3,
+        "terrain_rock_wg_02": 1,
+        "terrain_rock_wg_10": 3,
+        "terrain_rock_wg_12": 3,
+        "terrain_rock_wg_15": 1,
+        "terrain_rock_wg_17": 8,
+        "terrain_rocks_wg_01": 5,
+        "terrain_rocks_wg_02": 12,
+        "terrain_rocks_wg_03": 9
+      }
+    },
+    "RepopulatedMainland.ESP": {
+      "added": {
+        "gvrm_dun_trav_sit_trcpy": 1
+      }
+    }
+  }
+}

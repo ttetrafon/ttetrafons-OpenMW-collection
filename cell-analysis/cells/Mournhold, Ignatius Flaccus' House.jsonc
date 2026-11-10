@@ -1,0 +1,36 @@
+{
+  "cell": "Mournhold, Ignatius Flaccus' House",
+  "name": "Mournhold, Ignatius Flaccus' House",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "in_mh_door_01": 1,
+        "in_mh_door_02": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "in_mh_door_01": 1,
+        "in_mh_door_02": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "tribunal::8232",
+      "object": "in_mh_door_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::15455",
+      "object": "in_mh_door_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

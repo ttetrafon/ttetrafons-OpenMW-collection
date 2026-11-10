@@ -1,0 +1,16 @@
+{
+  "cell": "Ularradallaku, Shrine",
+  "name": "Ularradallaku, Shrine",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_daedra_shrine_mehrunes": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_shrine_mehrunes": 2
+      }
+    }
+  }
+}

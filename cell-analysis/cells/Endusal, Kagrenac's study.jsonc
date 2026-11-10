@@ -1,0 +1,21 @@
+{
+  "cell": "Endusal, Kagrenac's study",
+  "name": "Endusal, Kagrenac's study",
+  "plugins": {
+    "Tools of the Secret Master.esp": {
+      "added": {
+        "apparatus_sm_mortar_01": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "in_6th_ash_lev+2": 1
+      }
+    },
+    "Mage Robes.ESP": {
+      "added": {
+        "mg_act_robes_endusal": 1
+      }
+    }
+  }
+}

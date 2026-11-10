@@ -1,0 +1,46 @@
+{
+  "cell": "24,9",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_dwrv_ruin20": 1,
+        "ex_t_menhir_01": 1,
+        "ex_t_menhir_l_01": 8,
+        "flora_black_anther_01": 5,
+        "flora_black_anther_02": 4,
+        "flora_emp_parasol_01": 4,
+        "flora_emp_parasol_02": 3,
+        "flora_kreshweed_01": 10,
+        "flora_kreshweed_02": 7,
+        "flora_kreshweed_03": 1,
+        "flora_t_podbud_01": 3,
+        "flora_t_podbud_02": 11,
+        "flora_t_podbud_03": 6,
+        "flora_t_podbud_04": 6,
+        "flora_tree_ac_01": 2,
+        "flora_tree_ac_02": 5,
+        "flora_tree_ac_03": 3,
+        "flora_tree_ac_04": 5,
+        "kwama worker entrance": 1,
+        "t_mw_rlvl_dagonurul+0": 1,
+        "t_mw_rlvl_dagonurul-2": 1,
+        "terrain_rock_ac_01": 2,
+        "terrain_rock_ac_02": 2,
+        "terrain_rock_ac_03": 4,
+        "terrain_rock_ac_04": 6,
+        "terrain_rock_ac_06": 5,
+        "terrain_rock_ac_07": 5,
+        "terrain_rock_ac_08": 8,
+        "terrain_rock_ac_09": 3,
+        "terrain_rock_ac_10": 6,
+        "terrain_rock_ac_11": 3,
+        "terrain_rock_ac_12": 5
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

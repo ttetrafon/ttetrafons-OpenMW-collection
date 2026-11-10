@@ -1,0 +1,45 @@
+{
+  "cell": "Hunza Camp, Ahamu's Tent",
+  "name": "Hunza Camp, Ahamu's Tent",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_bedroll": 1,
+        "barrel_01_arrows": 1,
+        "barrel_01_pos": 1,
+        "chitin boots": 1,
+        "com_sack_01_chpfood5": 1,
+        "com_sack_01_saltrice_10": 1,
+        "furn_de_p_stool_02": 1,
+        "hammer_repair": 1,
+        "iron broadsword": 1,
+        "iron shortsword": 1,
+        "iron_shield": 1,
+        "light_de_candle_ivory_01_off": 1,
+        "light_de_lantern_05_128_s": 1,
+        "misc_com_bottle_01": 1,
+        "misc_com_bottle_02": 1,
+        "northmarker": 1,
+        "repair_prongs": 1,
+        "t_com_metalblank_01": 2,
+        "t_de_furn_rugsmall_01": 1,
+        "t_de_furn_rugsmall_04": 1,
+        "t_de_furnp_table_04": 1,
+        "t_de_set_i_tent_01": 1,
+        "t_de_set_i_tent_01_banner_03": 1,
+        "t_de_set_i_tent_01_door_01": 1,
+        "t_de_stonewarebowl_01": 1,
+        "t_de_stonewarebowl_02": 1,
+        "t_de_stonewarecup_02": 1,
+        "t_de_stonewarepitcher_01": 1,
+        "t_imp_drink_winesweet": 1,
+        "tr_m7_ahamu": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_smith": 1
+      }
+    }
+  }
+}

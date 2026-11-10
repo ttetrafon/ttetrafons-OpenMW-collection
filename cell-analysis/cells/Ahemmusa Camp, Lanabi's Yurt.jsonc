@@ -1,0 +1,21 @@
+{
+  "cell": "Ahemmusa Camp, Lanabi's Yurt",
+  "name": "Ahemmusa Camp, Lanabi's Yurt",
+  "plugins": {
+    "VA_ShalkArmor.ESP": {
+      "added": {
+        "va_shk_sellchest_a": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_trader_ash": 1
+      }
+    },
+    "Sig_VintageMorrowind_TR.esp": {
+      "added": {
+        "sig_ashland_vendor": 1
+      }
+    }
+  }
+}

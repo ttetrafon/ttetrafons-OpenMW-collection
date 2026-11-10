@@ -1,0 +1,39 @@
+{
+  "cell": "Skaal village, Snedbrir the Smith",
+  "name": "Skaal village, Snedbrir the Smith",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "ex_s_door_rounded": 1
+      },
+      "modified": {
+        "sp_nor_setskaal_i_fireplace_01": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_smith": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "ex_s_door_rounded": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "ex_s_door_rounded": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::19102",
+      "object": "ex_s_door_rounded",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

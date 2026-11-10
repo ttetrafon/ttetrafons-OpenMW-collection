@@ -1,0 +1,26 @@
+{
+  "cell": "Malmus Grotto",
+  "name": "Malmus Grotto",
+  "plugins": {
+    "Hidden Grotto Loot.ESP": {
+      "added": {
+        "gold_001": 16,
+        "ingred_diamond_01": 1,
+        "ingred_ruby_01": 1,
+        "xero_grotto_chest": 3
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "modified": {
+        "blue water ref 256": 1,
+        "blue water ref 512": 1,
+        "blue water ref 768": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "modified": {
+        "r0_h2o_slaughterfish_int": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "cell": "29,16",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_common_plat_cent": 6,
+        "ex_common_plat_corn": 2,
+        "ex_common_plat_end": 4,
+        "ex_common_plat_rail": 10,
+        "ex_de_docks_steps": 3,
+        "flora_hackle-lo_01": 5,
+        "flora_tree_gl_03": 1,
+        "flora_tree_gl_11": 1,
+        "flora_tree_wg_05": 1,
+        "flora_tree_wg_06": 2,
+        "flora_tree_wg_07": 3,
+        "flora_wickwheat_03": 8,
+        "flora_wickwheat_04": 6,
+        "furn_com_fence_01": 2,
+        "t_com_setmw_signwayashamul_01": 1,
+        "t_com_setmw_signwayboelighth_01": 1,
+        "t_com_setmw_signwayfirewat_01": 1,
+        "t_com_setmw_signwayfirewata_01": 1,
+        "t_com_setmw_signwayllothanis_01": 1,
+        "t_com_setmw_signwayranyonru_01": 1,
+        "t_com_setmw_signwaysarvanni_01": 1,
+        "t_com_setmw_signwaytelouada_01": 1,
+        "terrain_rock_gl_09": 2,
+        "terrain_rock_wg_01": 4,
+        "terrain_rock_wg_02": 2,
+        "terrain_rock_wg_03": 1,
+        "terrain_rock_wg_08": 4,
+        "terrain_rock_wg_09": 1,
+        "terrain_rock_wg_10": 8,
+        "terrain_rock_wg_14": 1,
+        "terrain_rock_wg_16": 2,
+        "terrain_rock_wg_18": 8,
+        "terrain_rocks_gl_01": 1,
+        "terrain_rocks_wg_01": 8,
+        "terrain_rocks_wg_02": 7,
+        "terrain_rocks_wg_03": 14,
+        "terrain_rocks_wg_04": 9,
+        "tr_m1_shavra_gra-vatok": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 2
+      }
+    }
+  }
+}

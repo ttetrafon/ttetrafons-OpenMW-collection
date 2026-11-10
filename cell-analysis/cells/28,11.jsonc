@@ -1,0 +1,50 @@
+{
+  "cell": "28,11",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_de_railing_01": 3,
+        "ex_de_railing_03": 1,
+        "ex_t_bridge_lcurved": 1,
+        "ex_t_gateway_great": 1,
+        "flora_hackle-lo_01": 2,
+        "flora_hackle-lo_02": 1,
+        "flora_tree_gl_01": 1,
+        "flora_tree_gl_02": 1,
+        "flora_tree_gl_11": 1,
+        "flora_wickwheat_03": 4,
+        "flora_wickwheat_04": 8,
+        "furn_com_fence_01": 1,
+        "furn_de_signpost_02": 2,
+        "t_com_setmw_signwaybaloyra_01": 1,
+        "t_com_setmw_signwayfirewat_01": 1,
+        "t_com_setmw_signwayhelnim_01": 1,
+        "t_com_setmw_signwayllothanis_01": 1,
+        "t_com_setmw_signwayranyonru_01": 1,
+        "t_com_setmw_signwaytelouada_01": 1,
+        "t_de_set_bannertownranyonr_01": 1,
+        "t_de_set_bannertowntelarany_01": 1,
+        "t_mw_flora_blackrose01": 2,
+        "t_mw_flora_blackrose02": 2,
+        "t_mw_rlvl_molagreahdland+2": 1,
+        "terrain_rock_gl_03": 3,
+        "terrain_rock_gl_07": 7,
+        "terrain_rock_gl_10": 4,
+        "terrain_rock_gl_11": 6,
+        "terrain_rock_gl_12": 6,
+        "terrain_rock_wg_12": 2,
+        "terrain_rocks_gl_01": 4,
+        "terrain_rocks_gl_02": 3,
+        "terrain_rocks_gl_03": 1,
+        "terrain_rocks_gl_04": 7,
+        "terrain_rocks_wg_01": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_tel_spawn": 1,
+        "_aa_travelingtrader_tel_spawn": 1
+      }
+    }
+  }
+}

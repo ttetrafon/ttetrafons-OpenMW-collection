@@ -1,0 +1,40 @@
+{
+  "cell": "Skaal Village, Shaman's Hut",
+  "name": "Skaal Village, Shaman's Hut",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "in_s_door": 1
+      },
+      "modified": {
+        "ex_s_window_closed": 2,
+        "sp_nor_setskaal_i_fireplace_01": 1
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_comp_valrek": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "in_s_door": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "in_s_door": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::11798",
+      "object": "in_s_door",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

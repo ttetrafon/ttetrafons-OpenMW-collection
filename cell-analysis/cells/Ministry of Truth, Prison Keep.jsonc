@@ -1,0 +1,130 @@
+{
+  "cell": "Ministry of Truth, Prison Keep",
+  "name": "Ministry of Truth, Prison Keep",
+  "plugins": {
+    "Ttooth's Missing NPCs - No Nolus.ESP": {
+      "added": {
+        "ttooth_omayn": 1
+      }
+    },
+    "Privileges&Services 1.1.esp": {
+      "added": {
+        "in_cavern_beam30": 5,
+        "in_cavern_ramp00": 1,
+        "in_cavern_stairs00": 2,
+        "pp_executioner": 1,
+        "pp_fire": 1,
+        "pp_inquisitor": 3,
+        "pp_pitfire": 1,
+        "pp_rope": 1
+      },
+      "modified": {
+        "in_mudboulder00": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "ex_velothicave_door_03": 3,
+        "sound_cave_oldwood00": 4,
+        "sound_cave_wind00": 4
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "ex_velothicave_door_03": 3,
+        "sound_cave_oldwood00": 4,
+        "sound_cave_wind00": 4
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::383610",
+      "object": "ex_velothicave_door_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::383611",
+      "object": "ex_velothicave_door_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::383613",
+      "object": "ex_velothicave_door_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::383858",
+      "object": "sound_cave_wind00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::383859",
+      "object": "sound_cave_oldwood00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::383860",
+      "object": "sound_cave_oldwood00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::383861",
+      "object": "sound_cave_oldwood00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::383862",
+      "object": "sound_cave_oldwood00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::383863",
+      "object": "sound_cave_wind00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::383864",
+      "object": "sound_cave_wind00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::383865",
+      "object": "sound_cave_wind00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

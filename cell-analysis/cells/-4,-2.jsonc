@@ -1,0 +1,82 @@
+{
+  "cell": "-4,-2",
+  "name": "Balmora",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1,
+        "gvrm_hla_dun_ch": 1,
+        "gvrm_hlalguardwand": 1
+      }
+    },
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_swamp_3": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_reader3": 1,
+        "bookskill_destruction5_open": 1,
+        "furn_de_ex_stool_02": 1,
+        "furn_de_ex_table_01": 1,
+        "light_de_lantern_02-128": 1
+      }
+    },
+    "BC Sounds Naturalized.esp": {
+      "added": {
+        "opn_sound_swamp_3": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_hiddencache": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_hlaalu out_ran": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "hlaal_loaddoor_01": 1,
+        "hlaalu_loaddoor_ 02": 1,
+        "urn_04_food": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "hlaal_loaddoor_01": 1,
+        "hlaalu_loaddoor_ 02": 1,
+        "urn_04_food": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::32986",
+      "object": "hlaalu_loaddoor_ 02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::32978",
+      "object": "hlaal_loaddoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::34115",
+      "object": "urn_04_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

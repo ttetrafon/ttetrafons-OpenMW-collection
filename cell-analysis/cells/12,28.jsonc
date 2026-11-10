@@ -1,0 +1,60 @@
+{
+  "cell": "12,28",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "barrel_01_drinks": 1,
+        "barrel_01_saltrice": 1,
+        "blue coast ref 1024": 2,
+        "com_sack_02_ingred": 1,
+        "crate_02_food": 1,
+        "ex_barnacles_01": 2,
+        "ex_barnacles_02": 2,
+        "ex_barnacles_03": 3,
+        "ex_barnacles_05": 1,
+        "flora_kelp_01": 8,
+        "flora_kelp_02": 4,
+        "flora_kelp_03": 2,
+        "flora_kelp_04": 10,
+        "in_cave_plant00": 3,
+        "in_cave_plant10": 6,
+        "kollop_01_pearl": 2,
+        "kollop_02_pearl": 1,
+        "kollop_03_pearl": 3,
+        "t_com_cleet_01": 1,
+        "t_com_furn_bedroll_01": 1,
+        "t_imp_legionmw_x_dock_04": 1,
+        "t_mw_rlvl_telvanniisleswater+0": 1,
+        "t_mw_rlvl_telvanniisleswater-2": 1,
+        "t_mw_terrrockac_menhir_01b": 4,
+        "t_mw_terrrockac_menhir_02b": 9,
+        "t_mw_terrrockac_menhirsnw_01b": 1,
+        "t_mw_terrrockac_menhirsnw_02b": 1,
+        "t_mwcom_var_bl2eggkwama": 1,
+        "t_mwcom_var_bls1kwama": 1,
+        "t_nor_furs_03": 1,
+        "t_nor_setharbor_boatlong_02": 1,
+        "t_nor_var_lantern_01": 1,
+        "t_skycom_var_bl1arrow": 1,
+        "t_skycom_var_bl1mead": 1,
+        "t_skycom_var_bl1salt": 1,
+        "t_skycom_var_bl2codsalt": 1,
+        "t_skycom_var_cr3ceramic": 1,
+        "t_skycom_var_cr5chpfood": 1,
+        "t_skycom_var_cr6meatbeef": 1,
+        "t_skycom_var_cr8torch": 1,
+        "t_skycom_var_cr9fish": 1,
+        "t_skycom_var_cr9mead2": 1,
+        "t_skynor_furn_ch1cltmale": 1,
+        "t_skynor_furn_cho1wpn": 1,
+        "terrain_bm_icechunk_06": 1,
+        "terrain_rock_ac_08": 2
+      }
+    },
+    "RepopulatedMainland.ESP": {
+      "added": {
+        "gvrm_nrd_f_niv_trcpy": 1
+      }
+    }
+  }
+}

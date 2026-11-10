@@ -1,0 +1,36 @@
+{
+  "cell": "35,-5",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_de_railing_02": 5,
+        "ex_de_railing_03": 3,
+        "flora_chokeweed_02": 11,
+        "flora_kelp_01": 36,
+        "flora_kelp_02": 20,
+        "flora_kelp_03": 5,
+        "flora_kelp_04": 15,
+        "flora_stoneflower_01": 13,
+        "flora_stoneflower_02": 4,
+        "flora_tree_wg_01": 14,
+        "flora_tree_wg_05": 7,
+        "h2o_all_lev+2": 3,
+        "t_mw_rlvl_boethiahspinecoast+0": 1,
+        "t_mw_rlvl_boethiahspineland-2": 1,
+        "terrain_rock_wg_07": 3,
+        "terrain_rock_wg_10": 8,
+        "terrain_rock_wg_12": 8,
+        "terrain_rock_wg_18": 20,
+        "terrain_rocks_wg_01": 30,
+        "terrain_rocks_wg_02": 4,
+        "terrain_rocks_wg_03": 19,
+        "tr_m1_r_temrio indrys": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_travelingtrader_tel_spawn": 1
+      }
+    }
+  }
+}

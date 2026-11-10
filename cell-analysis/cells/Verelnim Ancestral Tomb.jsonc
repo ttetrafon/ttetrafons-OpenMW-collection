@@ -1,0 +1,17 @@
+{
+  "cell": "Verelnim Ancestral Tomb",
+  "name": "Verelnim Ancestral Tomb",
+  "plugins": {
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_ashenblade": 1
+      }
+    },
+    "LootWellUrned.ESP": {
+      "added": {
+        "_uyl_light": 1,
+        "_uyl_verelnim": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "cell": "Solstheim, Graring's House",
+  "name": "Solstheim, Graring's House",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "in_s_door": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bm_nordic01_robe": 1,
+        "bm_nordic01_shirt": 1,
+        "bm_nordic01_shoes": 1,
+        "bm_wool01_pants": 1,
+        "bm_wool02_shirt": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bm_nordic01_robe": 1,
+        "bm_nordic01_shirt": 1,
+        "bm_nordic01_shoes": 1,
+        "bm_wool01_pants": 1,
+        "bm_wool02_shirt": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::32213",
+      "object": "bm_nordic01_robe",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::32214",
+      "object": "bm_nordic01_shirt",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::32215",
+      "object": "bm_nordic01_shoes",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::32216",
+      "object": "bm_wool01_pants",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::32217",
+      "object": "bm_wool02_shirt",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

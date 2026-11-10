@@ -1,0 +1,34 @@
+{
+  "cell": "Ald-ruhn, Arobar Private Quarters",
+  "name": "Ald-ruhn, Arobar Private Quarters",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "in_r_s_door_01": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "in_r_s_door_01": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::79675",
+      "object": "in_r_s_door_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::79873",
+      "object": "in_r_s_door_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

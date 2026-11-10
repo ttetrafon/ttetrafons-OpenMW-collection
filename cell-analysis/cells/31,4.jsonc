@@ -1,0 +1,51 @@
+{
+  "cell": "31,4",
+  "name": "Ald Mirathi",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "blue coast ref 1024": 2,
+        "ex_dae_claw_01": 6,
+        "ex_dae_pillar_01": 2,
+        "ex_dae_pillar_02": 3,
+        "ex_dae_pillar_03": 4,
+        "ex_dae_ruin_01": 1,
+        "ex_dae_ruin_platform_01": 1,
+        "ex_dae_ruin_stair01_short": 2,
+        "ex_dae_wall_512_03": 1,
+        "ex_dae_wall_512_04": 2,
+        "ex_dae_wall_512_07": 1,
+        "flora_bittergreen_01": 1,
+        "flora_bittergreen_02": 1,
+        "flora_bittergreen_04": 1,
+        "flora_bittergreen_pod_01": 1,
+        "flora_kelp_01": 31,
+        "flora_kelp_02": 36,
+        "flora_kelp_03": 15,
+        "flora_kelp_04": 15,
+        "flora_kreshweed_03": 2,
+        "flora_plant_04": 2,
+        "flora_tree_wg_01": 3,
+        "flora_tree_wg_04": 1,
+        "flora_tree_wg_05": 3,
+        "flora_tree_wg_08": 2,
+        "t_mw_rlvl_boethiahspinecoast+0": 1,
+        "t_mw_rlvl_boethianlakes+0": 2,
+        "t_mw_rlvl_boethianlakeswater+0": 1,
+        "t_mw_rlvl_boethianlakeswater+2": 1,
+        "t_mw_stat_daedradifficulty1": 1,
+        "t_mw_terrrockwg_rockstair01": 1,
+        "terrain_rock_wg_10": 4,
+        "terrain_rock_wg_12": 4,
+        "terrain_rocks_wg_01": 13,
+        "terrain_rocks_wg_03": 12,
+        "terrain_rocks_wg_04": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_ex_daedric_ruins_spawn": 1
+      }
+    }
+  }
+}

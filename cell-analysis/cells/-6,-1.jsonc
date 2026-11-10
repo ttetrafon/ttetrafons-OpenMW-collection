@@ -1,0 +1,23 @@
+{
+  "cell": "-6,-1",
+  "name": "Hlormaren",
+  "plugins": {
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_swamp_2": 3,
+        "sound_swamp_3": 2
+      }
+    },
+    "BC Sounds Naturalized.esp": {
+      "added": {
+        "opn_sound_swamp_2": 3,
+        "opn_sound_swamp_3": 2
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_map09_trigger": 1
+      }
+    }
+  }
+}

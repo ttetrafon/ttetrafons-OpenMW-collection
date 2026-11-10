@@ -1,0 +1,62 @@
+{
+  "cell": "Vivec, St. Olms Canal South-Two",
+  "name": "Vivec, St. Olms Canal South-Two",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "gold_025": 1,
+        "iron dagger": 3,
+        "misc_uni_pillow_02": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "gold_025": 1,
+        "iron dagger": 3,
+        "misc_uni_pillow_02": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::405579",
+      "object": "gold_025",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::424307",
+      "object": "misc_uni_pillow_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::424310",
+      "object": "iron dagger",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::424311",
+      "object": "iron dagger",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::424312",
+      "object": "iron dagger",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "cell": "Vivec, Foreign Quarter Canalworks",
+  "name": "Vivec, Foreign Quarter Canalworks",
+  "plugins": {
+    "Holy Art.ESP": {
+      "added": {
+        "vd_velothismall_02": 1
+      }
+    },
+    "Unique Jewelry and Accessories.esp": {
+      "added": {
+        "com_closet_01_expclothe": 1,
+        "com_drawers_01_expcloth": 1,
+        "furn_com_r_bookshelf_01": 1,
+        "furn_com_r_table_01": 2,
+        "furn_com_rm_chair_03": 1,
+        "furn_de_rug_big_07": 1,
+        "glass dagger": 3,
+        "in_v_s_int_corner_01": 2,
+        "in_v_s_int_wall_02": 2,
+        "in_v_s_wall_column_01": 2,
+        "in_velothismall_3way_01": 1,
+        "in_velothismall_corner_01": 3,
+        "in_velothismall_dj_01": 5,
+        "in_velothismall_hall_01": 5,
+        "in_velothismall_ndoor_01": 5,
+        "light_com_candle_07_64": 3,
+        "light_com_candle_08_64": 1,
+        "light_com_candle_10_64": 2,
+        "light_com_lamp_02_128": 3,
+        "light_torch_01_128": 4,
+        "misc_soulgem_petty": 1,
+        "ordinator stationary": 1,
+        "teal_aa_bookline_cont": 1,
+        "teal_aa_jewelry_cont": 1,
+        "teal_aa_shirt_cont": 1,
+        "teal_aa_spear_cont_zah": 1,
+        "teal_aa_staff_cont_zah": 1,
+        "teal_chest_blinding": 1,
+        "teal_chest_necklaces": 1,
+        "teal_chest_scales": 1,
+        "teal_chest_zah": 1,
+        "teal_scalesthatshine": 1,
+        "teal_zahrahva": 1,
+        "teale_amu_com_01_gripes": 1,
+        "teale_amu_teeth_asha": 1,
+        "teale_amu_teeth_glass": 1,
+        "teale_belt_com5_balmsimple": 1,
+        "teale_r_1_tears": 1,
+        "teale_r_3_mage": 1,
+        "tealec_belt_com5_guar": 1,
+        "tealp_amu_com_02_mighty": 1,
+        "tealp_amu_com_03_metal": 1,
+        "tealp_amu_com_04_open": 1,
+        "tealp_amu_com_05_fuddle": 1,
+        "tealp_amu_exp_01_blue": 1,
+        "tealp_amu_exp_02_rest": 1,
+        "tealp_amu_exp_03_frost": 1,
+        "tealp_belt_com3_green": 1,
+        "tealp_belt_com4_alit": 1,
+        "tealp_belt_exq_copper": 1,
+        "tealp_belt_nav_bone": 1,
+        "tealp_belt_squ_barrier": 1,
+        "tealp_belt_tri_feather": 1,
+        "tealp_glove_blue_l": 1,
+        "tealp_glove_blue_r": 1,
+        "tealp_glove_storm_l": 1,
+        "tealp_glove_storm_r": 1,
+        "tealp_r_3_mage": 1,
+        "tealp_r_5_cshard": 1,
+        "tealp_r_5_detectkey": 1,
+        "tealp_r_5_ironblue": 1,
+        "tealp_r_5_irongreen": 1,
+        "tealp_r_6_firefist": 1,
+        "tealp_r_6_icegrip": 1,
+        "tealp_r_8_zapbolt": 1,
+        "tealp_r_c_spiritstrike": 1,
+        "tealp_r_ig_dviper": 1,
+        "tealp_r_m_endurance": 1,
+        "tealp_shoes_clann": 1,
+        "tealp_shoes_cyan": 1,
+        "tealp_shoes_firefly": 1,
+        "tealp_shoes_flame": 1,
+        "tealp_shoes_guar": 1,
+        "tealp_shoes_ice": 1,
+        "tealp_shoes_lava": 1,
+        "tealp_slip_copper": 1,
+        "teals_g_daed_r_dart": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "added": {
+        "bc mushroom 64": 8
+      },
+      "modified": {
+        "bc mushroom 64": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_healer": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "ex_vivec_waterfall_01": 21,
+        "ex_waterfall_mist_s_01": 21,
+        "furn_bannerd_trader_v_j": 1,
+        "furn_imp_altar_cure_01": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_ordinator wan_ran": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "ex_vivec_waterfall_01": 21,
+        "ex_waterfall_mist_s_01": 21,
+        "furn_bannerd_trader_v_j": 1,
+        "furn_imp_altar_cure_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::376628",
+      "object": "furn_imp_altar_cure_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406752",
+      "object": "ex_vivec_waterfall_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406753",
+      "object": "ex_waterfall_mist_s_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406755",
+      "object": "ex_vivec_waterfall_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406757",
+      "object": "ex_waterfall_mist_s_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406762",
+      "object": "ex_vivec_waterfall_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406763",
+      "object": "ex_waterfall_mist_s_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406767",
+      "object": "ex_vivec_waterfall_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406768",
+      "object": "ex_waterfall_mist_s_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406772",
+      "object": "ex_vivec_waterfall_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406773",
+      "object": "ex_waterfall_mist_s_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406777",
+      "object": "ex_vivec_waterfall_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406779",
+      "object": "ex_waterfall_mist_s_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406782",
+      "object": "ex_vivec_waterfall_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406783",
+      "object": "ex_waterfall_mist_s_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406787",
+      "object": "ex_vivec_waterfall_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406788",
+      "object": "ex_waterfall_mist_s_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406790",
+      "object": "ex_vivec_waterfall_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406792",
+      "object": "ex_waterfall_mist_s_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406797",
+      "object": "ex_vivec_waterfall_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406798",
+      "object": "ex_waterfall_mist_s_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406800",
+      "object": "ex_vivec_waterfall_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406802",
+      "object": "ex_waterfall_mist_s_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406809",
+      "object": "ex_vivec_waterfall_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406810",
+      "object": "ex_waterfall_mist_s_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406812",
+      "object": "ex_vivec_waterfall_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406814",
+      "object": "ex_waterfall_mist_s_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406817",
+      "object": "ex_vivec_waterfall_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406818",
+      "object": "ex_waterfall_mist_s_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406820",
+      "object": "ex_vivec_waterfall_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406822",
+      "object": "ex_waterfall_mist_s_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406825",
+      "object": "ex_vivec_waterfall_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406826",
+      "object": "ex_waterfall_mist_s_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406828",
+      "object": "ex_vivec_waterfall_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406830",
+      "object": "ex_waterfall_mist_s_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406832",
+      "object": "ex_vivec_waterfall_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406834",
+      "object": "ex_waterfall_mist_s_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406837",
+      "object": "ex_vivec_waterfall_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406838",
+      "object": "ex_waterfall_mist_s_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406840",
+      "object": "ex_vivec_waterfall_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406842",
+      "object": "ex_waterfall_mist_s_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406845",
+      "object": "ex_vivec_waterfall_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406846",
+      "object": "ex_waterfall_mist_s_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::406885",
+      "object": "furn_bannerd_trader_v_j",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

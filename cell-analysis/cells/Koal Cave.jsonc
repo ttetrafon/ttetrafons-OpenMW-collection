@@ -1,0 +1,35 @@
+{
+  "cell": "Koal Cave",
+  "name": "Koal Cave",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_ship_cont_bot_06": 1
+      }
+    },
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_dun_pray_5": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "ex_dae_buttress_ruin_01": 2,
+        "ex_dae_molagbal": 1,
+        "ex_dae_ruin_04": 1,
+        "plx_in_dreugh": 6,
+        "plx_water": 11
+      },
+      "modified": {
+        "r0_h2o_all_lev+0_int": 2,
+        "r0_h2o_all_lev+2_int": 1,
+        "r0_h2o_all_lev-2_int": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 17
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "cell": "0,-10",
+  "plugins": {
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "a_photodragons": 2,
+        "sound_swamp_1": 2,
+        "sound_swamp_2": 4,
+        "sound_swamp_3": 1
+      }
+    },
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_con_dae_coffer01_h": 1,
+        "aatl_npc_thg_dalin": 1,
+        "aatl_npc_thg_trynda": 1,
+        "aatl_npc_thg_zajeer": 1,
+        "ab_o_barrel01smuggler": 1,
+        "ab_o_packnetchsmuggler": 1,
+        "ab_o_sacksmallfood": 1,
+        "ex_de_oar": 1,
+        "t_qyc_furn_urn_01ingti": 1,
+        "t_rga_setharbor_boatsmallwreck": 1
+      }
+    },
+    "BC Sounds Naturalized.esp": {
+      "added": {
+        "opn_a_photodragons": 5,
+        "opn_sound_swamp_1": 3,
+        "opn_sound_swamp_2": 4,
+        "opn_sound_swamp_3": 2
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_imp_spawn": 1
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_ff_grokkot_sack02": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_crt_deepforest_bc": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_fresh_list": 2
+      }
+    },
+    "Creatures and Critters Light the Path.ESP": {
+      "added": {
+        "aa_cr_i_moth_all": 3
+      }
+    }
+  }
+}

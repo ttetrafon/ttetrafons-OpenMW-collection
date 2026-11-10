@@ -1,0 +1,16 @@
+{
+  "cell": "Desolate Shipwreck, Lower Level",
+  "name": "Desolate Shipwreck, Lower Level",
+  "plugins": {
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_m09_bottle": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_callofaetheirus": 1
+      }
+    }
+  }
+}

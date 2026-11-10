@@ -1,0 +1,30 @@
+{
+  "cell": "-12,10",
+  "plugins": {
+    "A Merchant's Whim.ESP": {
+      "added": {
+        "aatl_amw_act_signkeepout": 1,
+        "ab_door_darkness": 1,
+        "ab_furn_boneguarskull": 1,
+        "ab_in_bonepile01": 1,
+        "furn_imp_flagpole_01": 1,
+        "terrain_rock_wg_02": 1,
+        "terrain_rock_wg_09": 1,
+        "terrain_rock_wg_10": 1,
+        "terrain_rock_wg_14": 1,
+        "terrain_rock_wg_16": 1,
+        "terrain_rock_wg_18": 1
+      }
+    },
+    "EKM Traveling Trader.ESP": {
+      "added": {
+        "ekm_traderk_gnisis": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

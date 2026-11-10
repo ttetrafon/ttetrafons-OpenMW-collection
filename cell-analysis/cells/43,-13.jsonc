@@ -1,0 +1,44 @@
+{
+  "cell": "43,-13",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "flora_chokeweed_02": 4,
+        "flora_grass_01": 39,
+        "flora_grass_02": 69,
+        "flora_grass_03": 64,
+        "flora_kreshweed_01": 1,
+        "flora_kreshweed_02": 1,
+        "flora_root_wg_05": 2,
+        "flora_root_wg_06": 1,
+        "flora_root_wg_08": 1,
+        "flora_tree_wg_04": 1,
+        "flora_tree_wg_05": 4,
+        "flora_tree_wg_06": 1,
+        "flora_tree_wg_08": 1,
+        "t_mw_flora_treendb_02": 5,
+        "t_mw_flora_treendg_03": 3,
+        "t_mw_flora_treendg_05": 1,
+        "t_mw_rlvl_sacredlandsland+2": 3,
+        "terrain_rock_wg_01": 1,
+        "terrain_rock_wg_02": 2,
+        "terrain_rock_wg_05": 4,
+        "terrain_rock_wg_08": 1,
+        "terrain_rock_wg_10": 3,
+        "terrain_rock_wg_12": 1,
+        "terrain_rock_wg_14": 3,
+        "terrain_rock_wg_17": 11,
+        "terrain_rock_wg_18": 2,
+        "terrain_rocks_wg_01": 27,
+        "terrain_rocks_wg_02": 2,
+        "terrain_rocks_wg_03": 10,
+        "terrain_rocks_wg_04": 4
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_necro_spawn": 1
+      }
+    }
+  }
+}

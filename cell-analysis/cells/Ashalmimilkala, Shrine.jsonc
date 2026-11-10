@@ -1,0 +1,17 @@
+{
+  "cell": "Ashalmimilkala, Shrine",
+  "name": "Ashalmimilkala, Shrine",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_daedra_shrine_mehrunes": 1,
+        "plx_vermin_marker_box": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_shrine_mehrunes": 1
+      }
+    }
+  }
+}

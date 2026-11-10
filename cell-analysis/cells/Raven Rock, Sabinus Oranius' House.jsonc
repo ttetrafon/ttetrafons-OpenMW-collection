@@ -1,0 +1,69 @@
+{
+  "cell": "Raven Rock, Sabinus Oranius' House",
+  "name": "Raven Rock, Sabinus Oranius' House",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "ex_colony_door04": 1,
+        "furn_colony_wolfrug01": 1,
+        "furn_com_rm_shelf_01": 2,
+        "furn_de_rug_big_04": 1,
+        "furn_de_tapestry_03": 2,
+        "light_logpile_128": 1,
+        "misc_com_bottle_10": 1,
+        "misc_com_bottle_15": 2,
+        "misc_com_redware_pitcher": 1,
+        "misc_de_goblet_06": 2,
+        "northmarker": 1,
+        "sp_bm_colony_i_fireplace_01": 1
+      },
+      "modified": {
+        "com_sack_01_ingred": 3,
+        "furn_colony_shelf01": 1,
+        "furn_com_cauldron_02": 1,
+        "ingred_saltrice_01": 1,
+        "misc_com_bottle_08": 1,
+        "misc_com_bottle_10": 2,
+        "misc_com_bottle_14": 1,
+        "misc_com_bucket_01": 1,
+        "misc_com_wood_cup_02": 4,
+        "misc_de_bowl_orange_green_01": 2
+      }
+    },
+    "GITD_WL_RR_Interiors.esp": {
+      "added": {
+        "gitd_in_colony_win_01": 4
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "ex_colony_door04": 1,
+        "ex_colony_door08": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "ex_colony_door04": 1,
+        "ex_colony_door08": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::21299",
+      "object": "ex_colony_door04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21302",
+      "object": "ex_colony_door08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "cell": "Odirniran, Tower",
+  "name": "Odirniran, Tower",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "tr_m3_hi_gorne7_journal": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_p_bed_28": 3,
+        "active_de_pr_bed_26": 1,
+        "de_p_chest_02_pos5": 1,
+        "gold_100": 1,
+        "in_velothismall_ndoor_01": 1,
+        "light_de_candle_ivory_01_64": 2,
+        "light_de_lantern_02": 1,
+        "light_de_lantern_06": 2,
+        "misc_com_bucket_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_p_bed_28": 3,
+        "active_de_pr_bed_26": 1,
+        "de_p_chest_02_pos5": 1,
+        "gold_100": 1,
+        "in_velothismall_ndoor_01": 1,
+        "light_de_candle_ivory_01_64": 2,
+        "light_de_lantern_02": 1,
+        "light_de_lantern_06": 2,
+        "misc_com_bucket_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::112778",
+      "object": "active_de_p_bed_28",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::112779",
+      "object": "active_de_p_bed_28",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::112795",
+      "object": "light_de_lantern_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::112845",
+      "object": "gold_100",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::112850",
+      "object": "active_de_pr_bed_26",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::149151",
+      "object": "in_velothismall_ndoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::329745",
+      "object": "light_de_lantern_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::426083",
+      "object": "de_p_chest_02_pos5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::478924",
+      "object": "light_de_lantern_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::478925",
+      "object": "light_de_candle_ivory_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::478926",
+      "object": "light_de_candle_ivory_01_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::478928",
+      "object": "active_de_p_bed_28",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::478929",
+      "object": "misc_com_bucket_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

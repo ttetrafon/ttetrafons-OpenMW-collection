@@ -1,0 +1,110 @@
+{
+  "cell": "-9,4",
+  "name": "Khartag Point",
+  "plugins": {
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "a_photodragons": 1,
+        "sound_swamp_1": 1,
+        "sound_swamp_2": 1
+      }
+    },
+    "BC Sounds Naturalized.esp": {
+      "added": {
+        "opn_a_photodragons": 1,
+        "opn_sound_swamp_1": 1,
+        "opn_sound_swamp_2": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_m05_chest": 1,
+        "x0_map21_trigger": 1
+      },
+      "modified": {
+        "ex_de_ship_cabindoor": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_marker": 1,
+        "xero_west_sack": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_water": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 1
+      }
+    },
+    "OAAB - Shipwrecks.esm": {
+      "modified": {
+        "barrel_02_floater": 1,
+        "cliff racer": 1,
+        "ex_barnacles_01": 2,
+        "ex_barnacles_02": 1,
+        "ex_barnacles_03": 2,
+        "ex_barnacles_04": 1,
+        "ex_barnacles_05": 1,
+        "ex_barnacles_06": 1,
+        "ex_de_ship_cabindoor": 1,
+        "ex_scrapwood03": 1,
+        "ex_scrapwood04": 1,
+        "ex_scrapwood05": 2,
+        "h2o_all_lev+2": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "misc_com_bucket_boe_uni": 1,
+        "misc_com_bucket_boe_unia": 1,
+        "misc_com_bucket_boe_unib": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "misc_com_bucket_boe_uni": 1,
+        "misc_com_bucket_boe_unia": 1,
+        "misc_com_bucket_boe_unib": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::225431",
+      "object": "ex_de_ship_cabindoor",
+      "plugins": [
+        "OAAB - Shipwrecks.esm",
+        "Uncharted Artifacts.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::335099",
+      "object": "misc_com_bucket_boe_uni",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::335100",
+      "object": "misc_com_bucket_boe_unia",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::390574",
+      "object": "misc_com_bucket_boe_unib",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "cell": "Vivec, Foreign Quarter Underworks",
+  "name": "Vivec, Foreign Quarter Underworks",
+  "plugins": {
+    "The Undead.esm": {
+      "added": {
+        "_und_zombies_random": 3
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "added": {
+        "light_glowing_lichen_256_d": 6
+      },
+      "modified": {
+        "light_glowing_lichen_256_d": 10
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_sewers": 5
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "misc_com_bottle_12": 1,
+        "misc_com_tankard_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "misc_com_bottle_12": 1,
+        "misc_com_tankard_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::407023",
+      "object": "misc_com_bottle_12",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::407024",
+      "object": "misc_com_tankard_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

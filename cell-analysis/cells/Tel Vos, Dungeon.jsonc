@@ -1,0 +1,16 @@
+{
+  "cell": "Tel Vos, Dungeon",
+  "name": "Tel Vos, Dungeon",
+  "plugins": {
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_con_dae_urn02_m": 1
+      }
+    },
+    "Olive the Enchanter.esp": {
+      "modified": {
+        "misc_dwrv_coin00": 1
+      }
+    }
+  }
+}

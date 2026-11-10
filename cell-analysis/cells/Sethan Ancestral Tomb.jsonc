@@ -1,0 +1,23 @@
+{
+  "cell": "Sethan Ancestral Tomb",
+  "name": "Sethan Ancestral Tomb",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "un_lich_skull_leveled": 1,
+        "un_lord_greater": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_u_all_1": 2
+      }
+    },
+    "LootWellUrned.ESP": {
+      "added": {
+        "_uyl_light": 1,
+        "_uyl_sethan": 1
+      }
+    }
+  }
+}

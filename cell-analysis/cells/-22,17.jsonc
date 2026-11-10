@@ -1,0 +1,32 @@
+{
+  "cell": "-22,17",
+  "name": "Fort Frostmoth",
+  "plugins": {
+    "RepopulatedBloodmoon.ESP": {
+      "added": {
+        "gvrm_bmtp_mysm_dun_m_04": 1,
+        "gvrm_grdwand_imp_arch": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "barrel_01_random_pos": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "barrel_01_random_pos": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::32315",
+      "object": "barrel_01_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

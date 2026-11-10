@@ -1,0 +1,103 @@
+{
+  "cell": "-25,19",
+  "name": "Raven Rock",
+  "plugins": {
+    "RepopulatedBloodmoon.ESP": {
+      "added": {
+        "gvrm_bm_npc_rr_imp": 3
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "barrel_01_cheapfood_co": 1,
+        "barrel_01_empty_co1": 3,
+        "barrel_02_cheapfood_co": 1,
+        "crate_01_random_pos_co": 3,
+        "ex_colony_door03_1_uryn": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "barrel_01_cheapfood_co": 1,
+        "barrel_01_empty_co1": 3,
+        "barrel_02_cheapfood_co": 1,
+        "crate_01_random_pos_co": 3,
+        "ex_colony_door03_1_uryn": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::11050",
+      "object": "ex_colony_door03_1_uryn",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::32918",
+      "object": "barrel_01_empty_co1",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::32922",
+      "object": "barrel_01_empty_co1",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::32923",
+      "object": "barrel_01_empty_co1",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::32926",
+      "object": "crate_01_random_pos_co",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::32927",
+      "object": "crate_01_random_pos_co",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::32928",
+      "object": "crate_01_random_pos_co",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::32929",
+      "object": "barrel_01_cheapfood_co",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33346",
+      "object": "barrel_02_cheapfood_co",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

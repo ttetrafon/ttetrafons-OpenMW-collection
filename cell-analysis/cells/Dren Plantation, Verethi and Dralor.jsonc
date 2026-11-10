@@ -1,0 +1,31 @@
+{
+  "cell": "Dren Plantation, Verethi and Dralor",
+  "name": "Dren Plantation, Verethi and Dralor",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_savant": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_p_bed_28": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_p_bed_28": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::179201",
+      "object": "active_de_p_bed_28",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

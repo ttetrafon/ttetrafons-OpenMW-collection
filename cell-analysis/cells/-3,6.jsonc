@@ -1,0 +1,114 @@
+{
+  "cell": "-3,6",
+  "name": "Ald-ruhn",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_aldruhnwand_dun": 1,
+        "gvrm_rdrnwtchmn_dunm_1": 2
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_hiddencache": 2
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_mugger_spawn": 1,
+        "_aa_n_all_nightlife_spawn": 1,
+        "_aa_solo_red_spawn": 1
+      }
+    },
+    "Creatures and Critters Light the Path.ESP": {
+      "added": {
+        "aa_cr_i_moth_all": 3
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "com_basket_01_empty": 1,
+        "com_basket_01_ingredien": 1,
+        "crate_01_random_pos": 1,
+        "crate_02_iron_weapons": 1,
+        "urn_01_ingred": 1,
+        "urn_02": 1,
+        "urn_04_food": 1
+      }
+    },
+    "Local Lore - Silt Striders and Caravaners - Silt Strider Animation Restored.ESP": {
+      "modified": {
+        "kil_silt_dust": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "com_basket_01_empty": 1,
+        "com_basket_01_ingredien": 1,
+        "crate_01_random_pos": 1,
+        "crate_02_iron_weapons": 1,
+        "urn_01_ingred": 1,
+        "urn_02": 1,
+        "urn_04_food": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::49297",
+      "object": "urn_04_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::49298",
+      "object": "urn_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::49299",
+      "object": "com_basket_01_ingredien",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::49300",
+      "object": "com_basket_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::49301",
+      "object": "urn_01_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::49302",
+      "object": "crate_01_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::49303",
+      "object": "crate_02_iron_weapons",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

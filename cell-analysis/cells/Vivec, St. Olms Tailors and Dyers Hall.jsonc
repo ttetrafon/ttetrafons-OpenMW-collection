@@ -1,0 +1,64 @@
+{
+  "cell": "Vivec, St. Olms Tailors and Dyers Hall",
+  "name": "Vivec, St. Olms Tailors and Dyers Hall",
+  "plugins": {
+    "NOD - Core.esm": {
+      "added": {
+        "nod_de_p_chest_02_mevur": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_clothes": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "misc_clothbolt_01": 1,
+        "misc_clothbolt_02": 1,
+        "misc_clothbolt_03": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "misc_clothbolt_01": 1,
+        "misc_clothbolt_02": 1,
+        "misc_clothbolt_03": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::337670",
+      "object": "misc_clothbolt_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::337671",
+      "object": "misc_clothbolt_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::337672",
+      "object": "misc_clothbolt_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::337673",
+      "object": "misc_clothbolt_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

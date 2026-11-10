@@ -1,0 +1,104 @@
+{
+  "cell": "-5,-7",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_ship_6thbarrel01": 1,
+        "_cor_ship_bc_rocks_01": 1,
+        "_cor_ship_bc_rocks_02": 5,
+        "_cor_ship_de_shack_plank_03_a": 6,
+        "ab_ex_deshipwrbackribs": 1,
+        "ab_ex_deshipwrflotsam02": 1,
+        "ab_ex_deshipwrflotsam03": 1,
+        "ab_ex_deshipwrfrontfull": 1,
+        "ab_ex_deshipwrrmastyard": 1,
+        "ab_furn_6thurnlid": 1,
+        "ab_furn_6thurntallopen": 1,
+        "ab_furn_barrel01plank": 2,
+        "ab_furn_barrel02broken03": 1,
+        "ab_furn_barrel02broken05": 1,
+        "ab_furn_barrel02lid": 1,
+        "ab_furn_bkruinedpages": 2,
+        "ab_furn_boneskelhand2l": 1,
+        "ab_furn_boneskelskullupper": 1,
+        "ab_furn_cratebroken01": 1,
+        "ab_furn_urnshard04": 1,
+        "ab_furn_urnshell01": 1,
+        "ab_misc_pursecoin": 1,
+        "ab_o_corpse10": 1,
+        "ab_o_corpse20": 1,
+        "ab_o_sackbentfood": 1,
+        "ab_w_ironrapier": 1,
+        "apparatus_a_spipe_01": 1,
+        "barrel_01_ashyams": 1,
+        "barrel_02_floater": 1,
+        "com_sack_01": 3,
+        "contain_corpse00": 1,
+        "contain_corpse10_water": 1,
+        "crate_01_ash_statues": 1,
+        "crate_01_de_mclothes": 2,
+        "crate_de_moonsugar": 1,
+        "ex_com_bottle_11_float": 2,
+        "ex_de_docks_pilingb": 3,
+        "ex_scrapwood02": 1,
+        "ex_scrapwood05": 3,
+        "flora_bc_grass_01": 1,
+        "flora_bc_log_02": 1,
+        "flora_bc_moss_01": 1,
+        "flora_bc_moss_05": 1,
+        "flora_bc_moss_09": 1,
+        "flora_bc_moss_20": 2,
+        "flora_bc_vine_03": 9,
+        "flora_kelp_01": 8,
+        "in_cave_plant00": 2,
+        "misc_com_bottle_02": 2
+      },
+      "modified": {
+        "_cor_ship_de_shack_plank_03_a": 1,
+        "barrel_01_cheapfood5": 1,
+        "ex_de_docks_pilingb": 1,
+        "ex_de_shack_plank_03": 1,
+        "ex_scrapwood05": 1,
+        "flora_bc_grass_01": 1,
+        "flora_bc_log_02": 1,
+        "misc_com_bottle_02": 1,
+        "misc_com_bucket_01": 1,
+        "sound_boat_creak00": 1,
+        "terrain_rock_bc_18": 2
+      }
+    },
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_swamp_1": 1,
+        "sound_swamp_2": 1
+      }
+    },
+    "BC Sounds Naturalized.esp": {
+      "added": {
+        "opn_sound_swamp_1": 1,
+        "opn_sound_swamp_2": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_m01_key": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_marker": 1,
+        "xero_west_barrel": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_bandits": 1
+      }
+    },
+    "Creatures and Critters Light the Path.ESP": {
+      "added": {
+        "aa_cr_i_moth_all": 1
+      }
+    }
+  }
+}

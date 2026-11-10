@@ -1,0 +1,102 @@
+{
+  "cell": "-2,-10",
+  "name": "Seyda Neen",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_balmoracitizens": 1
+      }
+    },
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "a_photodragons": 1,
+        "sound_swamp_3": 1
+      }
+    },
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_npc_merc_tavima": 1
+      }
+    },
+    "BC Sounds Naturalized.esp": {
+      "added": {
+        "opn_a_photodragons": 1,
+        "opn_sound_swamp_2": 2,
+        "opn_sound_swamp_3": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_hiddencache": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "chargen_barrel_01": 1,
+        "chargen_barrel_02": 1,
+        "chargen_chest_02_empty": 1,
+        "chargenbarrel_01_drinks": 1,
+        "light_com_lantern_02": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "chargen_barrel_01": 1,
+        "chargen_barrel_02": 1,
+        "chargen_chest_02_empty": 1,
+        "chargenbarrel_01_drinks": 1,
+        "light_com_lantern_02": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::297464",
+      "object": "chargen_barrel_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::297466",
+      "object": "chargen_barrel_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::297465",
+      "object": "chargenbarrel_01_drinks",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::297463",
+      "object": "chargen_chest_02_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::146626",
+      "object": "light_com_lantern_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::146628",
+      "object": "light_com_lantern_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

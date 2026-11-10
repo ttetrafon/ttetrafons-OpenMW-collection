@@ -1,0 +1,26 @@
+{
+  "cell": "14,-2",
+  "plugins": {
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_vehkchild": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_ex_daedric_ruins_spawn": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_daedra_shrine_molagbal": 4,
+        "plx_ex_daed_bat": 3
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_shrine_molagbal": 4
+      }
+    }
+  }
+}

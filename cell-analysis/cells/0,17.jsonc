@@ -1,0 +1,21 @@
+{
+  "cell": "0,17",
+  "plugins": {
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_ex_daedric_ruins_spawn": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_daedra_shrine_mehrunes": 3,
+        "plx_ex_daed_bat": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_shrine_mehrunes": 3
+      }
+    }
+  }
+}

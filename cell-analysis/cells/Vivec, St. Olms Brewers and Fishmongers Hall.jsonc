@@ -1,0 +1,16 @@
+{
+  "cell": "Vivec, St. Olms Brewers and Fishmongers Hall",
+  "name": "Vivec, St. Olms Brewers and Fishmongers Hall",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_trader": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_traders_spawn": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "cell": "Dren Plantation, Shipping House",
+  "name": "Dren Plantation, Shipping House",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "key_drenplantationslaves_01": 1
+      }
+    },
+    "D2Items.esp": {
+      "modified": {
+        "_d2_bonemold_gah-julan_helm": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "key_drenplantationslaves_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::481185",
+      "object": "key_drenplantationslaves_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

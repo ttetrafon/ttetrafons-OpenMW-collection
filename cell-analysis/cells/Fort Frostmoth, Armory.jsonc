@@ -1,0 +1,220 @@
+{
+  "cell": "Fort Frostmoth, Armory",
+  "name": "Fort Frostmoth, Armory",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "in_impsmall_loaddoor_01": 1,
+        "in_impsmall_trapdoor_01a": 1
+      },
+      "modified": {
+        "bk_varietiesoffaithintheempire": 1,
+        "com_chest_02_v_weapon05": 1,
+        "com_sack_02_ingred": 1,
+        "com_sack_02_saltrice_10": 2,
+        "com_sack_03_ingredients": 1,
+        "crate_01_armor_fur": 1,
+        "crate_01_armor_iron": 1,
+        "furn_c_t_kynareth_01": 1,
+        "light_com_candle_03": 1,
+        "repair_master_01": 1,
+        "sc_paper plain": 2
+      }
+    },
+    "NOD - Core.esm": {
+      "added": {
+        "ar_chest_west": 1
+      }
+    },
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_con_com_trade_buck": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bk_biographybarenziah2": 1,
+        "bk_varietiesoffaithintheempire": 2,
+        "imperial shortsword": 1,
+        "imperial_chain_cuirass": 1,
+        "imperial_studded_cuirass": 1,
+        "in_impsmall_door_01": 2,
+        "in_impsmall_loaddoor_01": 1,
+        "in_impsmall_trapdoor_01a": 1,
+        "iron dagger": 1,
+        "iron longsword": 1,
+        "iron_helmet": 1,
+        "steel broadsword": 1,
+        "steel spear": 2,
+        "steel staff": 1,
+        "steel_boots": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bk_biographybarenziah2": 1,
+        "bk_varietiesoffaithintheempire": 2,
+        "imperial shortsword": 1,
+        "imperial_chain_cuirass": 1,
+        "imperial_studded_cuirass": 1,
+        "in_impsmall_door_01": 2,
+        "in_impsmall_loaddoor_01": 1,
+        "in_impsmall_trapdoor_01a": 1,
+        "iron dagger": 1,
+        "iron longsword": 1,
+        "iron_helmet": 1,
+        "steel broadsword": 1,
+        "steel spear": 2,
+        "steel staff": 1,
+        "steel_boots": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::32721",
+      "object": "bk_varietiesoffaithintheempire",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::26430",
+      "object": "in_impsmall_trapdoor_01a",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::26434",
+      "object": "in_impsmall_loaddoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::26553",
+      "object": "in_impsmall_door_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::26554",
+      "object": "in_impsmall_door_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::30045",
+      "object": "steel staff",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::30046",
+      "object": "steel broadsword",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::30049",
+      "object": "iron longsword",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::30050",
+      "object": "imperial shortsword",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::30051",
+      "object": "iron dagger",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::30069",
+      "object": "imperial_chain_cuirass",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::30070",
+      "object": "imperial_studded_cuirass",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::30072",
+      "object": "iron_helmet",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::30075",
+      "object": "steel_boots",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::30084",
+      "object": "steel spear",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::30085",
+      "object": "steel spear",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33363",
+      "object": "bk_biographybarenziah2",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::33364",
+      "object": "bk_varietiesoffaithintheempire",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

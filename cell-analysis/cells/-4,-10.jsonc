@@ -1,0 +1,17 @@
+{
+  "cell": "-4,-10",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_marker": 1,
+        "xero_west_sack": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_dozolmirth": 1,
+        "bc3000_marnin_dolut": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "cell": "8,-11",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "blue coast ref 1024": 1,
+        "ex_barnacles_02": 3,
+        "ex_barnacles_03": 1,
+        "flora_kelp_01": 1,
+        "flora_kelp_02": 1
+      },
+      "modified": {
+        "blue coast ref 1024": 1,
+        "ex_barnacles_02": 2,
+        "flora_kelp_01": 1,
+        "flora_kelp_02": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "gold_001": 3,
+        "xero_east_chest": 1,
+        "xero_marker": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_water": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_ai": 1,
+        "aa_cr_w_creature_list_1": 2
+      }
+    }
+  }
+}

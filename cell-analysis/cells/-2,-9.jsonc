@@ -1,0 +1,233 @@
+{
+  "cell": "-2,-9",
+  "name": "Seyda Neen",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "tr_fm_aronil": 1,
+        "tr_fm_mara": 1,
+        "tr_fm_mark_aronil": 1,
+        "tr_fm_mark_jhanir": 1,
+        "tr_fm_mark_mara": 1,
+        "tr_fm_mark_player": 1,
+        "tr_fm_mark_silmdar": 1,
+        "tr_fm_silmdar": 1,
+        "tr_fm_stat_boatsn": 1,
+        "tr_fm_stat_planksn": 1
+      }
+    },
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1,
+        "gvrm_balmoracitizens": 4,
+        "gvrm_bcom_am_marker": 1,
+        "gvrm_dun_fish_sit": 1,
+        "gvrm_mercwand_dun_bitcoast": 1
+      }
+    },
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_swamp_2": 1,
+        "sound_swamp_3": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_fisherman4": 1
+      }
+    },
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_npc_rg_talsara": 1
+      }
+    },
+    "BC Sounds Naturalized.esp": {
+      "added": {
+        "opn_sound_swamp_1": 1,
+        "opn_sound_swamp_2": 3,
+        "opn_sound_swamp_3": 1
+      }
+    },
+    "Siege at Firemoth Naturalized.esp": {
+      "added": {
+        "firemoth_archer": 1,
+        "firemoth_mage": 1,
+        "firemoth_sailor": 1,
+        "firemoth_warrior": 1,
+        "fm_boat_dock": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_hiddencache": 3
+      },
+      "modified": {
+        "a_siltstrider": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_n_all_nightlife_spawn": 1,
+        "_aa_telemage_spawn": 1
+      }
+    },
+    "PaxonRat.esp": {
+      "added": {
+        "aa1_paxon": 1,
+        "food_kwama_egg_01": 1,
+        "ingred_crab_meat_01": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_fresh_list": 1
+      }
+    },
+    "Creatures and Critters Light the Path.ESP": {
+      "added": {
+        "aa_cr_i_moth_all": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "chargen_crate_01_misc01": 1,
+        "ex_common_door_balcony": 1,
+        "ex_de_sn_gate": 2,
+        "ex_nord_door_01": 1,
+        "ex_nord_door_01-back": 1,
+        "light_com_lantern_02": 6
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "modified": {
+        "ex_nord_door_01": 1
+      }
+    },
+    "Local Lore - Silt Striders and Caravaners - Silt Strider Animation Restored.ESP": {
+      "modified": {
+        "kil_silt_hacklelo": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_imperial guard_ran": 3
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "chargen_crate_01_misc01": 1,
+        "ex_common_door_balcony": 1,
+        "ex_de_sn_gate": 2,
+        "ex_nord_door_01": 1,
+        "ex_nord_door_01-back": 1,
+        "light_com_lantern_02": 6
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::297461",
+      "object": "chargen_crate_01_misc01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::113836",
+      "object": "ex_nord_door_01-back",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::146609",
+      "object": "ex_common_door_balcony",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::113834",
+      "object": "ex_nord_door_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::146615",
+      "object": "light_com_lantern_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::146616",
+      "object": "light_com_lantern_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::146620",
+      "object": "light_com_lantern_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::146622",
+      "object": "light_com_lantern_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::262128",
+      "object": "light_com_lantern_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::321246",
+      "object": "light_com_lantern_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::321262",
+      "object": "ex_de_sn_gate",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::321263",
+      "object": "ex_de_sn_gate",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::227023",
+      "object": "a_siltstrider",
+      "plugins": [
+        "Treasures of Magic.ESP",
+        "Local Lore - Silt Striders and Caravaners - Silt Strider Animation Restored.ESP"
+      ]
+    }
+  ]
+}

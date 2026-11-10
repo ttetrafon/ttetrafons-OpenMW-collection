@@ -1,0 +1,23 @@
+{
+  "cell": "Sadrith Mora, Tel Naga Great Hall",
+  "name": "Sadrith Mora, Tel Naga Great Hall",
+  "plugins": {
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_aetheriustoxin": 1
+      }
+    },
+    "Privileges&Services 1.1.esp": {
+      "added": {
+        "abm_captelvanni": 1,
+        "abm_placeguard": 1,
+        "abm_trapgutelup": 1,
+        "in_t_s_hall_endcap_01": 1,
+        "in_t_s_hallshaft_cap": 1
+      },
+      "modified": {
+        "in_t_s_hall_4way": 1
+      }
+    }
+  }
+}

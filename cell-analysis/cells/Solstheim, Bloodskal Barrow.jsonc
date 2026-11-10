@@ -1,0 +1,16 @@
+{
+  "cell": "Solstheim, Bloodskal Barrow",
+  "name": "Solstheim, Bloodskal Barrow",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "ex_bm_tomb_door_02": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "modified": {
+        "aa_cr_skeleton_nord_blo": 2
+      }
+    }
+  }
+}

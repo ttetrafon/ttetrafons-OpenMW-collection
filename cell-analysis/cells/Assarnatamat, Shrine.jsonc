@@ -1,0 +1,21 @@
+{
+  "cell": "Assarnatamat, Shrine",
+  "name": "Assarnatamat, Shrine",
+  "plugins": {
+    "NOD - Core.esm": {
+      "added": {
+        "nod_rv_daedric_helm_dagon": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_daedra_shrine_mehrunes": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_shrine_mehrunes": 1
+      }
+    }
+  }
+}

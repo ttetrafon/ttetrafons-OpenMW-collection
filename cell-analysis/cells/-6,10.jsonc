@@ -1,0 +1,30 @@
+{
+  "cell": "-6,10",
+  "plugins": {
+    "Creatures and Critters Light the Path.ESP": {
+      "added": {
+        "aa_cr_i_moth_all": 2
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "misc_com_bottle_02": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "misc_com_bottle_02": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::268209",
+      "object": "misc_com_bottle_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

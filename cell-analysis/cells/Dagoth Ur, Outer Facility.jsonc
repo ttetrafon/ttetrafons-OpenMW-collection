@@ -1,0 +1,158 @@
+{
+  "cell": "Dagoth Ur, Outer Facility",
+  "name": "Dagoth Ur, Outer Facility",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "furn_dwrv_tranny00": 1,
+        "in_dagoth_taunt1": 1,
+        "in_dagoth_taunt2": 1,
+        "in_dagoth_taunt3": 1,
+        "in_lava_512": 9,
+        "sound_dwemer_ruin00": 2,
+        "sound_spirit_whisper00": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "furn_dwrv_tranny00": 1,
+        "in_dagoth_taunt1": 1,
+        "in_dagoth_taunt2": 1,
+        "in_dagoth_taunt3": 1,
+        "in_lava_512": 9,
+        "sound_dwemer_ruin00": 2,
+        "sound_spirit_whisper00": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::211064",
+      "object": "in_lava_512",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::211065",
+      "object": "in_lava_512",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::211066",
+      "object": "in_lava_512",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::211067",
+      "object": "in_lava_512",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::211068",
+      "object": "in_lava_512",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::211069",
+      "object": "in_lava_512",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::211070",
+      "object": "in_lava_512",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::211071",
+      "object": "in_lava_512",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::211072",
+      "object": "in_lava_512",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::211114",
+      "object": "furn_dwrv_tranny00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::268162",
+      "object": "in_dagoth_taunt1",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::268163",
+      "object": "in_dagoth_taunt3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::268164",
+      "object": "in_dagoth_taunt2",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::388272",
+      "object": "sound_dwemer_ruin00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::388273",
+      "object": "sound_spirit_whisper00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::388274",
+      "object": "sound_dwemer_ruin00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

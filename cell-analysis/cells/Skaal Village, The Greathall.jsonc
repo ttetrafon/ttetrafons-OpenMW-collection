@@ -1,0 +1,46 @@
+{
+  "cell": "Skaal Village, The Greathall",
+  "name": "Skaal Village, The Greathall",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "ex_s_door_double_gh": 1
+      }
+    },
+    "Privileges&Services 1.1.esp": {
+      "added": {
+        "ss_skaal": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "ex_s_door_double_gh": 1,
+        "misc_com_tankard_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "ex_s_door_double_gh": 1,
+        "misc_com_tankard_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::13832",
+      "object": "ex_s_door_double_gh",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::32703",
+      "object": "misc_com_tankard_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "cell": "Prelude Shipwreck, Lower Level",
+  "name": "Prelude Shipwreck, Lower Level",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_trader": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "modified": {
+        "com_chest_02_gshipwreck": 1
+      }
+    }
+  }
+}

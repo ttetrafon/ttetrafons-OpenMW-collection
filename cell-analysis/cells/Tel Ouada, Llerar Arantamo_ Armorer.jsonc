@@ -1,0 +1,77 @@
+{
+  "cell": "Tel Ouada, Llerar Arantamo: Armorer",
+  "name": "Tel Ouada, Llerar Arantamo: Armorer",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_p_bed_28": 1,
+        "blessed_shield": 1,
+        "bonemold_boots": 1,
+        "bonemold_bracer_left": 1,
+        "bonemold_bracer_right": 1,
+        "bonemold_cuirass": 1,
+        "bonemold_greaves": 1,
+        "chitin cuirass": 1,
+        "chitin greaves": 1,
+        "chitin guantlet - left": 1,
+        "chitin guantlet - right": 1,
+        "crate_02_de_fclothes": 1,
+        "de_p_chest_02_fclothes3": 1,
+        "devil cephalopod helm": 1,
+        "dust_adept_helm": 1,
+        "flora_bc_vine_01": 1,
+        "flora_bc_vine_03": 1,
+        "flora_bc_vine_04": 3,
+        "flora_bc_vine_06": 1,
+        "furn_de_p_bookshelf_01": 1,
+        "furn_de_p_stool_01": 1,
+        "furn_de_p_table_02": 1,
+        "furn_de_p_table_04": 1,
+        "furn_de_rug_big_04": 1,
+        "furn_de_rug_big_06": 1,
+        "furn_de_tapestry_11": 3,
+        "furn_de_tapestry_12": 1,
+        "gold_025": 1,
+        "in_t_housepod_01": 1,
+        "in_t_housepod_2flr_stair": 1,
+        "in_t_housepod_door_exit": 1,
+        "in_t_housepod_pole_01": 1,
+        "in_t_housepod_pole_03": 2,
+        "in_t_railing_pole": 1,
+        "in_t_railing_pole_rails": 4,
+        "iron_greaves": 1,
+        "iron_pauldron_left": 1,
+        "iron_pauldron_right": 1,
+        "light_com_candle_05_64": 1,
+        "light_de_candle_01_64": 1,
+        "light_de_candle_13_64": 1,
+        "light_de_lamp_01_64": 1,
+        "misc_com_plate_04": 1,
+        "misc_com_redware_cup": 1,
+        "misc_com_redware_flask": 1,
+        "misc_uni_pillow_02": 1,
+        "northmarker": 1,
+        "steel_greaves": 1,
+        "t_de_dresbonemold_cuirass_01": 1,
+        "t_de_furn_tapestry_04": 1,
+        "t_mwcom_var_bl1chpfood05": 1,
+        "t_mwde_var_cr1armsmith": 1,
+        "t_mwde_var_cr2armsmith": 1,
+        "t_nor_bearskin_pauldronl_01": 1,
+        "t_nor_bearskin_pauldronr_01": 1,
+        "tr_m1_llerar_arantamo": 1,
+        "tr_m1_tel_guard_s": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_smith": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_in_smith_spawn": 1
+      }
+    }
+  }
+}

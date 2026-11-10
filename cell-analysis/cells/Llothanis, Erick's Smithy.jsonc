@@ -1,0 +1,58 @@
+{
+  "cell": "Llothanis, Erick's Smithy",
+  "name": "Llothanis, Erick's Smithy",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_p_bed_28": 1,
+        "crate_01_de_weaponsmult": 1,
+        "crate_01_iron_weapons2": 1,
+        "crate_01_iron_weaponsmu": 1,
+        "crate_02_imp_armormult": 1,
+        "crate_02_imp_weaponsmul": 1,
+        "dark_128": 1,
+        "flora_bc_vine_02": 1,
+        "flora_bc_vine_03": 1,
+        "furn_de_p_bookshelf_01": 1,
+        "furn_de_p_table_05": 1,
+        "furn_de_rope_03": 1,
+        "furn_de_rug_big_02": 2,
+        "in_t_housepod_01": 1,
+        "in_t_housepod_2flr_stair": 1,
+        "in_t_housepod_door_exit": 1,
+        "in_t_housepod_pole_01": 3,
+        "in_t_housepod_pole_02": 1,
+        "in_t_housepod_pole_03": 2,
+        "in_t_railing_pole": 1,
+        "in_t_railing_pole_rails": 4,
+        "light_de_candle_02_64": 2,
+        "light_de_lamp_04": 1,
+        "light_de_lantern_08": 1,
+        "misc_uni_pillow_02": 1,
+        "nordic battle axe": 1,
+        "nordic broadsword": 1,
+        "nordic claymore": 1,
+        "nordic_iron_cuirass": 1,
+        "nordic_iron_helm": 1,
+        "northmarker": 1,
+        "t_bk_comraderytr": 1,
+        "t_bk_thealikrtr": 1,
+        "t_nor_iron_boots_01": 1,
+        "t_nor_iron_greaves_01": 1,
+        "t_orc_regular_helmopen_01": 1,
+        "tr_m1_erick": 1,
+        "tr_m1_tel_guard_s": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_smith": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_in_smith_spawn": 1
+      }
+    }
+  }
+}

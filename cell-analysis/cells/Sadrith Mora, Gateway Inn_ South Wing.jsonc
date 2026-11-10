@@ -1,0 +1,34 @@
+{
+  "cell": "Sadrith Mora, Gateway Inn: South Wing",
+  "name": "Sadrith Mora, Gateway Inn: South Wing",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_p_bed_09": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_p_bed_09": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::331140",
+      "object": "active_de_p_bed_09",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::331143",
+      "object": "active_de_p_bed_09",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

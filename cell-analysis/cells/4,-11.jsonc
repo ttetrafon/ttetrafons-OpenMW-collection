@@ -1,0 +1,23 @@
+{
+  "cell": "4,-11",
+  "name": "Vivec, Arena",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_balmoracitizens": 2,
+        "gvrm_ordguardwand": 2
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_n_all_nightlife_spawn": 2,
+        "_aa_telemage_spawn": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_ordinator wan_ran": 3
+      }
+    }
+  }
+}

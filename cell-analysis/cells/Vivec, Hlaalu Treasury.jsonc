@@ -1,0 +1,47 @@
+{
+  "cell": "Vivec, Hlaalu Treasury",
+  "name": "Vivec, Hlaalu Treasury",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_sc_paper plain": 1,
+        "am_writer5": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bk_guide_to_vivec": 1,
+        "in_velothismall_ndoor_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bk_guide_to_vivec": 1,
+        "in_velothismall_ndoor_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::202579",
+      "object": "in_velothismall_ndoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::480391",
+      "object": "bk_guide_to_vivec",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

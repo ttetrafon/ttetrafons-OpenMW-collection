@@ -1,0 +1,95 @@
+{
+  "cell": "-2,-11",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_ship_bc_rocks_01": 6,
+        "_cor_ship_crate_arm01": 1,
+        "_cor_ship_crate_empty01": 1,
+        "_cor_ship_de_shack_plank_03_a": 4,
+        "_cor_ship_float_ebon": 1,
+        "_cor_ship_rusted_coif": 1,
+        "ab_ex_craneattachcrate": 2,
+        "ab_ex_deshipwrfrontfull": 1,
+        "ab_ex_deshipwrmast01": 1,
+        "ab_ex_deshipwrmast02": 1,
+        "ab_ex_deshipwrmast03": 1,
+        "ab_ex_deshipwrrmastyard": 1,
+        "ab_furn_barrel02broken04": 2,
+        "ab_furn_barrel02broken05": 2,
+        "ab_furn_barrel02plank": 6,
+        "ab_furn_barrel02ring": 1,
+        "ab_furn_bkruinedpile03": 1,
+        "ab_furn_boneskelhand1l.1": 1,
+        "ab_furn_boneskelhandl": 1,
+        "ab_furn_boneskelskull": 3,
+        "ab_furn_combucket02": 1,
+        "ab_furn_cratebroken01": 1,
+        "ab_furn_cratebroken03": 1,
+        "ab_furn_cratebroken05": 1,
+        "ab_furn_cratebrokenside01": 1,
+        "ab_furn_ropecoil": 2,
+        "ab_in_deshippost": 1,
+        "ab_misc_pursecoin": 1,
+        "ab_o_crate01bottles": 2,
+        "ab_o_crate03bottles": 1,
+        "ab_o_crate03food": 1,
+        "ab_o_derchdrawersclothm": 1,
+        "barrel_01_ingredients_f": 1,
+        "barrel_02_floater_ing": 1,
+        "contain_corpse00": 2,
+        "contain_corpse10_water": 2,
+        "contain_corpse_water": 1,
+        "crate_01_empty": 1,
+        "crate_01_empty_float": 1,
+        "ex_com_bottle_11_float": 1,
+        "ex_de_ship_cabindoor": 1,
+        "ex_scrapwood02": 4,
+        "flora_kelp_01": 6,
+        "flora_kelp_02": 5,
+        "flora_kelp_03": 4,
+        "slaughterfish_small": 2,
+        "terrain_rock_bc_14": 3,
+        "terrain_rock_bc_15": 1,
+        "terrain_rock_bc_17": 1,
+        "terrain_rock_bc_18": 1
+      },
+      "modified": {
+        "flora_kelp_01": 1,
+        "flora_kelp_03": 1,
+        "h2o_all_lev+2": 1,
+        "terrain_rock_bc_14": 2
+      }
+    },
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_band_arg_dru": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_m02_bottle": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "misc_com_bottle_12": 1,
+        "misc_com_bottle_14": 2,
+        "xero_furn_crate_lid_01": 1,
+        "xero_furn_crate_open_01": 1,
+        "xero_marker": 1,
+        "xero_west_crate": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_water": 5
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 5
+      }
+    }
+  }
+}

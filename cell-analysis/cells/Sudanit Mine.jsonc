@@ -1,0 +1,259 @@
+{
+  "cell": "Sudanit Mine",
+  "name": "Sudanit Mine",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 2,
+        "gvrm_un_mn_cm_dun_sud": 3
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_miner8": 1,
+        "am_minerebony2": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_redoran guard_ran": 4
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "barrel_01_cheapfood5": 1,
+        "barrel_01_drinks": 1,
+        "com_chest_11_clothing": 1,
+        "crate_01_ebony": 1,
+        "ingred_bread_01": 2,
+        "ingred_raw_ebony_01": 3,
+        "light_com_lantern_01": 1,
+        "miner's pick": 1,
+        "misc_com_basket_01": 1,
+        "p_fortify_fatigue_c": 1,
+        "p_fortify_health_c": 1,
+        "p_fortify_willpower_b": 1,
+        "potion_local_brew_01": 1,
+        "rock_ebony_04": 1,
+        "rock_ebony_05": 3,
+        "rock_ebony_07": 3,
+        "sc_healing": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "barrel_01_cheapfood5": 1,
+        "barrel_01_drinks": 1,
+        "com_chest_11_clothing": 1,
+        "crate_01_ebony": 1,
+        "ingred_bread_01": 2,
+        "ingred_raw_ebony_01": 3,
+        "light_com_lantern_01": 1,
+        "miner's pick": 1,
+        "misc_com_basket_01": 1,
+        "p_fortify_fatigue_c": 1,
+        "p_fortify_health_c": 1,
+        "p_fortify_willpower_b": 1,
+        "potion_local_brew_01": 1,
+        "rock_ebony_04": 1,
+        "rock_ebony_05": 3,
+        "rock_ebony_07": 3,
+        "sc_healing": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::258299",
+      "object": "rock_ebony_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::258313",
+      "object": "rock_ebony_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::281998",
+      "object": "rock_ebony_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::281999",
+      "object": "rock_ebony_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::334323",
+      "object": "rock_ebony_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::334324",
+      "object": "rock_ebony_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::334325",
+      "object": "miner's pick",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::334340",
+      "object": "rock_ebony_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::334341",
+      "object": "light_com_lantern_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::422615",
+      "object": "barrel_01_cheapfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::422616",
+      "object": "barrel_01_drinks",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::422620",
+      "object": "crate_01_ebony",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::422635",
+      "object": "misc_com_basket_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::422638",
+      "object": "ingred_raw_ebony_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::422639",
+      "object": "ingred_raw_ebony_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::422640",
+      "object": "ingred_raw_ebony_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::422647",
+      "object": "p_fortify_fatigue_c",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::422648",
+      "object": "p_fortify_health_c",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::422649",
+      "object": "p_fortify_willpower_b",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::422650",
+      "object": "com_chest_11_clothing",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::422651",
+      "object": "sc_healing",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::422652",
+      "object": "ingred_bread_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::422653",
+      "object": "ingred_bread_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::422654",
+      "object": "potion_local_brew_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

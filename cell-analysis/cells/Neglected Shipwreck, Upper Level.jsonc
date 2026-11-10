@@ -1,0 +1,37 @@
+{
+  "cell": "Neglected Shipwreck, Upper Level",
+  "name": "Neglected Shipwreck, Upper Level",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "modified": {
+        "ex_de_ship_trapdoor": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "modified": {
+        "barrel_02_floater_ing": 2,
+        "chest_small_01_soulgem": 1,
+        "com_sack_02_gold_100": 1,
+        "ex_de_ship_trapdoor": 2,
+        "ex_scrapwood05": 1,
+        "furn_ashl_bugbowl_03": 1,
+        "furn_bone_01": 1,
+        "furn_bone_skull_01": 1,
+        "in_de_shipwreck_top": 1,
+        "northmarker": 1,
+        "slaughterfish_small": 2,
+        "sound_boat_creak00": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::318033",
+      "object": "ex_de_ship_trapdoor",
+      "plugins": [
+        "OAAB - Shipwrecks.esm",
+        "Uncharted Artifacts.esp"
+      ]
+    }
+  ]
+}

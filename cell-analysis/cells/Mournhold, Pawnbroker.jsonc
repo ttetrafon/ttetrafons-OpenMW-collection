@@ -1,0 +1,128 @@
+{
+  "cell": "Mournhold, Pawnbroker",
+  "name": "Mournhold, Pawnbroker",
+  "plugins": {
+    "True_Lights_And_Darkness_1.1.esp": {
+      "added": {
+        "light_de_lamp_03_128": 1,
+        "light_de_lantern_02_128": 1
+      },
+      "modified": {
+        "light_de_lantern_02_128": 1
+      }
+    },
+    "Immersive Mournhold.esp": {
+      "added": {
+        "ab_misc_deceramicpot_01": 1,
+        "ab_misc_declaybowl_01": 1,
+        "ab_misc_deyelglassflask_01": 1,
+        "com_sack_01_chpfood5": 1,
+        "com_sack_01_ingred": 1,
+        "com_sack_01_rnd_ingr_5": 1,
+        "de_r_chest_01_mcloth2": 1,
+        "extravagant_robe_01_b": 1,
+        "flora_bc_grass_02": 2,
+        "furn_de_tapestry_01": 1,
+        "furn_planter_01": 1,
+        "in_mh_window_01": 2,
+        "ingred_scrib_jelly_01": 1,
+        "iron_helmet": 1,
+        "light_de_candle_02_64": 1,
+        "light_de_lantern_06_128": 3,
+        "misc_com_redware_flask": 1,
+        "misc_com_redware_pitcher": 1,
+        "misc_com_silverware_fork": 1,
+        "misc_de_bowl_redware_03": 1,
+        "misc_de_cloth10": 1,
+        "misc_de_goblet_04": 1,
+        "misc_de_pitcher_01": 1,
+        "misc_de_pot_blue_02": 1,
+        "t_de_furnr_bar_01": 1,
+        "t_de_furnr_bar_02": 2,
+        "t_de_furnr_bar_cnr_01": 1,
+        "t_de_furnr_bar_end_01": 1,
+        "t_de_furnr_bar_end_02": 1,
+        "urn_01_ingred": 1
+      },
+      "modified": {
+        "furn_de_tapestry_01": 1,
+        "furn_de_tapestry_10": 2
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_pawn": 1,
+        "aa_wares_trader": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_traders_spawn": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "furn_de_bar_01": 3,
+        "furn_de_bar_03": 1,
+        "furn_de_bar_04": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "furn_de_bar_01": 3,
+        "furn_de_bar_03": 1,
+        "furn_de_bar_04": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "tribunal::21442",
+      "object": "furn_de_bar_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::21443",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::21444",
+      "object": "furn_de_bar_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::21445",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::21446",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::21447",
+      "object": "furn_de_bar_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

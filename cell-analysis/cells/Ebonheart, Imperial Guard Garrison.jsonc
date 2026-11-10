@@ -1,0 +1,46 @@
+{
+  "cell": "Ebonheart, Imperial Guard Garrison",
+  "name": "Ebonheart, Imperial Guard Garrison",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_com_bed_04": 1,
+        "active_com_bed_05": 1,
+        "active_com_bunk_02": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_com_bed_04": 1,
+        "active_com_bed_05": 1,
+        "active_com_bunk_02": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::147683",
+      "object": "active_com_bed_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::147688",
+      "object": "active_com_bed_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::147700",
+      "object": "active_com_bunk_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

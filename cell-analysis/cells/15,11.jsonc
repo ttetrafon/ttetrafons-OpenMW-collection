@@ -1,0 +1,77 @@
+{
+  "cell": "15,11",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_ship_de_shack_plank_03_a": 6,
+        "_cor_ship_flotsam_02": 1,
+        "_cor_ship_flotsam_03": 1,
+        "_cor_ship_moby_spear_03": 1,
+        "ab_ex_deshipwrbackribs": 1,
+        "ab_ex_deshipwrmast02": 1,
+        "ab_ex_deshipwrribl": 1,
+        "ab_ex_deshipwrribr": 1,
+        "ab_ex_deshipwrtable01": 2,
+        "ab_furn_cratebroken01": 1,
+        "ab_furn_cratebroken04": 1,
+        "ab_furn_cratebroken05": 2,
+        "ab_furn_cratebrokenwood01": 1,
+        "ab_furn_cratebrokenwood02": 1,
+        "ab_misc_deblueglass_01": 1,
+        "ab_misc_deblueglassbowl_01": 1,
+        "ab_misc_degreenpitcher": 1,
+        "ab_misc_degreenplate": 1,
+        "ab_misc_degreenpot": 1,
+        "ab_misc_deyelglasscup_01": 1,
+        "ab_misc_deyelglassflask_01": 2,
+        "ab_o_corpse20": 1,
+        "ab_o_cratesmuggler": 1,
+        "barrel_01_float_food20": 3,
+        "barrel_02_floater_ing": 1,
+        "barrel_02_ingred": 1,
+        "com_chest_02_l_weap_01": 1,
+        "contain_corpse10_water": 1,
+        "contain_corpse_water": 1,
+        "crate_01_de_fclothes": 1,
+        "crate_01_empty_float": 2,
+        "ex_com_bottle_11_float": 2,
+        "ex_scrapwood02": 7,
+        "ex_scrapwood05": 3,
+        "misc_com_metal_plate_03": 1
+      }
+    },
+    "Unique Jewelry and Accessories.esp": {
+      "added": {
+        "light_pitfire00": 1,
+        "teal_misc_clothbolt_01_ruined": 4,
+        "tealcr_scamp_blueeye": 3,
+        "yellow_1024_01": 2
+      },
+      "modified": {
+        "ex_de_ship_cabindoor": 1,
+        "ex_de_ship_trapdoor": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_m19_bottle": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_east_sack": 1,
+        "xero_marker": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_water": 5
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 5
+      }
+    }
+  }
+}

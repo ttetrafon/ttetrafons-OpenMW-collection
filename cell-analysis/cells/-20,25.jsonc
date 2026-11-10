@@ -1,0 +1,198 @@
+{
+  "cell": "-20,25",
+  "name": "Skaal Village",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "bm_ex_horker_h20": 5,
+        "flora_bm_belladonna_03": 1,
+        "t_mw_terrrockbm_mtridge_02": 1,
+        "terrain_rock_bm_05": 1,
+        "terrain_rock_bm_51": 2,
+        "terrain_rocks_bm_01": 2
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_sitter7": 1
+      }
+    },
+    "RepopulatedBloodmoon.ESP": {
+      "added": {
+        "gvrm_bm_npc_nd": 4
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bm nordic silver dagger": 1,
+        "bm wolf boots": 1,
+        "hammer_repair": 1,
+        "light_com_lantern_02_128": 3,
+        "light_com_lantern_02_64": 1,
+        "misc_com_basket_01": 1,
+        "misc_com_bottle_10": 1,
+        "misc_com_bucket_01": 1,
+        "misc_com_tankard_01": 1,
+        "misc_de_bellows10": 1,
+        "misc_hook": 3,
+        "repair_journeyman_01": 1,
+        "repair_prongs": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bm nordic silver dagger": 1,
+        "bm wolf boots": 1,
+        "hammer_repair": 1,
+        "light_com_lantern_02_128": 3,
+        "light_com_lantern_02_64": 1,
+        "misc_com_basket_01": 1,
+        "misc_com_bottle_10": 1,
+        "misc_com_bucket_01": 1,
+        "misc_com_tankard_01": 1,
+        "misc_de_bellows10": 1,
+        "misc_hook": 3,
+        "repair_journeyman_01": 1,
+        "repair_prongs": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::10272",
+      "object": "misc_com_basket_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::10273",
+      "object": "misc_com_bottle_10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::10274",
+      "object": "misc_com_bucket_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::10275",
+      "object": "misc_com_tankard_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::10276",
+      "object": "misc_de_bellows10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::10277",
+      "object": "repair_journeyman_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::10278",
+      "object": "repair_prongs",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::10279",
+      "object": "hammer_repair",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::11365",
+      "object": "misc_hook",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::11367",
+      "object": "light_com_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::11368",
+      "object": "light_com_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::11369",
+      "object": "misc_hook",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::11370",
+      "object": "light_com_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::11371",
+      "object": "misc_hook",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::18980",
+      "object": "bm wolf boots",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::18981",
+      "object": "bm nordic silver dagger",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::19466",
+      "object": "light_com_lantern_02_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

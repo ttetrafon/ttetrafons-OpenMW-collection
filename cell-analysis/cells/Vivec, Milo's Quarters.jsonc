@@ -1,0 +1,250 @@
+{
+  "cell": "Vivec, Milo's Quarters",
+  "name": "Vivec, Milo's Quarters",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_pr_bed_23": 1,
+        "bk_pilgrimspath": 1,
+        "com_sack_02_pos": 2,
+        "common_robe_03": 1,
+        "de_drawers_02_empty": 1,
+        "de_p_chest_02_mclothes3": 1,
+        "gold_001": 2,
+        "light_de_candle_03_64": 1,
+        "light_de_lantern_06": 1,
+        "misc_com_bottle_06": 1,
+        "misc_com_bottle_08": 1,
+        "misc_com_metal_plate_05": 1,
+        "misc_com_redware_flask": 1,
+        "misc_com_wood_bowl_02": 1,
+        "misc_com_wood_bowl_04": 1,
+        "misc_com_wood_cup_01": 1,
+        "misc_com_wood_cup_02": 1,
+        "misc_com_wood_fork": 1,
+        "misc_uni_pillow_01": 1,
+        "urn_03_food": 2,
+        "urn_05_food": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_pr_bed_23": 1,
+        "bk_pilgrimspath": 1,
+        "com_sack_02_pos": 2,
+        "common_robe_03": 1,
+        "de_drawers_02_empty": 1,
+        "de_p_chest_02_mclothes3": 1,
+        "gold_001": 2,
+        "light_de_candle_03_64": 1,
+        "light_de_lantern_06": 1,
+        "misc_com_bottle_06": 1,
+        "misc_com_bottle_08": 1,
+        "misc_com_metal_plate_05": 1,
+        "misc_com_redware_flask": 1,
+        "misc_com_wood_bowl_02": 1,
+        "misc_com_wood_bowl_04": 1,
+        "misc_com_wood_cup_01": 1,
+        "misc_com_wood_cup_02": 1,
+        "misc_com_wood_fork": 1,
+        "misc_uni_pillow_01": 1,
+        "urn_03_food": 2,
+        "urn_05_food": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::470786",
+      "object": "misc_com_wood_cup_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::470788",
+      "object": "active_de_pr_bed_23",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::470789",
+      "object": "de_drawers_02_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::470790",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::470792",
+      "object": "light_de_lantern_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::470793",
+      "object": "light_de_candle_03_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::470794",
+      "object": "common_robe_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::470795",
+      "object": "misc_com_wood_fork",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::470796",
+      "object": "misc_com_wood_bowl_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::470797",
+      "object": "misc_com_wood_cup_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::470798",
+      "object": "misc_com_bottle_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::470799",
+      "object": "misc_com_bottle_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::470800",
+      "object": "bk_pilgrimspath",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::470801",
+      "object": "misc_com_redware_flask",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::470802",
+      "object": "misc_com_wood_bowl_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::470813",
+      "object": "misc_com_metal_plate_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::470820",
+      "object": "de_p_chest_02_mclothes3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::470821",
+      "object": "urn_05_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::470822",
+      "object": "urn_03_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::470823",
+      "object": "urn_03_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::470824",
+      "object": "com_sack_02_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::470825",
+      "object": "com_sack_02_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::470826",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::470827",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

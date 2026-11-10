@@ -1,0 +1,16 @@
+{
+  "cell": "Hlervi Ancestral Tomb",
+  "name": "Hlervi Ancestral Tomb",
+  "plugins": {
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_tinursboots": 1
+      }
+    },
+    "LootWellUrned.ESP": {
+      "added": {
+        "_uyl_hlervi": 1
+      }
+    }
+  }
+}

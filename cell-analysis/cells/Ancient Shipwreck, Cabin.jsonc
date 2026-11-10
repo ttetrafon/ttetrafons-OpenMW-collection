@@ -1,0 +1,60 @@
+{
+  "cell": "Ancient Shipwreck, Cabin",
+  "name": "Ancient Shipwreck, Cabin",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_ship_bile": 3,
+        "_cor_ship_folnos_01": 1,
+        "_cor_ship_folnos_02": 1,
+        "_cor_ship_folnos_note_01": 1,
+        "_cor_ship_folnos_note_02": 1,
+        "_cor_ship_folnos_note_03": 1,
+        "ab_c_commonshirt05l": 1,
+        "ab_furn_bkruinedpages": 1,
+        "ab_furn_bkruinedpile01": 1,
+        "ab_furn_comtapestry01torn2": 1,
+        "ab_furn_cratebrokenwood01": 1,
+        "ab_furn_cratebrokenwood02": 2,
+        "ab_furn_deextable03tarp": 1,
+        "ab_furn_derugbig07torn": 1,
+        "ab_misc_bkruinedfolio": 1,
+        "ab_misc_bkruinedoctavo01": 1,
+        "ab_misc_combottle_01": 1,
+        "ab_misc_deblueflask_02": 1,
+        "ab_misc_debluefork_01": 1,
+        "ab_misc_deblueglass_01": 2,
+        "ab_misc_deblueknife_01": 1,
+        "ab_misc_pursecoin": 1,
+        "ab_misc_soap01": 2,
+        "ab_o_barrel01food": 2,
+        "ab_o_comchestworncloth": 1,
+        "common_shoes_03": 1,
+        "flora_bc_moss_03": 1,
+        "flora_bc_moss_05": 1,
+        "flora_bc_moss_14": 1,
+        "flora_bc_moss_20": 3,
+        "flora_bc_vine_01": 5,
+        "flora_bc_vine_03": 3,
+        "flora_bc_vine_04": 2,
+        "gold_001": 9,
+        "misc_clothbolt_01": 1,
+        "misc_com_bottle_03": 1,
+        "misc_com_bottle_08": 5,
+        "misc_inkwell": 1,
+        "misc_quill": 1
+      },
+      "modified": {
+        "com_sack_gold_05": 2,
+        "in_de_ship_cabindoor": 1,
+        "in_de_shipcabin": 1,
+        "northmarker": 1
+      }
+    },
+    "Special_Artifacts.esp": {
+      "added": {
+        "sa_talin": 1
+      }
+    }
+  }
+}

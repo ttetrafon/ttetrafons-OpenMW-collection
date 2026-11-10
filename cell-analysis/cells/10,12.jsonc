@@ -1,0 +1,27 @@
+{
+  "cell": "10,12",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_dun_ashl_gb_wand_h": 1
+      }
+    },
+    "Aoimevelho Wares with ALL NPCs.ESP": {
+      "added": {
+        "_ar2-04": 1,
+        "_ar_6th_dagothsymbol2": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_travelingtrader_tel_spawn": 1,
+        "aa_herd_graze_z": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_herd_graze_z": 1
+      }
+    }
+  }
+}

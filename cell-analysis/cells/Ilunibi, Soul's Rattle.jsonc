@@ -1,0 +1,34 @@
+{
+  "cell": "Ilunibi, Soul's Rattle",
+  "name": "Ilunibi, Soul's Rattle",
+  "plugins": {
+    "Expansions Integrated.esp": {
+      "added": {
+        "adamantium_pauldron_left": 1,
+        "adamantium_pauldron_right": 1
+      },
+      "modified": {
+        "common_amulet_04": 1,
+        "common_pants_02": 1,
+        "common_ring_04": 1,
+        "common_robe_05_c": 1,
+        "common_shirt_03_c": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_6th_house_difficult": 1,
+        "plx_dreamers": 2,
+        "plx_dreamers_rare": 2,
+        "plx_dreamersbell": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_6_dream_list_1": 2,
+        "aa_cr_dreamer_c02": 1,
+        "aa_cr_dreamer_c03": 1
+      }
+    }
+  }
+}

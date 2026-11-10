@@ -1,0 +1,44 @@
+{
+  "cell": "0,-15",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "blue coast ref 1024": 1,
+        "ex_barnacles_02": 1,
+        "ex_barnacles_03": 3,
+        "flora_kelp_01": 1,
+        "flora_kelp_02": 1,
+        "flora_kelp_03": 3,
+        "flora_kelp_04": 5,
+        "t_mw_terrrockrr_rock_29": 1,
+        "terrain_rock_ai_07": 1,
+        "terrain_rock_ai_09": 2,
+        "terrain_rock_ai_12": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_map18_trigger": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_furn_crate_lid_01": 3,
+        "xero_furn_crate_open_01": 1,
+        "xero_furn_scrapwood01": 3,
+        "xero_marker": 1,
+        "xero_south_crate": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_water": 8
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 8
+      }
+    }
+  }
+}

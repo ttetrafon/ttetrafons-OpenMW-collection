@@ -1,0 +1,56 @@
+{
+  "cell": "Vivec, St. Olms Canal South-Three",
+  "name": "Vivec, St. Olms Canal South-Three",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "food_kwama_egg_01": 1,
+        "gold_001": 1,
+        "gold_010": 1,
+        "misc_com_wood_spoon_02": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "food_kwama_egg_01": 1,
+        "gold_001": 1,
+        "gold_010": 1,
+        "misc_com_wood_spoon_02": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::405577",
+      "object": "gold_010",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::405578",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::424302",
+      "object": "misc_com_wood_spoon_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::424303",
+      "object": "food_kwama_egg_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

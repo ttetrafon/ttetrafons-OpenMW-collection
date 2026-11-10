@@ -1,0 +1,28 @@
+{
+  "cell": "Unchartered Shipwreck, Cabin",
+  "name": "Unchartered Shipwreck, Cabin",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "ab_furn_derugbig02torn": 1,
+        "gold_001": 2
+      },
+      "modified": {
+        "_cor_ship_thrust_box_01": 1,
+        "com_sack_01_moon sugar5": 2,
+        "com_sack_02_gold_100": 1,
+        "furn_de_ex_stool_02": 1,
+        "furn_de_ex_table_02": 1,
+        "gold_001": 2,
+        "in_de_ship_cabindoor": 1,
+        "misc_com_bottle_06": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_m18_chest": 1,
+        "x0_m18_key": 1
+      }
+    }
+  }
+}

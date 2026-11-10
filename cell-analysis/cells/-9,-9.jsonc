@@ -1,0 +1,30 @@
+{
+  "cell": "-9,-9",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "blue coast ref 1024": 3,
+        "ex_barnacles_02": 5,
+        "flora_kelp_01": 10,
+        "flora_kelp_02": 4,
+        "flora_kelp_03": 8,
+        "in_cave_plant00": 6,
+        "terrain_rock_bc_14": 3,
+        "terrain_rock_bc_15": 3,
+        "terrain_rock_bc_16": 2,
+        "terrain_rock_bc_17": 3,
+        "terrain_rock_bc_18": 2,
+        "terrain_rock_rm_05": 1
+      }
+    },
+    "Siege at Firemoth Naturalized.esp": {
+      "added": {
+        "terrain_rock_ma_39": 1,
+        "terrain_rock_ma_49": 2,
+        "terrain_rock_ma_55": 3,
+        "terrain_rock_ma_550": 1,
+        "terrain_rock_ma_57": 1
+      }
+    }
+  }
+}

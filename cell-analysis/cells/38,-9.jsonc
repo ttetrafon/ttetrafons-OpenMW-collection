@@ -1,0 +1,64 @@
+{
+  "cell": "38,-9",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "chimney_smoke_small": 1,
+        "door_dwrv_load00": 1,
+        "ex_dwrv_enter00": 1,
+        "ex_dwrv_pipe00": 12,
+        "ex_dwrv_pipe10": 1,
+        "ex_dwrv_ruin00": 5,
+        "ex_dwrv_ruin10": 1,
+        "ex_dwrv_ruin20": 1,
+        "ex_dwrv_ruin30": 3,
+        "ex_dwrv_ruin40": 3,
+        "ex_dwrv_ruin50": 2,
+        "ex_dwrv_ruin60": 2,
+        "ex_dwrv_ruin70": 2,
+        "ex_dwrv_ruin80": 1,
+        "ex_dwrv_ruin_tower00": 2,
+        "ex_dwrv_statue00": 1,
+        "ex_dwrv_steamstack00": 6,
+        "ex_dwrv_wall20": 1,
+        "ex_dwrv_wall60": 1,
+        "flora_kreshweed_01": 3,
+        "flora_kreshweed_02": 2,
+        "flora_kreshweed_03": 3,
+        "flora_muckspunge_01": 2,
+        "flora_muckspunge_02": 1,
+        "flora_muckspunge_04": 1,
+        "flora_muckspunge_05": 1,
+        "flora_muckspunge_06": 2,
+        "flora_plant_04": 1,
+        "flora_stoneflower_01": 1,
+        "flora_stoneflower_02": 2,
+        "flora_tree_wg_01": 3,
+        "flora_tree_wg_02": 2,
+        "flora_tree_wg_04": 1,
+        "flora_tree_wg_05": 1,
+        "flora_tree_wg_07": 3,
+        "t_mw_rlvl_boethiahspinecoast+0": 1,
+        "t_mw_rlvl_mephalanvalesland+0": 1,
+        "t_mw_rlvl_mephalanvaleswater+0": 1,
+        "terrain_rock_wg_05": 1,
+        "terrain_rock_wg_07": 1,
+        "terrain_rock_wg_08": 12,
+        "terrain_rock_wg_09": 1,
+        "terrain_rock_wg_10": 5,
+        "terrain_rock_wg_12": 13,
+        "terrain_rock_wg_13": 1,
+        "terrain_rock_wg_17": 1,
+        "terrain_rocks_wg_01": 17,
+        "terrain_rocks_wg_02": 2,
+        "terrain_rocks_wg_03": 19,
+        "terrain_rocks_wg_04": 2
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_ex_dwe_spawn": 1
+      }
+    }
+  }
+}

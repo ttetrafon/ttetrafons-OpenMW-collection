@@ -1,0 +1,21 @@
+{
+  "cell": "Sadrith Mora, Telvanni Council House",
+  "name": "Sadrith Mora, Telvanni Council House",
+  "plugins": {
+    "Aoimevelho Wares with ALL NPCs.ESP": {
+      "added": {
+        "!aoi_nobles_t": 1
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_comp_tiar": 1
+      }
+    },
+    "Clear Your Name.esp": {
+      "added": {
+        "luce_cyn_addtopic_nolus": 1
+      }
+    }
+  }
+}

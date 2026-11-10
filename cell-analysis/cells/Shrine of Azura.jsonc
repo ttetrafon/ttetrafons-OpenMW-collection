@@ -1,0 +1,21 @@
+{
+  "cell": "Shrine of Azura",
+  "name": "Shrine of Azura",
+  "plugins": {
+    "MD_Azurian Isles.esm": {
+      "added": {
+        "az_buoyantarm01": 2,
+        "az_buoyantarm02": 1,
+        "az_buoyantarm03": 2,
+        "az_buoyantarmcaptain": 1,
+        "az_mq_dof_bedroll": 4,
+        "az_mq_dof_incense": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "modified": {
+        "light_dae_brazier00": 1
+      }
+    }
+  }
+}

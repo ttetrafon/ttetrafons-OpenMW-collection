@@ -1,0 +1,17 @@
+{
+  "cell": "9,-13",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "crate_01_empty": 1,
+        "xero_east_crate": 1,
+        "xero_marker": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_ac": 1
+      }
+    }
+  }
+}

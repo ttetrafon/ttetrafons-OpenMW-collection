@@ -1,0 +1,818 @@
+{
+  "cell": "Mawia",
+  "name": "Mawia",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "apparatus_j_alembic_01": 1,
+        "apparatus_j_mortar_01": 1,
+        "bk_ancestorsandthedunmer": 1,
+        "bk_annotatedanuad": 1,
+        "bk_arkaytheenemy": 1,
+        "bk_blasphemousrevenants": 1,
+        "bk_bookdawnanddusk": 1,
+        "bk_brothersofdarkness": 1,
+        "bk_changedones": 1,
+        "bk_corpsepreperation1_o": 1,
+        "bk_corpsepreperation2_c": 2,
+        "bk_corpsepreperation3_c": 3,
+        "bk_darkestdarkness": 3,
+        "bk_invocationofazura": 1,
+        "bk_legionsofthedead": 1,
+        "bk_livesofthesaints": 1,
+        "bk_mysteriousakavir": 1,
+        "bk_mysticism": 1,
+        "bk_ngastakvatakvakis_c": 1,
+        "bk_ngastakvatakvakis_o": 1,
+        "bk_onoblivion": 1,
+        "bk_overviewofgodsandworship": 1,
+        "bk_reflectionsoncultworship...": 1,
+        "bk_tamrielicreligions": 1,
+        "bk_truenatureoforcs": 1,
+        "bk_vampiresofvvardenfell1": 1,
+        "bk_vampiresofvvardenfell2": 1,
+        "bk_wildelves": 1,
+        "bookskill_enchant3": 1,
+        "bookskill_illusion4": 1,
+        "com_sack_01_ingred": 3,
+        "com_sack_02_ingred": 1,
+        "com_sack_03_ingredients": 1,
+        "contain_corpse21_mage": 2,
+        "crate_01_random_pos": 3,
+        "crate_02_random_pos": 2,
+        "crate_02_torch": 2,
+        "gold_100": 1,
+        "ingred_black_anther_01": 1,
+        "ingred_black_lichen_01": 1,
+        "ingred_bonemeal_01": 4,
+        "ingred_daedra_skin_01": 1,
+        "ingred_ectoplasm_01": 1,
+        "ingred_ghoul_heart_01": 3,
+        "ingred_sload_soap_01": 1,
+        "light_de_candle_red_02_64": 1,
+        "light_de_lantern_02_128": 2,
+        "misc_com_bottle_06": 1,
+        "misc_com_wood_bowl_01": 1,
+        "misc_com_wood_spoon_01": 1,
+        "misc_de_goblet_03": 1,
+        "misc_de_pot_blue_02": 1,
+        "misc_de_pot_green_01": 2,
+        "misc_de_pot_redware_04": 3,
+        "misc_uni_pillow_01": 2,
+        "potion_comberry_brandy_01": 2,
+        "sc_elementalburstfire": 1,
+        "sc_paper plain": 5
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "modified": {
+        "light_de_lantern_02_128": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "apparatus_j_alembic_01": 1,
+        "apparatus_j_mortar_01": 1,
+        "bk_ancestorsandthedunmer": 1,
+        "bk_annotatedanuad": 1,
+        "bk_arkaytheenemy": 1,
+        "bk_blasphemousrevenants": 1,
+        "bk_bookdawnanddusk": 1,
+        "bk_brothersofdarkness": 1,
+        "bk_changedones": 1,
+        "bk_corpsepreperation1_o": 1,
+        "bk_corpsepreperation2_c": 2,
+        "bk_corpsepreperation3_c": 3,
+        "bk_darkestdarkness": 3,
+        "bk_invocationofazura": 1,
+        "bk_legionsofthedead": 1,
+        "bk_livesofthesaints": 1,
+        "bk_mysteriousakavir": 1,
+        "bk_mysticism": 1,
+        "bk_ngastakvatakvakis_c": 1,
+        "bk_ngastakvatakvakis_o": 1,
+        "bk_onoblivion": 1,
+        "bk_overviewofgodsandworship": 1,
+        "bk_reflectionsoncultworship...": 1,
+        "bk_tamrielicreligions": 1,
+        "bk_truenatureoforcs": 1,
+        "bk_vampiresofvvardenfell1": 1,
+        "bk_vampiresofvvardenfell2": 1,
+        "bk_wildelves": 1,
+        "bookskill_enchant3": 1,
+        "bookskill_illusion4": 1,
+        "com_sack_01_ingred": 3,
+        "com_sack_02_ingred": 1,
+        "com_sack_03_ingredients": 1,
+        "contain_corpse21_mage": 2,
+        "crate_01_random_pos": 3,
+        "crate_02_random_pos": 2,
+        "crate_02_torch": 2,
+        "gold_100": 1,
+        "ingred_black_anther_01": 1,
+        "ingred_black_lichen_01": 1,
+        "ingred_bonemeal_01": 4,
+        "ingred_daedra_skin_01": 1,
+        "ingred_ectoplasm_01": 1,
+        "ingred_ghoul_heart_01": 3,
+        "ingred_sload_soap_01": 1,
+        "light_de_candle_red_02_64": 1,
+        "light_de_lantern_02_128": 2,
+        "misc_com_bottle_06": 1,
+        "misc_com_wood_bowl_01": 1,
+        "misc_com_wood_spoon_01": 1,
+        "misc_de_goblet_03": 1,
+        "misc_de_pot_blue_02": 1,
+        "misc_de_pot_green_01": 2,
+        "misc_de_pot_redware_04": 3,
+        "misc_uni_pillow_01": 2,
+        "potion_comberry_brandy_01": 2,
+        "sc_elementalburstfire": 1,
+        "sc_paper plain": 5
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::72974",
+      "object": "potion_comberry_brandy_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::73023",
+      "object": "crate_02_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::73045",
+      "object": "com_sack_03_ingredients",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::73046",
+      "object": "com_sack_02_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::73048",
+      "object": "com_sack_01_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::73049",
+      "object": "com_sack_01_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77304",
+      "object": "bk_blasphemousrevenants",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77305",
+      "object": "bk_ancestorsandthedunmer",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77306",
+      "object": "potion_comberry_brandy_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77307",
+      "object": "bk_bookdawnanddusk",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77308",
+      "object": "gold_100",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77309",
+      "object": "misc_de_goblet_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77310",
+      "object": "misc_com_bottle_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77316",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77317",
+      "object": "crate_01_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77321",
+      "object": "crate_02_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77322",
+      "object": "crate_01_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77323",
+      "object": "com_sack_01_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77324",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77325",
+      "object": "crate_01_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77328",
+      "object": "light_de_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "True_Lights_And_Darkness_1.1.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77336",
+      "object": "bk_vampiresofvvardenfell2",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77337",
+      "object": "bk_reflectionsoncultworship...",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77338",
+      "object": "bk_tamrielicreligions",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77339",
+      "object": "bk_livesofthesaints",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77340",
+      "object": "bk_invocationofazura",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77341",
+      "object": "bk_brothersofdarkness",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77343",
+      "object": "bk_mysticism",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77344",
+      "object": "bk_mysteriousakavir",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77345",
+      "object": "misc_de_pot_redware_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77346",
+      "object": "bk_truenatureoforcs",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77348",
+      "object": "bk_overviewofgodsandworship",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77349",
+      "object": "misc_de_pot_redware_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77350",
+      "object": "misc_de_pot_redware_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77351",
+      "object": "bk_vampiresofvvardenfell1",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77352",
+      "object": "bk_wildelves",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77353",
+      "object": "misc_de_pot_blue_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77354",
+      "object": "bk_annotatedanuad",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77355",
+      "object": "bk_onoblivion",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77356",
+      "object": "misc_de_pot_green_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77357",
+      "object": "bk_changedones",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77358",
+      "object": "misc_de_pot_green_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77360",
+      "object": "bk_legionsofthedead",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77361",
+      "object": "bk_darkestdarkness",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::77362",
+      "object": "bk_ngastakvatakvakis_o",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::477494",
+      "object": "sc_elementalburstfire",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::477495",
+      "object": "bookskill_enchant3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::477496",
+      "object": "bookskill_illusion4",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482818",
+      "object": "light_de_candle_red_02_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482819",
+      "object": "bk_arkaytheenemy",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482820",
+      "object": "bk_corpsepreperation2_c",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482821",
+      "object": "bk_corpsepreperation2_c",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482822",
+      "object": "bk_corpsepreperation3_c",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482823",
+      "object": "bk_corpsepreperation3_c",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482824",
+      "object": "bk_darkestdarkness",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482825",
+      "object": "bk_ngastakvatakvakis_c",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482828",
+      "object": "sc_paper plain",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482829",
+      "object": "sc_paper plain",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482830",
+      "object": "sc_paper plain",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482831",
+      "object": "sc_paper plain",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482832",
+      "object": "ingred_bonemeal_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482833",
+      "object": "ingred_bonemeal_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482834",
+      "object": "ingred_black_lichen_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482835",
+      "object": "ingred_black_anther_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482836",
+      "object": "ingred_ectoplasm_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482837",
+      "object": "light_de_lantern_02_128",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482838",
+      "object": "ingred_ghoul_heart_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482839",
+      "object": "ingred_ghoul_heart_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482840",
+      "object": "ingred_daedra_skin_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482841",
+      "object": "ingred_sload_soap_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482842",
+      "object": "contain_corpse21_mage",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482845",
+      "object": "bk_corpsepreperation1_o",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482846",
+      "object": "bk_darkestdarkness",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482847",
+      "object": "bk_corpsepreperation3_c",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482849",
+      "object": "ingred_ghoul_heart_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482850",
+      "object": "sc_paper plain",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482851",
+      "object": "ingred_bonemeal_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482852",
+      "object": "apparatus_j_mortar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482853",
+      "object": "misc_com_wood_bowl_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482854",
+      "object": "ingred_bonemeal_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482855",
+      "object": "misc_com_wood_spoon_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482856",
+      "object": "apparatus_j_alembic_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::482864",
+      "object": "contain_corpse21_mage",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483276",
+      "object": "crate_02_torch",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483277",
+      "object": "crate_02_torch",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

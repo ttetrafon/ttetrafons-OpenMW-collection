@@ -1,0 +1,46 @@
+{
+  "cell": "23,-18",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "contain_trama_shrub_03": 1,
+        "contain_trama_shrub_04": 1,
+        "door_cavern_doors10": 1,
+        "ex_de_cave_entrance_01": 1,
+        "flora_plant_06": 2,
+        "flora_red_lichen_01": 1,
+        "flora_rm_scathecraw_01": 1,
+        "flora_rm_scathecraw_02": 1,
+        "t_mw_cr_ratdiseased": 1,
+        "t_mw_flora_scathecraw03": 2,
+        "t_mw_flora_scathecraw05": 1,
+        "t_mw_flora_scathecraw06": 1,
+        "t_mw_flora_scathecraw07": 2,
+        "t_mw_florass_rougecam02": 1,
+        "t_mw_florass_rougecam03": 1,
+        "t_mw_florass_rougecam04": 1,
+        "t_mw_lvl_parastylus+0": 1,
+        "t_mw_terrmineralpoolss_01": 1,
+        "t_mw_terrrockss_rock_02": 3,
+        "t_mw_terrrockss_rock_05": 3,
+        "t_mw_terrrockss_rock_06": 2,
+        "t_mw_terrrockss_rock_10": 2,
+        "t_mw_terrrockss_rock_25": 4,
+        "t_mw_terrrockss_rock_49": 4,
+        "t_mw_terrrockss_rock_550": 7,
+        "t_mw_terrrockss_rock_57": 5,
+        "t_mw_terrrockss_rock_67": 4,
+        "t_mw_terrrockss_rock_79": 3,
+        "t_mw_terrsulphurss_pool1024_01": 1,
+        "terrain_rock_ma_04": 2,
+        "volcano_steam": 2,
+        "yellow_256_pulse": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

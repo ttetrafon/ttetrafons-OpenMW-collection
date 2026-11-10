@@ -1,0 +1,60 @@
+{
+  "cell": "38,-11",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_hlaalu_canal_02": 1,
+        "ex_velothi_entrance_02": 2,
+        "ex_velothi_loaddoor_01": 1,
+        "flora_black_anther_01": 1,
+        "flora_black_anther_02": 1,
+        "flora_bush_01": 3,
+        "flora_gold_kanet_01": 2,
+        "flora_gold_kanet_02": 2,
+        "flora_grass_01": 16,
+        "flora_grass_03": 49,
+        "flora_kelp_01": 5,
+        "flora_kelp_02": 5,
+        "flora_kelp_04": 1,
+        "flora_kreshweed_02": 2,
+        "flora_kreshweed_03": 3,
+        "flora_root_wg_04": 1,
+        "flora_tree_gl_06": 2,
+        "flora_tree_gl_07": 1,
+        "flora_tree_wg_02": 2,
+        "flora_tree_wg_03": 2,
+        "flora_tree_wg_04": 1,
+        "flora_tree_wg_05": 3,
+        "flora_tree_wg_07": 1,
+        "flora_tree_wg_08": 3,
+        "furn_com_fence_03": 1,
+        "furn_de_pathspear_03": 4,
+        "furn_de_pathspear_04": 9,
+        "t_com_setmw_signwayaltbosara_02": 1,
+        "t_com_setmw_signwaynecrom_02": 1,
+        "t_mw_rlvl_sacredlandsland+0": 2,
+        "terrain_rock_wg_01": 1,
+        "terrain_rock_wg_02": 4,
+        "terrain_rock_wg_08": 3,
+        "terrain_rock_wg_09": 3,
+        "terrain_rock_wg_10": 2,
+        "terrain_rock_wg_12": 5,
+        "terrain_rock_wg_13": 1,
+        "terrain_rock_wg_14": 5,
+        "terrain_rock_wg_15": 3,
+        "terrain_rock_wg_16": 1,
+        "terrain_rock_wg_17": 2,
+        "terrain_rock_wg_18": 3,
+        "terrain_rocks_wg_01": 13,
+        "terrain_rocks_wg_02": 4,
+        "terrain_rocks_wg_03": 9,
+        "terrain_rocks_wg_04": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "cell": "-20,-26",
+  "name": "Mazkun",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_cave_door_01": 3,
+        "flora_bm_grass_03": 6,
+        "flora_bm_grass_06": 4,
+        "furn_de_firepit_f_01_400": 1,
+        "t_com_furn_target_01": 1,
+        "t_de_furn_overhang_02b": 1,
+        "t_de_set_x_overhang_r_02": 1,
+        "t_de_set_x_palisade_01": 1,
+        "t_de_set_x_palisade_02": 2,
+        "t_de_set_x_palisade_03": 2,
+        "t_de_set_x_palisade_bend_01": 2,
+        "t_de_set_x_pole_01": 1,
+        "t_de_set_x_pole_02": 1,
+        "t_de_set_x_pole_03": 2,
+        "t_de_set_x_trellis_01": 1,
+        "t_glb_terrice_icicle_03": 1,
+        "t_glb_terrice_icicle_06": 1,
+        "t_glb_terrice_icicle_09": 1,
+        "t_glb_terrice_rock_11": 1,
+        "t_glb_terrsnow_heap_19": 1,
+        "t_mw_flora_tumtumparasol_02": 1,
+        "t_mw_flora_tumtumparasol_03": 1,
+        "t_mw_florauv_conesprucesnow_01": 1,
+        "t_mw_florauv_conesprucesnow_02": 1,
+        "t_mw_florauv_conesprucesnow_03": 1,
+        "t_mw_terrrockrm_caveentr_01": 3,
+        "t_mw_terrrockrm_mtpeak_02": 1,
+        "t_mw_terrrockrm_mtpeak_03": 2,
+        "t_mw_terrrockrm_mtpeak_04": 2,
+        "t_mw_terrrockrm_mtridge_03": 2,
+        "t_mw_terrrockrm_rock_04": 2,
+        "t_mw_terrrockrm_rock_05": 2,
+        "t_mw_terrrockrm_rockgrp_02": 14,
+        "t_mw_terrrockrm_rockgrp_03": 4,
+        "t_mw_terrrockrm_rockgrp_04": 1,
+        "t_mw_terrrockrms_cliffs_01": 1,
+        "t_mw_terrrockrms_cliffs_02": 2,
+        "t_mw_terrrockrms_cliffs_03": 1,
+        "t_mw_terrrockrms_cliffs_04": 1,
+        "t_orc_set_altar_warriorspirit": 1,
+        "t_orc_var_waystone_01": 1,
+        "t_orc_var_waystone_02": 1,
+        "terrain_bm_snow_01": 1,
+        "terrain_rock_rm_11": 1,
+        "terrain_rock_rm_13": 1,
+        "terrain_rock_rm_17": 1,
+        "terrain_rock_rm_18": 1,
+        "tr_m3_mt_mazkun_forbidden": 1,
+        "tr_m4_bhagrun gro-mazku": 1
+      }
+    },
+    "RepopulatedMainland.ESP": {
+      "added": {
+        "gvrm_morc_p_trcpy": 2,
+        "gvrm_morc_sf2_trcpy": 1
+      }
+    }
+  }
+}

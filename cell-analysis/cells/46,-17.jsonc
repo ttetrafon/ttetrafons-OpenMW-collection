@@ -1,0 +1,64 @@
+{
+  "cell": "46,-17",
+  "name": "Peninsula of Veloth",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "blue coast ref 1024": 1,
+        "crate_01_eggs10": 1,
+        "door_cavern_doors10": 1,
+        "ex_de_cave_entrance_01": 1,
+        "ex_de_railing_01": 1,
+        "flora_bush_01": 3,
+        "flora_chokeweed_02": 29,
+        "flora_grass_01": 44,
+        "flora_kelp_01": 3,
+        "flora_kelp_02": 7,
+        "flora_kelp_03": 6,
+        "flora_kelp_04": 6,
+        "flora_kreshweed_01": 2,
+        "flora_kreshweed_03": 1,
+        "flora_root_wg_01": 2,
+        "flora_root_wg_03": 1,
+        "flora_root_wg_04": 1,
+        "flora_saltrice_01": 3,
+        "flora_saltrice_02": 3,
+        "flora_stoneflower_01": 6,
+        "flora_stoneflower_02": 3,
+        "flora_tree_wg_01": 5,
+        "flora_tree_wg_02": 1,
+        "flora_tree_wg_05": 1,
+        "furn_de_lightpost_01": 1,
+        "furn_de_pathspear_01": 1,
+        "furn_de_pathspear_04": 5,
+        "kollop_02_pearl": 2,
+        "kollop_03_pearl": 2,
+        "kwama worker": 1,
+        "light_de_lantern_03_sway": 1,
+        "t_mw_lvl_kwamaexplorers+0": 1,
+        "t_mw_terrrockwg_rockstair01": 1,
+        "terrain_rock_wg_01": 2,
+        "terrain_rock_wg_05": 4,
+        "terrain_rock_wg_07": 1,
+        "terrain_rock_wg_08": 3,
+        "terrain_rock_wg_09": 9,
+        "terrain_rock_wg_10": 3,
+        "terrain_rock_wg_12": 2,
+        "terrain_rock_wg_14": 6,
+        "terrain_rock_wg_15": 5,
+        "terrain_rock_wg_16": 1,
+        "terrain_rock_wg_17": 10,
+        "terrain_rock_wg_18": 2,
+        "terrain_rocks_wg_01": 10,
+        "terrain_rocks_wg_02": 3,
+        "terrain_rocks_wg_03": 13,
+        "terrain_rocks_wg_04": 10
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

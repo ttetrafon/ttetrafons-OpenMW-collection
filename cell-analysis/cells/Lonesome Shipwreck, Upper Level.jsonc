@@ -1,0 +1,19 @@
+{
+  "cell": "Lonesome Shipwreck, Upper Level",
+  "name": "Lonesome Shipwreck, Upper Level",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "crate_01_iron_weapons": 1
+      },
+      "modified": {
+        "ex_de_ship_trapdoor": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_m07_key": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "cell": "Vivec, Office of the Watch",
+  "name": "Vivec, Office of the Watch",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "gold_001": 2,
+        "gold_025": 1,
+        "key_archcanon_private": 1
+      }
+    },
+    "Privileges&Services 1.1.esp": {
+      "modified": {
+        "in_v_s_trapdoor_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "gold_001": 2,
+        "gold_025": 1,
+        "key_archcanon_private": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::405538",
+      "object": "gold_025",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::405539",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::405540",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::414039",
+      "object": "key_archcanon_private",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

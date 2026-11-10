@@ -1,0 +1,200 @@
+{
+  "cell": "-11,15",
+  "name": "Ald Velothi",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 3,
+        "gvrm_balmoracitizens": 2,
+        "gvrm_balmoracitsit": 1,
+        "gvrm_bcom_am_marker": 1,
+        "gvrm_dun_fish_sit": 1
+      }
+    },
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_blacksmith_amb00": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_fisherman5": 1,
+        "am_fisherman6": 1,
+        "am_fisherman7": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_smith_redo": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_hiddencache": 5
+      }
+    },
+    "EKM Traveling Trader.ESP": {
+      "added": {
+        "ekm_traderk_aldvelothi": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_sailor_list_spawn": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_redoran guard_ran": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "barrel_01_de_pos1": 1,
+        "barrel_01_empty": 1,
+        "barrel_01_random_pos": 1,
+        "barrel_02_eggs": 1,
+        "barrel_02_ingred": 1,
+        "crate_01_food": 1,
+        "ex_de_ship_cabindoor": 1,
+        "ex_de_ship_trapdoor": 1,
+        "misc_com_bottle_02": 1,
+        "misc_com_bottle_05": 1,
+        "misc_com_wood_cup_01": 1,
+        "misc_de_fishing_pole": 1,
+        "misc_hook": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "barrel_01_de_pos1": 1,
+        "barrel_01_empty": 1,
+        "barrel_01_random_pos": 1,
+        "barrel_02_eggs": 1,
+        "barrel_02_ingred": 1,
+        "crate_01_food": 1,
+        "ex_de_ship_cabindoor": 1,
+        "ex_de_ship_trapdoor": 1,
+        "misc_com_bottle_02": 1,
+        "misc_com_bottle_05": 1,
+        "misc_com_wood_cup_01": 1,
+        "misc_de_fishing_pole": 1,
+        "misc_hook": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::317810",
+      "object": "ex_de_ship_cabindoor",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::317809",
+      "object": "ex_de_ship_trapdoor",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::68281",
+      "object": "misc_com_wood_cup_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::68244",
+      "object": "barrel_01_de_pos1",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::68245",
+      "object": "barrel_01_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::68254",
+      "object": "misc_com_bottle_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::68255",
+      "object": "misc_de_fishing_pole",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::68280",
+      "object": "misc_com_bottle_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::317813",
+      "object": "misc_hook",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::317814",
+      "object": "barrel_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::317815",
+      "object": "barrel_02_eggs",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::317816",
+      "object": "barrel_02_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::317817",
+      "object": "crate_01_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::317818",
+      "object": "misc_hook",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

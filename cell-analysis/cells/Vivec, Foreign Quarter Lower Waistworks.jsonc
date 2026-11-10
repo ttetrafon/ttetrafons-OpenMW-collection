@@ -1,0 +1,34 @@
+{
+  "cell": "Vivec, Foreign Quarter Lower Waistworks",
+  "name": "Vivec, Foreign Quarter Lower Waistworks",
+  "plugins": {
+    "Area Effect Arrows Naturalized.esp": {
+      "added": {
+        "furn_bannerd_wa_shop_aradraen": 1,
+        "furn_de_bannerpost_02": 1,
+        "in_velothismall_3way_01": 1,
+        "in_velothismall_dj_01": 1,
+        "in_velothismall_ndoor_01": 1
+      },
+      "modified": {
+        "furn_de_bannerpost_02": 1,
+        "in_velothismall_hall_01": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_savant": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "modified": {
+        "light_de_lamp_01_177": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_ordinator wan_ran": 2
+      }
+    }
+  }
+}

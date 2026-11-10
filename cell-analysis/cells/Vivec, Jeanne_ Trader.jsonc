@@ -1,0 +1,46 @@
+{
+  "cell": "Vivec, Jeanne: Trader",
+  "name": "Vivec, Jeanne: Trader",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_trader": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_traders_spawn": 2
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "in_velothismall_ndoor_01_jeanne": 1,
+        "misc_clothbolt_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "in_velothismall_ndoor_01_jeanne": 1,
+        "misc_clothbolt_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::482935",
+      "object": "in_velothismall_ndoor_01_jeanne",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::218796",
+      "object": "misc_clothbolt_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

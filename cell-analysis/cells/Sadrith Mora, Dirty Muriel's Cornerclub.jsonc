@@ -1,0 +1,56 @@
+{
+  "cell": "Sadrith Mora, Dirty Muriel's Cornerclub",
+  "name": "Sadrith Mora, Dirty Muriel's Cornerclub",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 2
+      }
+    },
+    "Better Sounds_Fixed.esp": {
+      "added": {
+        "sound_tawern_amb00": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_cephalopod_helm": 1,
+        "am_drummer6": 1,
+        "am_eaternight08": 1,
+        "silver staff": 1
+      },
+      "modified": {
+        "furn_com_rm_barstool": 1
+      }
+    },
+    "AATL Mini Mods - Artifacts Replica Merchant.ESP": {
+      "added": {
+        "aatl_con_chest_art_merc": 1,
+        "aatl_npc_bartolem": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_pawn": 1,
+        "aa_wares_savant": 1,
+        "aa_wares_thief": 2,
+        "aa_wares_trader": 1
+      }
+    },
+    "Privileges&Services 1.1.esp": {
+      "added": {
+        "abm_trapthimpup": 1
+      }
+    },
+    "Mage Robes.ESP": {
+      "added": {
+        "mg_act_robes_muriel": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "modified": {
+        "light_com_candle_09_128": 1
+      }
+    }
+  }
+}

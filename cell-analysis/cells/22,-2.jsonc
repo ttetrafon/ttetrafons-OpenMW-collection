@@ -1,0 +1,53 @@
+{
+  "cell": "22,-2",
+  "name": "Kemel-Ze",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "blue coast ref 1024": 1,
+        "ex_t_menhir_l_01": 13,
+        "ex_t_rock_coastal_01": 12,
+        "ex_t_rock_coastal_02": 5,
+        "ex_velothi_entrance_02": 1,
+        "ex_velothi_loaddoor_01": 1,
+        "flora_black_anther_01": 2,
+        "flora_black_anther_02": 1,
+        "flora_emp_parasol_02": 1,
+        "flora_kelp_01": 1,
+        "flora_kelp_02": 1,
+        "flora_kelp_03": 2,
+        "flora_kreshweed_01": 2,
+        "flora_kreshweed_02": 1,
+        "flora_kreshweed_03": 2,
+        "flora_t_podbud_01": 2,
+        "flora_t_podbud_02": 1,
+        "flora_t_podbud_03": 2,
+        "flora_t_podbud_04": 1,
+        "flora_tree_ac_01": 1,
+        "flora_tree_ac_02": 1,
+        "flora_tree_ac_03": 1,
+        "flora_tree_ac_04": 1,
+        "kollop_01_pearl": 1,
+        "kollop_02_pearl": 1,
+        "t_glb_flora_kelp2group_01": 1,
+        "t_mw_cr_skeletonentrance": 1,
+        "t_mw_rlvl_innerseawater+2": 1,
+        "t_mw_rlvl_innerseawater-2": 1,
+        "terrain_rock_ac_02": 1,
+        "terrain_rock_ac_03": 1,
+        "terrain_rock_ac_04": 3,
+        "terrain_rock_ac_05": 1,
+        "terrain_rock_ac_06": 3,
+        "terrain_rock_ac_07": 2,
+        "terrain_rock_ac_08": 2,
+        "terrain_rock_ac_10": 1,
+        "terrain_rock_ac_12": 1
+      }
+    },
+    "RepopulatedMainland.ESP": {
+      "added": {
+        "gvrm_telvguardwand": 1
+      }
+    }
+  }
+}

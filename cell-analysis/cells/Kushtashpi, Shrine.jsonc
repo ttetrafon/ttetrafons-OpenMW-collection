@@ -1,0 +1,16 @@
+{
+  "cell": "Kushtashpi, Shrine",
+  "name": "Kushtashpi, Shrine",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_daedra_shrine_molagbal": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_shrine_molagbal": 1
+      }
+    }
+  }
+}

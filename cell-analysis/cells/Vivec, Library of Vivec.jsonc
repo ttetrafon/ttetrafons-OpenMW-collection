@@ -1,0 +1,120 @@
+{
+  "cell": "Vivec, Library of Vivec",
+  "name": "Vivec, Library of Vivec",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 2,
+        "gvrm_read_mage_dun": 1
+      }
+    },
+    "NOD - Core.esm": {
+      "added": {
+        "ordinator wander_lib": 2
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_reader1": 1,
+        "am_reader2": 1
+      },
+      "modified": {
+        "bk_bookdawnanddusk": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_library_spawn": 3
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "flora_bc_mushroom_01": 2,
+        "flora_bc_mushroom_06": 1,
+        "flora_bc_mushroom_07": 1,
+        "flora_bc_mushroom_08": 2,
+        "flora_corkbulb": 2
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_ordinator wan_ran": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "flora_bc_mushroom_01": 2,
+        "flora_bc_mushroom_06": 1,
+        "flora_bc_mushroom_07": 1,
+        "flora_bc_mushroom_08": 2,
+        "flora_corkbulb": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::469308",
+      "object": "flora_corkbulb",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::469310",
+      "object": "flora_corkbulb",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::469311",
+      "object": "flora_bc_mushroom_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::469312",
+      "object": "flora_bc_mushroom_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::469313",
+      "object": "flora_bc_mushroom_07",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::469314",
+      "object": "flora_bc_mushroom_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::469315",
+      "object": "flora_bc_mushroom_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::469316",
+      "object": "flora_bc_mushroom_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

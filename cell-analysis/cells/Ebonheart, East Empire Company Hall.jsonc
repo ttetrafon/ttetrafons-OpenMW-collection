@@ -1,0 +1,77 @@
+{
+  "cell": "Ebonheart, East Empire Company Hall",
+  "name": "Ebonheart, East Empire Company Hall",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_sc_paper plain": 1,
+        "am_writer3": 1,
+        "furn_com_rm_chair_03": 1
+      }
+    },
+    "Adamantium Armor Naturalized.esp": {
+      "added": {
+        "adamantium boots": 1
+      },
+      "modified": {
+        "com_chest_02_jzhirr": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_trader": 1
+      }
+    },
+    "auction.omwaddon": {
+      "added": {
+        "auc_ebonheart": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "com_chest_02_jzhirr": 1,
+        "misc_com_broom_01": 1,
+        "misc_com_bucket_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "com_chest_02_jzhirr": 1,
+        "misc_com_broom_01": 1,
+        "misc_com_bucket_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::440299",
+      "object": "com_chest_02_jzhirr",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Adamantium Armor Naturalized.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::440297",
+      "object": "misc_com_broom_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::440298",
+      "object": "misc_com_bucket_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

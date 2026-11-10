@@ -1,0 +1,23 @@
+{
+  "cell": "6,-13",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_ex_barnacles_06": 1,
+        "xero_marker": 1,
+        "xero_south_chest": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 3,
+        "_aa_travelingtrader_ord_spawn": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_ai": 1
+      }
+    }
+  }
+}

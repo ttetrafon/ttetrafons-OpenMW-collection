@@ -1,0 +1,47 @@
+{
+  "cell": "Sadrith Mora, Wolverine Hall: Mage's Guild",
+  "name": "Sadrith Mora, Wolverine Hall: Mage's Guild",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_mage": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_alchemist": 1,
+        "aa_wares_magical": 1
+      }
+    },
+    "Privileges&Services 1.1.esp": {
+      "added": {
+        "abm_placemermage": 1
+      }
+    },
+    "Mage Robes.ESP": {
+      "added": {
+        "mg_act_robes_wolverine": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bk_chartermg": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bk_chartermg": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::483469",
+      "object": "bk_chartermg",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

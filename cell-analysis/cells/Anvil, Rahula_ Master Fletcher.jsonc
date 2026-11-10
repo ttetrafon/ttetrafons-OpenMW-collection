@@ -1,0 +1,62 @@
+{
+  "cell": "Anvil, Rahula: Master Fletcher",
+  "name": "Anvil, Rahula: Master Fletcher",
+  "plugins": {
+    "Cyr_Main.ESM": {
+      "added": {
+        "com_chest_01_arrows": 1,
+        "fine bleeder dart": 3,
+        "furn_com_rm_bench_02": 2,
+        "furn_com_rm_table_04": 1,
+        "furn_com_rm_table_05": 1,
+        "furn_hook_01": 2,
+        "misc_inkwell": 1,
+        "misc_quill": 1,
+        "northmarker": 1,
+        "pc_m1_rahula": 1,
+        "pc_m1_rahulanotebook": 1,
+        "t_ayl_regular_longbow_01": 1,
+        "t_com_adamant_star": 3,
+        "t_com_candlecoconutgre_64": 2,
+        "t_com_candlecoconutred_64": 1,
+        "t_com_candlecoconutwhi_64": 1,
+        "t_com_candlecoconutyel_64": 1,
+        "t_com_furn_lampred02_128": 2,
+        "t_com_furn_shelf_01": 1,
+        "t_com_iron_dart_01": 8,
+        "t_com_seaurchin_dart": 4,
+        "t_com_setcir_door_small_green": 1,
+        "t_com_setcir_i_small_green": 1,
+        "t_com_steel_arrow_cruelfirestrm": 4,
+        "t_com_steel_longbow_sweetair": 1,
+        "t_com_steel_shortbow_exposure": 1,
+        "t_com_wood_crossbow_01": 1,
+        "t_cyrcom_var_bl1bolt": 1,
+        "t_cyrcom_var_bl2arrow": 1,
+        "t_cyrcom_var_cr3wpnthrw": 1,
+        "t_cyrcom_var_cr4tool": 1,
+        "t_cyrcom_var_cr5repair": 1,
+        "t_cyrimp_furn_chs4g50": 1,
+        "t_cyrwe_var_bs1arrow": 1,
+        "t_cyrwe_var_bs2arrow": 1,
+        "t_cyrwe_var_bs3arrow": 2,
+        "t_dwe_regular_bolt_jink": 3,
+        "t_imp_furn_rugbigcm_15": 1,
+        "t_imp_furnm_bookshelf_03": 1,
+        "t_imp_legion_crossbow_pursuit": 1,
+        "t_imp_silver_arrow_direpoisoncl": 5,
+        "t_imp_silver_bolt_direshocksph": 8,
+        "t_imp_silver_dart_direfrostbst": 4,
+        "t_rga_furn_rug_04": 1,
+        "t_we_wenbone_arrow_01": 5,
+        "t_we_wenbone_bow_01": 1,
+        "t_we_wenbone_dart_01": 5
+      }
+    },
+    "Wares_PC_traders.esp": {
+      "added": {
+        "aa_wares_fletcher": 1
+      }
+    }
+  }
+}

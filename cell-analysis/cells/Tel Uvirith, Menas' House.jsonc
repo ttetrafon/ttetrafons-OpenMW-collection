@@ -1,0 +1,975 @@
+{
+  "cell": "Tel Uvirith, Menas' House",
+  "name": "Tel Uvirith, Menas' House",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_alchemist": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_p_bed_28": 1,
+        "apparatus_a_calcinator_01": 1,
+        "apparatus_a_mortar_01": 1,
+        "apparatus_a_retort_01": 1,
+        "apparatus_a_spipe_01": 2,
+        "apparatus_g_mortar_01": 1,
+        "chest_small_02_ingfine1": 1,
+        "chest_small_02_ingfine3": 1,
+        "chitin dagger": 1,
+        "com_basket_01_ingredien": 1,
+        "com_sack_01_ingred": 1,
+        "com_sack_01_saltrice_10": 1,
+        "com_sack_02_ingred": 3,
+        "crate_01_de_mclothes": 1,
+        "crate_01_ebony": 1,
+        "crate_de_moonsugar": 1,
+        "de_p_chest_02_potions": 1,
+        "de_p_desk_01_pos5": 1,
+        "ebony staff": 1,
+        "ebony_boots": 1,
+        "food_kwama_egg_01": 1,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_04": 1,
+        "gold_001": 2,
+        "gold_005": 1,
+        "gold_025": 1,
+        "ingred_bc_spore_pod": 1,
+        "ingred_bittergreen_petals_01": 1,
+        "ingred_moon_sugar_01": 1,
+        "ingred_rat_meat_01": 1,
+        "ingred_roobrush_01": 1,
+        "ingred_ruby_01": 1,
+        "ingred_scamp_skin_01": 1,
+        "ingred_scrap_metal_01": 1,
+        "ingred_scrib_jelly_01": 1,
+        "ingred_sload_soap_01": 1,
+        "ingred_stoneflower_petals_01": 4,
+        "ingred_vampire_dust_01": 3,
+        "ingred_void_salts_01": 1,
+        "ingred_willow_anther_01": 1,
+        "light_de_candle_13_64": 1,
+        "misc_com_bottle_13": 1,
+        "misc_com_redware_plate": 1,
+        "misc_com_silverware_fork": 1,
+        "misc_com_silverware_knife": 1,
+        "misc_com_silverware_spoon": 1,
+        "misc_com_wood_bowl_05": 1,
+        "misc_de_drum_01": 2,
+        "misc_de_drum_02": 1,
+        "misc_de_goblet_05": 1,
+        "misc_de_goblet_09": 1,
+        "misc_de_lute_01": 1,
+        "misc_de_pitcher_01": 1,
+        "misc_de_pot_mottled_01": 1,
+        "misc_de_pot_redware_04": 1,
+        "misc_de_tankard_01": 1,
+        "misc_flask_02": 1,
+        "misc_flask_04": 1,
+        "misc_imp_silverware_bowl": 1,
+        "misc_imp_silverware_plate_03": 1,
+        "misc_soulgem_grand": 1,
+        "misc_soulgem_greater": 1,
+        "misc_soulgem_lesser": 3,
+        "misc_uni_pillow_02": 2,
+        "p_chameleon_e": 1,
+        "p_fortify_health_b": 1,
+        "p_fortify_strength_q": 1,
+        "potion_ancient_brandy": 1,
+        "potion_comberry_brandy_01": 3,
+        "potion_comberry_wine_01": 1,
+        "potion_cyro_brandy_01": 3,
+        "potion_cyro_whiskey_01": 4,
+        "potion_local_liquor_01": 1,
+        "potion_skooma_01": 1,
+        "potion_t_bug_musk_01": 1,
+        "sc_paper plain": 2,
+        "urn_02_ingred": 1,
+        "urn_04_ingred": 1
+      }
+    },
+    "Unique Uniques.ESP": {
+      "modified": {
+        "potion_ancient_brandy": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_p_bed_28": 1,
+        "apparatus_a_calcinator_01": 1,
+        "apparatus_a_mortar_01": 1,
+        "apparatus_a_retort_01": 1,
+        "apparatus_a_spipe_01": 2,
+        "apparatus_g_mortar_01": 1,
+        "chest_small_02_ingfine1": 1,
+        "chest_small_02_ingfine3": 1,
+        "chitin dagger": 1,
+        "com_basket_01_ingredien": 1,
+        "com_sack_01_ingred": 1,
+        "com_sack_01_saltrice_10": 1,
+        "com_sack_02_ingred": 3,
+        "crate_01_de_mclothes": 1,
+        "crate_01_ebony": 1,
+        "crate_de_moonsugar": 1,
+        "de_p_chest_02_potions": 1,
+        "de_p_desk_01_pos5": 1,
+        "ebony staff": 1,
+        "ebony_boots": 1,
+        "food_kwama_egg_01": 1,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_04": 1,
+        "gold_001": 2,
+        "gold_005": 1,
+        "gold_025": 1,
+        "ingred_bc_spore_pod": 1,
+        "ingred_bittergreen_petals_01": 1,
+        "ingred_moon_sugar_01": 1,
+        "ingred_rat_meat_01": 1,
+        "ingred_roobrush_01": 1,
+        "ingred_ruby_01": 1,
+        "ingred_scamp_skin_01": 1,
+        "ingred_scrap_metal_01": 1,
+        "ingred_scrib_jelly_01": 1,
+        "ingred_sload_soap_01": 1,
+        "ingred_stoneflower_petals_01": 4,
+        "ingred_vampire_dust_01": 3,
+        "ingred_void_salts_01": 1,
+        "ingred_willow_anther_01": 1,
+        "light_de_candle_13_64": 1,
+        "misc_com_bottle_13": 1,
+        "misc_com_redware_plate": 1,
+        "misc_com_silverware_fork": 1,
+        "misc_com_silverware_knife": 1,
+        "misc_com_silverware_spoon": 1,
+        "misc_com_wood_bowl_05": 1,
+        "misc_de_drum_01": 2,
+        "misc_de_drum_02": 1,
+        "misc_de_goblet_05": 1,
+        "misc_de_goblet_09": 1,
+        "misc_de_lute_01": 1,
+        "misc_de_pitcher_01": 1,
+        "misc_de_pot_mottled_01": 1,
+        "misc_de_pot_redware_04": 1,
+        "misc_de_tankard_01": 1,
+        "misc_flask_02": 1,
+        "misc_flask_04": 1,
+        "misc_imp_silverware_bowl": 1,
+        "misc_imp_silverware_plate_03": 1,
+        "misc_soulgem_grand": 1,
+        "misc_soulgem_greater": 1,
+        "misc_soulgem_lesser": 3,
+        "misc_uni_pillow_02": 2,
+        "p_chameleon_e": 1,
+        "p_fortify_health_b": 1,
+        "p_fortify_strength_q": 1,
+        "potion_ancient_brandy": 1,
+        "potion_comberry_brandy_01": 3,
+        "potion_comberry_wine_01": 1,
+        "potion_cyro_brandy_01": 3,
+        "potion_cyro_whiskey_01": 4,
+        "potion_local_liquor_01": 1,
+        "potion_skooma_01": 1,
+        "potion_t_bug_musk_01": 1,
+        "sc_paper plain": 2,
+        "urn_02_ingred": 1,
+        "urn_04_ingred": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::483722",
+      "object": "misc_soulgem_greater",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483723",
+      "object": "misc_soulgem_lesser",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483724",
+      "object": "misc_soulgem_lesser",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483725",
+      "object": "misc_soulgem_lesser",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483726",
+      "object": "misc_soulgem_grand",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483727",
+      "object": "active_de_p_bed_28",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483729",
+      "object": "misc_com_bottle_13",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483730",
+      "object": "misc_uni_pillow_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483731",
+      "object": "de_p_desk_01_pos5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483732",
+      "object": "sc_paper plain",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483733",
+      "object": "misc_de_pot_redware_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483734",
+      "object": "apparatus_a_spipe_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483736",
+      "object": "apparatus_a_mortar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483737",
+      "object": "potion_comberry_brandy_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483738",
+      "object": "potion_comberry_brandy_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483739",
+      "object": "potion_comberry_brandy_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483740",
+      "object": "potion_cyro_brandy_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483741",
+      "object": "potion_cyro_brandy_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483742",
+      "object": "potion_cyro_brandy_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483743",
+      "object": "potion_cyro_whiskey_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483744",
+      "object": "potion_cyro_whiskey_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483745",
+      "object": "potion_cyro_whiskey_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483746",
+      "object": "com_sack_02_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483747",
+      "object": "chest_small_02_ingfine1",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483748",
+      "object": "chest_small_02_ingfine3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483749",
+      "object": "furn_de_bar_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483750",
+      "object": "furn_de_bar_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483751",
+      "object": "com_sack_02_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483752",
+      "object": "com_sack_01_saltrice_10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483753",
+      "object": "com_sack_01_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483754",
+      "object": "apparatus_a_calcinator_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483755",
+      "object": "sc_paper plain",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483756",
+      "object": "misc_de_tankard_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483757",
+      "object": "ingred_stoneflower_petals_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483758",
+      "object": "ingred_vampire_dust_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483759",
+      "object": "crate_01_ebony",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483760",
+      "object": "crate_de_moonsugar",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483761",
+      "object": "de_p_chest_02_potions",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483762",
+      "object": "ingred_stoneflower_petals_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483763",
+      "object": "ingred_willow_anther_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483764",
+      "object": "ingred_stoneflower_petals_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483765",
+      "object": "ingred_void_salts_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483766",
+      "object": "ingred_sload_soap_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483767",
+      "object": "misc_com_wood_bowl_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483768",
+      "object": "misc_de_pot_mottled_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483769",
+      "object": "apparatus_a_retort_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483770",
+      "object": "apparatus_a_spipe_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483771",
+      "object": "apparatus_g_mortar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483772",
+      "object": "misc_de_pitcher_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483773",
+      "object": "misc_flask_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483774",
+      "object": "misc_flask_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483775",
+      "object": "potion_cyro_whiskey_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483776",
+      "object": "p_chameleon_e",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483777",
+      "object": "potion_ancient_brandy",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Unique Uniques.ESP",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483778",
+      "object": "potion_t_bug_musk_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483779",
+      "object": "potion_skooma_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483780",
+      "object": "com_sack_02_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483781",
+      "object": "potion_comberry_wine_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483782",
+      "object": "p_fortify_health_b",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483783",
+      "object": "p_fortify_strength_q",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483784",
+      "object": "ingred_scrap_metal_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483785",
+      "object": "ingred_vampire_dust_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483786",
+      "object": "ingred_vampire_dust_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483787",
+      "object": "ingred_scrib_jelly_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483788",
+      "object": "ingred_ruby_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483789",
+      "object": "ingred_stoneflower_petals_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483790",
+      "object": "ingred_scamp_skin_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483791",
+      "object": "com_basket_01_ingredien",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483792",
+      "object": "misc_com_redware_plate",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483793",
+      "object": "ingred_roobrush_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483794",
+      "object": "ingred_moon_sugar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483795",
+      "object": "ingred_rat_meat_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483797",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483798",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483799",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483800",
+      "object": "gold_025",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483801",
+      "object": "misc_de_goblet_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483802",
+      "object": "potion_local_liquor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483803",
+      "object": "misc_de_lute_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483804",
+      "object": "misc_uni_pillow_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483805",
+      "object": "misc_imp_silverware_plate_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483806",
+      "object": "misc_imp_silverware_bowl",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483807",
+      "object": "ingred_bittergreen_petals_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483808",
+      "object": "ingred_bc_spore_pod",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483809",
+      "object": "food_kwama_egg_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483810",
+      "object": "misc_com_silverware_knife",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483811",
+      "object": "misc_com_silverware_spoon",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483812",
+      "object": "misc_com_silverware_fork",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483813",
+      "object": "crate_01_de_mclothes",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483814",
+      "object": "urn_04_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483815",
+      "object": "urn_02_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483816",
+      "object": "ebony_boots",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483817",
+      "object": "ebony staff",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483818",
+      "object": "misc_de_drum_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483819",
+      "object": "misc_de_drum_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483820",
+      "object": "misc_de_drum_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483821",
+      "object": "misc_de_goblet_09",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483838",
+      "object": "chitin dagger",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483840",
+      "object": "light_de_candle_13_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "cell": "3,-31",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_cave_door_01": 1,
+        "flora_comberry_01": 5,
+        "flora_corkbulb": 5,
+        "flora_emp_parasol_01": 1,
+        "flora_emp_parasol_02": 1,
+        "flora_grass_01": 3,
+        "flora_grass_02": 3,
+        "flora_grass_03": 2,
+        "flora_kreshweed_01": 2,
+        "flora_kreshweed_02": 1,
+        "flora_muckspunge_01": 2,
+        "flora_muckspunge_02": 2,
+        "flora_muckspunge_03": 4,
+        "flora_muckspunge_06": 1,
+        "flora_plant_03": 1,
+        "flora_sedge_01": 5,
+        "flora_sedge_02": 7,
+        "t_mw_cr_guar": 1,
+        "t_mw_cr_kwamaforager": 1,
+        "t_mw_flora_bluekanet_01": 3,
+        "t_mw_flora_bluekanet_02": 4,
+        "t_mw_flora_timsacomeb02": 1,
+        "t_mw_flora_timsacomeb03": 1,
+        "t_mw_flora_timsacomeb04": 1,
+        "t_mw_floraat_oranmoss02": 3,
+        "t_mw_floraat_oranmoss03": 1,
+        "t_mw_floraat_spartiumbealei_01": 1,
+        "t_mw_floraat_spartiumbealei_02": 1,
+        "t_mw_floraat_spartiumbealei_03": 1,
+        "t_mw_floraat_treeb_01": 3,
+        "t_mw_floraat_treeb_02": 5,
+        "t_mw_floraat_treeb_05": 2,
+        "t_mw_floraat_treeg_02": 2,
+        "t_mw_floraat_treeg_04": 4,
+        "t_mw_floraat_treeg_06": 1,
+        "t_mw_rstat_aanthirind01orp": 1,
+        "t_mw_rstat_aanthirind05orp": 1,
+        "t_mw_terrrockat_caveentr_02": 1,
+        "t_mw_terrrockat_rock_10": 2,
+        "t_mw_terrrockat_rock_21": 4,
+        "t_mw_terrrockat_rock_22": 2,
+        "t_mw_terrrockat_rock_23": 2,
+        "t_mw_terrrockat_rock_26": 3,
+        "t_mw_terrrockat_rock_28": 3,
+        "t_mw_terrrockat_rock_29": 10,
+        "t_mw_terrrockat_rock_30": 4,
+        "t_mw_terrrockat_rockgrp_01": 13,
+        "t_mw_terrrockat_rockgrp_03": 18,
+        "t_mw_terrrockat_rockgrp_04": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

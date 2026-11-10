@@ -1,0 +1,65 @@
+{
+  "cell": "Vivec, Ralen Tilvur: Smith",
+  "name": "Vivec, Ralen Tilvur: Smith",
+  "plugins": {
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_con_com_trade_buck": 1
+      }
+    },
+    "Adamantium Armor Naturalized.esp": {
+      "added": {
+        "adamantium boots": 1,
+        "adamantium_bracer_left": 1,
+        "adamantium_bracer_right": 1,
+        "adamantium_cuirass": 1,
+        "adamantium_greaves": 1,
+        "adamantium_pauldron_left": 1,
+        "adamantium_pauldron_right": 1
+      },
+      "modified": {
+        "chitin war axe": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_smith_hlaalu": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_smith_spawn": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_p_bed_14": 1,
+        "chitin spear": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_p_bed_14": 1,
+        "chitin spear": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::399061",
+      "object": "active_de_p_bed_14",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::399152",
+      "object": "chitin spear",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

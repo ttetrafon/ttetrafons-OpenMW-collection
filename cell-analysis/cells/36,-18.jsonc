@@ -1,0 +1,51 @@
+{
+  "cell": "36,-18",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "door_dwrv_load00": 1,
+        "ex_cave_door_01": 1,
+        "ex_cave_entrance_bc_01": 1,
+        "ex_dwrv_alcove10": 1,
+        "ex_dwrv_block20": 3,
+        "ex_dwrv_block30": 1,
+        "ex_dwrv_boulder00": 2,
+        "ex_dwrv_boulder10": 3,
+        "ex_dwrv_boulder20": 5,
+        "ex_dwrv_enter00": 1,
+        "ex_dwrv_ruin00": 3,
+        "ex_dwrv_ruin20": 1,
+        "ex_dwrv_ruin30": 1,
+        "ex_dwrv_ruin50": 1,
+        "ex_dwrv_ruin60": 1,
+        "ex_dwrv_ruin70": 2,
+        "ex_dwrv_statue00": 1,
+        "flora_chokeweed_02": 5,
+        "flora_hackle-lo_01": 2,
+        "terrain_rock_gl_01": 1,
+        "terrain_rock_gl_03": 3,
+        "terrain_rock_gl_09": 1,
+        "terrain_rock_wg_06": 1,
+        "terrain_rock_wg_07": 2,
+        "terrain_rock_wg_08": 4,
+        "terrain_rock_wg_09": 1,
+        "terrain_rock_wg_10": 7,
+        "terrain_rock_wg_12": 8,
+        "terrain_rock_wg_13": 1,
+        "terrain_rock_wg_15": 2,
+        "terrain_rock_wg_16": 2,
+        "terrain_rock_wg_17": 6,
+        "terrain_rock_wg_18": 3,
+        "terrain_rocks_wg_01": 6,
+        "terrain_rocks_wg_02": 8,
+        "terrain_rocks_wg_03": 6,
+        "terrain_rocks_wg_04": 4
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_ex_dwe_spawn": 1
+      }
+    }
+  }
+}

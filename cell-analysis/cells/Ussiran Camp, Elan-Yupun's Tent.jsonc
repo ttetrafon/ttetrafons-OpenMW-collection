@@ -1,0 +1,43 @@
+{
+  "cell": "Ussiran Camp, Elan-Yupun's Tent",
+  "name": "Ussiran Camp, Elan-Yupun's Tent",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "barrel_01_cheapfood5": 1,
+        "barrel_01_pos": 1,
+        "furn_de_cushion_square_02": 3,
+        "furn_de_rope_03": 1,
+        "furn_de_rope_04": 1,
+        "furn_de_rug_big_02": 1,
+        "ingred_bread_01": 1,
+        "ingred_saltrice_01": 2,
+        "light_com_redware_lamp": 1,
+        "light_de_lantern_05_128": 1,
+        "light_de_lantern_06_128": 1,
+        "misc_com_bottle_03": 1,
+        "misc_de_pot_redware_01": 1,
+        "misc_de_pot_redware_04": 1,
+        "northmarker": 1,
+        "t_de_drink_shakhal_01": 1,
+        "t_de_redwareplatter_01": 1,
+        "t_de_set_i_tent_01": 1,
+        "t_de_set_i_tent_01_banner_04": 1,
+        "t_de_set_i_tent_01_door_01": 1,
+        "t_ingflor_drumpearseeds_01": 2,
+        "t_ingflor_orangemoss_01": 1,
+        "t_ingfood_fishslaughterdried_01": 1,
+        "t_mw_florash_drumpear01": 2,
+        "t_mwcom_var_bl1dridunm": 1,
+        "t_mwcom_var_bl1ingnars": 1,
+        "t_mwcom_var_cr1wpniron": 1,
+        "tr_m7_elan-yupun": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_thief": 1
+      }
+    }
+  }
+}

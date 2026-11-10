@@ -1,0 +1,41 @@
+{
+  "cell": "1,-15",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "blue water ref 512": 2,
+        "ex_barnacles_01": 4,
+        "ex_barnacles_02": 4,
+        "ex_barnacles_03": 7,
+        "ex_barnacles_06": 2,
+        "flora_kelp_01": 5,
+        "flora_kelp_02": 5,
+        "flora_kelp_03": 1,
+        "flora_kelp_04": 2,
+        "in_cave_plant00": 2,
+        "in_cave_plant10": 4,
+        "t_mw_terrrockai_rock_12": 1,
+        "terrain_rock_ai_07": 2,
+        "terrain_rock_ai_09": 5,
+        "terrain_rock_ai_12": 2
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_ex_barnacles_06": 1,
+        "xero_marker": 1,
+        "xero_south_chest": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_water": 6
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 6
+      }
+    }
+  }
+}

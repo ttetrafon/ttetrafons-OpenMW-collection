@@ -1,0 +1,16 @@
+{
+  "cell": "Dagon Fel, Watch Tower",
+  "name": "Dagon Fel, Watch Tower",
+  "plugins": {
+    "Privileges&Services 1.1.esp": {
+      "added": {
+        "abm_trapguimup": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_imperial guard_ran": 1
+      }
+    }
+  }
+}

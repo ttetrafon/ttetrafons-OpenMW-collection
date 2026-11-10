@@ -1,0 +1,117 @@
+{
+  "cell": "-10,1",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_ship_cephalopod_l": 1,
+        "_cor_ship_de_shack_plank_03_a": 3,
+        "_cor_ship_drowned_float": 3,
+        "_cor_ship_f_corpse_01": 1,
+        "_cor_ship_f_corpse_03": 1,
+        "_cor_ship_f_corpse_04": 2,
+        "_cor_ship_hlaalu_key": 1,
+        "_cor_ship_hlaalu_loot": 1,
+        "_cor_ship_squid_box_01": 1,
+        "_cor_ship_wed_ring": 1,
+        "ab_c_commonamulet02": 1,
+        "ab_ex_deconstrpost01": 1,
+        "ab_ex_deshipwrfloorside": 1,
+        "ab_ex_deshipwrfrontside": 1,
+        "ab_ex_deshipwrmast03": 1,
+        "ab_ex_deshipwrribl": 1,
+        "ab_ex_deshipwrsailtorn01": 1,
+        "ab_furn_barrel01broken02": 1,
+        "ab_furn_barrel01lid": 1,
+        "ab_furn_barrel01open": 2,
+        "ab_furn_barrel02broken01": 1,
+        "ab_furn_barrel02broken02": 2,
+        "ab_furn_barrel02broken05": 3,
+        "ab_furn_cartwheel": 1,
+        "ab_furn_comkegrack": 1,
+        "ab_furn_crate03open": 1,
+        "ab_furn_cratebroken01": 3,
+        "ab_furn_cratebroken04": 2,
+        "ab_furn_cratebroken05": 1,
+        "ab_furn_cratebrokenwood01": 1,
+        "ab_furn_cratebrokenwood02": 6,
+        "ab_furn_ropecoil": 1,
+        "ab_misc_abacus": 1,
+        "ab_misc_bkruinedfolio": 1,
+        "ab_misc_deblueknife_01": 1,
+        "ab_misc_deceramiccup_01": 1,
+        "ab_misc_deceramiccup_02": 2,
+        "ab_misc_deceramicflask_01": 1,
+        "ab_misc_deceramicpot_01": 1,
+        "ab_misc_degreenbowlbig": 1,
+        "ab_misc_degreenplatter": 1,
+        "ab_misc_degreenpot": 1,
+        "ab_misc_depillows_04": 1,
+        "ab_misc_depillows_06": 1,
+        "ab_misc_pursecoin": 1,
+        "ab_misc_scalesbrassskew": 1,
+        "ab_o_alchjardreughwax": 1,
+        "ab_o_alchjarresin": 1,
+        "ab_o_cratehlaalu": 1,
+        "ab_o_cratehlaaluarmor": 3,
+        "active_de_bedroll": 3,
+        "barrel_01_pos": 1,
+        "barrel_02_floater_ing": 3,
+        "chest_small_01_soulgem": 1,
+        "dark_720": 1,
+        "ex_barnacles_01": 2,
+        "ex_barnacles_04": 2,
+        "ex_com_bottle_11_float": 3,
+        "ex_de_railing_03": 4,
+        "ex_de_shack_plank_01": 1,
+        "ex_scrapwood02": 6,
+        "ex_scrapwood05": 1,
+        "ex_ship_stair": 1,
+        "furn_de_ex_bench_01": 2,
+        "furn_de_ex_stool_02": 2,
+        "furn_de_ex_table_02": 1,
+        "furn_de_kegstand": 2,
+        "furn_de_rope_07": 2,
+        "h2o_all_lev-2": 1,
+        "misc_com_bucket_01": 2
+      },
+      "modified": {
+        "ab_ex_deshipwrbackfull": 1,
+        "barrel_shoes": 1,
+        "cliff racer": 1,
+        "ex_barnacles_03": 2,
+        "ex_barnacles_04": 1,
+        "ex_barnacles_05": 1,
+        "ex_barnacles_06": 2,
+        "ex_de_oar": 1,
+        "ex_de_railing_03": 1,
+        "ex_de_shack_plank_01": 1,
+        "ex_de_ship_cabindoor": 1,
+        "ex_de_ship_oarleft": 1,
+        "h2o_all_lev-2": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_m21_bottle": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "contain_corpse_water": 1,
+        "ex_de_rowboat": 1,
+        "xero_marker": 1,
+        "xero_west_crate": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_water": 5
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 5
+      }
+    }
+  }
+}

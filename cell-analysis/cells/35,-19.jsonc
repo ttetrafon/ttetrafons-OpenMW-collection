@@ -1,0 +1,71 @@
+{
+  "cell": "35,-19",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_dae_buttress_ruin_01": 1,
+        "ex_dae_pillar_01": 2,
+        "ex_dae_pillar_02_ruin": 2,
+        "ex_dae_pillar_02_ruin_02": 2,
+        "ex_dae_pillar_03": 3,
+        "ex_dae_ruin_03": 1,
+        "ex_dae_ruin_stair01_short": 1,
+        "ex_dae_wall_512_01": 5,
+        "ex_dae_wall_512_02": 1,
+        "ex_dae_wall_512_03": 4,
+        "ex_dae_wall_512_04": 1,
+        "ex_dae_wall_512_06": 1,
+        "ex_dae_wall_512_07": 2,
+        "ex_dae_wall_512_08": 1,
+        "ex_dae_wall_512_09": 1,
+        "flora_chokeweed_02": 10,
+        "flora_kreshweed_01": 4,
+        "flora_kreshweed_02": 2,
+        "flora_kreshweed_03": 1,
+        "flora_roobrush_02": 2,
+        "flora_root_wg_01": 4,
+        "flora_root_wg_02": 2,
+        "flora_root_wg_03": 2,
+        "flora_root_wg_04": 1,
+        "flora_root_wg_07": 1,
+        "flora_tree_wg_02": 1,
+        "flora_tree_wg_06": 1,
+        "in_dae_all_lev-2": 1,
+        "in_dae_rubble_01a": 2,
+        "in_dae_rubble_03a": 1,
+        "in_dae_rubble_04a": 1,
+        "in_dae_rubble_05": 2,
+        "in_dae_rubble_06": 1,
+        "in_dae_rubble_07": 2,
+        "t_mw_terrrockwg_cliff_02": 3,
+        "t_mw_terrrockwg_cliff_03": 2,
+        "t_mw_terrrockwg_cliff_04": 1,
+        "terrain_rock_wg_01": 10,
+        "terrain_rock_wg_02": 1,
+        "terrain_rock_wg_04": 4,
+        "terrain_rock_wg_05": 7,
+        "terrain_rock_wg_06": 1,
+        "terrain_rock_wg_07": 4,
+        "terrain_rock_wg_08": 11,
+        "terrain_rock_wg_09": 1,
+        "terrain_rock_wg_10": 9,
+        "terrain_rock_wg_11": 1,
+        "terrain_rock_wg_12": 3,
+        "terrain_rock_wg_14": 11,
+        "terrain_rock_wg_15": 8,
+        "terrain_rock_wg_16": 8,
+        "terrain_rock_wg_17": 17,
+        "terrain_rock_wg_18": 15,
+        "terrain_rocks_wg_01": 5,
+        "terrain_rocks_wg_02": 12,
+        "terrain_rocks_wg_03": 11,
+        "terrain_rocks_wg_04": 8
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_ex_daedric_ruins_spawn": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "cell": "Ministry of Truth, Hall of Processing",
+  "name": "Ministry of Truth, Hall of Processing",
+  "plugins": {
+    "Privileges&Services 1.1.esp": {
+      "added": {
+        "pp_grand_inquisitor": 1,
+        "pp_inquisitor": 6
+      },
+      "modified": {
+        "abm_inqmask1": 2
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "door_cavern_doors10": 4,
+        "sound_cave_wind00": 5
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "door_cavern_doors10": 4,
+        "sound_cave_wind00": 5
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::383366",
+      "object": "door_cavern_doors10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::383370",
+      "object": "door_cavern_doors10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::383516",
+      "object": "door_cavern_doors10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::383369",
+      "object": "door_cavern_doors10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::383537",
+      "object": "sound_cave_wind00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::383538",
+      "object": "sound_cave_wind00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::383539",
+      "object": "sound_cave_wind00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::383540",
+      "object": "sound_cave_wind00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::383541",
+      "object": "sound_cave_wind00",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

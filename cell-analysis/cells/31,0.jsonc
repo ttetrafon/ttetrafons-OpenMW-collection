@@ -1,0 +1,51 @@
+{
+  "cell": "31,0",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "collision wall - inviso!!": 5,
+        "ex_velothi_entrance_02": 1,
+        "ex_velothi_loaddoor_01": 1,
+        "ex_vivec_waterfall_05": 1,
+        "flora_chokeweed_02": 1,
+        "flora_kreshweed_01": 2,
+        "flora_kreshweed_02": 17,
+        "flora_root_wg_05": 1,
+        "flora_root_wg_06": 1,
+        "flora_tree_wg_04": 3,
+        "t_glb_terrwater_sqrflw1024_01": 2,
+        "t_mw_flora_treeoak_02": 1,
+        "t_mw_rlvl_boethiahspineland+2": 1,
+        "t_mw_rlvl_mephalanvalescave-2": 1,
+        "terrain_rock_wg_01": 6,
+        "terrain_rock_wg_02": 8,
+        "terrain_rock_wg_03": 1,
+        "terrain_rock_wg_04": 2,
+        "terrain_rock_wg_06": 2,
+        "terrain_rock_wg_08": 11,
+        "terrain_rock_wg_09": 9,
+        "terrain_rock_wg_10": 2,
+        "terrain_rock_wg_11": 1,
+        "terrain_rock_wg_12": 1,
+        "terrain_rock_wg_15": 3,
+        "terrain_rock_wg_16": 1,
+        "terrain_rock_wg_17": 5,
+        "terrain_rocks_wg_01": 12,
+        "terrain_rocks_wg_02": 3,
+        "terrain_rocks_wg_03": 17,
+        "tr_m2_guls_seles": 1,
+        "tr_m2_q_ttshrine1": 1
+      }
+    },
+    "RepopulatedMainland.ESP": {
+      "added": {
+        "gvrm_dun_pray_3_trcpy": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_pilgrim_spawn": 1
+      }
+    }
+  }
+}

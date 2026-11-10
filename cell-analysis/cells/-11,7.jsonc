@@ -1,0 +1,31 @@
+{
+  "cell": "-11,7",
+  "plugins": {
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "dreugh": 1,
+        "ex_barnacles_03": 1,
+        "ex_barnacles_04": 1,
+        "ex_barnacles_05": 1,
+        "ex_barnacles_06": 2,
+        "ex_de_ship_cabindoor": 1,
+        "ex_de_shipwreck": 1,
+        "ex_ship_stair": 2,
+        "furn_crate_lid_01": 1,
+        "furn_crate_open_01": 1,
+        "h2o_all_lev-2": 1,
+        "in_cave_plant10": 19,
+        "in_mudboulder00": 7,
+        "in_mudboulder04": 1,
+        "kollop_02_pearl": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "barrel_01_empty": 1,
+        "xero_marker": 1,
+        "xero_west_barrel": 1
+      }
+    }
+  }
+}

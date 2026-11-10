@@ -1,0 +1,22 @@
+{
+  "cell": "Suran, Guard Tower",
+  "name": "Suran, Guard Tower",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "furn_de_p_stool_02": 2,
+        "gvrm_hla_s+e_bom_guards": 1
+      }
+    },
+    "Privileges&Services 1.1.esp": {
+      "added": {
+        "abm_trapguhlaup": 1,
+        "in_hlaalu_hall_end": 1
+      },
+      "modified": {
+        "furn_de_tapestry_10": 1,
+        "in_hlaalu_hall_4way": 1
+      }
+    }
+  }
+}

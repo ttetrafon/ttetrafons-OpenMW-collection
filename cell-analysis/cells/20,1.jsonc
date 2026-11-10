@@ -1,0 +1,29 @@
+{
+  "cell": "20,1",
+  "plugins": {
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_con_dae_crate01_m": 1,
+        "aatl_npc_merc_njastiir": 1,
+        "aatl_npc_nord_rangard": 1,
+        "aatl_npc_pirate_kayda": 1,
+        "aatl_npc_pirate_thalsin": 1,
+        "ab_ex_ashltentbedroll": 1,
+        "ab_o_barrel01smuggler": 1,
+        "ab_o_sacktallfood": 3,
+        "barrel_bandit_01": 1,
+        "ex_de_rowboat": 2,
+        "furn_de_ex_stool_02": 1,
+        "t_cyrcom_var_cr3smug": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_east_crate": 1,
+        "xero_furn_crate_lid_01": 2,
+        "xero_furn_crate_open_01": 2,
+        "xero_marker": 1
+      }
+    }
+  }
+}

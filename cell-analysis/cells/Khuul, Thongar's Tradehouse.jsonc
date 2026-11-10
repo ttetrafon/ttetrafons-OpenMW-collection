@@ -1,0 +1,28 @@
+{
+  "cell": "Khuul, Thongar's Tradehouse",
+  "name": "Khuul, Thongar's Tradehouse",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1,
+        "gvrm_balmoracitizens": 1,
+        "gvrm_bcom_am_marker": 3
+      }
+    },
+    "NOD - Core.esm": {
+      "added": {
+        "com_chest_02_v_dreugh": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_eaterday10": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_trader": 1
+      }
+    }
+  }
+}

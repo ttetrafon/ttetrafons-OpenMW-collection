@@ -1,0 +1,16 @@
+{
+  "cell": "Ibar-Dad",
+  "name": "Ibar-Dad",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "tr_m0_da_namira_gobletact": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "in_dae_all_lev-2": 1
+      }
+    }
+  }
+}

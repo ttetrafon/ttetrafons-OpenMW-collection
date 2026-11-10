@@ -1,0 +1,130 @@
+{
+  "cell": "Grytewake, Upper Level",
+  "name": "Grytewake, Upper Level",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_bed_29": 1,
+        "active_de_bed_30": 1,
+        "active_de_p_bed_28": 2,
+        "common_pants_03_b": 2,
+        "common_ring_02": 1,
+        "common_shirt_02": 1,
+        "common_shirt_03": 1,
+        "common_shirt_04": 1,
+        "light_de_lantern_06a": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_bed_29": 1,
+        "active_de_bed_30": 1,
+        "active_de_p_bed_28": 2,
+        "common_pants_03_b": 2,
+        "common_ring_02": 1,
+        "common_shirt_02": 1,
+        "common_shirt_03": 1,
+        "common_shirt_04": 1,
+        "light_de_lantern_06a": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::299288",
+      "object": "active_de_p_bed_28",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299289",
+      "object": "active_de_p_bed_28",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299290",
+      "object": "active_de_bed_29",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299291",
+      "object": "active_de_bed_30",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299302",
+      "object": "common_pants_03_b",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299303",
+      "object": "common_pants_03_b",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299304",
+      "object": "common_ring_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299305",
+      "object": "common_shirt_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299306",
+      "object": "common_shirt_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299307",
+      "object": "common_shirt_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::317827",
+      "object": "light_de_lantern_06a",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::317830",
+      "object": "light_de_lantern_06a",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

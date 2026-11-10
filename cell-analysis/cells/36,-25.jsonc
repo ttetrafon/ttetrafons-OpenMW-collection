@@ -1,0 +1,54 @@
+{
+  "cell": "36,-25",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "barrel_02_cheapfood5": 1,
+        "com_sack_02": 1,
+        "com_sack_02_chpfood3": 1,
+        "com_sack_03_wickwheat": 1,
+        "de_p_chest_02_gold_50": 1,
+        "flora_bush_01": 5,
+        "flora_corkbulb": 19,
+        "flora_plant_01": 10,
+        "flora_saltrice_01": 9,
+        "flora_saltrice_02": 10,
+        "flora_sedge_01": 10,
+        "flora_tree_gl_02": 2,
+        "flora_tree_gl_03": 2,
+        "flora_tree_gl_05": 2,
+        "flora_tree_gl_06": 2,
+        "flora_tree_gl_07": 1,
+        "flora_tree_gl_08": 1,
+        "flora_tree_gl_09": 1,
+        "flora_tree_gl_10": 1,
+        "flora_tree_mh_01": 5,
+        "flora_tree_mh_02": 23,
+        "furn_de_cushion_square_05": 2,
+        "light_pitfire00": 1,
+        "terrain_rock_wg_01": 1,
+        "terrain_rock_wg_02": 3,
+        "terrain_rock_wg_05": 2,
+        "terrain_rock_wg_07": 1,
+        "terrain_rock_wg_08": 6,
+        "terrain_rock_wg_09": 1,
+        "terrain_rock_wg_10": 1,
+        "terrain_rock_wg_14": 1,
+        "terrain_rock_wg_15": 1,
+        "terrain_rock_wg_16": 1,
+        "terrain_rock_wg_17": 9,
+        "terrain_rock_wg_18": 4,
+        "terrain_rocks_wg_01": 17,
+        "terrain_rocks_wg_02": 1,
+        "terrain_rocks_wg_03": 9,
+        "tr_m3_o_drithnil_valen": 1,
+        "tr_m3_o_sulen_amardas": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

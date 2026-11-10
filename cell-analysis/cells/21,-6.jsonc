@@ -1,0 +1,22 @@
+{
+  "cell": "21,-6",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "blue coast ref 1024": 3,
+        "flora_kelp_01": 13,
+        "flora_kelp_02": 29,
+        "kollop_02_pearl": 2,
+        "kollop_03_pearl": 5,
+        "t_mw_rlvl_innerseawater+2": 2
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "barrel_01_empty": 1,
+        "xero_east_barrel": 1,
+        "xero_marker": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "cell": "Raven Rock, Trader",
+  "name": "Raven Rock, Trader",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "com_sack_02_saltrice_10": 1,
+        "de_p_chest_02_mclothes3": 1,
+        "ex_colony_door02": 1,
+        "furn_colony_shelf01": 2,
+        "furn_com_rm_shelf_01": 2,
+        "furn_de_bannerpost_01": 1,
+        "furn_rug_whitewolf": 1,
+        "light_com_candle_07_64": 1,
+        "light_com_sconce_01": 2,
+        "misc_com_bottle_04": 3,
+        "misc_com_bottle_09": 1,
+        "misc_com_bottle_11": 2,
+        "misc_com_bottle_12": 4,
+        "misc_com_bottle_15": 1,
+        "misc_com_redware_cup": 4,
+        "misc_com_tankard_01": 4,
+        "misc_de_bowl_orange_green_01": 3,
+        "misc_de_goblet_06": 9,
+        "misc_de_pot_blue_01": 1,
+        "misc_de_pot_blue_02": 2,
+        "misc_de_pot_glass_peach_01": 4,
+        "misc_de_tankard_01": 7,
+        "northmarker": 1,
+        "sp_bm_colony_i_stud_01": 2
+      },
+      "modified": {
+        "com_sack_01_chpfood5": 1,
+        "com_sack_02_chpfood3": 3,
+        "furn_colony_shelf01": 1,
+        "light_com_candle_01": 1,
+        "light_de_candle_05": 1,
+        "misc_com_bottle_05": 4,
+        "misc_com_bottle_09": 1,
+        "misc_com_bottle_14": 3,
+        "misc_com_bottle_15": 1,
+        "misc_com_wood_bowl_03": 1,
+        "misc_com_wood_cup_02": 2,
+        "misc_de_bowl_glass_peach_01": 1,
+        "misc_de_bowl_orange_green_01": 4,
+        "misc_de_bowl_white_01": 1,
+        "misc_de_fishing_pole": 2,
+        "misc_de_pot_blue_02": 1,
+        "misc_de_pot_green_01": 1,
+        "misc_de_pot_redware_01": 4,
+        "misc_de_tankard_01": 8,
+        "misc_flask_01": 2
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_trader": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_traders_spawn": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "light_com_candle_01": 2,
+        "light_com_lantern_01_256": 1,
+        "light_de_lantern_01white": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "modified": {
+        "light_com_candle_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "light_com_candle_01": 2,
+        "light_com_lantern_01_256": 1,
+        "light_de_lantern_01white": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::29870",
+      "object": "light_com_candle_01",
+      "plugins": [
+        "Solstheim Tomb of The Snow Prince.esm",
+        "Ownership Overhaul.esm",
+        "True_Lights_And_Darkness_1.1.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::29862",
+      "object": "light_com_lantern_01_256",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::29863",
+      "object": "light_com_candle_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::29973",
+      "object": "light_de_lantern_01white",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

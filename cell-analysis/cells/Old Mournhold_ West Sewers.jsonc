@@ -1,0 +1,40 @@
+{
+  "cell": "Old Mournhold: West Sewers",
+  "name": "Old Mournhold: West Sewers",
+  "plugins": {
+    "Tribunal Rebalance.ESP": {
+      "added": {
+        "in_goblins": 4
+      },
+      "modified": {
+        "in_goblins": 3
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_sewer_rat_boss": 1,
+        "plx_vermin_marker_box": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "chest_01_v_potion_p_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "chest_01_v_potion_p_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "tribunal::25635",
+      "object": "chest_01_v_potion_p_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "cell": "2,25",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "furn_scrapwood01": 3,
+        "misc_com_bottle_08": 1,
+        "xero_marker": 1,
+        "xero_north_barrel": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "tom_aumenrai": 1
+      }
+    }
+  }
+}

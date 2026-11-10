@@ -1,0 +1,32 @@
+{
+  "cell": "14,-13",
+  "name": "Tel Branora",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "tr_m0_relvyn telandas": 1
+      }
+    },
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_fisherman24": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_east_sack": 1,
+        "xero_marker": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_sailor_list_spawn": 1
+      }
+    }
+  }
+}

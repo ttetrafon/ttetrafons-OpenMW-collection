@@ -1,0 +1,89 @@
+{
+  "cell": "Neglected Shipwreck, Cabin",
+  "name": "Neglected Shipwreck, Cabin",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "ab_furn_cratebroken03": 1,
+        "ab_furn_cratefglid": 1,
+        "ab_furn_fgtapestryde02": 1,
+        "ab_furn_pracmarkstarget02": 1,
+        "ab_light@_lichen128": 1,
+        "ab_misc_impcanteen": 1,
+        "flora_bc_moss_03": 2,
+        "flora_bc_moss_20": 3,
+        "flora_bc_vine_01": 6,
+        "flora_bc_vine_02": 2,
+        "flora_bc_vine_05": 1,
+        "flora_bc_vine_07": 1
+      },
+      "modified": {
+        "chest_small_02_ingredie": 1,
+        "furn_com_p_table_01": 1,
+        "gold_001": 3,
+        "in_de_ship_cabindoor": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "modified": {
+        "chest_small_02_ingredie": 1,
+        "furn_com_p_table_01": 1,
+        "furn_com_rm_stool_01": 1,
+        "gold_001": 3,
+        "in_de_ship_cabindoor": 1,
+        "in_de_shipcabin": 1,
+        "sound_boat_creak00": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::318014",
+      "object": "in_de_ship_cabindoor",
+      "plugins": [
+        "OAAB - Shipwrecks.esm",
+        "Uncharted Artifacts.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318016",
+      "object": "chest_small_02_ingredie",
+      "plugins": [
+        "OAAB - Shipwrecks.esm",
+        "Uncharted Artifacts.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318019",
+      "object": "gold_001",
+      "plugins": [
+        "OAAB - Shipwrecks.esm",
+        "Uncharted Artifacts.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318020",
+      "object": "gold_001",
+      "plugins": [
+        "OAAB - Shipwrecks.esm",
+        "Uncharted Artifacts.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318021",
+      "object": "gold_001",
+      "plugins": [
+        "OAAB - Shipwrecks.esm",
+        "Uncharted Artifacts.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::318018",
+      "object": "furn_com_p_table_01",
+      "plugins": [
+        "OAAB - Shipwrecks.esm",
+        "Uncharted Artifacts.esp"
+      ]
+    }
+  ]
+}

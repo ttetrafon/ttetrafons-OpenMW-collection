@@ -1,0 +1,23 @@
+{
+  "cell": "14,-12",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "ingred_muck_01": 2,
+        "xero_east_chest": 1,
+        "xero_marker": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_tel_spawn": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_b_wisp_all": 1,
+        "aa_cr_i_butterlfy_ac": 1
+      }
+    }
+  }
+}

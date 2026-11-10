@@ -1,0 +1,16 @@
+{
+  "cell": "Unchartered Shipwreck, Upper Level",
+  "name": "Unchartered Shipwreck, Upper Level",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_vermin_marker_cloth": 1
+      }
+    },
+    "OAAB - Shipwrecks.esm": {
+      "modified": {
+        "ex_de_ship_trapdoor": 1
+      }
+    }
+  }
+}

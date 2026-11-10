@@ -1,0 +1,28 @@
+{
+  "cell": "Vivec, Foreign Quarter Upper Waistworks",
+  "name": "Vivec, Foreign Quarter Upper Waistworks",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_alchemist8": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_alchemist": 1,
+        "aa_wares_healer": 1,
+        "aa_wares_trader": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_ordinator wan_ran": 2
+      }
+    }
+  }
+}

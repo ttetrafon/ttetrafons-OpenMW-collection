@@ -1,0 +1,26 @@
+{
+  "cell": "Ald-ruhn, Sarethi Manor",
+  "name": "Ald-ruhn, Sarethi Manor",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "in_r_s_door_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "in_r_s_door_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::30399",
+      "object": "in_r_s_door_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

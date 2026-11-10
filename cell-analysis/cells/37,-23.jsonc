@@ -1,0 +1,55 @@
+{
+  "cell": "37,-23",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_de_docks_center": 4,
+        "ex_de_docks_centerb": 1,
+        "ex_de_docks_end": 1,
+        "flora_bush_01": 5,
+        "flora_corkbulb": 11,
+        "flora_plant_01": 18,
+        "flora_saltrice_01": 8,
+        "flora_saltrice_02": 11,
+        "flora_sedge_01": 8,
+        "flora_tree_gl_01": 1,
+        "flora_tree_gl_02": 2,
+        "flora_tree_gl_04": 1,
+        "flora_tree_gl_06": 2,
+        "flora_tree_gl_07": 1,
+        "flora_tree_gl_08": 2,
+        "flora_tree_mh_01": 4,
+        "flora_tree_mh_02": 16,
+        "furn_com_fence_01": 1,
+        "t_com_setmw_signwayalmalexia_01": 1,
+        "t_com_setmw_signwaybosmora_01": 1,
+        "t_com_setmw_signwaynecrom_01": 1,
+        "t_com_setmw_signwaysailen_01": 1,
+        "t_com_setmw_signwayseitur_01": 1,
+        "t_mw_rstat_wildernessd01": 1,
+        "terrain_rock_wg_01": 2,
+        "terrain_rock_wg_02": 1,
+        "terrain_rock_wg_05": 1,
+        "terrain_rock_wg_07": 2,
+        "terrain_rock_wg_08": 3,
+        "terrain_rock_wg_09": 3,
+        "terrain_rock_wg_10": 4,
+        "terrain_rock_wg_12": 2,
+        "terrain_rock_wg_14": 9,
+        "terrain_rock_wg_15": 2,
+        "terrain_rock_wg_16": 2,
+        "terrain_rock_wg_17": 4,
+        "terrain_rock_wg_18": 5,
+        "terrain_rocks_wg_01": 17,
+        "terrain_rocks_wg_02": 1,
+        "terrain_rocks_wg_03": 14,
+        "terrain_rocks_wg_04": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_indo_spawn": 1
+      }
+    }
+  }
+}

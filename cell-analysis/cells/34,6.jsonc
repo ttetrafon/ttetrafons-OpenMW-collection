@@ -1,0 +1,44 @@
+{
+  "cell": "34,6",
+  "name": "Nchazdrumn",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_cave_door_01": 1,
+        "ex_cave_entrance_gl_01": 1,
+        "ex_dwrv_block30": 13,
+        "ex_dwrv_bridge00": 5,
+        "ex_dwrv_bridge10": 1,
+        "ex_dwrv_enter00": 1,
+        "ex_dwrv_header00": 1,
+        "ex_dwrv_ruin10": 1,
+        "ex_dwrv_ruin50": 1,
+        "ex_dwrv_ruin60": 1,
+        "ex_dwrv_ruin_tower00": 1,
+        "ex_dwrv_statue00": 2,
+        "ex_dwrv_steamstack00": 1,
+        "ex_dwrv_walker00": 1,
+        "ex_dwrv_walker10": 1,
+        "ex_dwrv_walker20": 1,
+        "t_mw_rlvl_boethiahspineland+0": 2,
+        "t_mw_rlvl_boethiahspineland-2": 2,
+        "t_mw_terrrockgl_rock_19": 1,
+        "t_mw_terrrockgl_rock_20": 7,
+        "t_mw_terrrockgl_rock_22": 7,
+        "t_mw_terrrockgl_rock_24": 2,
+        "t_mw_terrrockgl_rock_26": 9,
+        "t_mw_terrrockgl_rock_32": 1,
+        "t_mw_terrrockgl_rock_33": 2,
+        "terrain_rocks_gl_01": 2,
+        "terrain_rocks_gl_02": 10,
+        "terrain_rocks_gl_03": 45,
+        "terrain_rocks_gl_04": 20
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

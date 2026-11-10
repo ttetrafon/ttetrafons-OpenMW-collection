@@ -1,0 +1,66 @@
+{
+  "cell": "-18,-25",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "door_dwrv_load00": 1,
+        "ex_de_railing_01": 3,
+        "ex_de_railing_03": 1,
+        "ex_dwrv_block00": 2,
+        "ex_dwrv_block10": 1,
+        "ex_dwrv_block20": 1,
+        "ex_dwrv_block30": 1,
+        "ex_dwrv_boulder00": 1,
+        "ex_dwrv_boulder20": 1,
+        "ex_dwrv_enter00": 1,
+        "ex_dwrv_ruin40": 2,
+        "ex_dwrv_ruin_tower00": 1,
+        "ex_dwrv_walker00": 1,
+        "ex_dwrv_walker10": 1,
+        "ex_dwrv_walker20": 1,
+        "ex_dwrv_wall00": 1,
+        "ex_dwrv_wall10": 1,
+        "ex_dwrv_wall20": 1,
+        "ex_dwrv_wall30": 1,
+        "ex_dwrv_wall40": 1,
+        "ex_dwrv_wall60": 1,
+        "flora_bm_grass_01": 12,
+        "flora_bm_grass_03": 1,
+        "flora_bm_grass_04": 16,
+        "flora_bm_grass_06": 1,
+        "flora_bm_holly_04": 1,
+        "flora_heather_01": 6,
+        "flora_tree_bm_01": 4,
+        "flora_tree_bm_02": 2,
+        "flora_tree_bm_03": 2,
+        "flora_tree_bm_04": 1,
+        "flora_tree_bm_05": 2,
+        "flora_tree_bm_06": 1,
+        "flora_tree_bm_07": 2,
+        "in_dwrv_doorjam00": 1,
+        "t_mw_terrrockrm_mtpeak_04": 4,
+        "t_mw_terrrockrm_mtridge_02": 1,
+        "t_mw_terrrockrm_rock_04": 1,
+        "t_mw_terrrockrm_rock_05": 1,
+        "t_mw_terrrockrm_rockgrp_01": 10,
+        "t_mw_terrrockrm_rockgrp_02": 22,
+        "t_mw_terrrockrm_rockgrp_03": 12,
+        "t_mw_terrrockrm_rockgrp_04": 9,
+        "terrain_bm_snow_05": 1,
+        "terrain_rock_rm_05": 2,
+        "terrain_rock_rm_11": 2,
+        "terrain_rock_rm_13": 10,
+        "terrain_rock_rm_14": 1,
+        "terrain_rock_rm_17": 1,
+        "terrain_rock_rm_18": 1,
+        "terrain_rock_rm_20": 2,
+        "terrain_rock_rm_21": 2
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_ex_dwe_spawn": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "cell": "4,-15",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_ord_a_lead": 1,
+        "_cor_ord_dead": 1,
+        "_cor_ord_live": 1,
+        "_cor_ord_stand": 4,
+        "_cor_ship_landdreugh_a": 3,
+        "_cor_ship_landdreugh_d": 3,
+        "_cor_ship_smuggler1": 1,
+        "_cor_ship_smuggler2": 1,
+        "_cor_ship_smuggler3": 1,
+        "_cor_ship_smuggler4": 1,
+        "_cor_ship_smuggler5": 1,
+        "_cor_ship_uncharted_key": 1,
+        "ab_ex_deshipwrbackfull": 1,
+        "ab_ex_deshipwrfrontfull": 1,
+        "ab_ex_deshipwrsailtorn01": 1,
+        "ab_ex_deshipwrsteps": 1,
+        "ab_furn_barrel01broken01": 1,
+        "ab_furn_barrel01broken02": 1,
+        "ab_furn_barrel01broken03": 1,
+        "ab_furn_barrel02broken02": 1,
+        "ab_furn_barrel02broken03": 2,
+        "ab_furn_barrel02broken04": 2,
+        "ab_furn_barrel02broken05": 2,
+        "ab_furn_cratebroken03": 1,
+        "ab_furn_cratebroken05": 3,
+        "ab_furn_urnbroken01": 3,
+        "ab_furn_urnlid": 1,
+        "ab_furn_urnopenash": 1,
+        "ab_misc_dwbust": 1,
+        "ab_misc_dwrvlanternbroken": 1,
+        "ab_o_crate03bandit": 1,
+        "ab_o_cratesmuggler": 2,
+        "ab_o_dwbarreling": 2,
+        "ab_o_urn01scrolls": 3,
+        "barrel_01": 1,
+        "barrel_01_arrows": 2,
+        "barrel_02_ingred": 1,
+        "com_chest_01_misc01": 1,
+        "com_chest_11_empty": 2,
+        "com_sack_01_saltrice_5": 3,
+        "com_sack_02_gold_100": 1,
+        "com_sack_02_msugar2": 2,
+        "crate_01_empty": 3,
+        "crate_01_skooma": 3,
+        "crate_smuggler_01": 4,
+        "ex_de_shack_plank_01": 2,
+        "ex_longboat": 1,
+        "ex_ship_plank": 1,
+        "inviso_wall": 1,
+        "light_de_lantern_06a": 1,
+        "light_tikitorch00": 2,
+        "misc_dwrv_gear00": 4,
+        "p_levitation_b": 1,
+        "terrain_rock_ai_06": 9,
+        "terrain_rock_ai_12": 1
+      },
+      "modified": {
+        "_cor_ship_uncharted_door": 1,
+        "de_p_chest_02_gold_25": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_m18_key": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "misc_com_metal_goblet_02": 1,
+        "xero_marker": 1,
+        "xero_south_chest": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_water": 5
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 5
+      }
+    }
+  }
+}

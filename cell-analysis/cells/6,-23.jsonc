@@ -1,0 +1,42 @@
+{
+  "cell": "6,-23",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_de_docks_piling_01": 2,
+        "flora_emp_parasol_03": 1,
+        "t_de_set_x_palisade_01": 4,
+        "t_de_set_x_palisade_02": 1,
+        "t_de_set_x_palisade_03": 3,
+        "t_de_set_x_palisade_bend_01": 4,
+        "t_de_set_x_pole_01": 2,
+        "t_de_set_x_pole_02": 4,
+        "t_de_set_x_pole_03": 4,
+        "t_mw_cr_mudcrab": 2,
+        "t_mw_fauna_ornadaeggs01": 2,
+        "t_mw_flora_treeoak_02": 1,
+        "t_mw_floraat_treeg_03": 1,
+        "t_mw_floraat_treeg_06": 1,
+        "t_mw_stat_ornadas": 3,
+        "t_mw_terrrockat_rock_05": 1,
+        "t_mw_terrrockat_rock_07": 1,
+        "t_mw_terrrockat_rock_09": 2,
+        "t_mw_terrrockat_rock_10": 4,
+        "t_mw_terrrockat_rock_17": 7,
+        "t_mw_terrrockat_rock_28": 2,
+        "t_mw_terrrockat_rock_29": 1,
+        "t_mw_terrrockat_rock_30": 1,
+        "t_mw_terrrockat_rockgrp_01": 3,
+        "t_mw_terrrockat_rockgrp_02": 1,
+        "t_mw_terrrockat_rockgrp_03": 6,
+        "tr_m3_a2_woodengate": 1,
+        "tr_m3_felmsvelk": 4
+      }
+    },
+    "RepopulatedMainland.ESP": {
+      "added": {
+        "gvrm_dun_fish_sit_trcpy": 1
+      }
+    }
+  }
+}

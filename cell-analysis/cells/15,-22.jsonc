@@ -1,0 +1,72 @@
+{
+  "cell": "15,-22",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "contain_trama_shrub_03": 2,
+        "contain_trama_shrub_04": 2,
+        "ex_cave_door_01": 1,
+        "ex_de_railing_01": 3,
+        "ex_de_railing_02": 3,
+        "ex_de_railing_03": 2,
+        "ex_ma_cave_entrance": 1,
+        "flora_ash_grass_b_01": 8,
+        "flora_ash_grass_r_01": 4,
+        "flora_ash_grass_w_01": 3,
+        "flora_rm_scathecraw_01": 1,
+        "flora_rm_scathecraw_02": 1,
+        "furn_com_fence_01": 2,
+        "lava_light_1024": 1,
+        "sound_lave_vat": 2,
+        "t_com_setmw_signwayalmalexia_01": 2,
+        "t_com_setmw_signwayalmasthrr_01": 2,
+        "t_com_setmw_signwaydarvon_01": 1,
+        "t_com_setmw_signwayoldebonh_01": 2,
+        "t_com_setmw_signwayothrensis_01": 2,
+        "t_mw_cr_atronachflame": 1,
+        "t_mw_cr_beetlehorneddiseased": 1,
+        "t_mw_flora_scathecraw03": 2,
+        "t_mw_flora_scathecraw04": 1,
+        "t_mw_florass_rougecam01": 1,
+        "t_mw_florass_rougecam02": 1,
+        "t_mw_florass_rougecam03": 1,
+        "t_mw_florass_rougecam04": 1,
+        "t_mw_rlvl_sunderedscarland+2": 1,
+        "t_mw_terrmineralpoolss_01": 4,
+        "t_mw_terrmineralpoolss_02": 2,
+        "t_mw_terrrockss_rock_02": 3,
+        "t_mw_terrrockss_rock_05": 4,
+        "t_mw_terrrockss_rock_06": 7,
+        "t_mw_terrrockss_rock_10": 1,
+        "t_mw_terrrockss_rock_25": 7,
+        "t_mw_terrrockss_rock_49": 10,
+        "t_mw_terrrockss_rock_51": 1,
+        "t_mw_terrrockss_rock_53": 5,
+        "t_mw_terrrockss_rock_550": 4,
+        "t_mw_terrrockss_rock_57": 3,
+        "t_mw_terrrockss_rock_58": 4,
+        "t_mw_terrrockss_rock_67": 5,
+        "t_mw_terrrocksss_rock_01": 1,
+        "t_mw_terrrocksss_rock_02": 1,
+        "t_mw_terrrocksss_rock_04": 1,
+        "t_mw_terrrocksss_rock_40": 1,
+        "t_mw_terrrocksss_rock_79": 1,
+        "t_mw_terrsulphurss_pool1024_01": 4,
+        "terrain_ma_rock22": 2,
+        "terrain_rock_ma_01": 2,
+        "terrain_rock_ma_04": 2,
+        "terrain_rock_ma_19": 1,
+        "terrain_rock_ma_25": 1,
+        "tr_m3_o_tonasa sadri": 1,
+        "tramaroot_01": 1,
+        "tramaroot_02": 1,
+        "volcano_steam": 6
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

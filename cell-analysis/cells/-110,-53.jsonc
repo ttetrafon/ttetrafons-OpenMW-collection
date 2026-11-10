@@ -1,0 +1,73 @@
+{
+  "cell": "-110,-53",
+  "plugins": {
+    "Cyr_Main.ESM": {
+      "added": {
+        "pc_m1_o_circil": 1,
+        "pc_m1_o_saddajo": 1,
+        "t_com_furn_bedroll_01": 2,
+        "t_cyr_cr_butterflyredfan": 2,
+        "t_cyr_cr_goldtantha": 1,
+        "t_cyr_cr_muskrat": 2,
+        "t_cyr_flora_aloevera01": 2,
+        "t_cyr_flora_aloevera02": 1,
+        "t_cyr_flora_dryadsad02": 1,
+        "t_cyr_flora_dryadsad03": 2,
+        "t_cyr_flora_ginseng01": 1,
+        "t_cyr_flora_goldenrod01": 4,
+        "t_cyr_flora_greenstsh01": 3,
+        "t_cyr_flora_ladysmnt01": 2,
+        "t_cyr_flora_spikerice01": 5,
+        "t_cyr_flora_spikerice02": 4,
+        "t_cyr_flora_spikerice03": 6,
+        "t_cyr_flora_stjahnswr01": 8,
+        "t_cyr_flora_thunglew01": 5,
+        "t_cyr_flora_tigerlill01": 7,
+        "t_cyr_flora_tigerlill02": 3,
+        "t_cyr_floragc_bush_01": 13,
+        "t_cyr_floragc_bush_02": 5,
+        "t_cyr_floragc_shrub_01": 27,
+        "t_cyr_floragc_shrub_02": 8,
+        "t_cyr_floragc_treelog_01": 1,
+        "t_cyr_floragc_treeolive_02": 1,
+        "t_cyr_floragc_treepalm_02": 2,
+        "t_cyr_floragc_treepalm_03": 1,
+        "t_cyr_floragc_treepalm_04": 1,
+        "t_cyr_terrrockgc_rock_02": 8,
+        "t_cyr_terrrockgc_rock_03": 15,
+        "t_cyr_terrrockgc_rock_04": 8,
+        "t_cyr_terrrockgc_rock_05": 4,
+        "t_cyr_terrrockgc_rock_06": 10,
+        "t_cyr_terrrockgc_rock_07": 5,
+        "t_cyr_terrrockgc_rock_08": 5,
+        "t_cyr_terrrockgc_rock_09": 10,
+        "t_cyr_terrrockgc_rock_10": 8,
+        "t_cyr_terrrockgc_rock_11": 4,
+        "t_cyr_terrrockgc_rock_12": 5,
+        "t_cyr_terrrockgc_rock_13": 5,
+        "t_cyr_terrrockgc_rock_14": 4,
+        "t_cyr_terrrockgc_rock_15": 6,
+        "t_cyr_terrrockgc_rock_16": 7,
+        "t_cyr_terrrockgc_rock_17": 3,
+        "t_cyr_terrrockgc_rock_19": 1,
+        "t_cyr_terrrockgc_rock_20": 1,
+        "t_cyr_terrrockgc_rock_21": 5,
+        "t_cyr_terrrockgc_rock_22": 3,
+        "t_cyr_terrrockgc_rock_23": 3,
+        "t_cyr_terrrockgc_rock_26": 1,
+        "t_cyr_terrrockgc_rock_28": 1,
+        "t_cyr_terrrockgc_rock_31": 1,
+        "t_glb_flora_fennel01": 4,
+        "t_imp_scrollcase_02": 1,
+        "t_imp_setgc_x_fireplace_01": 1,
+        "t_imp_setgc_x_stool_01": 2,
+        "t_imp_settent_tent_01": 2
+      }
+    },
+    "Wares_PC_traders.esp": {
+      "added": {
+        "aa_wares_healer": 1
+      }
+    }
+  }
+}

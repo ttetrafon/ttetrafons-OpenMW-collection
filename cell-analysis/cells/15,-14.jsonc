@@ -1,0 +1,20 @@
+{
+  "cell": "15,-14",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "gold_001": 4,
+        "xero_east_barrel": 1,
+        "xero_east_chest": 1,
+        "xero_ex_barnacles_05": 1,
+        "xero_marker": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_b_wisp_all": 1,
+        "aa_cr_i_butterlfy_ac": 1
+      }
+    }
+  }
+}

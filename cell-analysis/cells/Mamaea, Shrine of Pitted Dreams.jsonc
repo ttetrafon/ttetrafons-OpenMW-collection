@@ -1,0 +1,21 @@
+{
+  "cell": "Mamaea, Shrine of Pitted Dreams",
+  "name": "Mamaea, Shrine of Pitted Dreams",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_dreamers": 5,
+        "plx_dreamers_rare": 4
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_6_dream_list_1": 5,
+        "aa_cr_dreamer_c02": 1,
+        "aa_cr_dreamer_c03": 2,
+        "aa_cr_dreamer_f_c01": 1,
+        "aa_cr_dreamer_f_c03": 1
+      }
+    }
+  }
+}

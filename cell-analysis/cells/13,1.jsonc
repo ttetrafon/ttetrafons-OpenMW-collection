@@ -1,0 +1,22 @@
+{
+  "cell": "13,1",
+  "plugins": {
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_ex_tomb_spawn": 1,
+        "_aa_solo_tel_spawn": 1,
+        "aa_herd_ash_e": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_herd_ash_e": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_night_only_exterior_undea": 1
+      }
+    }
+  }
+}

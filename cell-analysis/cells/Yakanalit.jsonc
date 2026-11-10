@@ -1,0 +1,16 @@
+{
+  "cell": "Yakanalit",
+  "name": "Yakanalit",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_slavesittingam": 1
+      }
+    }
+  }
+}

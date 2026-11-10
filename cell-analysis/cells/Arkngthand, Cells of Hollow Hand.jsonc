@@ -1,0 +1,20 @@
+{
+  "cell": "Arkngthand, Cells of Hollow Hand",
+  "name": "Arkngthand, Cells of Hollow Hand",
+  "plugins": {
+    "NOD - Core.esm": {
+      "added": {
+        "nod_rv_dwemscr_helmet": 1,
+        "nod_rv_dwemscr_pauldron_left": 1,
+        "nod_rv_dwemscr_pauldron_right": 1
+      }
+    },
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_m_cook_dwe_pot_med": 1,
+        "aatl_p_shalsll": 1,
+        "aatl_rep_rusty": 2
+      }
+    }
+  }
+}

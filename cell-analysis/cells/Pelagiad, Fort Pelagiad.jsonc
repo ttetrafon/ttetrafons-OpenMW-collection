@@ -1,0 +1,163 @@
+{
+  "cell": "Pelagiad, Fort Pelagiad",
+  "name": "Pelagiad, Fort Pelagiad",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_impc_s_rb_imp": 1
+      }
+    },
+    "The Doors of Oblivion 1.4.esp": {
+      "added": {
+        "bs_sam_guevenne": 1,
+        "bs_sang_convert": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_healer": 1,
+        "aa_wares_smith_legion": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_smith_spawn": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_com_bed_01": 1,
+        "active_com_bunk_01": 1,
+        "gold_001": 1,
+        "gold_005": 1,
+        "gold_025": 1,
+        "imperial_chain_coif_helm": 1,
+        "imperial_chain_cuirass": 1,
+        "imperial_chain_greaves": 1,
+        "in_impsmall_door_01": 1,
+        "steel_cuirass": 1,
+        "steel_greaves": 1,
+        "steel_helm": 1
+      }
+    },
+    "Illy's Oh my Goddess.ESP": {
+      "modified": {
+        "ygfa": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_com_bed_01": 1,
+        "active_com_bunk_01": 1,
+        "gold_001": 1,
+        "gold_005": 1,
+        "gold_025": 1,
+        "imperial_chain_coif_helm": 1,
+        "imperial_chain_cuirass": 1,
+        "imperial_chain_greaves": 1,
+        "in_impsmall_door_01": 1,
+        "steel_cuirass": 1,
+        "steel_greaves": 1,
+        "steel_helm": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::11701",
+      "object": "in_impsmall_door_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::22861",
+      "object": "active_com_bed_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276776",
+      "object": "active_com_bunk_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276785",
+      "object": "gold_025",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276786",
+      "object": "gold_005",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::276787",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::465664",
+      "object": "steel_helm",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::465665",
+      "object": "steel_cuirass",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::465666",
+      "object": "steel_greaves",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::465667",
+      "object": "imperial_chain_coif_helm",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::465668",
+      "object": "imperial_chain_cuirass",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::465669",
+      "object": "imperial_chain_greaves",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

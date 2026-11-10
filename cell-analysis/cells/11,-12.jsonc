@@ -1,0 +1,91 @@
+{
+  "cell": "11,-12",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_ship_de_shack_plank_03_a": 5,
+        "_cor_ship_drowned_float": 2,
+        "_cor_ship_f_corpse_03": 1,
+        "_cor_ship_f_ship capt11": 1,
+        "_cor_ship_flotsam_02": 1,
+        "ab_ex_deshipwrbackfull": 1,
+        "ab_ex_deshipwrfrontside": 1,
+        "ab_ex_deshipwrsailtorn02": 1,
+        "ab_furn_barrel02broken02": 1,
+        "ab_furn_barrel02broken04": 1,
+        "ab_furn_barrel02plank": 1,
+        "ab_furn_cratebroken02": 4,
+        "ab_furn_cratebroken04": 1,
+        "ab_furn_cratebroken05": 2,
+        "ab_furn_cratebrokenside01": 1,
+        "ab_furn_cratebrokenside02": 2,
+        "ab_furn_cratebrokenwood01": 2,
+        "ab_furn_cratebrokenwood02": 5,
+        "ab_furn_urnbroken01": 3,
+        "ab_furn_urnbroken03": 1,
+        "ab_furn_urnopen": 1,
+        "ab_furn_urnshard03": 1,
+        "ab_furn_urnshell01": 1,
+        "ab_furn_urnshell02": 1,
+        "ab_misc_pursecoin": 1,
+        "ab_o_barrel01food": 1,
+        "ab_o_sackbentfood": 2,
+        "ab_o_urn01scrolls": 1,
+        "ancestor_ghost": 1,
+        "barrel_01_ingredients": 1,
+        "barrel_02_floater_ing": 1,
+        "com_chest_02_gshipwreck": 1,
+        "com_sack_gold_05": 1,
+        "crate_01_de_weaponsmult": 1,
+        "crate_01_empty": 2,
+        "crate_01_empty_float": 2,
+        "crate_01_moonsugar": 1,
+        "crate_01_skooma": 1,
+        "crate_02_empty": 1,
+        "ex_scrapwood02": 4,
+        "ex_scrapwood05": 3,
+        "gold_001": 9,
+        "key_gshipwreck": 1,
+        "misc_com_bottle_07_float": 1,
+        "misc_com_bottle_14_float": 2,
+        "misc_com_bucket_01_float": 1,
+        "skeleton archer": 3
+      },
+      "modified": {
+        "ex_de_ship_cabindoor": 1,
+        "ex_t_menhir_l_01": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_east_sack": 1,
+        "xero_marker": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_water": 7
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 7
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "modified": {
+        "ex_de_ship_cabindoor": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::225388",
+      "object": "ex_de_ship_cabindoor",
+      "plugins": [
+        "OAAB - Shipwrecks.esm",
+        "Uncharted Artifacts.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "cell": "Sennananit",
+  "name": "Sennananit",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_dreamers": 5,
+        "plx_dreamers_rare": 2,
+        "plx_dreamersbell": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_6_dream_list_1": 5,
+        "aa_cr_dreamer_c03": 1
+      },
+      "modified": {
+        "aa_cr_dreamer_01": 1,
+        "aa_cr_dreamer_c01": 1
+      }
+    }
+  }
+}

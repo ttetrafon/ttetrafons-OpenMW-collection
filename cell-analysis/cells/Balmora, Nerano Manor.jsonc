@@ -1,0 +1,26 @@
+{
+  "cell": "Balmora, Nerano Manor",
+  "name": "Balmora, Nerano Manor",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "in_hlaalu_door": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "in_hlaalu_door": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::64596",
+      "object": "in_hlaalu_door",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

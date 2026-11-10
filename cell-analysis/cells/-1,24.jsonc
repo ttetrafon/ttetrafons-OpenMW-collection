@@ -1,0 +1,25 @@
+{
+  "cell": "-1,24",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "contain_corpse21": 1,
+        "crate_01_empty": 1,
+        "ex_de_rowboat": 1,
+        "xero_furn_scrapwood02": 3,
+        "xero_marker": 1,
+        "xero_north_crate": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_water": 3
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 3
+      }
+    }
+  }
+}

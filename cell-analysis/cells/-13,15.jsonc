@@ -1,0 +1,60 @@
+{
+  "cell": "-13,15",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_ship_smug_long_05": 1,
+        "_cor_ship_smug_long_06": 1,
+        "ab_ex_deshipwrbackribs": 1,
+        "ab_ex_deshipwrfrontside": 1,
+        "ab_ex_deshipwrribr": 1,
+        "ab_furn_cratebroken02": 1,
+        "ab_furn_cratebroken04": 1,
+        "ab_furn_cratebroken05": 1,
+        "ab_furn_cratebrokenside01": 1,
+        "ab_furn_cratebrokenwood01": 1,
+        "ab_furn_cratebrokenwood02": 1,
+        "barrel_01_float_food20": 1,
+        "chest_small_01_goldr500": 1,
+        "chest_small_02_gems": 1,
+        "ex_barnacles_02": 2,
+        "ex_barnacles_03": 2,
+        "in_cave_plant10": 11,
+        "kollop_02_pearl": 1,
+        "terrain_rock_wg_15": 4,
+        "terrain_rock_wg_17": 1,
+        "terrain_rock_wg_18": 1
+      },
+      "modified": {
+        "_cor_ship_dreugh": 1,
+        "ex_barnacles_02": 2,
+        "ex_ship_stair": 1,
+        "furn_crate_lid_01": 1,
+        "furn_crate_open_01": 1,
+        "h2o_all_lev-2": 1,
+        "in_cave_plant10": 5
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_m16_bottle": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_marker": 1,
+        "xero_north_crate": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_water": 14
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 14
+      }
+    }
+  }
+}

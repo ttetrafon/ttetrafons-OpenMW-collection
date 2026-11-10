@@ -1,0 +1,25 @@
+{
+  "cell": "21,-8",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "blue coast ref 1024": 1,
+        "flora_kelp_01": 4,
+        "flora_kelp_02": 22,
+        "kollop_02_pearl": 1,
+        "t_mw_rlvl_innerseawater+0": 2,
+        "t_mw_rlvl_innerseawater-2": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "ex_de_rowboat": 1,
+        "xero_corpse10_water": 1,
+        "xero_east_crate": 1,
+        "xero_furn_crate_lid_01": 1,
+        "xero_furn_crate_open_01": 1,
+        "xero_marker": 1
+      }
+    }
+  }
+}

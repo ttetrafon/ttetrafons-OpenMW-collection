@@ -1,0 +1,52 @@
+{
+  "cell": "Raven Rock, Seler Favelnim's House",
+  "name": "Raven Rock, Seler Favelnim's House",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "ex_colony_door05": 1,
+        "furn_de_tapestry_07": 2,
+        "light_logpile_128": 1,
+        "sp_bm_colony_i_fireplace_01": 1,
+        "urn_02_food": 1
+      },
+      "modified": {
+        "bk_mixedunittactics": 1,
+        "com_basket_01_pos": 1,
+        "com_sack_02_pos": 1,
+        "furn_com_cauldron_02": 1,
+        "furn_de_tapestry_07": 2,
+        "misc_com_bottle_07": 1,
+        "misc_de_glass_yellow_01": 1,
+        "urn_02_food": 1
+      }
+    },
+    "GITD_WL_RR_Interiors.esp": {
+      "added": {
+        "gitd_in_colony_win_01": 2,
+        "gitd_in_colony_win_03": 5,
+        "gitd_in_colony_win_04": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "ex_colony_door05": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "ex_colony_door05": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::21428",
+      "object": "ex_colony_door05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

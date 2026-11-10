@@ -1,0 +1,31 @@
+{
+  "cell": "Solstheim, Geilir the Mumbling's Dwelling",
+  "name": "Solstheim, Geilir the Mumbling's Dwelling",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "bm_ic_door_pelt": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bm_ic_door_pelt": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bm_ic_door_pelt": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::18299",
+      "object": "bm_ic_door_pelt",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

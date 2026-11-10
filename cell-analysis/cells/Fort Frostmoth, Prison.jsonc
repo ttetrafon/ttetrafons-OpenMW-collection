@@ -1,0 +1,84 @@
+{
+  "cell": "Fort Frostmoth, Prison",
+  "name": "Fort Frostmoth, Prison",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "in_impsmall_door_jail_01": 6,
+        "in_impsmall_loaddoor_01": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "in_impsmall_door_jail_01": 6,
+        "in_impsmall_loaddoor_01": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::12584",
+      "object": "in_impsmall_loaddoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::12585",
+      "object": "in_impsmall_loaddoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::15814",
+      "object": "in_impsmall_door_jail_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::15815",
+      "object": "in_impsmall_door_jail_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::15816",
+      "object": "in_impsmall_door_jail_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::15817",
+      "object": "in_impsmall_door_jail_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::15818",
+      "object": "in_impsmall_door_jail_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::15819",
+      "object": "in_impsmall_door_jail_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

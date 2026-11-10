@@ -1,0 +1,35 @@
+{
+  "cell": "Derelict Shipwreck, Cabin",
+  "name": "Derelict Shipwreck, Cabin",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_ship_spellbook": 1,
+        "ab_furn_comtapestry01torn": 1,
+        "ab_furn_cratebroken03": 1,
+        "ab_furn_cratebrokenwood02": 1,
+        "ab_furn_derugbig09torn": 1,
+        "ab_furn_urnbroken01": 1,
+        "ab_furn_urnbroken02": 1,
+        "ab_fx_motesash": 1,
+        "ab_fx_scorch01": 2
+      },
+      "modified": {
+        "com_chest_02_l_weap_02": 1,
+        "de_r_chest_01_gold1": 1,
+        "furn_com_p_shelf_04": 1,
+        "furn_de_ex_stool_02": 1,
+        "furn_de_p_table_01": 1,
+        "in_de_ship_cabindoor": 1,
+        "misc_soulgem_grand": 1,
+        "potion_skooma_01": 2,
+        "sound_boat_creak00": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_m11_key": 1
+      }
+    }
+  }
+}

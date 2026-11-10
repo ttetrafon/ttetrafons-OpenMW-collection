@@ -1,0 +1,68 @@
+{
+  "cell": "27,1",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_de_railing_02": 3,
+        "ex_de_railing_03": 2,
+        "ex_t_bridge_lcurved": 1,
+        "ex_t_root_xl_02": 2,
+        "ex_t_root_xl_03": 1,
+        "flora_emp_parasol_02": 1,
+        "flora_grass_01": 7,
+        "flora_grass_02": 6,
+        "flora_grass_04": 12,
+        "flora_hackle-lo_01": 3,
+        "flora_hackle-lo_02": 3,
+        "flora_kelp_01": 14,
+        "flora_kelp_02": 7,
+        "flora_kelp_03": 14,
+        "flora_kelp_04": 7,
+        "flora_tree_gl_01": 2,
+        "flora_tree_gl_02": 1,
+        "flora_tree_gl_04": 1,
+        "flora_tree_gl_05": 1,
+        "flora_tree_gl_11": 1,
+        "flora_wickwheat_01": 2,
+        "flora_wickwheat_03": 13,
+        "flora_wickwheat_04": 27,
+        "furn_com_fence_01": 1,
+        "t_com_setmw_signwayaltbosara_01": 1,
+        "t_com_setmw_signwayfirewat_01": 1,
+        "t_com_setmw_signwayfortwindm_01": 1,
+        "t_com_setmw_signwayhelnim_01": 1,
+        "t_com_setmw_signwaynecrom_01": 1,
+        "t_com_setmw_signwayranyonru_01": 1,
+        "t_com_setmw_signwaytelmuthad_01": 1,
+        "t_com_setmw_signwaytelonoria_01": 1,
+        "t_glb_sound_water_01": 1,
+        "t_mw_rlvl_helnimfieldsland+2": 1,
+        "terrain_rock_ac_04": 2,
+        "terrain_rock_ac_08": 2,
+        "terrain_rock_ac_12": 1,
+        "terrain_rock_gl_01": 1,
+        "terrain_rock_gl_02": 1,
+        "terrain_rock_gl_03": 2,
+        "terrain_rock_gl_04": 6,
+        "terrain_rock_gl_05": 1,
+        "terrain_rock_gl_06": 2,
+        "terrain_rock_gl_07": 2,
+        "terrain_rock_gl_08": 7,
+        "terrain_rock_gl_09": 2,
+        "terrain_rock_gl_10": 3,
+        "terrain_rock_gl_11": 6,
+        "terrain_rock_gl_12": 1,
+        "terrain_rock_wg_17": 2,
+        "terrain_rocks_gl_01": 14,
+        "terrain_rocks_gl_02": 1,
+        "terrain_rocks_gl_03": 2,
+        "terrain_rocks_gl_04": 4
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_tel_spawn": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "cell": "Prelude Shipwreck, Cabin",
+  "name": "Prelude Shipwreck, Cabin",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "ab_furn_cratebroken04": 1,
+        "ab_furn_cratebrokenwood01": 1,
+        "ab_furn_cratebrokenwood02": 3,
+        "ab_furn_derug02torn": 1,
+        "ab_misc_bkruinedoctavo01": 1,
+        "ab_misc_bkruinedquarto": 1,
+        "furn_com_p_shelf_03": 2,
+        "misc_clothbolt_01": 1,
+        "misc_clothbolt_02": 1,
+        "misc_com_bottle_08": 1,
+        "misc_com_wood_bowl_01": 1,
+        "potion_skooma_01": 1
+      },
+      "modified": {
+        "furn_com_pm_chair_02": 1,
+        "furn_de_bed_28": 1,
+        "in_de_ship_cabindoor": 1,
+        "sound_boat_creak00": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "modified": {
+        "in_de_ship_cabindoor": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::411036",
+      "object": "in_de_ship_cabindoor",
+      "plugins": [
+        "OAAB - Shipwrecks.esm",
+        "Uncharted Artifacts.esp"
+      ]
+    }
+  ]
+}

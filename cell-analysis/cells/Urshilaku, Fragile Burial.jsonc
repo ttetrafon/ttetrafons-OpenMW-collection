@@ -1,0 +1,18 @@
+{
+  "cell": "Urshilaku, Fragile Burial",
+  "name": "Urshilaku, Fragile Burial",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "ex_t_rock_coastal_02": 1,
+        "plx_mummy_05": 1,
+        "worm lord": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "modified": {
+        "aa_cr_skeleton_worm": 1
+      }
+    }
+  }
+}

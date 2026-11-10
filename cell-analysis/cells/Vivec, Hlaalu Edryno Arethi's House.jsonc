@@ -1,0 +1,26 @@
+{
+  "cell": "Vivec, Hlaalu Edryno Arethi's House",
+  "name": "Vivec, Hlaalu Edryno Arethi's House",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_com_bed_04": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_com_bed_04": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::440131",
+      "object": "active_com_bed_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "cell": "31,-10",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "flora_bittergreen_01": 2,
+        "flora_bittergreen_02": 1,
+        "flora_bittergreen_03": 1,
+        "flora_bittergreen_04": 1,
+        "flora_bittergreen_05": 1,
+        "flora_bittergreen_pod_01": 1,
+        "flora_chokeweed_02": 12,
+        "flora_grass_01": 3,
+        "flora_grass_02": 2,
+        "flora_grass_03": 2,
+        "flora_grass_04": 1,
+        "flora_kreshweed_01": 10,
+        "flora_kreshweed_02": 2,
+        "flora_kreshweed_03": 4,
+        "flora_roobrush_02": 1,
+        "flora_root_wg_01": 1,
+        "flora_root_wg_02": 2,
+        "flora_root_wg_03": 1,
+        "flora_root_wg_05": 1,
+        "flora_root_wg_06": 2,
+        "flora_root_wg_07": 1,
+        "flora_stoneflower_01": 11,
+        "flora_stoneflower_02": 13,
+        "flora_tree_wg_01": 2,
+        "flora_tree_wg_02": 2,
+        "flora_tree_wg_03": 1,
+        "flora_tree_wg_04": 1,
+        "flora_tree_wg_05": 2,
+        "flora_tree_wg_06": 3,
+        "flora_tree_wg_07": 5,
+        "flora_tree_wg_08": 2,
+        "flora_treestump_wg_01": 1,
+        "t_mw_rlvl_mephalanvalesland-2": 1,
+        "terrain_rock_wg_01": 6,
+        "terrain_rock_wg_02": 4,
+        "terrain_rock_wg_05": 4,
+        "terrain_rock_wg_07": 4,
+        "terrain_rock_wg_08": 5,
+        "terrain_rock_wg_09": 2,
+        "terrain_rock_wg_10": 7,
+        "terrain_rock_wg_12": 5,
+        "terrain_rock_wg_14": 6,
+        "terrain_rock_wg_15": 5,
+        "terrain_rock_wg_16": 2,
+        "terrain_rock_wg_17": 5,
+        "terrain_rock_wg_18": 3,
+        "terrain_rocks_gl_03": 1,
+        "terrain_rocks_wg_01": 29,
+        "terrain_rocks_wg_02": 2,
+        "terrain_rocks_wg_03": 23,
+        "terrain_rocks_wg_04": 1
+      }
+    },
+    "DM_TR_AkaMoreIndoril.esp": {
+      "added": {
+        "t_mw_terrrockwg_mtpeak_01": 1
+      }
+    }
+  }
+}

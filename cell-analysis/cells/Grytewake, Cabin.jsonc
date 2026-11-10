@@ -1,0 +1,56 @@
+{
+  "cell": "Grytewake, Cabin",
+  "name": "Grytewake, Cabin",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_com_bed_02": 1,
+        "bookskill_medium armor3": 1,
+        "light_com_candle_03": 1,
+        "light_com_candle_10": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_com_bed_02": 1,
+        "bookskill_medium armor3": 1,
+        "light_com_candle_03": 1,
+        "light_com_candle_10": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::299225",
+      "object": "light_com_candle_10",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299226",
+      "object": "light_com_candle_03",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299228",
+      "object": "active_com_bed_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483393",
+      "object": "bookskill_medium armor3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

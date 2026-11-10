@@ -1,0 +1,19 @@
+{
+  "cell": "Ancient Shipwreck, Upper Level",
+  "name": "Ancient Shipwreck, Upper Level",
+  "plugins": {
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_map_08": 1
+      },
+      "modified": {
+        "misc_uni_pillow_01": 1
+      }
+    },
+    "OAAB - Shipwrecks.esm": {
+      "modified": {
+        "ex_de_ship_trapdoor": 1
+      }
+    }
+  }
+}

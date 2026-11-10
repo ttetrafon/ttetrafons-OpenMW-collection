@@ -1,0 +1,26 @@
+{
+  "cell": "Ald-ruhn, Galthragoth's House",
+  "name": "Ald-ruhn, Galthragoth's House",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "light_de_candle_red_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "light_de_candle_red_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::20127",
+      "object": "light_de_candle_red_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

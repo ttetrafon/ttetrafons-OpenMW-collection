@@ -1,0 +1,47 @@
+{
+  "cell": "36,-28",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_de_railing_01": 4,
+        "ex_de_railing_02": 2,
+        "ex_de_railing_03": 3,
+        "flora_bush_01": 1,
+        "flora_corkbulb": 2,
+        "flora_kreshweed_01": 1,
+        "flora_sedge_01": 1,
+        "flora_stoneflower_01": 1,
+        "flora_stoneflower_02": 1,
+        "flora_tree_gl_02": 2,
+        "flora_tree_gl_03": 1,
+        "flora_tree_gl_06": 1,
+        "flora_tree_gl_07": 2,
+        "flora_tree_gl_10": 1,
+        "flora_tree_mh_01": 5,
+        "flora_tree_mh_02": 7,
+        "t_mw_rlvl_nedothrilland-2": 1,
+        "t_mw_rstat_wildernessd05ap": 1,
+        "terrain_rock_wg_01": 2,
+        "terrain_rock_wg_06": 1,
+        "terrain_rock_wg_07": 1,
+        "terrain_rock_wg_08": 1,
+        "terrain_rock_wg_09": 3,
+        "terrain_rock_wg_10": 5,
+        "terrain_rock_wg_12": 5,
+        "terrain_rock_wg_15": 1,
+        "terrain_rock_wg_16": 2,
+        "terrain_rock_wg_17": 2,
+        "terrain_rock_wg_18": 2,
+        "terrain_rocks_wg_01": 2,
+        "terrain_rocks_wg_02": 6,
+        "terrain_rocks_wg_03": 2,
+        "terrain_rocks_wg_04": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_indo_spawn": 1
+      }
+    }
+  }
+}

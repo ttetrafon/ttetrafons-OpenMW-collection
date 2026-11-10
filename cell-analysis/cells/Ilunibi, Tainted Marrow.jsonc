@@ -1,0 +1,18 @@
+{
+  "cell": "Ilunibi, Tainted Marrow",
+  "name": "Ilunibi, Tainted Marrow",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_6th_house_difficult": 1,
+        "plx_dreamers": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_6_dream_list_1": 1,
+        "dreamer_06": 1
+      }
+    }
+  }
+}

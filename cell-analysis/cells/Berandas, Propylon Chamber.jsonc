@@ -1,0 +1,16 @@
+{
+  "cell": "Berandas, Propylon Chamber",
+  "name": "Berandas, Propylon Chamber",
+  "plugins": {
+    "ForsakenArsenal.omwaddon": {
+      "added": {
+        "madovan": 1
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_ff_deg_scroll05": 1
+      }
+    }
+  }
+}

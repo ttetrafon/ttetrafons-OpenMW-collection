@@ -1,0 +1,73 @@
+{
+  "cell": "-8,-24",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "contain_trama_shrub_02": 1,
+        "contain_trama_shrub_03": 1,
+        "contain_trama_shrub_04": 1,
+        "ex_dae_door_load_oval": 2,
+        "ex_dae_ruin_01": 1,
+        "ex_dae_ruin_02": 1,
+        "ex_dae_ruin_04_skew_01": 1,
+        "ex_dae_ruin_entry.max": 2,
+        "ex_dae_wall_512_02": 1,
+        "ex_dae_wall_512_05": 2,
+        "ex_dae_wall_512_06": 2,
+        "ex_dae_wall_512_08": 1,
+        "ex_dae_wall_512_09": 1,
+        "flora_ash_grass_b_01": 10,
+        "flora_ash_grass_r_01": 6,
+        "flora_ash_grass_w_01": 7,
+        "flora_ash_log_01": 1,
+        "flora_ash_log_02": 1,
+        "flora_ash_log_03": 1,
+        "flora_ashtree_02": 4,
+        "flora_ashtree_03": 1,
+        "flora_ashtree_04": 6,
+        "flora_ashtree_05": 9,
+        "flora_ashtree_06": 2,
+        "flora_ashtree_07": 1,
+        "flora_rm_scathecraw_01": 1,
+        "flora_rm_scathecraw_02": 2,
+        "t_mw_lvl_daedra+0": 2,
+        "t_mw_terrrockrm_rock_04": 1,
+        "terrain_ashland_rock_01": 2,
+        "terrain_ashland_rock_02": 1,
+        "terrain_ashland_rock_03": 1,
+        "terrain_ashland_rock_04": 6,
+        "terrain_ashland_rock_05": 3,
+        "terrain_ashland_rock_07": 4,
+        "terrain_ashland_rock_08": 7,
+        "terrain_ashland_rock_09": 3,
+        "terrain_ashland_rock_10": 5,
+        "terrain_ashland_rock_11": 10,
+        "terrain_ashland_rock_12": 4,
+        "terrain_ashland_rock_13": 14,
+        "terrain_ashland_rock_14": 8,
+        "terrain_ashland_rock_15": 2,
+        "terrain_ashland_rock_16": 2,
+        "terrain_ashmire_01": 1,
+        "terrain_cairn_al_01": 1,
+        "terrain_cairn_al_02": 1,
+        "terrain_cairn_al_03": 1,
+        "terrain_rock_rm_08": 1,
+        "terrain_rock_rm_10": 1,
+        "terrain_rock_rm_11": 2,
+        "terrain_rock_rm_15": 5,
+        "terrain_rock_rm_17": 5,
+        "terrain_rock_rm_18": 2,
+        "terrain_rock_rm_19": 3,
+        "terrain_rock_rm_20": 3,
+        "terrain_rock_rm_24": 1,
+        "tramaroot_05": 1,
+        "tramaroot_06": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_ex_daedric_ruins_spawn": 1
+      }
+    }
+  }
+}

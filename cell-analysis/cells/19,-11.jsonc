@@ -1,0 +1,21 @@
+{
+  "cell": "19,-11",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_t_menhir_l_01": 5
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "misc_com_redware_plate": 1,
+        "misc_com_redware_vase": 1,
+        "misc_de_pot_redware_01": 1,
+        "xero_east_crate": 1,
+        "xero_furn_crate_lid_01": 1,
+        "xero_furn_crate_open_01": 1,
+        "xero_marker": 1
+      }
+    }
+  }
+}

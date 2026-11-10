@@ -1,0 +1,134 @@
+{
+  "cell": "Hla Oad, Fatleg's Drop Off",
+  "name": "Hla Oad, Fatleg's Drop Off",
+  "plugins": {
+    "NOD - Core.esm": {
+      "added": {
+        "_rv_ulain": 1,
+        "_rv_ulain_chest": 1,
+        "nod_hat_crab_vd_mudcrabhat": 1,
+        "nod_rm_mcrabshield01": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_pawn": 1,
+        "aa_wares_smith": 1,
+        "aa_wares_thief": 1,
+        "aa_wares_trader": 2
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "crate_01_armor_steel": 1,
+        "crate_01_steel_armor": 1,
+        "crate_01_steel_weapons": 1,
+        "gold_001": 5,
+        "in_de_shack_door": 1,
+        "in_de_shack_trapdoor": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "modified": {
+        "in_mudcave_15": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "modified": {
+        "r0_h2o_all_lev+2_int": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "crate_01_armor_steel": 1,
+        "crate_01_steel_armor": 1,
+        "crate_01_steel_weapons": 1,
+        "gold_001": 5,
+        "in_de_shack_door": 1,
+        "in_de_shack_trapdoor": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::113689",
+      "object": "in_de_shack_trapdoor",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::118798",
+      "object": "in_de_shack_door",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::118836",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::118837",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::118838",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::118839",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::118840",
+      "object": "gold_001",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::118875",
+      "object": "crate_01_steel_armor",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::118876",
+      "object": "crate_01_armor_steel",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::118878",
+      "object": "crate_01_steel_weapons",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "cell": "-10,10",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_impforts": 1,
+        "gvrm_mercwand_orc": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_map05_trigger": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_hiddencache": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_wg": 1,
+        "aa_cr_night_only_exterior_undea": 1
+      }
+    }
+  }
+}

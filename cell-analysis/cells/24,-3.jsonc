@@ -1,0 +1,66 @@
+{
+  "cell": "24,-3",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_de_railing_02": 2,
+        "ex_de_railing_03": 1,
+        "flora_emp_parasol_01": 1,
+        "flora_emp_parasol_02": 1,
+        "flora_kreshweed_01": 1,
+        "flora_kreshweed_02": 1,
+        "flora_kreshweed_03": 1,
+        "flora_t_podbud_01": 1,
+        "flora_t_podbud_02": 2,
+        "flora_t_podbud_03": 1,
+        "flora_t_podbud_04": 1,
+        "flora_tree_ac_01": 1,
+        "flora_tree_ac_02": 1,
+        "flora_tree_ac_03": 1,
+        "flora_tree_gl_02": 2,
+        "flora_tree_gl_05": 2,
+        "flora_tree_gl_06": 5,
+        "flora_tree_gl_07": 1,
+        "flora_tree_gl_09": 2,
+        "flora_tree_gl_11": 1,
+        "furn_com_fence_01": 1,
+        "t_com_setmw_signakamora_01": 1,
+        "t_com_setmw_signwayaltbosara_01": 1,
+        "t_com_setmw_signwayammar_01": 1,
+        "t_com_setmw_signwaydarvon_01": 1,
+        "t_com_setmw_signwayhelnim_01": 1,
+        "t_com_setmw_signwaynecrom_01": 1,
+        "t_com_setmw_signwaytelmuthad_01": 1,
+        "t_com_setmw_signwaytelonoria_01": 1,
+        "t_mw_cr_guar": 3,
+        "t_mw_lvl_beetles+0": 1,
+        "t_mw_lvl_beetles+2": 1,
+        "t_mw_rlvl_helnimfieldsland+2": 1,
+        "terrain_rock_ac_02": 1,
+        "terrain_rock_ac_03": 1,
+        "terrain_rock_ac_04": 1,
+        "terrain_rock_ac_05": 2,
+        "terrain_rock_ac_06": 4,
+        "terrain_rock_ac_07": 2,
+        "terrain_rock_ac_08": 2,
+        "terrain_rock_ac_09": 2,
+        "terrain_rock_ac_10": 1,
+        "terrain_rock_ac_12": 1,
+        "terrain_rock_gl_02": 1,
+        "terrain_rock_gl_07": 2,
+        "terrain_rock_gl_08": 10,
+        "terrain_rock_gl_09": 1,
+        "terrain_rock_gl_10": 1,
+        "terrain_rock_gl_11": 2,
+        "terrain_rock_gl_12": 8,
+        "terrain_rocks_gl_01": 20,
+        "terrain_rocks_gl_03": 11
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_tel_spawn": 1
+      }
+    }
+  }
+}

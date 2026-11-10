@@ -1,0 +1,16 @@
+{
+  "cell": "Unexplored Shipwreck, Lower Level",
+  "name": "Unexplored Shipwreck, Lower Level",
+  "plugins": {
+    "Adamantium Armor Naturalized.esp": {
+      "added": {
+        "adamantium_helm": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_m01_chest": 1
+      }
+    }
+  }
+}

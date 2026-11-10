@@ -1,0 +1,87 @@
+{
+  "cell": "Port Telvannis, The Lost Crab Tavern",
+  "name": "Port Telvannis, The Lost Crab Tavern",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "com_basket_01_chpfood5": 1,
+        "com_sack_01_chpfood5": 2,
+        "com_sack_01_saltrice_10": 1,
+        "com_sack_02_ingred": 1,
+        "flora_bc_vine_02": 1,
+        "flora_bc_vine_03": 7,
+        "flora_bc_vine_05": 1,
+        "flora_bc_vine_06": 7,
+        "flora_bc_vine_07": 6,
+        "furn_de_bar_01": 3,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_04": 1,
+        "furn_de_bar_06": 1,
+        "furn_de_p_chair_02": 5,
+        "furn_de_p_stool_02": 5,
+        "furn_de_p_table_01": 1,
+        "furn_de_p_table_02": 1,
+        "furn_de_p_table_05": 2,
+        "furn_de_rug_big_06": 2,
+        "furn_de_tapestry_12": 2,
+        "in_t_doorjamb_hall_small": 1,
+        "in_t_housepod_pole_02": 2,
+        "in_t_housepod_pole_03": 1,
+        "in_t_housepod_pole_04": 1,
+        "in_t_manor01_cap_topright": 1,
+        "in_t_manor01_entry_left": 1,
+        "in_t_manor_01": 1,
+        "in_t_manor_floor_01": 1,
+        "in_t_railing_pole": 1,
+        "in_t_railing_pole_rails": 5,
+        "in_t_s_plain_door": 1,
+        "in_t_stairs_strt_256": 1,
+        "light_de_candle_16": 1,
+        "light_de_candle_16_64": 2,
+        "light_de_candle_20": 1,
+        "light_de_paper_lantern_04_128": 1,
+        "misc_com_bottle_03": 1,
+        "misc_com_bottle_05": 1,
+        "misc_com_bottle_07_float": 1,
+        "misc_com_bottle_08": 1,
+        "misc_com_bottle_10": 1,
+        "misc_com_bottle_11": 1,
+        "misc_com_bottle_13": 1,
+        "misc_com_redware_flask": 3,
+        "misc_com_tankard_01": 12,
+        "misc_com_wood_fork": 3,
+        "misc_com_wood_knife": 3,
+        "misc_de_goblet_01": 3,
+        "misc_de_goblet_04": 3,
+        "misc_de_goblet_09": 3,
+        "northmarker": 1,
+        "t_de_furn_tapestry_02": 1,
+        "t_de_furn_tapestry_05": 1,
+        "t_de_settelv_f_shelf_01": 2,
+        "t_de_stonewarebowl_02": 1,
+        "t_de_stonewarepitcher_01": 2,
+        "t_de_stonewareplate_03": 3,
+        "t_de_stonewareplate_05": 3,
+        "t_mwcom_var_bss1food": 1,
+        "t_mwde_furn_cardhortb01": 1,
+        "tr_m1_aldyni_veran": 1,
+        "tr_m1_hizam_aneroth": 1,
+        "tr_m1_liam": 1,
+        "tr_m1_nervul_dresan": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_baker": 1,
+        "aa_wares_publican": 1
+      }
+    },
+    "RepopulatedMainland.ESP": {
+      "added": {
+        "dun_s+e_gahsad_wetstav_trcpy": 1,
+        "furn_de_p_stool_02": 2,
+        "gvrm_tlv_s+e_com_dun_trcpy": 1
+      }
+    }
+  }
+}

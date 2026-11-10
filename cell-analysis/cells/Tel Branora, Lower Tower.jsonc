@@ -1,0 +1,26 @@
+{
+  "cell": "Tel Branora, Lower Tower",
+  "name": "Tel Branora, Lower Tower",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "key_abebaalslaves_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "key_abebaalslaves_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::467999",
+      "object": "key_abebaalslaves_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

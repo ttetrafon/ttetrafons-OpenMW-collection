@@ -1,0 +1,22 @@
+{
+  "cell": "Yakin, Shrine",
+  "name": "Yakin, Shrine",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_dreamers": 3,
+        "plx_dreamers_rare": 1,
+        "plx_dreamersbell": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_6_dream_list_1": 3
+      },
+      "modified": {
+        "aa_cr_dreamer_c01": 1,
+        "ingred_6th_corprusmeat_07": 3
+      }
+    }
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "cell": "Mournhold, Plaza Brindisi Dorom",
+  "name": "Mournhold, Plaza Brindisi Dorom",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_mhcit_dun": 8,
+        "gvrm_tem_g_ho_dun_m_01": 2
+      }
+    },
+    "Immersive Mournhold.esp": {
+      "added": {
+        "ab_fx_watercircle1024": 2,
+        "act_black_load01": 2,
+        "act_flora_tree_mh_01": 8,
+        "act_flora_tree_mh_02": 2,
+        "act_flora_treedead_mh_01": 8,
+        "act_flora_treedead_mh_02": 2,
+        "ex_mh_lantern_post": 10,
+        "ex_mh_palace_tower": 2,
+        "ex_mh_palace_tower02": 1,
+        "ex_mh_pav_tower": 1,
+        "ex_mh_temple": 1,
+        "flora_bc_lilypad": 56,
+        "flora_bc_lilypad_02": 162,
+        "flora_bc_lilypad_03": 56,
+        "flora_bc_moss_01": 1,
+        "flora_bc_moss_02": 2,
+        "flora_bc_moss_03": 3,
+        "flora_bc_moss_04": 5,
+        "flora_bc_moss_05": 1,
+        "flora_bc_moss_07": 1,
+        "flora_bc_moss_08": 4,
+        "flora_bc_moss_11": 1,
+        "flora_bc_moss_12": 1,
+        "flora_bc_moss_13": 2,
+        "flora_bc_moss_14": 1,
+        "flora_bc_moss_15": 1,
+        "flora_bc_moss_16": 1,
+        "flora_bc_moss_19": 1,
+        "flora_bc_moss_20": 1,
+        "flora_grass_05": 68,
+        "flora_grass_06": 78,
+        "flora_ivy_01": 18,
+        "flora_ivy_02": 27,
+        "flora_plant_01": 3,
+        "flora_plant_02": 44,
+        "flora_plant_03": 17,
+        "flora_plant_04": 19,
+        "flora_plant_05": 5,
+        "flora_plant_08": 6,
+        "flora_sedge_01": 2,
+        "furn_banner_hanger_01": 6,
+        "furn_banner_helseth_01": 2,
+        "furn_banner_imp_01": 4,
+        "furn_planter_mh_01": 2,
+        "light_de_lantern_03_sway": 10,
+        "light_mh_streetlamp_01_750": 7,
+        "mh_tree03": 11,
+        "mh_tree10": 5,
+        "ordinator_mournhold_now": 8,
+        "rp_mh_rock_grass_01": 5,
+        "rp_t_glb_fauna_glowbug_02": 1,
+        "rp_t_glb_fauna_glowbug_04": 1,
+        "rp_t_glb_fauna_glowbugs_01": 1,
+        "rp_t_glb_fauna_glowbugs_03": 1,
+        "sound_mournenv1": 4,
+        "t_de_setind_x_bridge_02": 2,
+        "t_de_var_swimlantblue01fl_177": 1,
+        "t_de_var_swimlantcyan01fl_177": 2,
+        "t_de_var_swimlantgreen01fl_177": 1,
+        "t_de_var_swimlantorange01fl_177": 2,
+        "t_de_var_swimlantpurple01fl_177": 2,
+        "t_de_var_swimlantred01fl_177": 1,
+        "t_de_var_swimlantyellow01fl_177": 1,
+        "t_glb_flora_wtlilywht01": 18,
+        "terrain_rock_bc_07": 3,
+        "terrain_rock_bc_08": 2,
+        "terrain_rock_bc_09": 2
+      },
+      "modified": {
+        "act_flora_tree_mh_01": 2,
+        "act_flora_tree_mh_02": 1,
+        "act_flora_treedead_mh_01": 2,
+        "act_flora_treedead_mh_02": 1,
+        "editormarker_box_02": 1,
+        "ex_mh_pav_gate_door": 2,
+        "flora_grass_06": 8,
+        "flora_plant_01": 2,
+        "flora_plant_02": 1,
+        "flora_plant_04": 2,
+        "flora_plant_05": 1,
+        "flora_plant_06": 1,
+        "flora_plant_08": 1,
+        "flora_sedge_01": 1,
+        "furn_banner_hanger_01": 1,
+        "furn_banner_helseth_01": 1,
+        "light_mh_streetlamp_01_750": 1,
+        "sound_mournenv1": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_mh": 3
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "flora_plant_01": 4,
+        "flora_plant_02": 2,
+        "flora_plant_04": 8,
+        "flora_plant_05": 4,
+        "flora_plant_06": 2,
+        "flora_plant_08": 4,
+        "flora_sedge_01": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "flora_plant_01": 4,
+        "flora_plant_02": 2,
+        "flora_plant_04": 8,
+        "flora_plant_05": 4,
+        "flora_plant_06": 2,
+        "flora_plant_08": 4,
+        "flora_sedge_01": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "tribunal::24464",
+      "object": "flora_plant_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24465",
+      "object": "flora_plant_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24475",
+      "object": "flora_plant_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24476",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24477",
+      "object": "flora_plant_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24478",
+      "object": "flora_plant_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24479",
+      "object": "flora_sedge_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24480",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24481",
+      "object": "flora_plant_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24482",
+      "object": "flora_plant_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24483",
+      "object": "flora_plant_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24484",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24485",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24513",
+      "object": "flora_plant_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24521",
+      "object": "flora_sedge_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24522",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24523",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24524",
+      "object": "flora_plant_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24525",
+      "object": "flora_plant_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24526",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24528",
+      "object": "flora_plant_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Immersive Mournhold.esp",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24529",
+      "object": "flora_plant_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24530",
+      "object": "flora_plant_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24531",
+      "object": "flora_plant_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24532",
+      "object": "flora_plant_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "tribunal::24533",
+      "object": "flora_plant_08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

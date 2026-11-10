@@ -1,0 +1,44 @@
+{
+  "cell": "24,4",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_de_railing_02": 2,
+        "ex_de_railing_03": 1,
+        "ex_t_menhir_l_01": 25,
+        "ex_t_rock_coastal_02": 3,
+        "flora_emp_parasol_01": 1,
+        "flora_emp_parasol_03": 3,
+        "flora_kreshweed_01": 5,
+        "flora_muckspunge_01": 2,
+        "flora_muckspunge_03": 1,
+        "flora_muckspunge_05": 3,
+        "flora_muckspunge_06": 1,
+        "flora_saltrice_01": 3,
+        "flora_saltrice_02": 2,
+        "flora_t_podbud_01": 1,
+        "flora_t_podbud_02": 2,
+        "flora_t_podbud_04": 1,
+        "flora_tree_ac_02": 1,
+        "flora_tree_ac_03": 2,
+        "flora_tree_ac_04": 1,
+        "t_mw_fauna_eyestarcnt01": 2,
+        "t_mw_rlvl_boethiahspinecoast+0": 3,
+        "t_mw_rlvl_dagonurul+2": 2,
+        "terrain_rock_ac_01": 2,
+        "terrain_rock_ac_02": 2,
+        "terrain_rock_ac_03": 2,
+        "terrain_rock_ac_07": 2,
+        "terrain_rock_ac_09": 5,
+        "terrain_rock_ac_10": 4,
+        "terrain_rock_ac_11": 1,
+        "terrain_rock_ac_12": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

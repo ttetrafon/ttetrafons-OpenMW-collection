@@ -1,0 +1,247 @@
+{
+  "cell": "-2,6",
+  "name": "Ald-ruhn",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_aldruhncit_m": 4,
+        "gvrm_aldruhnwand_dun": 3,
+        "gvrm_am_marker": 2,
+        "gvrm_bcom_am_marker": 1,
+        "gvrm_mage": 1,
+        "gvrm_rd_ch_dun": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "ab01ambeggarbowl5": 1,
+        "am_beggar5": 1,
+        "am_beggareater1": 1,
+        "br_leveled_brigants": 2
+      }
+    },
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_npc_de_merc_dorvyn": 1
+      }
+    },
+    "Adamantium Armor Naturalized.esp": {
+      "added": {
+        "adamantium_bracer_left": 1,
+        "adamantium_bracer_right": 1,
+        "adamantium_pauldron_left": 1,
+        "adamantium_pauldron_right": 1,
+        "de_p_chest_02_meldor": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_smith": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_hiddencache": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_mugger_spawn": 1,
+        "_aa_n_all_nightlife_spawn": 7,
+        "_aa_telemage_spawn": 4
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_redoran guard_ran": 7
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "com_basket_01_empty": 1,
+        "com_basket_01_ingredien": 1,
+        "crate_01_eggs": 1,
+        "crate_01_food": 1,
+        "crate_01_food_misc01": 1,
+        "crate_02_empty": 1,
+        "crate_02_food": 2,
+        "ex_redoran_hut_01_a": 2,
+        "urn_01_food": 1,
+        "urn_01_ingred": 1,
+        "urn_02": 1,
+        "urn_03_ingred": 1,
+        "urn_04_food": 1,
+        "urn_04_ingred": 1,
+        "urn_05_food": 1
+      }
+    },
+    "Enchanted Batons.ESP": {
+      "modified": {
+        "com_chest_02_v_armor04": 1,
+        "crate_01_dandera": 1
+      }
+    },
+    "D2Items.esp": {
+      "modified": {
+        "_d2_bonemold_gah-julan_helm": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "com_basket_01_empty": 1,
+        "com_basket_01_ingredien": 1,
+        "crate_01_eggs": 1,
+        "crate_01_food": 1,
+        "crate_01_food_misc01": 1,
+        "crate_02_empty": 1,
+        "crate_02_food": 2,
+        "ex_redoran_hut_01_a": 2,
+        "urn_01_food": 1,
+        "urn_01_ingred": 1,
+        "urn_02": 1,
+        "urn_03_ingred": 1,
+        "urn_04_food": 1,
+        "urn_04_ingred": 1,
+        "urn_05_food": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::4618",
+      "object": "ex_redoran_hut_01_a",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::4609",
+      "object": "ex_redoran_hut_01_a",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::49262",
+      "object": "crate_02_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::49263",
+      "object": "crate_01_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::49264",
+      "object": "crate_02_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::49265",
+      "object": "crate_01_food_misc01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::49266",
+      "object": "crate_01_eggs",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::49267",
+      "object": "crate_02_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::49269",
+      "object": "urn_01_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::49270",
+      "object": "urn_04_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::49271",
+      "object": "urn_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::49273",
+      "object": "com_basket_01_ingredien",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::49274",
+      "object": "com_basket_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::49275",
+      "object": "urn_05_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::49276",
+      "object": "urn_03_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::49272",
+      "object": "urn_01_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::49268",
+      "object": "urn_04_ingred",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

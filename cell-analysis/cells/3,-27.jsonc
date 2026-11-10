@@ -1,0 +1,70 @@
+{
+  "cell": "3,-27",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_cave_door_01": 1,
+        "ex_coiled_rope": 2,
+        "ex_de_docks_gate": 2,
+        "ex_de_railing_01": 4,
+        "ex_de_railing_02": 4,
+        "ex_de_railing_03": 2,
+        "ex_hlaalu_b_04": 1,
+        "ex_hlaalu_buttress_04": 4,
+        "ex_hlaalu_dsteps_03": 2,
+        "ex_hlaalu_win_01": 1,
+        "furn_de_ex_stool_02": 1,
+        "furn_de_ex_table_02": 1,
+        "furn_de_lightpost_01": 1,
+        "light_com_lantern_01_128": 1,
+        "light_de_lantern_03_sway": 3,
+        "misc_com_broom_01": 1,
+        "misc_com_bucket_01": 1,
+        "t_com_hammer_repair_01": 1,
+        "t_com_nails_01": 1,
+        "t_com_var_cratebroken_02": 1,
+        "t_de_sethla_x_bridge_01": 16,
+        "t_mw_cr_guar": 1,
+        "t_mw_cr_kwamaforager": 1,
+        "t_mw_cr_slaugherfishsmall": 1,
+        "t_mw_flora_treeaistump_02": 1,
+        "t_mw_floraat_stump_02": 1,
+        "t_mw_floraat_stump_03": 2,
+        "t_mw_floraat_stump_04": 1,
+        "t_mw_floraat_treeg_01": 1,
+        "t_mw_floraat_treeg_02": 1,
+        "t_mw_floraat_treeg_03": 6,
+        "t_mw_floraat_treeg_04": 1,
+        "t_mw_floraat_treeg_05": 1,
+        "t_mw_floraat_treeg_06": 4,
+        "t_mw_terrrockat_bridge_03": 1,
+        "t_mw_terrrockat_caveentr_01": 1,
+        "t_mw_terrrockat_rock_10": 5,
+        "t_mw_terrrockat_rock_12": 16,
+        "t_mw_terrrockat_rock_19": 1,
+        "t_mw_terrrockat_rock_21": 1,
+        "t_mw_terrrockat_rock_22": 6,
+        "t_mw_terrrockat_rock_24": 7,
+        "t_mw_terrrockat_rock_25": 2,
+        "t_mw_terrrockat_rock_26": 6,
+        "t_mw_terrrockat_rock_27": 1,
+        "t_mw_terrrockat_rock_28": 2,
+        "t_mw_terrrockat_rock_29": 3,
+        "t_mw_terrrockat_rock_30": 1,
+        "t_mw_terrrockat_rockgrp_01": 7,
+        "t_mw_terrrockat_rockgrp_02": 3,
+        "t_mw_terrrockat_rockgrp_03": 6,
+        "tr_m4_becora": 1,
+        "tr_m4_danwendy": 1,
+        "tr_m4_door_helserifarm": 1,
+        "tr_m4_helseriguard": 1,
+        "tr_m4_sc_helseri_notice": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_hl_spawn": 1
+      }
+    }
+  }
+}

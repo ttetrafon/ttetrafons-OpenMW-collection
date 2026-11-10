@@ -1,0 +1,57 @@
+{
+  "cell": "Ald-ruhn, Redoran Council Entrance",
+  "name": "Ald-ruhn, Redoran Council Entrance",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1,
+        "gvrm_w_redwr_redcounchall": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_cleanerardaru": 1
+      }
+    },
+    "Aoimevelho Wares with ALL NPCs.ESP": {
+      "added": {
+        "!aoi_nobles_r": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_redoran guard_ran": 3
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bk_guide_to_ald_ruhn": 1,
+        "bk_redbook426": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bk_guide_to_ald_ruhn": 1,
+        "bk_redbook426": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::480386",
+      "object": "bk_guide_to_ald_ruhn",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::483311",
+      "object": "bk_redbook426",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

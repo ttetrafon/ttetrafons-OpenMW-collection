@@ -1,0 +1,19 @@
+{
+  "cell": "-9,-4",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_band_arg_dru": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "crate_01_empty": 2,
+        "xero_corpse10_water": 1,
+        "xero_marker": 3,
+        "xero_west_chest": 2,
+        "xero_west_crate": 1
+      }
+    }
+  }
+}

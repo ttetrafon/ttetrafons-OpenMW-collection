@@ -1,0 +1,16 @@
+{
+  "cell": "Shal",
+  "name": "Shal",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_vermin_marker_cloth": 1
+      }
+    },
+    "Mage Robes.ESP": {
+      "added": {
+        "mg_act_robes_shal": 1
+      }
+    }
+  }
+}

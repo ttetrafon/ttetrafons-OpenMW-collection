@@ -1,0 +1,21 @@
+{
+  "cell": "Tel Mora, Lower Tower",
+  "name": "Tel Mora, Lower Tower",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_alchemist": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_drathajudgment": 1
+      }
+    },
+    "Privileges&Services 1.1.esp": {
+      "added": {
+        "abm_trapgutelup": 1
+      }
+    }
+  }
+}

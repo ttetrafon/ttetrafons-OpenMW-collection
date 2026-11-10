@@ -1,0 +1,58 @@
+{
+  "cell": "17,18",
+  "name": "Rthungzark",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "door_dwe_00_exp": 1,
+        "ex_dwrv_boulder10": 1,
+        "ex_dwrv_boulder20": 2,
+        "ex_dwrv_bridge00": 1,
+        "ex_dwrv_bridge10": 1,
+        "ex_dwrv_ruin00": 1,
+        "ex_dwrv_ruin10": 1,
+        "ex_dwrv_ruin_tower00": 1,
+        "ex_dwrv_wall00": 1,
+        "ex_dwrv_wall10": 2,
+        "ex_dwrv_wall20": 1,
+        "flora_ash_grass_b_01": 1,
+        "flora_ash_log_01": 1,
+        "flora_ashtree_01": 1,
+        "flora_ashtree_03": 2,
+        "flora_ashtree_04": 6,
+        "flora_ashtree_05": 1,
+        "flora_ashtree_06": 4,
+        "flora_ashtree_07": 1,
+        "flora_rm_scathecraw_01": 1,
+        "flora_rm_scathecraw_02": 1,
+        "t_dwe_dngruin_x_bridgeend_01": 2,
+        "t_dwe_dngruin_x_buildcorner01": 3,
+        "t_dwe_dngruin_x_buildentry01": 1,
+        "t_dwe_dngruin_x_buildroof02": 2,
+        "t_dwe_dngruin_x_buildwall02": 3,
+        "t_dwe_dngruin_x_buildwall_brk01": 1,
+        "t_mw_rlvl_boethiahspinecoast-2": 1,
+        "t_mw_rlvl_dagonurul+0": 1,
+        "t_mw_rlvl_dagonurul-2": 3,
+        "t_mw_rlvl_molagreahdland+0": 1,
+        "t_mw_terrrockma_mtpeak_01": 1,
+        "t_mw_terrrockma_plateau_01": 1,
+        "t_mw_terrrockma_plateau_03": 1,
+        "terrain_rock_ac_05": 1,
+        "terrain_rock_ma_25": 1,
+        "terrain_rock_ma_39": 3,
+        "terrain_rock_ma_49": 2,
+        "terrain_rock_ma_54": 2,
+        "terrain_rock_ma_55": 4,
+        "terrain_rock_ma_550": 2,
+        "terrain_rock_ma_57": 5,
+        "terrain_rock_ma_5a": 3
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_ex_dwe_spawn": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "cell": "7,22",
+  "name": "Dagon Fel",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "tr_m0_ysmund": 1
+      }
+    },
+    "Sky_Main.ESM": {
+      "added": {
+        "sky_xvv_df_jurid": 1
+      }
+    },
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_ship_cont_bot_00": 7,
+        "_cor_ship_cont_bot_01": 1,
+        "_cor_ship_ylgor": 1
+      }
+    },
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_am_marker": 1,
+        "gvrm_bcom_am_marker": 1,
+        "gvrm_commoner_nrd": 3,
+        "gvrm_mercwand_nrd": 1,
+        "gvrm_nrd_fish_sit": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_fisherman8": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_marker": 1,
+        "xero_north_sack": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_hiddencache": 5
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_ex_dwe_spawn": 1,
+        "_aa_mugger_spawn": 1,
+        "_aa_n_all_nightlife_spawn": 4,
+        "_aa_sailor_list_spawn": 1,
+        "_aa_telemage_spawn": 2
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_comp_hognard": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "ex_de_ship_cabindoor": 1,
+        "ex_de_ship_trapdoor": 1,
+        "light_com_lantern_02": 5
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_imperial guard_ran": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "ex_de_ship_cabindoor": 1,
+        "ex_de_ship_trapdoor": 1,
+        "light_com_lantern_02": 5
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::313070",
+      "object": "ex_de_ship_cabindoor",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::313069",
+      "object": "ex_de_ship_trapdoor",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::196552",
+      "object": "light_com_lantern_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::196553",
+      "object": "light_com_lantern_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::196555",
+      "object": "light_com_lantern_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::196557",
+      "object": "light_com_lantern_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::196559",
+      "object": "light_com_lantern_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

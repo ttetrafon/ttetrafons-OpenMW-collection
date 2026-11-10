@@ -1,0 +1,16 @@
+{
+  "cell": "Cavern of the Incarnate",
+  "name": "Cavern of the Incarnate",
+  "plugins": {
+    "True_Lights_And_Darkness_1.1.esp": {
+      "added": {
+        "blue_256_ci_01": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_mummy": 1
+      }
+    }
+  }
+}

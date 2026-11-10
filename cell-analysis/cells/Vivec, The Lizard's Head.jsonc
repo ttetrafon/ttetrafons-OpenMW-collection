@@ -1,0 +1,44 @@
+{
+  "cell": "Vivec, The Lizard's Head",
+  "name": "Vivec, The Lizard's Head",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "furn_com_rm_barstool": 2,
+        "gvrm_am_marker": 1,
+        "gvrm_tlv_s+e_dun_all": 2
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_bard16": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_baker": 1,
+        "aa_wares_publican": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_com_bar_door": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_com_bar_door": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::204002",
+      "object": "active_com_bar_door",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

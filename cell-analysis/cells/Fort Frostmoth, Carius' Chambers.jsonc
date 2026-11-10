@@ -1,0 +1,129 @@
+{
+  "cell": "Fort Frostmoth, Carius' Chambers",
+  "name": "Fort Frostmoth, Carius' Chambers",
+  "plugins": {
+    "Privileges&Services 1.1.esp": {
+      "added": {
+        "abm_placeguard": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bk_changedones": 1,
+        "bk_invocationofazura": 1,
+        "bk_oldways": 1,
+        "bk_overviewofgodsandworship": 1,
+        "bk_reflectionsoncultworship...": 1,
+        "bk_wordsclanmother": 1,
+        "chest_small_02_gold_05": 1,
+        "in_impsmall_door_01": 2,
+        "in_impsmall_loaddoor_01": 1,
+        "p_fortify_fatigue_s": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bk_changedones": 1,
+        "bk_invocationofazura": 1,
+        "bk_oldways": 1,
+        "bk_overviewofgodsandworship": 1,
+        "bk_reflectionsoncultworship...": 1,
+        "bk_wordsclanmother": 1,
+        "chest_small_02_gold_05": 1,
+        "in_impsmall_door_01": 2,
+        "in_impsmall_loaddoor_01": 1,
+        "p_fortify_fatigue_s": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::12014",
+      "object": "in_impsmall_loaddoor_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::12131",
+      "object": "bk_oldways",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::12152",
+      "object": "bk_changedones",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::12157",
+      "object": "chest_small_02_gold_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::12159",
+      "object": "bk_wordsclanmother",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::12168",
+      "object": "bk_invocationofazura",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::12176",
+      "object": "bk_overviewofgodsandworship",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::12195",
+      "object": "bk_reflectionsoncultworship...",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::13995",
+      "object": "p_fortify_fatigue_s",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::14704",
+      "object": "in_impsmall_door_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::14705",
+      "object": "in_impsmall_door_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

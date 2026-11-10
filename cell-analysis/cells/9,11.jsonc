@@ -1,0 +1,26 @@
+{
+  "cell": "9,11",
+  "plugins": {
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_map07_trigger": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_arm_spawn": 1,
+        "_aa_travelingtrader_tel_spawn": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_herd_graze_z": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_night_only_exterior_undea": 1
+      }
+    }
+  }
+}

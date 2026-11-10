@@ -1,0 +1,16 @@
+{
+  "cell": "-8,10",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_flowers": 3
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_wg": 1,
+        "aa_cr_night_only_exterior_undea": 1
+      }
+    }
+  }
+}

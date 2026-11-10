@@ -1,0 +1,24 @@
+{
+  "cell": "Obscure Shipwreck, Cabin",
+  "name": "Obscure Shipwreck, Cabin",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "ab_furn_barrel01broken02": 1,
+        "ab_furn_barrel02broken03": 1,
+        "ab_furn_deplnrug01": 1,
+        "ab_misc_dwrvdisk00": 2,
+        "misc_dwrv_gear00": 2,
+        "p_fortify_magicka_q": 1
+      },
+      "modified": {
+        "in_de_ship_cabindoor": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_m20_key": 1
+      }
+    }
+  }
+}

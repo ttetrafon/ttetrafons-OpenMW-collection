@@ -1,0 +1,38 @@
+{
+  "cell": "Tel Ouada, Tower: West Wing",
+  "name": "Tel Ouada, Tower: West Wing",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "bk_houseoftroubles_o": 1,
+        "bk_livesofthesaints": 1,
+        "flora_bc_vine_01": 3,
+        "flora_bc_vine_02": 3,
+        "flora_bc_vine_06": 1,
+        "flora_bc_vine_07": 2,
+        "flora_t_shelffungus_01": 3,
+        "furn_banner_temple_02_indoors": 1,
+        "furn_de_bannerpost_02": 1,
+        "furn_de_cushion_square_01": 2,
+        "furn_de_r_table_09": 1,
+        "furn_velothi_prayer_stool_01": 1,
+        "in_t_door_small_load": 1,
+        "in_t_manor_djamb_exit": 1,
+        "in_t_s_hall_01": 1,
+        "in_t_s_turret_03": 1,
+        "light_de_lamp_01_256": 2,
+        "misc_de_goblet_08": 1,
+        "misc_de_pot_blue_01": 1,
+        "northmarker": 1,
+        "t_de_bookendpoor_01": 2,
+        "t_de_settelv_f_shelf_01": 3,
+        "tr_m1_osyn_redola": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_priest": 1
+      }
+    }
+  }
+}

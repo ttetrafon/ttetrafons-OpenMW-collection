@@ -1,0 +1,30 @@
+{
+  "cell": "10,-1",
+  "plugins": {
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "misc_com_bottle_06": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "misc_com_bottle_06": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::268202",
+      "object": "misc_com_bottle_06",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

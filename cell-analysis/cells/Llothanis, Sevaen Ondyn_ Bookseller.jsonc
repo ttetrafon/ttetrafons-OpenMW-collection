@@ -1,0 +1,94 @@
+{
+  "cell": "Llothanis, Sevaen Ondyn: Bookseller",
+  "name": "Llothanis, Sevaen Ondyn: Bookseller",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "bk_abcs": 1,
+        "bk_aedraanddaedra": 2,
+        "bk_annotatedanuad": 2,
+        "bk_anticipations": 2,
+        "bk_biographybarenziah1": 1,
+        "bk_biographybarenziah2": 1,
+        "bk_biographybarenziah3": 1,
+        "bk_brothersofdarkness": 1,
+        "bk_changedones": 2,
+        "bk_childrenofthesky": 9,
+        "bk_childrensanuad": 9,
+        "bk_chroniclesnchuleft": 1,
+        "bk_consolationsofprayer": 7,
+        "bk_darkestdarkness": 1,
+        "bk_easternprovincesimpartial": 6,
+        "bk_firmament": 8,
+        "bk_fivesongsofkingwulfharth": 1,
+        "bk_frontierconquestaccommodat": 1,
+        "bk_graspingfortune": 6,
+        "bk_invocationofazura": 2,
+        "bk_livesofthesaints": 1,
+        "bk_mixedunittactics": 1,
+        "bk_mysteriousakavir": 2,
+        "bk_mysticism": 2,
+        "bk_nchunaksfireandfaith": 1,
+        "bk_onoblivion": 2,
+        "bk_originofthemagesguild": 2,
+        "bk_overviewofgodsandworship": 2,
+        "bk_pigchildren": 2,
+        "bk_pilgrimspath": 1,
+        "bk_reflectionsoncultworship...": 1,
+        "bk_saryonissermons": 1,
+        "bk_tamrielicreligions": 1,
+        "bk_truenatureoforcs": 1,
+        "bk_vampiresofvvardenfell1": 2,
+        "bk_vivecandmephala": 3,
+        "bk_wildelves": 2,
+        "bk_yellowbookofriddles": 1,
+        "chest_small_01_gold_25": 1,
+        "dark_128": 1,
+        "flora_bc_vine_03": 1,
+        "flora_bc_vine_04": 1,
+        "furn_de_bar_01": 1,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_04": 1,
+        "furn_de_p_bookshelf_01": 2,
+        "furn_de_r_bookshelf_02": 1,
+        "furn_de_rug_big_01": 1,
+        "in_t_housepod_02": 1,
+        "in_t_housepod_door_exit": 1,
+        "in_t_housepod_pole_01": 1,
+        "in_t_housepod_pole_02": 2,
+        "in_t_housepod_pole_03": 2,
+        "in_t_housepod_pole_04": 1,
+        "light_de_candle_01_64": 1,
+        "light_de_candle_05": 1,
+        "light_de_lamp_01": 1,
+        "light_de_lantern_02_128": 1,
+        "misc_de_pot_blue_02": 2,
+        "misc_de_pot_green_01": 4,
+        "misc_de_pot_redware_01": 2,
+        "misc_de_pot_redware_03": 1,
+        "misc_de_pot_redware_04": 3,
+        "northmarker": 1,
+        "t_bk_emeraldstr": 1,
+        "t_bk_insidealmastongstr": 1,
+        "t_bk_skylampnighttr": 2,
+        "tr_m1_sevaen_ondyn": 1,
+        "tr_m1_tel_guard_s": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_bookseller": 1
+      }
+    },
+    "RepopulatedMainland.ESP": {
+      "added": {
+        "gvrm_dun_read_noble_trcpy": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_in_library_spawn": 1
+      }
+    }
+  }
+}

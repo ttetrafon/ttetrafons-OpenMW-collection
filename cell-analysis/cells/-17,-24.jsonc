@@ -1,0 +1,62 @@
+{
+  "cell": "-17,-24",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "flora_bm_grass_01": 12,
+        "flora_bm_grass_02": 13,
+        "flora_bm_grass_04": 9,
+        "flora_bm_grass_05": 14,
+        "flora_bm_holly_01": 1,
+        "flora_heather_01": 13,
+        "flora_kreshweed_01": 6,
+        "flora_kreshweed_02": 1,
+        "flora_kreshweed_03": 3,
+        "flora_rm_scathecraw_01": 1,
+        "flora_rm_scathecraw_02": 2,
+        "flora_stoneflower_01": 4,
+        "flora_stoneflower_02": 5,
+        "flora_tree_bm_01": 5,
+        "flora_tree_bm_02": 2,
+        "flora_tree_bm_03": 6,
+        "flora_tree_bm_04": 4,
+        "flora_tree_bm_05": 5,
+        "flora_tree_bm_06": 5,
+        "flora_tree_bm_07": 4,
+        "light_torch_01_256": 1,
+        "t_glb_terrwater_sqrstill1024_01": 2,
+        "t_mw_flora_tumtumparasol_01": 1,
+        "t_mw_flora_tumtumparasol_02": 2,
+        "t_mw_flora_tumtumparasol_03": 2,
+        "t_mw_florauv_conespruce_03": 1,
+        "t_mw_terrrockrm_cliffs_02": 1,
+        "t_mw_terrrockrm_mtpeak_02": 1,
+        "t_mw_terrrockrm_mtpeak_04": 4,
+        "t_mw_terrrockrm_mtpeak_05": 1,
+        "t_mw_terrrockrm_rock_04": 1,
+        "t_mw_terrrockrm_rock_05": 1,
+        "t_mw_terrrockrm_rockgrp_01": 10,
+        "t_mw_terrrockrm_rockgrp_02": 21,
+        "t_mw_terrrockrm_rockgrp_03": 7,
+        "t_mw_terrrockrm_rockgrp_04": 6,
+        "terrain_rock_rm_05": 5,
+        "terrain_rock_rm_11": 2,
+        "terrain_rock_rm_13": 8,
+        "terrain_rock_rm_14": 2,
+        "terrain_rock_rm_15": 1,
+        "terrain_rock_rm_17": 2,
+        "terrain_rock_rm_18": 2,
+        "terrain_rock_rm_19": 1,
+        "terrain_rock_rm_20": 4,
+        "terrain_rock_rm_21": 9,
+        "terrain_rock_rm_22": 1,
+        "terrain_rock_rm_23": 8
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_ex_tomb70_spawn": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "cell": "Nerano Ancestral Tomb",
+  "name": "Nerano Ancestral Tomb",
+  "plugins": {
+    "LootWellUrned.ESP": {
+      "added": {
+        "_uyl_nerano": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "modified": {
+        "aa_cr_skeleton_champion": 1,
+        "aa_cr_skeleton_warrior": 1
+      }
+    }
+  }
+}

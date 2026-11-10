@@ -1,0 +1,50 @@
+{
+  "cell": "Volenfaryon, Thaar Hut",
+  "name": "Volenfaryon, Thaar Hut",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_bed_30": 2,
+        "chest_small_02_misc01": 1,
+        "chitin short bow": 1,
+        "com_sack_01_saltrice_10": 1,
+        "com_sack_02_ingred": 1,
+        "common_shoes_04": 1,
+        "common_skirt_03": 1,
+        "food_kwama_egg_01": 3,
+        "food_kwama_egg_02": 2,
+        "furn_ashl_bugbowl_01": 1,
+        "furn_ashl_bugbowl_02": 1,
+        "furn_de_ex_stool_02": 2,
+        "furn_de_ex_table_02": 1,
+        "furn_de_shack_basket_02": 1,
+        "furn_de_tapestry_07": 1,
+        "furn_de_tapestry_08": 1,
+        "furn_de_tapestry_09": 1,
+        "in_strong_vaultdoor00": 1,
+        "in_stronghold_roofext00": 1,
+        "in_stronghold_wall10": 1,
+        "ingred_crab_meat_01": 1,
+        "light_ashl_lantern_03_128": 1,
+        "light_ashl_lantern_04_128": 1,
+        "light_de_candle_10_64": 1,
+        "misc_com_bottle_15": 1,
+        "misc_com_wood_bowl_02": 1,
+        "misc_com_wood_cup_02": 2,
+        "misc_uni_pillow_02": 2,
+        "northmarker": 1,
+        "t_com_var_metalhook_01": 4,
+        "t_com_var_rope_05": 1,
+        "t_de_furn_rugsmall_01": 1,
+        "t_mwcom_var_bss1ing": 1,
+        "t_mwde_furn_u5food": 1,
+        "tr_m4_dayis thaar": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_trader": 1
+      }
+    }
+  }
+}

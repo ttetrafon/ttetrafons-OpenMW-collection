@@ -1,0 +1,22 @@
+{
+  "cell": "-5,18",
+  "name": "Ashurnabitashpi",
+  "plugins": {
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_ex_daedric_ruins_spawn": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_daedra_shrine_mehrunes": 5,
+        "plx_ex_daed_bat": 4
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_shrine_mehrunes": 5
+      }
+    }
+  }
+}

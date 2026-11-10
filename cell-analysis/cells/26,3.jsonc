@@ -1,0 +1,46 @@
+{
+  "cell": "26,3",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_de_railing_02": 3,
+        "ex_de_railing_03": 1,
+        "ex_t_menhir_l_01": 1,
+        "flora_chokeweed_02": 1,
+        "flora_emp_parasol_01": 1,
+        "flora_emp_parasol_03": 2,
+        "flora_hackle-lo_01": 1,
+        "flora_kreshweed_01": 2,
+        "flora_kreshweed_02": 2,
+        "flora_root_wg_03": 2,
+        "flora_root_wg_06": 1,
+        "flora_root_wg_07": 1,
+        "flora_stoneflower_01": 4,
+        "flora_t_podbud_03": 2,
+        "flora_t_podbud_04": 1,
+        "flora_tree_ac_02": 1,
+        "flora_tree_wg_01": 1,
+        "flora_tree_wg_04": 1,
+        "flora_tree_wg_05": 1,
+        "flora_tree_wg_06": 2,
+        "flora_tree_wg_08": 1,
+        "terrain_rock_ac_05": 1,
+        "terrain_rock_ac_06": 1,
+        "terrain_rock_wg_01": 8,
+        "terrain_rock_wg_02": 12,
+        "terrain_rock_wg_05": 2,
+        "terrain_rock_wg_08": 13,
+        "terrain_rock_wg_10": 4,
+        "terrain_rock_wg_12": 3,
+        "terrain_rock_wg_15": 1,
+        "terrain_rocks_wg_01": 1,
+        "terrain_rocks_wg_03": 4
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

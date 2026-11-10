@@ -1,0 +1,26 @@
+{
+  "cell": "Mournhold, Andoren Manor",
+  "name": "Mournhold, Andoren Manor",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "in_mh_door_01": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "in_mh_door_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "tribunal::7504",
+      "object": "in_mh_door_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

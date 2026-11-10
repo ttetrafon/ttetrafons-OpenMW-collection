@@ -1,0 +1,60 @@
+{
+  "cell": "30,12",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_bedroll": 3,
+        "com_sack_02_gold_100": 2,
+        "com_sack_02_msugar2": 3,
+        "de_p_chest_02_thief1": 1,
+        "ex_de_railing_01": 6,
+        "ex_de_railing_03": 2,
+        "flora_hackle-lo_01": 7,
+        "flora_hackle-lo_02": 5,
+        "flora_tree_gl_02": 1,
+        "flora_tree_gl_04": 2,
+        "flora_tree_gl_05": 2,
+        "flora_tree_gl_06": 1,
+        "flora_tree_gl_07": 1,
+        "flora_tree_wg_04": 1,
+        "flora_wickwheat_03": 24,
+        "flora_wickwheat_04": 30,
+        "furn_de_firepit_f_01_400": 1,
+        "furn_de_shack_post": 4,
+        "gold_001": 3,
+        "t_mw_rlvl_molagreahdland+2": 1,
+        "terrain_rock_gl_02": 1,
+        "terrain_rock_gl_03": 4,
+        "terrain_rock_gl_04": 6,
+        "terrain_rock_gl_05": 2,
+        "terrain_rock_gl_07": 1,
+        "terrain_rock_gl_09": 3,
+        "terrain_rock_gl_10": 1,
+        "terrain_rock_gl_11": 1,
+        "terrain_rock_gl_12": 4,
+        "terrain_rocks_gl_01": 9,
+        "terrain_rocks_gl_02": 2,
+        "terrain_rocks_gl_04": 3,
+        "terrain_rocks_wg_01": 2,
+        "terrain_rocks_wg_02": 1,
+        "terrain_rocks_wg_03": 1,
+        "tr_m1_o_aris_tharen": 1,
+        "tr_m1_o_indene_othravel": 1,
+        "tr_m1_o_vedur_omoran": 1,
+        "tr_m1_q_deliverypickex1": 1,
+        "tr_m1_q_deliverypickex2": 1,
+        "tr_m1_q_pickbandit1": 1,
+        "tr_m1_q_pickbandit2": 1,
+        "tr_m1_q_pickcart": 1,
+        "tr_m1_q_pickcrate": 1,
+        "tr_m1_q_pickcrate1": 1,
+        "tr_m1_q_pickdeliverer": 1
+      }
+    },
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_trader": 1
+      }
+    }
+  }
+}

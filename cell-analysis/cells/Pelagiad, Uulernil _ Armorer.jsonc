@@ -1,0 +1,42 @@
+{
+  "cell": "Pelagiad, Uulernil : Armorer",
+  "name": "Pelagiad, Uulernil : Armorer",
+  "plugins": {
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_a_buck_iron_nord": 1,
+        "aatl_rep_rusty": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_smith": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "in_c_door_arched": 1
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_imperial guard_ran": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "in_c_door_arched": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::47508",
+      "object": "in_c_door_arched",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

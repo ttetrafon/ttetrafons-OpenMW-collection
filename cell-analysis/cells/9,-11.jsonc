@@ -1,0 +1,86 @@
+{
+  "cell": "9,-11",
+  "plugins": {
+    "OAAB - Shipwrecks.esm": {
+      "added": {
+        "_cor_ship_de_shack_plank_03_a": 4,
+        "_cor_ship_flotsam_02": 1,
+        "_cor_ship_mgcrate_01": 1,
+        "ab_bk_codexarcana1_sk": 1,
+        "ab_ex_craneattachcrate": 4,
+        "ab_ex_deshipwrbackribs": 1,
+        "ab_ex_deshipwrfrontside": 1,
+        "ab_ex_deshipwrrmastyard": 1,
+        "ab_ex_deshipwrtable01": 2,
+        "ab_furn_barrel02broken04": 1,
+        "ab_furn_cratebroken01": 1,
+        "ab_furn_cratebroken03": 1,
+        "ab_furn_cratebroken04": 2,
+        "ab_furn_cratebroken05": 2,
+        "ab_furn_cratebrokenside03": 1,
+        "ab_furn_cratebrokenwood01": 1,
+        "ab_furn_cratebrokenwood02": 1,
+        "ab_furn_cratemglid": 1,
+        "ab_furn_cratemgopen": 1,
+        "ab_misc_bkruinedoctavo01": 1,
+        "ab_misc_bkruinedoctavo02": 1,
+        "ab_misc_bkruinedquarto": 2,
+        "ab_misc_boneskelhandr": 1,
+        "ab_misc_boneskelskullnojaw": 2,
+        "ab_misc_boneskeltorsobroken": 1,
+        "ab_o_corpse00": 1,
+        "ab_o_corpse10": 2,
+        "ab_o_corpse20": 1,
+        "ab_o_cratemgpotions": 2,
+        "ab_o_cratemgsoulgems": 1,
+        "barrel_01_drinks": 1,
+        "barrel_01_float_food20": 4,
+        "barrel_02_floater_ing": 1,
+        "crate_01_ebony": 1,
+        "crate_01_misc01": 1,
+        "ex_barnacles_02": 4,
+        "ex_barnacles_03": 5,
+        "ex_com_bottle_11_float": 1,
+        "ex_scrapwood02": 2,
+        "ex_scrapwood05": 1,
+        "flora_kelp_01": 7,
+        "flora_kelp_02": 7,
+        "flora_kelp_03": 4,
+        "in_cave_plant00": 6
+      },
+      "modified": {
+        "crate_01_iron_weapons": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_m17_bottle": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "misc_com_bottle_12": 1,
+        "misc_com_bottle_14": 2,
+        "xero_east_crate": 1,
+        "xero_furn_crate_lid_01": 1,
+        "xero_furn_crate_open_01": 1,
+        "xero_marker": 1
+      }
+    },
+    "Special_Artifacts.esp": {
+      "added": {
+        "sa_container": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_water": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_w_creature_list_1": 2
+      }
+    }
+  }
+}

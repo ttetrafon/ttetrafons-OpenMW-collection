@@ -1,0 +1,65 @@
+{
+  "cell": "37,-14",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "door_cavern_doors10": 1,
+        "ex_cave_entrance_gl_01": 1,
+        "ex_de_railing_02": 6,
+        "ex_de_railing_03": 3,
+        "flora_hackle-lo_01": 9,
+        "flora_hackle-lo_02": 6,
+        "flora_stoneflower_01": 6,
+        "flora_stoneflower_02": 4,
+        "flora_tree_gl_01": 1,
+        "flora_tree_gl_02": 1,
+        "flora_tree_gl_05": 2,
+        "flora_tree_gl_06": 2,
+        "flora_tree_gl_07": 1,
+        "flora_tree_gl_09": 1,
+        "flora_wickwheat_01": 17,
+        "flora_wickwheat_02": 10,
+        "flora_wickwheat_03": 22,
+        "flora_wickwheat_04": 35,
+        "furn_com_fence_01": 1,
+        "t_com_setmw_signwayaltbosara_01": 1,
+        "t_com_setmw_signwaybosmora_01": 1,
+        "t_com_setmw_signwayhlersis_01": 1,
+        "t_com_setmw_signwaynecrom_01": 1,
+        "t_com_setmw_signwaysailen_01": 1,
+        "t_com_setmw_signwayseitur_01": 1,
+        "t_com_setmw_signwaytelmuthad_01": 1,
+        "t_mw_cr_skeletonarcher": 1,
+        "t_mw_rlvl_sacredlandscoast-2": 3,
+        "t_mw_rlvl_sacredlandsland+0": 1,
+        "t_mw_terrrockgl_rock_20": 1,
+        "t_mw_terrrockgl_rock_21": 2,
+        "t_mw_terrrockgl_rock_22": 5,
+        "t_mw_terrrockgl_rock_24": 3,
+        "t_mw_terrrockgl_rock_33": 1,
+        "t_mw_terrrockgl_rock_34": 1,
+        "terrain_rock_gl_01": 2,
+        "terrain_rock_gl_02": 6,
+        "terrain_rock_gl_03": 1,
+        "terrain_rock_gl_04": 10,
+        "terrain_rock_gl_05": 3,
+        "terrain_rock_gl_06": 7,
+        "terrain_rock_gl_07": 4,
+        "terrain_rock_gl_08": 6,
+        "terrain_rock_gl_09": 5,
+        "terrain_rock_gl_10": 2,
+        "terrain_rock_gl_11": 21,
+        "terrain_rock_gl_12": 9,
+        "terrain_rocks_gl_01": 14,
+        "terrain_rocks_gl_02": 3,
+        "terrain_rocks_gl_03": 11,
+        "terrain_rocks_gl_04": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

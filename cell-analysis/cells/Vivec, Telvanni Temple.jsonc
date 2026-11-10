@@ -1,0 +1,17 @@
+{
+  "cell": "Vivec, Telvanni Temple",
+  "name": "Vivec, Telvanni Temple",
+  "plugins": {
+    "Holy Art.ESP": {
+      "added": {
+        "vd_velothismall_04": 1,
+        "vd_velothismall_06": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_healer": 1
+      }
+    }
+  }
+}

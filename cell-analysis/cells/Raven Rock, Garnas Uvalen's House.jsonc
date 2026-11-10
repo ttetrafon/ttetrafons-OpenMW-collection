@@ -1,0 +1,84 @@
+{
+  "cell": "Raven Rock, Garnas Uvalen's House",
+  "name": "Raven Rock, Garnas Uvalen's House",
+  "plugins": {
+    "Solstheim Tomb of The Snow Prince.esm": {
+      "added": {
+        "ex_colony_door04": 1,
+        "furn_com_rm_shelf_01": 1,
+        "furn_de_rug_big_04": 1,
+        "furn_de_tapestry_03": 1,
+        "in_lava_blacksquare": 2,
+        "light_com_candle_07": 1,
+        "light_logpile10": 1,
+        "misc_com_bottle_15": 2,
+        "misc_de_goblet_06": 1,
+        "sp_bm_colony_i_fireplace_01": 1
+      },
+      "modified": {
+        "com_chest_01": 1,
+        "com_sack_01_ingred": 3,
+        "com_sack_02_ingred": 1,
+        "furn_colony_shelf04": 1,
+        "furn_colony_shelf05": 1,
+        "furn_colony_shelf06": 1,
+        "furn_com_cauldron_02": 1,
+        "furn_com_pm_chair_02": 1,
+        "furn_de_p_chair_02": 4,
+        "furn_de_p_table_06": 1,
+        "furn_de_tapestry_03": 1,
+        "light_com_candle_07": 1,
+        "light_com_candle_12_77": 1,
+        "misc_com_bottle_02": 1,
+        "misc_com_bottle_07": 1,
+        "misc_com_bottle_08": 1,
+        "misc_com_bottle_10": 3,
+        "misc_com_bottle_14": 2,
+        "misc_com_broom_01": 1,
+        "misc_com_bucket_01": 1,
+        "misc_com_metal_plate_05": 3,
+        "misc_com_redware_pitcher": 1,
+        "misc_com_tankard_01": 3,
+        "misc_com_wood_cup_02": 3,
+        "misc_com_wood_fork": 3,
+        "misc_com_wood_knife": 3,
+        "misc_com_wood_spoon_01": 3
+      }
+    },
+    "GITD_WL_RR_Interiors.esp": {
+      "added": {
+        "gitd_in_colony_win_01": 4
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "ex_colony_door04": 1,
+        "ex_colony_door08": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "ex_colony_door04": 1,
+        "ex_colony_door08": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "bloodmoon::21050",
+      "object": "ex_colony_door04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "bloodmoon::21052",
+      "object": "ex_colony_door08",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

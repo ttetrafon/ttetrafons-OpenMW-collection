@@ -1,0 +1,114 @@
+{
+  "cell": "Maar Gan, Andus Tradehouse",
+  "name": "Maar Gan, Andus Tradehouse",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "furn_de_p_stool_02": 1,
+        "gvrm_am_marker": 1,
+        "gvrm_dun_trav_s+e": 1,
+        "gvrm_dun_trav_sit": 1,
+        "gvrm_mrcs_ans_rga_m_01": 1,
+        "gvrm_s_merc4hire_dun": 1
+      }
+    },
+    "Animated_Morrowind - merged.esp": {
+      "added": {
+        "am_reader8": 1
+      },
+      "modified": {
+        "furn_de_p_bench_03": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_baker": 1,
+        "aa_wares_publican": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_r_bed_20": 1,
+        "furn_de_bar_01": 2,
+        "furn_de_bar_02": 2,
+        "furn_de_bar_04": 2,
+        "furn_de_bar_05": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_r_bed_20": 1,
+        "furn_de_bar_01": 2,
+        "furn_de_bar_02": 2,
+        "furn_de_bar_04": 2,
+        "furn_de_bar_05": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::341089",
+      "object": "furn_de_bar_05",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::341090",
+      "object": "furn_de_bar_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::341091",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::341092",
+      "object": "furn_de_bar_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::341093",
+      "object": "furn_de_bar_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::341094",
+      "object": "furn_de_bar_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::341095",
+      "object": "furn_de_bar_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::344971",
+      "object": "active_de_r_bed_20",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

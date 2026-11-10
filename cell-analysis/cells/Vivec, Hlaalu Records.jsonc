@@ -1,0 +1,16 @@
+{
+  "cell": "Vivec, Hlaalu Records",
+  "name": "Vivec, Hlaalu Records",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_hla_r_com_dun": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_library_spawn": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "cell": "Gorne, The Emerald Haven Inn",
+  "name": "Gorne, The Emerald Haven Inn",
+  "plugins": {
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_baker": 1,
+        "aa_wares_publican": 1
+      }
+    },
+    "RepopulatedMainland.ESP": {
+      "added": {
+        "furn_de_p_stool_01": 3,
+        "gvrm_dun_m4h+dts_trcpy": 1,
+        "gvrm_dun_trav_s+e_trcpy": 4
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_in_traders_spawn": 1
+      }
+    }
+  }
+}

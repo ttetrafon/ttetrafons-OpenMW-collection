@@ -1,0 +1,19 @@
+{
+  "cell": "Molag Mar, Underworks",
+  "name": "Molag Mar, Underworks",
+  "plugins": {
+    "The Undead.esm": {
+      "added": {
+        "_und_zombies_random": 5
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "added": {
+        "light_glowing_lichen_512_d": 8
+      },
+      "modified": {
+        "light_glowing_lichen_512_d": 6
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "cell": "Tel Vos, Central Tower",
+  "name": "Tel Vos, Central Tower",
+  "plugins": {
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "added": {
+        "sp_telvanni guard_ran": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "key_tv_ct": 1
+      }
+    },
+    "D2Items.esp": {
+      "modified": {
+        "dwemer shortsword": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "key_tv_ct": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::459830",
+      "object": "key_tv_ct",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

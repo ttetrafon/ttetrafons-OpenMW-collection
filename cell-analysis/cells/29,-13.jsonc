@@ -1,0 +1,69 @@
+{
+  "cell": "29,-13",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_de_docks_center": 6,
+        "ex_de_docks_centers": 1,
+        "ex_de_docks_end": 4,
+        "ex_de_docks_ends": 1,
+        "ex_de_docks_steps": 3,
+        "ex_de_docks_steps_01": 1,
+        "flora_bittergreen_07": 1,
+        "flora_bittergreen_10": 1,
+        "flora_bm_grass_02": 1,
+        "flora_chokeweed_02": 5,
+        "flora_comberry_01": 1,
+        "flora_corkbulb": 1,
+        "flora_grass_03": 3,
+        "flora_grass_04": 1,
+        "flora_kreshweed_01": 3,
+        "flora_kreshweed_02": 2,
+        "flora_roobrush_02": 2,
+        "flora_stoneflower_01": 3,
+        "flora_stoneflower_02": 2,
+        "flora_tree_wg_01": 1,
+        "flora_tree_wg_03": 1,
+        "furn_com_fence_01": 1,
+        "furn_de_pathspear_01": 1,
+        "furn_de_pathspear_04": 6,
+        "t_com_setmw_signakamoram_01": 1,
+        "t_com_setmw_signwayalmalexia_01": 1,
+        "t_com_setmw_signwaydarvon_01": 1,
+        "t_com_setmw_signwaydunakafel_01": 1,
+        "t_com_setmw_signwaysupai_01": 1,
+        "t_mw_terrrockwg_cliff_02": 3,
+        "t_mw_terrrockwg_cliff_05": 1,
+        "terrain_rock_wg_01": 3,
+        "terrain_rock_wg_02": 5,
+        "terrain_rock_wg_03": 1,
+        "terrain_rock_wg_07": 7,
+        "terrain_rock_wg_08": 6,
+        "terrain_rock_wg_09": 2,
+        "terrain_rock_wg_10": 6,
+        "terrain_rock_wg_11": 3,
+        "terrain_rock_wg_12": 14,
+        "terrain_rock_wg_13": 1,
+        "terrain_rock_wg_14": 4,
+        "terrain_rock_wg_16": 3,
+        "terrain_rock_wg_17": 15,
+        "terrain_rock_wg_18": 7,
+        "terrain_rocks_wg_01": 40,
+        "terrain_rocks_wg_02": 3,
+        "terrain_rocks_wg_03": 25,
+        "terrain_rocks_wg_04": 3
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    },
+    "DM_TR_AkaMoreIndoril.esp": {
+      "modified": {
+        "terrain_rock_wg_08": 1,
+        "terrain_rock_wg_12": 2
+      }
+    }
+  }
+}

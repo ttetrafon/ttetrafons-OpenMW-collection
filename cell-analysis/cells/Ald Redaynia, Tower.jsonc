@@ -1,0 +1,26 @@
+{
+  "cell": "Ald Redaynia, Tower",
+  "name": "Ald Redaynia, Tower",
+  "plugins": {
+    "Holy Art.ESP": {
+      "added": {
+        "vd_velothismall_01": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "un_lich_skull_leveled": 2,
+        "un_skeletonarise2": 1
+      },
+      "modified": {
+        "skeleton_aldredaynia": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_skeletonarise2": 1,
+        "aa_cr_u_all_1": 2
+      }
+    }
+  }
+}

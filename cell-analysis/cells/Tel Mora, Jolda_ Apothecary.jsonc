@@ -1,0 +1,103 @@
+{
+  "cell": "Tel Mora, Jolda: Apothecary",
+  "name": "Tel Mora, Jolda: Apothecary",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_apothecary": 1
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "bk_blightpotionnotice": 1,
+        "bk_joldanote": 1,
+        "bk_propertyofjolda": 5,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_04": 1
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "bk_blightpotionnotice": 1,
+        "bk_joldanote": 1,
+        "bk_propertyofjolda": 5,
+        "furn_de_bar_02": 1,
+        "furn_de_bar_04": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::361498",
+      "object": "furn_de_bar_02",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::361499",
+      "object": "furn_de_bar_04",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::361539",
+      "object": "bk_propertyofjolda",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::361540",
+      "object": "bk_propertyofjolda",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::361541",
+      "object": "bk_propertyofjolda",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::361543",
+      "object": "bk_propertyofjolda",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::361545",
+      "object": "bk_joldanote",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::361568",
+      "object": "bk_blightpotionnotice",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::361546",
+      "object": "bk_propertyofjolda",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

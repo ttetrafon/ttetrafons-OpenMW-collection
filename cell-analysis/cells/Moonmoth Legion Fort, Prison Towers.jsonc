@@ -1,0 +1,34 @@
+{
+  "cell": "Moonmoth Legion Fort, Prison Towers",
+  "name": "Moonmoth Legion Fort, Prison Towers",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "in_impsmall_trapdoor_01a": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "in_impsmall_trapdoor_01a": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::468190",
+      "object": "in_impsmall_trapdoor_01a",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::468199",
+      "object": "in_impsmall_trapdoor_01a",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

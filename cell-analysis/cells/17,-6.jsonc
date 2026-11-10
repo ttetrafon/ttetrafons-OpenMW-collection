@@ -1,0 +1,16 @@
+{
+  "cell": "17,-6",
+  "name": "Nchurdamz",
+  "plugins": {
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_map32_trigger": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_ex_dwe_spawn": 1
+      }
+    }
+  }
+}

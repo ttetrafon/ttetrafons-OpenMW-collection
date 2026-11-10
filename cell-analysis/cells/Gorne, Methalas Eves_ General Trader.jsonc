@@ -1,0 +1,16 @@
+{
+  "cell": "Gorne, Methalas Eves: General Trader",
+  "name": "Gorne, Methalas Eves: General Trader",
+  "plugins": {
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_trader": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_in_traders_spawn": 1
+      }
+    }
+  }
+}

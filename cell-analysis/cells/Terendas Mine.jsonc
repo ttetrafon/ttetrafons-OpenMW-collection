@@ -1,0 +1,68 @@
+{
+  "cell": "Terendas Mine",
+  "name": "Terendas Mine",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "door_cavern_doors10": 1,
+        "furn_crate_lid_01": 1,
+        "furn_crate_open_01": 1,
+        "furn_rail_cart00": 1,
+        "in_cavern_beam00": 7,
+        "in_mold_rock_03": 1,
+        "in_mold_rock_07": 1,
+        "in_mold_rock_15": 4,
+        "in_mold_rock_16": 2,
+        "in_mold_rock_17": 1,
+        "in_mold_rock_20": 1,
+        "in_mold_rock_21": 1,
+        "in_mold_rock_23": 1,
+        "in_mold_rock_24": 1,
+        "in_mold_rock_27": 1,
+        "in_moldboulder00": 6,
+        "in_moldboulder01": 22,
+        "in_moldboulder02": 14,
+        "in_moldboulder03": 20,
+        "in_moldboulder04": 12,
+        "in_moldboulder05": 21,
+        "in_moldcave2_s_00": 1,
+        "in_moldcave2_s_01": 2,
+        "in_moldcave2_s_02": 1,
+        "in_moldcave2_s_04": 4,
+        "in_moldcave2_s_05": 1,
+        "in_moldcave4_s_00": 1,
+        "in_moldcave_07": 1,
+        "in_moldcave_10": 1,
+        "in_moldcave_nat_exit00": 1,
+        "in_moldcave_sroom2_00": 4,
+        "in_moldcave_sroom3_01": 4,
+        "in_moldcave_sroom3_02": 1,
+        "in_moldcave_sroom4_01": 1,
+        "in_moldcave_sroom4_04": 4,
+        "in_moldcave_stal10": 2,
+        "light_tikitorch00": 14,
+        "miner's pick": 4,
+        "northmarker": 1,
+        "p_levitation_b": 1,
+        "t_com_cork": 1,
+        "t_de_scales_01": 1,
+        "t_de_weight_01": 3,
+        "t_ingmine_oregold_01": 14,
+        "t_mw_mine_oregold01": 2,
+        "t_mw_mine_oregold02": 2,
+        "t_mw_mine_oregold03": 1,
+        "t_mw_mine_oregold04": 2,
+        "t_mw_mine_oregold05": 1,
+        "t_mw_mine_oregold06": 2,
+        "t_mw_mine_oregold07": 1,
+        "tr_m1_tel_guard2": 3,
+        "tr_m1_tidril uvalor": 1
+      }
+    },
+    "RepopulatedMainland.ESP": {
+      "added": {
+        "gvrm_un_mn_cm_dun_trcpy": 3
+      }
+    }
+  }
+}

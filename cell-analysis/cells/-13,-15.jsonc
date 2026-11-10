@@ -1,0 +1,73 @@
+{
+  "cell": "-13,-15",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "bc mushroom 64": 1,
+        "ex_cave_door_01": 1,
+        "ex_dwrv_block00": 2,
+        "ex_dwrv_block10": 2,
+        "ex_dwrv_block20": 2,
+        "ex_dwrv_block30": 4,
+        "ex_redwall_arch_01": 1,
+        "ex_redwall_b_05": 1,
+        "ex_redwall_p_01": 1,
+        "ex_redwall_p_05": 1,
+        "ex_redwall_post_01": 2,
+        "ex_redwall_up_01": 2,
+        "flora_corkbulb": 2,
+        "flora_grass_01": 28,
+        "flora_hackle-lo_01": 2,
+        "flora_hackle-lo_02": 4,
+        "flora_stoneflower_01": 1,
+        "flora_stoneflower_02": 2,
+        "t_mw_flora_bluefoot01": 1,
+        "t_mw_flora_bluefoot03": 1,
+        "t_mw_flora_munzur_02": 4,
+        "t_mw_flora_munzur_03": 2,
+        "t_mw_flora_templedom01": 1,
+        "t_mw_flora_templedom02": 4,
+        "t_mw_flora_terrastree_02": 2,
+        "t_mw_flora_terrastree_03": 2,
+        "t_mw_flora_tumtumparasol_01": 2,
+        "t_mw_flora_tumtumparasol_03": 1,
+        "t_mw_light_aanthirinmushroom": 1,
+        "t_mw_terrrockrr_caveentr_01": 1,
+        "t_mw_terrrockrr_cliffs_04b": 2,
+        "t_mw_terrrockrr_mtpeak_01": 1,
+        "t_mw_terrrockrr_mtpeak_03": 3,
+        "t_mw_terrrockrr_mtridge_03": 1,
+        "t_mw_terrrockrr_rock_01": 2,
+        "t_mw_terrrockrr_rock_02": 1,
+        "t_mw_terrrockrr_rock_03": 10,
+        "t_mw_terrrockrr_rock_06": 1,
+        "t_mw_terrrockrr_rock_08": 1,
+        "t_mw_terrrockrr_rock_09": 1,
+        "t_mw_terrrockrr_rock_13": 1,
+        "t_mw_terrrockrr_rock_14": 3,
+        "t_mw_terrrockrr_rock_15": 7,
+        "t_mw_terrrockrr_rock_16": 5,
+        "t_mw_terrrockrr_rock_18": 6,
+        "t_mw_terrrockrr_rock_20": 2,
+        "t_mw_terrrockrr_rock_21": 1,
+        "t_mw_terrrockrr_rock_24": 1,
+        "t_mw_terrrockrr_rock_26": 4,
+        "t_mw_terrrockrr_rock_27": 6,
+        "t_mw_terrrockrr_rock_28": 7,
+        "t_mw_terrrockrr_rock_29": 2,
+        "t_mw_terrrockrr_rock_30": 9,
+        "t_mw_terrrockrr_rockgrp_01": 8,
+        "t_mw_terrrockrr_rockgrp_02": 5,
+        "t_mw_terrrockrr_rockgrp_03": 13,
+        "t_mw_terrrockrr_rockgrp_04": 7,
+        "tr_m4_rr_borderblockgate": 1,
+        "tr_m4_rr_borderblockrock01": 1
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

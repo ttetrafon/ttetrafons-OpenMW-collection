@@ -1,0 +1,15 @@
+{
+  "cell": "10,3",
+  "plugins": {
+    "RepopulatedMorrowind_OAAB_Data.ESP": {
+      "added": {
+        "gvrm_trvsr_ash": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 2
+      }
+    }
+  }
+}

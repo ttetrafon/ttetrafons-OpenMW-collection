@@ -1,0 +1,22 @@
+{
+  "cell": "19,-6",
+  "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_east_sack": 1,
+        "xero_marker": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_ex_tomb_spawn": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_ac": 1,
+        "aa_cr_night_only_exterior_undea": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "cell": "Ginith Ancestral Tomb",
+  "name": "Ginith Ancestral Tomb",
+  "plugins": {
+    "Holy Art.ESP": {
+      "added": {
+        "vd_velothismall_08": 1,
+        "vd_velothismall_10": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_cardiaccharge": 1
+      }
+    },
+    "LootWellUrned.ESP": {
+      "added": {
+        "_uyl_ginith": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "cell": "Maran-Adon",
+  "name": "Maran-Adon",
+  "plugins": {
+    "Welkynd Stones Wares.esp": {
+      "added": {
+        "pb_corpse": 1,
+        "pb_welkyndstone": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_dreamers": 4,
+        "plx_dreamers_rare": 2,
+        "plx_dreamersbell": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_6_dream_list_1": 4,
+        "aa_cr_6th_ash_statue_07": 2,
+        "aa_cr_dreamer_c03": 1,
+        "aa_cr_dreamer_f_c02": 1
+      },
+      "modified": {
+        "aa_cr_dreamer_01": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "cell": "Old Mournhold: Temple Gardens",
+  "name": "Old Mournhold: Temple Gardens",
+  "plugins": {
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "skeleton champion": 2
+      },
+      "modified": {
+        "skeleton warrior": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "modified": {
+        "aa_cr_skeleton_champion": 2,
+        "aa_cr_skeleton_warrior": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "tribunal::13440",
+      "object": "skeleton warrior",
+      "plugins": [
+        "Creatures_RP_Purist.ESP",
+        "Creatures and Critters.ESP"
+      ]
+    }
+  ]
+}

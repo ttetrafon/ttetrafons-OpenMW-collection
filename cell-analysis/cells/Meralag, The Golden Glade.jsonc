@@ -1,0 +1,25 @@
+{
+  "cell": "Meralag, The Golden Glade",
+  "name": "Meralag, The Golden Glade",
+  "plugins": {
+    "Wares_TR_traders.esp": {
+      "added": {
+        "aa_wares_baker": 1,
+        "aa_wares_publican": 1
+      }
+    },
+    "RepopulatedMainland.ESP": {
+      "added": {
+        "furn_de_p_stool_01": 2,
+        "gvrm_dun_m4h+dts_trcpy": 1,
+        "gvrm_dun_trav_s+e_trcpy": 2,
+        "gvrm_dun_trav_sit_trcpy": 2
+      }
+    },
+    "F&F_Mainland.ESP": {
+      "added": {
+        "_aa_in_traders_spawn": 1
+      }
+    }
+  }
+}

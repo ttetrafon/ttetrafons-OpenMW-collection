@@ -1,0 +1,134 @@
+{
+  "cell": "Falvillo's Endeavor, Cabin",
+  "name": "Falvillo's Endeavor, Cabin",
+  "plugins": {
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "active_de_p_bed_28": 1,
+        "bk_briefhistoryofwood": 1,
+        "bk_easternprovincesimpartial": 1,
+        "crate_01_armor_leather": 1,
+        "de_p_desk_01_pos": 1,
+        "de_p_table_01_pos3": 1,
+        "light_de_candle_17_64": 1,
+        "light_de_lantern_06a": 1,
+        "light_de_lantern_07_warm": 1,
+        "misc_uni_pillow_01": 1,
+        "text_paper_roll_01": 2
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "active_de_p_bed_28": 1,
+        "bk_briefhistoryofwood": 1,
+        "bk_easternprovincesimpartial": 1,
+        "crate_01_armor_leather": 1,
+        "de_p_desk_01_pos": 1,
+        "de_p_table_01_pos3": 1,
+        "light_de_candle_17_64": 1,
+        "light_de_lantern_06a": 1,
+        "light_de_lantern_07_warm": 1,
+        "misc_uni_pillow_01": 1,
+        "text_paper_roll_01": 2
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::299619",
+      "object": "active_de_p_bed_28",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299620",
+      "object": "light_de_lantern_07_warm",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299621",
+      "object": "de_p_table_01_pos3",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299622",
+      "object": "de_p_desk_01_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299623",
+      "object": "text_paper_roll_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299624",
+      "object": "text_paper_roll_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::299625",
+      "object": "bk_easternprovincesimpartial",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::313164",
+      "object": "bk_briefhistoryofwood",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::313165",
+      "object": "light_de_candle_17_64",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::317834",
+      "object": "light_de_lantern_06a",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::317835",
+      "object": "crate_01_armor_leather",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::317839",
+      "object": "misc_uni_pillow_01",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}

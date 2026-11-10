@@ -1,0 +1,19 @@
+{
+  "cell": "22,4",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_t_menhir_l_01": 14,
+        "flora_kelp_01": 1,
+        "t_mw_rlvl_innerseawater-2": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "contain_corpse_water": 1,
+        "xero_east_chest": 1,
+        "xero_marker": 1
+      }
+    }
+  }
+}

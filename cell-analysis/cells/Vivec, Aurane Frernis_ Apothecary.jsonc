@@ -1,0 +1,16 @@
+{
+  "cell": "Vivec, Aurane Frernis: Apothecary",
+  "name": "Vivec, Aurane Frernis: Apothecary",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_apothecary": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_traders_spawn": 1
+      }
+    }
+  }
+}

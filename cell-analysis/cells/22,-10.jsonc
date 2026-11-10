@@ -1,0 +1,30 @@
+{
+  "cell": "22,-10",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "blue coast ref 1024": 9,
+        "flora_kelp_01": 17,
+        "flora_kelp_02": 16,
+        "flora_kelp_03": 5,
+        "flora_kelp_04": 4,
+        "t_glb_flora_kelp1group_01": 9,
+        "t_glb_flora_kelp1group_02": 8,
+        "t_mw_rlvl_innerseawater-2": 1,
+        "t_mw_terrrockss_plateau_02": 3,
+        "t_mw_terrrockss_rock_02": 1,
+        "t_mw_terrrockss_rock_06": 1,
+        "t_mw_terrrockss_rock_49": 4,
+        "t_mw_terrrockss_rock_550": 3,
+        "t_mw_terrrockss_rock_57": 2
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "barrel_01_empty": 2,
+        "xero_east_barrel": 1,
+        "xero_marker": 1
+      }
+    }
+  }
+}

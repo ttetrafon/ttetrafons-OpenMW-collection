@@ -1,0 +1,19 @@
+{
+  "cell": "Addamasartus",
+  "name": "Addamasartus",
+  "plugins": {
+    "True_Lights_And_Darkness_1.1.esp": {
+      "added": {
+        "blue water ref 256_ripple": 6
+      },
+      "modified": {
+        "blue water ref 256_ripple": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_vermin_marker_cloth": 1
+      }
+    }
+  }
+}

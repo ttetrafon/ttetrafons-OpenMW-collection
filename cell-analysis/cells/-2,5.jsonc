@@ -1,0 +1,234 @@
+{
+  "cell": "-2,5",
+  "name": "Buckmoth Legion Fort",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_grdwand_imp_arch": 1,
+        "gvrm_imp_g_imp_im": 1,
+        "gvrm_impforts": 1
+      }
+    },
+    "A Merchant's Whim.ESP": {
+      "added": {
+        "aatl_amw_act_vandastomb": 1,
+        "aatl_ex_vel_ent_05": 1,
+        "aatl_npc_ggguard04": 1,
+        "aatl_npc_ggguard08": 1,
+        "aatl_npc_ggguard10": 1,
+        "ab_flora_ashgrassred_01": 1,
+        "ab_flora_ashknee_02": 1,
+        "ab_flora_ashtrunk_01": 1,
+        "flora_rm_scathecraw_01": 1,
+        "furn_de_signpost_04": 1,
+        "in_velothismall_ndoor_01": 1,
+        "t_de_setred_x_steps_01": 1,
+        "terrain_rock_rm_08": 1,
+        "terrain_rock_rm_15": 1,
+        "terrain_rock_rm_17": 1,
+        "terrain_rock_rm_20": 2,
+        "tramaroot_05": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_in_smith_spawn": 1,
+        "_aa_telemage_spawn": 1
+      }
+    },
+    "Friends & Frens - Vvardenfell.ESP": {
+      "added": {
+        "aa_comp_anjoli": 1
+      }
+    },
+    "Creatures and Critters Light the Path.ESP": {
+      "added": {
+        "aa_cr_i_moth_all": 3
+      }
+    },
+    "Ownership Overhaul.esm": {
+      "modified": {
+        "barrel_01_arrows": 1,
+        "barrel_01_cheapfood20": 1,
+        "barrel_01_random_pos": 1,
+        "barrel_02_cheapfood5": 5,
+        "crate_01_empty": 2,
+        "crate_01_imp_weapons": 3,
+        "crate_01_iron_weapons2": 1,
+        "crate_02_food": 5
+      }
+    },
+    "Yet Another Guard Diversity - Regular.ESP": {
+      "modified": {
+        "sp_imperial archer_ran": 3,
+        "sp_imperial guard_ran": 3
+      }
+    },
+    "Ownership Overhaul.esp": {
+      "modified": {
+        "barrel_01_arrows": 1,
+        "barrel_01_cheapfood20": 1,
+        "barrel_01_random_pos": 1,
+        "barrel_02_cheapfood5": 5,
+        "crate_01_empty": 2,
+        "crate_01_imp_weapons": 3,
+        "crate_01_iron_weapons2": 1,
+        "crate_02_food": 5
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::323872",
+      "object": "barrel_01_cheapfood20",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::323873",
+      "object": "barrel_01_arrows",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::323874",
+      "object": "crate_02_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::323875",
+      "object": "crate_01_imp_weapons",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::323876",
+      "object": "crate_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::323877",
+      "object": "crate_02_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::323879",
+      "object": "crate_01_empty",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::323880",
+      "object": "crate_01_imp_weapons",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::323881",
+      "object": "crate_01_iron_weapons2",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::323882",
+      "object": "crate_02_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::323883",
+      "object": "barrel_01_random_pos",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::323885",
+      "object": "barrel_02_cheapfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::323886",
+      "object": "barrel_02_cheapfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::323887",
+      "object": "barrel_02_cheapfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::323888",
+      "object": "barrel_02_cheapfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::323889",
+      "object": "barrel_02_cheapfood5",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::323897",
+      "object": "crate_01_imp_weapons",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::323898",
+      "object": "crate_02_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::323899",
+      "object": "crate_02_food",
+      "plugins": [
+        "Ownership Overhaul.esm",
+        "Ownership Overhaul.esp"
+      ]
+    }
+  ]
+}
