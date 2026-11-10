@@ -2,6 +2,11 @@
   "cell": "Solstheim, Thirsk",
   "name": "Solstheim, Thirsk",
   "plugins": {
+    "Wyrmhaven.esm": {
+      "added": {
+        "_wyrm_sir_leiknir": 1
+      }
+    },
     "RepopulatedMorrowind.ESM": {
       "added": {
         "gvrm_am_marker": 2

@@ -1,6 +1,11 @@
 {
   "cell": "-7,-6",
   "plugins": {
+    "Wyrmhaven.esm": {
+      "added": {
+        "_wyrm_gilfanon": 1
+      }
+    },
     "Better Sounds_Fixed.esp": {
       "added": {
         "a_photodragons": 1,
