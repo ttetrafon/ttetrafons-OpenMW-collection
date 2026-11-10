@@ -1,0 +1,72 @@
+{
+  "cell": "39,30",
+  "plugins": {
+    "Tel_Meskoa_FandF.esp": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    },
+    "Tel_Meskoa_Tel_Matouigius_1.9.3_EV.esp": {
+      "added": {
+        "cliff racer": 2,
+        "dwarven ghost": 1,
+        "ex_azurascoast_lev+0": 1,
+        "ex_dwrv_ruin80": 3,
+        "ex_dwrv_walker00": 1,
+        "ex_dwrv_walker10": 1,
+        "ex_dwrv_walker20": 1,
+        "ex_dwrv_wall60": 1,
+        "ex_shore_cliffracer_lev+2": 2,
+        "ex_wild_all_lev-1": 1,
+        "flora_bc_fern_02": 7,
+        "flora_bc_fern_03": 1,
+        "flora_bc_fern_04": 2,
+        "flora_bc_grass_01": 52,
+        "flora_bc_log_01": 1,
+        "flora_black_anther_01": 1,
+        "flora_black_anther_02": 1,
+        "flora_bm_grass_01": 3,
+        "flora_bm_grass_04": 5,
+        "flora_bush_01": 12,
+        "flora_chokeweed_02": 2,
+        "flora_comberry_01": 2,
+        "flora_fire_fern_01": 1,
+        "flora_fire_fern_03": 1,
+        "flora_gold_kanet_01": 2,
+        "flora_hackle-lo_01": 1,
+        "flora_kreshweed_01": 26,
+        "flora_trama_shrub_04": 1,
+        "in_lava_rock_24": 9,
+        "my_tel meskoaskelette": 1,
+        "my_z_tm_bc_shroom02": 4,
+        "my_z_tm_bc_shroom03": 1,
+        "my_z_tm_bc_shroom04": 3,
+        "my_z_tm_bc_shroom06b": 14,
+        "my_z_tm_bc_shroom07b": 9,
+        "my_z_tm_bc_shroom08b": 7,
+        "my_z_tm_lophophora": 4,
+        "my_z_tm_meskoa_main_island": 2,
+        "my_z_tm_shroom_01": 3,
+        "my_z_tm_shroom_02": 1,
+        "terrain_rock_ac_03": 13,
+        "terrain_rock_ac_04": 27,
+        "terrain_rock_ac_05": 3,
+        "terrain_rock_ac_06": 1,
+        "terrain_rock_ac_08": 1,
+        "terrain_rock_ac_09": 3,
+        "terrain_rock_wg_16": 3,
+        "terrain_rock_wg_17": 1,
+        "terrain_rock_wg_18": 3,
+        "terrain_rocks_ai_01": 1,
+        "terrain_rocks_ai_03": 1,
+        "terrain_rocks_wg_03": 3,
+        "ztm_flora_maple_r_01_a": 5,
+        "ztm_flora_maple_r_01_b": 1,
+        "ztm_flora_maple_r_01_c": 1,
+        "ztm_flora_tree_hanging_01": 3,
+        "ztm_flora_tree_needle_01_a": 3,
+        "ztm_flora_tree_needle_01_b": 4
+      }
+    }
+  }
+}

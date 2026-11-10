@@ -1,0 +1,59 @@
+{
+  "cell": "45,33",
+  "plugins": {
+    "Tel_Meskoa_FandF.esp": {
+      "added": {
+        "_aa_ex_daedric_ruins_spawn": 2
+      }
+    },
+    "Tel_Meskoa_Tel_Matouigius_1.9.3_EV.esp": {
+      "added": {
+        "ex_dae_buttress_ruin_01": 1,
+        "ex_dae_claw_01": 1,
+        "ex_dae_claw_02": 1,
+        "ex_dae_pillar_02": 1,
+        "ex_dae_pillar_03": 1,
+        "ex_dae_wall_512_02": 2,
+        "ex_dae_wall_512_05": 2,
+        "ex_dae_wall_512_06": 1,
+        "ex_dae_wall_512_08": 1,
+        "ex_dae_wall_512_09": 2,
+        "ex_t_menhir_l_01": 12,
+        "ex_t_rock_coastal_01": 5,
+        "ex_t_rock_coastal_02": 1,
+        "flora_black_anther_01": 1,
+        "flora_emp_parasol_01": 1,
+        "flora_kreshweed_01": 3,
+        "flora_kreshweed_02": 5,
+        "flora_kreshweed_03": 3,
+        "flora_marshmerrow_01": 12,
+        "flora_marshmerrow_02": 5,
+        "flora_marshmerrow_03": 3,
+        "flora_muckspunge_01": 2,
+        "flora_muckspunge_02": 1,
+        "flora_muckspunge_03": 1,
+        "flora_muckspunge_04": 6,
+        "flora_saltrice_01": 1,
+        "flora_t_podbud_01": 2,
+        "flora_t_podbud_03": 6,
+        "flora_t_podbud_04": 4,
+        "flora_tree_ac_01": 1,
+        "flora_tree_ac_02": 3,
+        "flora_tree_ac_04": 1,
+        "flora_willow_flower_01": 1,
+        "in_dae_rubble_01b": 1,
+        "in_dae_rubble_01c": 2,
+        "in_dae_rubble_03b": 1,
+        "in_dae_rubble_05": 1,
+        "in_dae_rubble_06": 1,
+        "my_z_tm_shroom_01": 2,
+        "my_z_tm_shroom_02": 1,
+        "my_z_tm_shroom_03": 1,
+        "ztm_ac_column_1": 4,
+        "ztm_ac_column_2": 1,
+        "ztm_ac_column_3": 2,
+        "ztm_tree_ac_03": 2
+      }
+    }
+  }
+}

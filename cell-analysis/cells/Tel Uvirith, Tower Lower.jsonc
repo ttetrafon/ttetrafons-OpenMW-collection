@@ -42,6 +42,14 @@
         "potion_local_liquor_01": 1
       }
     },
+    "Tel Isatumu.ESP": {
+      "modified": {
+        "active_de_r_bed_01": 1,
+        "bk_ancestorsandthedunmer": 1,
+        "in_t_root_wrap_01": 1,
+        "misc_de_foldedcloth00": 1
+      }
+    },
     "Ownership Overhaul.esp": {
       "modified": {
         "active_de_r_bed_01": 2,
@@ -97,6 +105,7 @@
       "object": "active_de_r_bed_01",
       "plugins": [
         "Ownership Overhaul.esm",
+        "Tel Isatumu.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -337,6 +346,7 @@
       "object": "misc_de_foldedcloth00",
       "plugins": [
         "Ownership Overhaul.esm",
+        "Tel Isatumu.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -465,6 +475,7 @@
       "object": "bk_ancestorsandthedunmer",
       "plugins": [
         "Ownership Overhaul.esm",
+        "Tel Isatumu.ESP",
         "Ownership Overhaul.esp"
       ]
     },

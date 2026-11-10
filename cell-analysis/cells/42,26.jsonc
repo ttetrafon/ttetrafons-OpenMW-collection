@@ -1,0 +1,68 @@
+{
+  "cell": "42,26",
+  "plugins": {
+    "Tel_Meskoa_FandF.esp": {
+      "added": {
+        "_aa_ex_dwe_spawn": 1
+      }
+    },
+    "Tel_Meskoa_Tel_Matouigius_1.9.3_EV.esp": {
+      "added": {
+        "door_dwrv_load00": 1,
+        "ex_dwrv_block00": 2,
+        "ex_dwrv_block10": 2,
+        "ex_dwrv_block20": 3,
+        "ex_dwrv_block30": 3,
+        "ex_dwrv_enter00": 1,
+        "ex_dwrv_ruin00": 1,
+        "ex_dwrv_ruin20": 1,
+        "ex_dwrv_ruin30": 1,
+        "ex_dwrv_ruin40": 1,
+        "ex_dwrv_ruin50": 1,
+        "ex_dwrv_ruin60": 1,
+        "ex_dwrv_ruin70": 1,
+        "ex_dwrv_ruin80": 1,
+        "ex_dwrv_ruin_tower00": 1,
+        "ex_dwrv_wall00": 1,
+        "ex_dwrv_wall30": 1,
+        "ex_dwrv_wall40": 1,
+        "ex_dwrv_wall50": 1,
+        "flora_bc_grass_01": 1,
+        "flora_black_anther_01": 1,
+        "flora_black_anther_02": 2,
+        "flora_bush_01": 3,
+        "flora_gold_kanet_02": 3,
+        "flora_roobrush_02": 1,
+        "flora_stoneflower_01": 1,
+        "flora_stoneflower_02": 1,
+        "flora_tree_ai_04": 1,
+        "flora_tree_ai_05": 1,
+        "flora_tree_mh_01": 1,
+        "flora_willow_flower_01": 1,
+        "my_magic mushroom1": 1,
+        "my_z_tm_bc_shroom06b": 1,
+        "my_z_tm_bc_shroom07b": 1,
+        "my_z_tm_bc_shroom08b": 1,
+        "my_z_tm_lophophora": 2,
+        "my_z_tm_shroom_01": 1,
+        "my_z_tm_shroom_02": 1,
+        "my_z_tm_shroom_03": 2,
+        "terrain_rock_wg_02": 4,
+        "terrain_rock_wg_03": 1,
+        "terrain_rock_wg_05": 2,
+        "terrain_rock_wg_07": 2,
+        "terrain_rock_wg_08": 2,
+        "terrain_rock_wg_09": 2,
+        "terrain_rock_wg_10": 1,
+        "terrain_rock_wg_12": 2,
+        "terrain_rock_wg_14": 2,
+        "terrain_rock_wg_16": 1,
+        "terrain_rock_wg_17": 6,
+        "terrain_rock_wg_18": 3,
+        "ztm_cloth_sack_gold_25": 1,
+        "ztm_contain_corpse20_si": 1,
+        "ztm_str_dwe": 1
+      }
+    }
+  }
+}

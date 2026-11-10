@@ -1,0 +1,54 @@
+{
+  "cell": "29,17",
+  "name": "Uvirith's Grave",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_bedroll": 1,
+        "blue water ref 512_ripple": 2,
+        "com_sack_02_saltrice_10": 1,
+        "flora_grass_01": 4,
+        "flora_kelp_01": 3,
+        "flora_kelp_02": 4,
+        "flora_kelp_03": 5,
+        "flora_kelp_04": 3,
+        "flora_tree_gl_08": 1,
+        "flora_tree_gl_10": 2,
+        "flora_tree_wg_01": 1,
+        "flora_tree_wg_04": 2,
+        "flora_tree_wg_06": 1,
+        "flora_tree_wg_07": 2,
+        "flora_tree_wg_08": 2,
+        "flora_treestump_wg_01": 2,
+        "furn_log_01": 3,
+        "furn_log_03": 2,
+        "furn_log_04": 3,
+        "in_cave_plant00": 5,
+        "in_cave_plant10": 3,
+        "kollop_01_pearl": 2,
+        "kollop_03_pearl": 2,
+        "light_pitfire01": 1,
+        "t_mw_rlvl_boethiahspinewater+2": 1,
+        "terrain_rock_wg_02": 1,
+        "terrain_rock_wg_05": 2,
+        "terrain_rock_wg_07": 1,
+        "terrain_rock_wg_08": 3,
+        "terrain_rock_wg_10": 5,
+        "terrain_rock_wg_11": 1,
+        "terrain_rock_wg_12": 7,
+        "terrain_rock_wg_16": 1,
+        "terrain_rock_wg_18": 1,
+        "terrain_rocks_wg_01": 7,
+        "terrain_rocks_wg_02": 3,
+        "terrain_rocks_wg_03": 9,
+        "terrain_rocks_wg_04": 4,
+        "tr_m1_o_ruben": 1
+      }
+    },
+    "Tel Isatumu.ESP": {
+      "added": {
+        "ex_t_door_01_pc_hold_b": 1
+      }
+    }
+  }
+}

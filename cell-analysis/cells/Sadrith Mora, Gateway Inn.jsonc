@@ -43,6 +43,11 @@
         "furn_de_bar_04": 1
       }
     },
+    "Tel Isatumu.ESP": {
+      "modified": {
+        "in_t_manor02_entry_left": 1
+      }
+    },
     "Ownership Overhaul.esp": {
       "modified": {
         "bk_nerevarinenotice": 1,

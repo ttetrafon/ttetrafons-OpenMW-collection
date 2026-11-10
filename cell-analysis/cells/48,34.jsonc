@@ -1,0 +1,72 @@
+{
+  "cell": "48,34",
+  "plugins": {
+    "Tel_Meskoa_FandF.esp": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    },
+    "Tel_Meskoa_Tel_Matouigius_1.9.3_EV.esp": {
+      "added": {
+        "blue water ref 128": 2,
+        "ex_bm_tomb_01": 1,
+        "ex_bm_tomb_02": 1,
+        "ex_bm_tomb_door_01": 1,
+        "ex_bm_tomb_door_02": 1,
+        "flora_black_anther_01": 2,
+        "flora_bm_grass_01": 29,
+        "flora_bm_grass_04": 37,
+        "flora_bm_holly_01": 1,
+        "flora_bm_holly_02": 1,
+        "flora_bm_holly_04": 1,
+        "flora_comberry_01": 4,
+        "flora_gold_kanet_01": 7,
+        "flora_kreshweed_01": 1,
+        "flora_roobrush_02": 4,
+        "flora_stoneflower_01": 2,
+        "flora_willow_flower_01": 4,
+        "furn_6th_ashpillar": 2,
+        "my_1111_tmbm3": 1,
+        "my_1111_tmbm4": 3,
+        "my_1111_tmbm5": 3,
+        "my_1111_tmbm6": 3,
+        "my_bears": 4,
+        "my_flame": 2,
+        "my_sprigans": 1,
+        "my_tma_propylon3rdblade": 1,
+        "my_tma_stonetroll": 1,
+        "my_wolfs": 9,
+        "my_z_tm_shroom_01": 4,
+        "my_z_tm_shroom_02": 4,
+        "my_z_tm_shroom_03": 2,
+        "terrain_rock_bm_04": 8,
+        "terrain_rock_bm_05": 4,
+        "terrain_rock_bm_06": 1,
+        "terrain_rock_bm_07": 2,
+        "terrain_rock_bm_08": 2,
+        "terrain_rock_bm_09": 4,
+        "terrain_rock_bm_35": 1,
+        "terrain_rock_bm_39": 1,
+        "terrain_rock_bm_40": 3,
+        "terrain_rock_bm_41": 1,
+        "terrain_rock_bm_48": 2,
+        "terrain_rock_bm_52": 1,
+        "terrain_rock_bm_66": 1,
+        "terrain_rock_bm_67": 2,
+        "terrain_rock_bm_68": 1,
+        "terrain_rock_bm_70": 1,
+        "terrain_rock_bm_72": 1,
+        "terrain_rock_bm_74": 1,
+        "terrain_rocks_bm_01": 1,
+        "terrain_rocks_bm_02": 1,
+        "ztm_tree_vurt_bm_01": 9,
+        "ztm_tree_vurt_bm_02": 13,
+        "ztm_tree_vurt_bm_03": 4,
+        "ztm_tree_vurt_bm_04": 8,
+        "ztm_tree_vurt_bm_05": 4,
+        "ztm_tree_vurt_bm_06": 9,
+        "ztm_tree_vurt_bm_07": 7
+      }
+    }
+  }
+}

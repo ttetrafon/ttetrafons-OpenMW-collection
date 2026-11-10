@@ -1,0 +1,61 @@
+{
+  "cell": "43,28",
+  "plugins": {
+    "Tel_Meskoa_FandF.esp": {
+      "added": {
+        "_aa_ex_tomb70_spawn": 1,
+        "_aa_solo_spawn_no_guard": 1
+      }
+    },
+    "Tel_Meskoa_Tel_Matouigius_1.9.3_EV.esp": {
+      "added": {
+        "dead random male": 1,
+        "ex_de_oar": 3,
+        "ex_de_rowboat": 2,
+        "ex_de_ship_trapdoor": 1,
+        "ex_de_shipwreck": 1,
+        "ex_t_menhir_l_01": 1,
+        "ex_velothi_entrance_02": 1,
+        "ex_velothi_loaddoor_01": 1,
+        "fabricant_verminous": 1,
+        "flora_bc_fern_02": 11,
+        "flora_bc_grass_01": 31,
+        "flora_bush_01": 9,
+        "flora_kreshweed_01": 24,
+        "in_6th_all_lev+0": 1,
+        "in_goblins": 2,
+        "my_magic mushroom1": 5,
+        "my_magic mushroom2": 3,
+        "my_mech_ring": 1,
+        "my_plasma_ring": 1,
+        "my_stone_ring": 1,
+        "my_tel meskoaskelette": 1,
+        "my_z_tm_bc_shroom02": 6,
+        "my_z_tm_bc_shroom05": 4,
+        "my_z_tm_bc_shroom06b": 13,
+        "my_z_tm_bc_shroom08b": 11,
+        "my_z_tm_lophophora": 9,
+        "my_z_tm_meskoa_main_island": 1,
+        "my_z_tm_om_column04": 3,
+        "my_z_tm_om_column11": 1,
+        "my_z_tm_om_column14": 1,
+        "my_z_tm_om_column16": 11,
+        "my_z_tm_pos_tandoressc3": 1,
+        "my_z_tm_shroom_01": 2,
+        "my_z_tm_shroom_02": 1,
+        "my_z_tm_shroom_03": 5,
+        "terrain_rock_wg_03": 1,
+        "terrain_rock_wg_04": 1,
+        "terrain_rock_wg_07": 1,
+        "terrain_rock_wg_08": 2,
+        "terrain_rock_wg_09": 2,
+        "terrain_rocks_wg_01": 7,
+        "ztm_flora_maple_g_01_a": 1,
+        "ztm_flora_maple_g_01_b": 3,
+        "ztm_flora_tree_hanging_01": 4,
+        "ztm_flora_tree_thuja_like_01_a": 7,
+        "ztm_flora_tree_thuja_like_01_b": 3
+      }
+    }
+  }
+}

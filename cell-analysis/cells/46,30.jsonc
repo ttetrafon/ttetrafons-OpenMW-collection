@@ -1,0 +1,63 @@
+{
+  "cell": "46,30",
+  "plugins": {
+    "Tel_Meskoa_FandF.esp": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 2
+      }
+    },
+    "Tel_Meskoa_Tel_Matouigius_1.9.3_EV.esp": {
+      "added": {
+        "blue water ref 128": 2,
+        "ex_hlaalu_pole_01": 2,
+        "ex_rope_short": 2,
+        "flora_black_anther_01": 1,
+        "flora_black_anther_02": 1,
+        "flora_bm_grass_01": 25,
+        "flora_bm_grass_04": 37,
+        "flora_bm_holly_01": 4,
+        "flora_bm_holly_02": 1,
+        "flora_bm_holly_04": 3,
+        "flora_comberry_01": 10,
+        "flora_gold_kanet_01": 10,
+        "flora_kreshweed_01": 3,
+        "flora_roobrush_02": 7,
+        "flora_stoneflower_01": 10,
+        "flora_stoneflower_02": 3,
+        "flora_willow_flower_01": 9,
+        "furn_6th_ashpillar": 2,
+        "my_1111_tmbm2": 4,
+        "my_1111_tmbm6": 2,
+        "my_1111_tmbm7": 2,
+        "my_111_skelett": 2,
+        "my_bears": 5,
+        "my_contain_corpse1": 1,
+        "my_flame": 2,
+        "my_sprigans": 1,
+        "my_turm_door3_outtoin": 1,
+        "my_wolfs": 5,
+        "my_z_tm_pos_tma_turm3scriptexit": 1,
+        "my_z_tm_shroom_01": 5,
+        "my_z_tm_shroom_02": 4,
+        "my_z_tm_shroom_03": 7,
+        "terrain_rock_bm_02": 2,
+        "terrain_rock_bm_04": 2,
+        "terrain_rock_bm_05": 4,
+        "terrain_rock_bm_09": 1,
+        "terrain_rock_bm_35": 1,
+        "terrain_rock_bm_40": 1,
+        "terrain_rock_bm_44": 1,
+        "terrain_rock_bm_48": 1,
+        "terrain_rocks_bm_01": 6,
+        "terrain_rocks_bm_02": 7,
+        "ztm_tree_vurt_bm_01": 26,
+        "ztm_tree_vurt_bm_02": 31,
+        "ztm_tree_vurt_bm_03": 2,
+        "ztm_tree_vurt_bm_04": 14,
+        "ztm_tree_vurt_bm_05": 5,
+        "ztm_tree_vurt_bm_06": 22,
+        "ztm_tree_vurt_bm_07": 15
+      }
+    }
+  }
+}

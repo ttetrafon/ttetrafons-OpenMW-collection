@@ -1,0 +1,48 @@
+{
+  "cell": "36,34",
+  "name": "Tel Meskoa: The Ethereal Peak",
+  "plugins": {
+    "Tel_Meskoa_FandF.esp": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    },
+    "Tel_Meskoa_Tel_Matouigius_1.9.3_EV.esp": {
+      "added": {
+        "contain_corpse21_mage": 1,
+        "in_lava_1024": 4,
+        "in_om_statue1": 1,
+        "my_om_door_round": 1,
+        "silver staff of war": 1,
+        "terrain_ashland_rock_03": 2,
+        "terrain_ashland_rock_04": 1,
+        "terrain_ashland_rock_05": 2,
+        "terrain_ashland_rock_06": 1,
+        "terrain_ashland_rock_08": 2,
+        "terrain_ashland_rock_10": 2,
+        "terrain_ashland_rock_11": 2,
+        "terrain_ashland_rock_12": 1,
+        "terrain_ashland_rock_13": 2,
+        "terrain_ashland_rock_14": 4,
+        "terrain_ashland_rock_15": 1,
+        "ztm_ash_rock_03": 3,
+        "ztm_ash_rock_04": 6,
+        "ztm_ash_rock_06": 9,
+        "ztm_ash_rock_23": 6,
+        "ztm_ash_rock_cliff_3": 2,
+        "ztm_ash_rock_cliff_4": 4,
+        "ztm_ash_rock_cliff_5": 2,
+        "ztm_ash_rock_cliff_8": 1,
+        "ztm_ash_steps01": 1,
+        "ztm_ash_steps04": 1,
+        "ztm_crystal_harvest_cre": 1,
+        "ztm_mountain_note01": 1,
+        "ztm_purple_256_pulse": 1,
+        "ztm_purple_crystal_2_big": 1,
+        "ztm_sack_02_gold_r1500": 1,
+        "ztm_statue_saint_ns_small": 4,
+        "ztm_temple": 1
+      }
+    }
+  }
+}
