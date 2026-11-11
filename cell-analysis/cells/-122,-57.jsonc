@@ -101,6 +101,17 @@
       "added": {
         "divinemarker": 1
       }
+    },
+    "Guarded_Dungeon_Entrances_for_Project_Cyrodiil.esp": {
+      "added": {
+        "t_cyr_fau_fishslora_01": 1,
+        "t_cyr_fau_fishslred_01": 1
+      }
+    },
+    "Anvil Rickshaw Travel.ESP": {
+      "added": {
+        "mwg_anvil_rickshaw_05": 1
+      }
     }
   }
 }

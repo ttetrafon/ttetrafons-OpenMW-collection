@@ -1,0 +1,73 @@
+{
+  "cell": "-112,-54",
+  "plugins": {
+    "Cyr_Main.ESM": {
+      "added": {
+        "bm_ka_door_dark": 1,
+        "t_cyr_cr_goldtantha": 2,
+        "t_cyr_cr_muskrat": 2,
+        "t_cyr_cr_snakediamondaspis": 1,
+        "t_cyr_flora_aloevera01": 1,
+        "t_cyr_flora_aloevera02": 1,
+        "t_cyr_flora_aloevera03": 2,
+        "t_cyr_flora_apple01": 1,
+        "t_cyr_flora_apple02": 1,
+        "t_cyr_flora_dryadsad02": 2,
+        "t_cyr_flora_dryadsad04": 1,
+        "t_cyr_flora_ginseng01": 3,
+        "t_cyr_flora_ginseng02": 1,
+        "t_cyr_flora_goldenrod01": 3,
+        "t_cyr_flora_ladysmnt01": 6,
+        "t_cyr_flora_spikerice01": 7,
+        "t_cyr_flora_spikerice02": 6,
+        "t_cyr_flora_spikerice03": 10,
+        "t_cyr_flora_stjahnswr01": 10,
+        "t_cyr_flora_thunglew01": 2,
+        "t_cyr_flora_tigerlill01": 14,
+        "t_cyr_flora_tigerlill02": 6,
+        "t_cyr_floragc_bush_01": 6,
+        "t_cyr_floragc_bush_02": 3,
+        "t_cyr_floragc_shrub_01": 14,
+        "t_cyr_floragc_shrub_02": 2,
+        "t_cyr_floragc_tree_06": 1,
+        "t_cyr_floragc_treelog_03": 1,
+        "t_cyr_floragc_treeolive_01": 1,
+        "t_cyr_floragc_treepalm_04": 2,
+        "t_cyr_floragc_treepalm_05": 1,
+        "t_cyr_terrrockgc_rock_02": 12,
+        "t_cyr_terrrockgc_rock_03": 11,
+        "t_cyr_terrrockgc_rock_04": 11,
+        "t_cyr_terrrockgc_rock_05": 8,
+        "t_cyr_terrrockgc_rock_06": 10,
+        "t_cyr_terrrockgc_rock_07": 9,
+        "t_cyr_terrrockgc_rock_08": 5,
+        "t_cyr_terrrockgc_rock_09": 4,
+        "t_cyr_terrrockgc_rock_10": 3,
+        "t_cyr_terrrockgc_rock_11": 10,
+        "t_cyr_terrrockgc_rock_12": 4,
+        "t_cyr_terrrockgc_rock_13": 4,
+        "t_cyr_terrrockgc_rock_14": 6,
+        "t_cyr_terrrockgc_rock_15": 5,
+        "t_cyr_terrrockgc_rock_16": 5,
+        "t_cyr_terrrockgc_rock_17": 3,
+        "t_cyr_terrrockgc_rock_18": 1,
+        "t_cyr_terrrockgc_rock_19": 2,
+        "t_cyr_terrrockgc_rock_21": 4,
+        "t_cyr_terrrockgc_rock_22": 1,
+        "t_cyr_terrrockgc_rock_23": 2,
+        "t_cyr_terrrockgc_rock_24": 2,
+        "t_cyr_terrrockgc_rock_26": 1,
+        "t_cyr_terrrockgc_rock_30": 1,
+        "t_cyr_terrrockgc_rock_31": 1,
+        "t_glb_flora_fennel01": 3,
+        "t_imp_setgc_railing_01": 1,
+        "t_imp_setgc_railing_02": 4
+      }
+    },
+    "Guarded_Dungeon_Entrances_for_Project_Cyrodiil.esp": {
+      "added": {
+        "t_cyr_cr_colwolf": 2
+      }
+    }
+  }
+}

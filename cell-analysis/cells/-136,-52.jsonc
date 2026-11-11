@@ -293,6 +293,11 @@
         "t_imp_setgc_x_dockstownscent_01": 5,
         "t_imp_var_colstreetlight_01_128": 8
       }
+    },
+    "Populated Cyrodiil.ESP": {
+      "added": {
+        "ppc_npc_23": 1
+      }
     }
   }
 }

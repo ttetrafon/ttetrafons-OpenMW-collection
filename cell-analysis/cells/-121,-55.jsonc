@@ -364,6 +364,13 @@
         "aa_wares_bookseller": 1,
         "aa_wares_trader": 1
       }
+    },
+    "Populated Cyrodiil.ESP": {
+      "added": {
+        "ppc_npc_11": 1,
+        "ppc_npc_17": 1,
+        "ppc_npc_20": 1
+      }
     }
   }
 }

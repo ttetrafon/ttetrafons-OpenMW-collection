@@ -1,0 +1,65 @@
+{
+  "cell": "-119,-51",
+  "plugins": {
+    "Cyr_Main.ESM": {
+      "added": {
+        "t_cyr_cr_aebis": 1,
+        "t_cyr_cr_alphyn": 1,
+        "t_cyr_cr_butterflybluechalk": 2,
+        "t_cyr_cr_mothmoon": 1,
+        "t_cyr_fauna_nesttant_04": 1,
+        "t_cyr_flora_aloevera01": 3,
+        "t_cyr_flora_aloevera02": 1,
+        "t_cyr_flora_aloevera03": 2,
+        "t_cyr_flora_apple01": 1,
+        "t_cyr_flora_apple02": 2,
+        "t_cyr_flora_apple03": 1,
+        "t_cyr_flora_elephantgrass_01": 2,
+        "t_cyr_flora_elephantgrass_02": 14,
+        "t_cyr_flora_elephantgrass_03": 3,
+        "t_cyr_flora_elephantgrass_05": 4,
+        "t_cyr_flora_elephantgrassgrp_01": 1,
+        "t_cyr_flora_elephantgrassgrp_02": 3,
+        "t_cyr_flora_ginseng01": 1,
+        "t_cyr_flora_goldenrod01": 1,
+        "t_cyr_flora_goldenrod02": 1,
+        "t_cyr_flora_ladysmnt01": 2,
+        "t_cyr_flora_stjahnswr01": 3,
+        "t_cyr_flora_thunglew01": 2,
+        "t_cyr_flora_tigerlill01": 6,
+        "t_cyr_flora_tigerlill02": 1,
+        "t_cyr_floragc_bush_01": 7,
+        "t_cyr_floragc_bush_02": 1,
+        "t_cyr_floragc_shrub_01": 5,
+        "t_cyr_floragc_shrub_02": 3,
+        "t_cyr_floragc_tree_04": 1,
+        "t_cyr_floragc_treeolive_02": 1,
+        "t_cyr_terrrockgc_rock_01": 2,
+        "t_cyr_terrrockgc_rock_02": 4,
+        "t_cyr_terrrockgc_rock_04": 5,
+        "t_cyr_terrrockgc_rock_05": 1,
+        "t_cyr_terrrockgc_rock_07": 1,
+        "t_cyr_terrrockgc_rock_08": 8,
+        "t_cyr_terrrockgc_rock_12": 1,
+        "t_cyr_terrrockgc_rock_13": 3,
+        "t_cyr_terrrockgc_rock_15": 1,
+        "t_cyr_terrrockgc_rock_17": 5,
+        "t_cyr_terrrockgc_rock_20": 6,
+        "t_cyr_terrrockgc_rock_21": 1,
+        "t_cyr_terrrockgc_rock_23": 4,
+        "t_cyr_terrrockgc_rock_28": 1,
+        "t_cyr_terrrockgc_rock_32": 2,
+        "t_glb_blackdoor_02": 1,
+        "t_glb_flora_cattails_02": 1,
+        "t_glb_flora_cattails_03": 1,
+        "t_imp_dngcolbarrow_x_entr_01": 1
+      }
+    },
+    "Guarded_Dungeon_Entrances_for_Project_Cyrodiil.esp": {
+      "added": {
+        "gdec_lvl_skeletons+0": 1,
+        "gdec_lvl_skeletons+2": 1
+      }
+    }
+  }
+}

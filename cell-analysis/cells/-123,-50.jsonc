@@ -1,0 +1,72 @@
+{
+  "cell": "-123,-50",
+  "plugins": {
+    "Cyr_Main.ESM": {
+      "added": {
+        "pc_m1_o_dromizirdro": 1,
+        "pc_m1_o_marcusnanus": 1,
+        "t_com_furn_bedroll_01": 2,
+        "t_com_var_candlepurple04_128": 1,
+        "t_com_var_candlewhite01_128": 1,
+        "t_cyr_cr_colbear": 1,
+        "t_cyr_flora_aloevera01": 1,
+        "t_cyr_flora_aloevera03": 1,
+        "t_cyr_flora_ginseng01": 4,
+        "t_cyr_flora_goldenrod01": 6,
+        "t_cyr_flora_ivy_01": 1,
+        "t_cyr_flora_ivy_02": 1,
+        "t_cyr_flora_ladysmnt01": 3,
+        "t_cyr_flora_spikerice03": 1,
+        "t_cyr_flora_stjahnswr01": 3,
+        "t_cyr_flora_thunglew01": 1,
+        "t_cyr_flora_tigerlill01": 1,
+        "t_cyr_flora_tigerlill02": 1,
+        "t_cyr_floragc_bush_01": 6,
+        "t_cyr_floragc_bush_02": 4,
+        "t_cyr_floragc_shrub_01": 21,
+        "t_cyr_floragc_shrub_02": 8,
+        "t_cyr_floragc_treeolive_01": 1,
+        "t_cyr_floragc_treeolive_02": 1,
+        "t_cyr_floragc_treepalm_02": 1,
+        "t_cyr_floragc_treepalm_03": 1,
+        "t_cyr_floragc_treepalm_04": 2,
+        "t_cyr_terrrockgc_rock_02": 11,
+        "t_cyr_terrrockgc_rock_03": 13,
+        "t_cyr_terrrockgc_rock_04": 11,
+        "t_cyr_terrrockgc_rock_05": 2,
+        "t_cyr_terrrockgc_rock_06": 2,
+        "t_cyr_terrrockgc_rock_07": 1,
+        "t_cyr_terrrockgc_rock_08": 5,
+        "t_cyr_terrrockgc_rock_09": 2,
+        "t_cyr_terrrockgc_rock_10": 5,
+        "t_cyr_terrrockgc_rock_11": 5,
+        "t_cyr_terrrockgc_rock_12": 4,
+        "t_cyr_terrrockgc_rock_13": 5,
+        "t_cyr_terrrockgc_rock_14": 7,
+        "t_cyr_terrrockgc_rock_15": 4,
+        "t_cyr_terrrockgc_rock_16": 5,
+        "t_cyr_terrrockgc_rock_17": 4,
+        "t_cyr_terrrockgc_rock_18": 1,
+        "t_cyr_terrrockgc_rock_19": 5,
+        "t_cyr_terrrockgc_rock_20": 1,
+        "t_cyr_terrrockgc_rock_21": 1,
+        "t_cyr_terrrockgc_rock_24": 1,
+        "t_cyr_terrrockgc_rock_25": 1,
+        "t_cyr_terrrockgc_rock_26": 1,
+        "t_cyr_terrrockgc_rock_28": 2,
+        "t_cyr_terrrockgc_rock_30": 1,
+        "t_cyr_terrrockgc_rock_33": 2,
+        "t_imp_dngcolbarrow_x_entr_01": 1,
+        "t_imp_setgc_x_fireplace_01": 1,
+        "t_imp_setgc_x_stool_01": 2,
+        "t_imp_settent_tent_01": 2,
+        "t_sky_cave_doornat_01": 1
+      }
+    },
+    "Guarded_Dungeon_Entrances_for_Project_Cyrodiil.esp": {
+      "added": {
+        "gdec_lvl_skeletons+0": 2
+      }
+    }
+  }
+}

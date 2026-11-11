@@ -1,0 +1,63 @@
+{
+  "cell": "-130,-40",
+  "plugins": {
+    "Cyr_Main.ESM": {
+      "added": {
+        "active_bubbles00": 6,
+        "blue coast ref 1024": 2,
+        "flora_kelp_01": 7,
+        "flora_kelp_02": 11,
+        "flora_kelp_03": 7,
+        "flora_kelp_04": 4,
+        "kollop_01": 2,
+        "kollop_01_pearl": 2,
+        "kollop_02": 4,
+        "kollop_02_pearl": 2,
+        "kollop_03": 3,
+        "kollop_03_pearl": 4,
+        "t_cyr_cr_sprfishstationary": 3,
+        "t_cyr_terrrockgc_rock_02": 7,
+        "t_cyr_terrrockgc_rock_03": 17,
+        "t_cyr_terrrockgc_rock_05": 3,
+        "t_cyr_terrrockgc_rock_06": 12,
+        "t_cyr_terrrockgc_rock_09": 5,
+        "t_cyr_terrrockgc_rock_11": 4,
+        "t_cyr_terrrockgc_rock_13": 3,
+        "t_cyr_terrrockgc_rock_16": 1,
+        "t_cyr_terrrockgc_rock_20": 4,
+        "t_cyr_terrrockgc_rock_22": 1,
+        "t_cyr_terrrockgc_rock_24": 1,
+        "t_glb_cr_hardhatprawn": 2,
+        "t_glb_fauna_coral_01": 3,
+        "t_glb_fauna_coral_02": 3,
+        "t_glb_fauna_coral_03": 4,
+        "t_glb_fauna_coral_04": 1,
+        "t_glb_fauna_coral_05": 4,
+        "t_glb_fauna_coral_06": 4,
+        "t_glb_fauna_coral_07": 5,
+        "t_glb_fauna_coral_08": 5,
+        "t_glb_fauna_fishsch_anf": 1,
+        "t_glb_fauna_fishsch_jly": 1,
+        "t_glb_fauna_starf_01a": 1,
+        "t_glb_fauna_starf_01b": 4,
+        "t_glb_fauna_starf_01c": 3,
+        "t_glb_fauna_starf_02a": 4,
+        "t_glb_fauna_starf_02b": 3,
+        "t_glb_fauna_starf_03a": 1,
+        "t_glb_fauna_starf_03c": 1,
+        "t_glb_flora_kelp1group_01": 9,
+        "t_glb_flora_kelp1group_02": 10,
+        "t_glb_flora_kelp2_01": 11,
+        "t_glb_flora_kelp2_02": 7,
+        "t_glb_flora_kelp2_03": 5,
+        "t_glb_flora_kelp2group_01": 10
+      }
+    },
+    "Guarded_Dungeon_Entrances_for_Project_Cyrodiil.esp": {
+      "added": {
+        "t_cyr_fau_fishslora_01": 1,
+        "t_cyr_fau_fishslred_01": 1
+      }
+    }
+  }
+}

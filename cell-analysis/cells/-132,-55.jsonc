@@ -1,0 +1,61 @@
+{
+  "cell": "-132,-55",
+  "plugins": {
+    "Cyr_Main.ESM": {
+      "added": {
+        "active_bubbles00": 1,
+        "flora_kelp_04": 2,
+        "t_cyr_cr_longfin": 2,
+        "t_cyr_cr_longfinstationary": 1,
+        "t_cyr_floragc_bush_02": 1,
+        "t_cyr_floragc_treepalm_04": 1,
+        "t_cyr_terrrockgc_caveentr_10": 1,
+        "t_cyr_terrrockgc_rock_04": 1,
+        "t_cyr_terrrockgc_rock_05": 3,
+        "t_cyr_terrrockgc_rock_07": 1,
+        "t_cyr_terrrockgc_rock_08": 1,
+        "t_cyr_terrrockgc_rock_11": 2,
+        "t_cyr_terrrockgc_rock_12": 1,
+        "t_cyr_terrrockgc_rock_14": 1,
+        "t_cyr_terrrockgc_rock_18": 1,
+        "t_cyr_terrrockgc_rock_21": 1,
+        "t_cyr_terrrockgc_rock_23": 2,
+        "t_glb_blackdoor_01": 1,
+        "t_glb_fauna_clam_03a": 1,
+        "t_glb_fauna_seaurch01a": 1,
+        "t_glb_fauna_seaurch01b": 2,
+        "t_glb_fauna_seaurch01c": 1,
+        "t_glb_fauna_seaurch01d": 1,
+        "t_glb_fauna_seaurch02c": 1,
+        "t_glb_fauna_seaurch02f": 1,
+        "t_glb_fauna_shellauger3": 1,
+        "t_glb_fauna_shellcockl3": 1,
+        "t_glb_fauna_shellcockl6": 1,
+        "t_glb_fauna_starf_01a": 1,
+        "t_glb_fauna_starf_01b": 1,
+        "t_glb_fauna_starf_01c": 1,
+        "t_glb_fauna_starf_02a": 1,
+        "t_glb_flora_cattails_01": 1,
+        "t_glb_flora_cattails_03": 1,
+        "t_glb_flora_kelp1group_01": 2,
+        "t_glb_flora_kelp1group_02": 1,
+        "t_glb_flora_kelp2_01": 3,
+        "t_glb_flora_kelp2_02": 2,
+        "t_glb_flora_kelp2group_01": 4,
+        "t_glb_flora_kelp3_01": 1,
+        "t_glb_flora_kelp3_02": 4,
+        "t_glb_flora_kelp3_03": 5,
+        "t_glb_flora_kelp3_04": 5,
+        "t_glb_mine_redcoral01": 2,
+        "t_mw_cr_dreugh1": 1,
+        "t_mw_cr_dreugh2": 1
+      }
+    },
+    "Guarded_Dungeon_Entrances_for_Project_Cyrodiil.esp": {
+      "added": {
+        "t_cyr_fau_fishslora_01": 1,
+        "t_cyr_fau_fishslred_01": 1
+      }
+    }
+  }
+}

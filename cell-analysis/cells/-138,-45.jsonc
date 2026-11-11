@@ -1,0 +1,70 @@
+{
+  "cell": "-138,-45",
+  "plugins": {
+    "Cyr_Main.ESM": {
+      "added": {
+        "active_bubbles00": 3,
+        "barrel_01_float_food20": 1,
+        "blue water ref 768": 2,
+        "ex_barnacles_01": 2,
+        "ex_barnacles_02": 1,
+        "ex_barnacles_03": 2,
+        "flora_kelp_01": 4,
+        "flora_kelp_02": 8,
+        "flora_kelp_03": 17,
+        "flora_kelp_04": 10,
+        "kollop_01_pearl": 1,
+        "t_cyr_cr_lamialess": 2,
+        "t_cyr_cr_longfin": 1,
+        "t_cyr_cr_sprfish": 2,
+        "t_cyr_lvl_lamia": 1,
+        "t_cyr_terrrockgc_rock_02": 6,
+        "t_cyr_terrrockgc_rock_03": 6,
+        "t_cyr_terrrockgc_rock_04": 1,
+        "t_cyr_terrrockgc_rock_05": 3,
+        "t_cyr_terrrockgc_rock_06": 10,
+        "t_cyr_terrrockgc_rock_07": 1,
+        "t_cyr_terrrockgc_rock_09": 6,
+        "t_cyr_terrrockgc_rock_11": 5,
+        "t_cyr_terrrockgc_rock_16": 1,
+        "t_cyr_terrrockgc_rock_20": 2,
+        "t_cyr_terrrockgc_rock_22": 3,
+        "t_cyrrga_ch2smith": 1,
+        "t_cyrrga_furn_pot1gold": 1,
+        "t_cyrrga_furn_urn1posrg": 2,
+        "t_glb_cr_dolphin": 2,
+        "t_glb_fauna_coral_02": 1,
+        "t_glb_fauna_coral_05": 2,
+        "t_glb_fauna_coral_06": 2,
+        "t_glb_fauna_coral_08": 2,
+        "t_glb_fauna_fishsch_anf": 1,
+        "t_glb_fauna_shellconch": 1,
+        "t_glb_fauna_starf_01b": 2,
+        "t_glb_fauna_starf_01c": 1,
+        "t_glb_fauna_starf_02a": 1,
+        "t_glb_fauna_starf_02b": 1,
+        "t_glb_fauna_starf_03a": 1,
+        "t_glb_flora_kelp1group_01": 3,
+        "t_glb_flora_kelp2_01": 4,
+        "t_glb_flora_kelp2_02": 2,
+        "t_glb_flora_kelp2_03": 1,
+        "t_glb_flora_kelp2group_01": 1,
+        "t_glb_flora_kelp3_02": 1,
+        "t_glb_flora_kelp3_03": 2,
+        "t_glb_flora_kelp3_04": 1,
+        "t_glb_mine_redcoral01": 4,
+        "t_glb_mine_redcoral02": 1,
+        "t_glb_mine_redcoral03": 2,
+        "t_mw_cr_sturgeon": 2,
+        "t_rga_setharbor_doorship_01": 1,
+        "t_rga_setharbor_shipwreck_01": 1
+      }
+    },
+    "Guarded_Dungeon_Entrances_for_Project_Cyrodiil.esp": {
+      "added": {
+        "t_cyr_fau_fishslora_01": 1,
+        "t_cyr_fau_fishslred_01": 1
+      }
+    }
+  }
+}

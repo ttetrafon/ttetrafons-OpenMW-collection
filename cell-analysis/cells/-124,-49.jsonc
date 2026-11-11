@@ -242,6 +242,12 @@
       "added": {
         "divinemarker": 1
       }
+    },
+    "Populated Cyrodiil.ESP": {
+      "added": {
+        "ppc_npc_05": 1,
+        "ppc_npc_25": 1
+      }
     }
   }
 }

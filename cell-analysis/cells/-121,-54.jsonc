@@ -158,6 +158,11 @@
       "added": {
         "aa_wares_trader": 1
       }
+    },
+    "Populated Cyrodiil.ESP": {
+      "added": {
+        "ppc_npc_21": 1
+      }
     }
   }
 }

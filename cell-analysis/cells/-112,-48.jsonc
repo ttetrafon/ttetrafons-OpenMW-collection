@@ -120,6 +120,14 @@
         "t_imp_setgc_x_plank_05": 2
       }
     },
+    "Guarded_Dungeon_Entrances_for_Project_Cyrodiil.esp": {
+      "added": {
+        "gdec_necromancer01": 1,
+        "gdec_necromancer02": 1,
+        "t_cyr_und_skelarc_01": 1,
+        "t_cyr_und_skellegion_02": 1
+      }
+    },
     "Wares_PC_traders.esp": {
       "added": {
         "aa_wares_healer": 1

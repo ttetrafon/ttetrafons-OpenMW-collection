@@ -362,10 +362,21 @@
         "t_we_setharbor_oar_01": 1
       }
     },
+    "Anvil Rickshaw Travel.ESP": {
+      "added": {
+        "mwg_anvil_rickshaw_02": 1,
+        "mwg_com_rickshaw_02": 1
+      }
+    },
     "Wares_PC_traders.esp": {
       "added": {
         "aa_wares_smith": 1,
         "aa_wares_trader": 3
+      }
+    },
+    "Populated Cyrodiil.ESP": {
+      "added": {
+        "ppc_npc_15": 1
       }
     }
   }

@@ -169,6 +169,11 @@
       "added": {
         "aa_wares_smith_legion": 1
       }
+    },
+    "Populated Cyrodiil.ESP": {
+      "added": {
+        "ppc_npc_27": 1
+      }
     }
   }
 }

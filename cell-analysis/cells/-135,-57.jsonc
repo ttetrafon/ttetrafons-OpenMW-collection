@@ -1,0 +1,68 @@
+{
+  "cell": "-135,-57",
+  "plugins": {
+    "Cyr_Main.ESM": {
+      "added": {
+        "active_bubbles00": 3,
+        "blue coast ref 1024": 3,
+        "flora_kelp_01": 12,
+        "flora_kelp_02": 57,
+        "flora_kelp_03": 5,
+        "flora_kelp_04": 8,
+        "kollop_01_pearl": 3,
+        "kollop_03_pearl": 3,
+        "t_cyr_cr_lamialess": 1,
+        "t_cyr_cr_sprfishstationary": 38,
+        "t_cyr_terrrockgc_cliff_02": 1,
+        "t_cyr_terrrockgc_rock_02": 8,
+        "t_cyr_terrrockgc_rock_03": 3,
+        "t_cyr_terrrockgc_rock_04": 5,
+        "t_cyr_terrrockgc_rock_06": 3,
+        "t_cyr_terrrockgc_rock_07": 1,
+        "t_cyr_terrrockgc_rock_10": 4,
+        "t_cyr_terrrockgc_rock_11": 2,
+        "t_cyr_terrrockgc_rock_12": 3,
+        "t_cyr_terrrockgc_rock_13": 1,
+        "t_cyr_terrrockgc_rock_14": 1,
+        "t_cyr_terrrockgc_rock_15": 1,
+        "t_cyr_terrrockgc_rock_16": 3,
+        "t_cyr_terrrockgc_rock_18": 2,
+        "t_cyr_terrrockgc_rock_19": 6,
+        "t_cyr_terrrockgc_rock_20": 6,
+        "t_cyr_terrrockgc_rock_21": 3,
+        "t_cyr_terrrockgc_rock_22": 2,
+        "t_cyr_terrrockgc_rock_23": 2,
+        "t_cyr_terrrockgc_rock_24": 2,
+        "t_glb_blackdoor_01": 1,
+        "t_glb_cr_hardhatprawn": 3,
+        "t_glb_fauna_coral_01": 3,
+        "t_glb_fauna_coral_02": 3,
+        "t_glb_fauna_coral_03": 3,
+        "t_glb_fauna_coral_04": 2,
+        "t_glb_fauna_coral_05": 4,
+        "t_glb_fauna_coral_06": 6,
+        "t_glb_fauna_coral_07": 6,
+        "t_glb_fauna_coral_08": 7,
+        "t_glb_flora_kelp1group_01": 7,
+        "t_glb_flora_kelp1group_02": 1,
+        "t_glb_flora_kelp2_02": 3,
+        "t_glb_flora_kelp2_03": 3,
+        "t_glb_flora_kelp2group_01": 5,
+        "t_glb_flora_kelp3_01": 5,
+        "t_glb_flora_kelp3_02": 7,
+        "t_glb_flora_kelp3_03": 5,
+        "t_glb_flora_kelp3_04": 12,
+        "t_mw_cr_sturgeon": 1
+      }
+    },
+    "Guarded_Dungeon_Entrances_for_Project_Cyrodiil.esp": {
+      "added": {
+        "gdec_strangelamia_ee": 1,
+        "t_cyr_cr_lamiaboss": 1,
+        "t_cyr_cr_lamialess": 1,
+        "t_cyr_lvl_lamia": 1,
+        "t_glb_cr_hardhatprawn": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "cell": "-129,-48",
+  "name": "Voiceless Harmony",
+  "plugins": {
+    "Cyr_Main.ESM": {
+      "added": {
+        "flora_kelp_02": 7,
+        "t_cyr_cr_longfinstationary": 8,
+        "t_cyr_terrrockgc_cliff_02": 3,
+        "t_cyr_terrrockgc_cliff_05": 3,
+        "t_cyr_terrrockgc_rock_03": 3,
+        "t_cyr_terrrockgc_rock_04": 2,
+        "t_cyr_terrrockgc_rock_05": 1,
+        "t_cyr_terrrockgc_rock_06": 2,
+        "t_cyr_terrrockgc_rock_07": 1,
+        "t_cyr_terrrockgc_rock_08": 5,
+        "t_cyr_terrrockgc_rock_09": 3,
+        "t_cyr_terrrockgc_rock_10": 3,
+        "t_cyr_terrrockgc_rock_12": 2,
+        "t_cyr_terrrockgc_rock_13": 3,
+        "t_cyr_terrrockgc_rock_15": 3,
+        "t_cyr_terrrockgc_rock_16": 2,
+        "t_cyr_terrrockgc_rock_18": 6,
+        "t_cyr_terrrockgc_rock_19": 6,
+        "t_cyr_terrrockgc_rock_20": 4,
+        "t_cyr_terrrockgc_rock_21": 1,
+        "t_cyr_terrrockgc_rock_22": 2,
+        "t_cyr_terrrockgc_rock_23": 4,
+        "t_glb_cr_dreughmanowar": 1,
+        "t_glb_dngdreu_loaddoorex_01": 1,
+        "t_glb_dngdreu_x_brace_01": 3,
+        "t_glb_dngdreu_x_formation_01": 3,
+        "t_glb_dngdreu_x_formation_02": 3,
+        "t_glb_dngdreu_x_formation_03": 1,
+        "t_glb_dngdreu_x_formation_04": 2,
+        "t_glb_dngdreu_x_formation_05": 2,
+        "t_glb_dngdreu_x_platform_01": 2,
+        "t_glb_dngdreu_x_platform_02": 2,
+        "t_glb_dngdreu_x_reef_01": 1,
+        "t_glb_dngdreu_x_reef_02": 4,
+        "t_glb_dngdreu_x_reef_03": 1,
+        "t_glb_dngdreu_x_reef_04": 3,
+        "t_glb_dngdreu_x_reef_05": 2,
+        "t_glb_dngdreu_x_tower_01": 1,
+        "t_glb_fauna_fishsch_anf": 1,
+        "t_glb_fauna_fishsch_dpf": 1,
+        "t_glb_flora_kelp1group_01": 1,
+        "t_glb_flora_kelp1group_02": 1,
+        "t_glb_flora_kelp3_02": 1,
+        "t_glb_flora_kelp3_03": 1,
+        "t_glb_lvl_dreughs+0": 1,
+        "t_glb_lvl_dreughs+2": 1,
+        "t_mw_cr_dreugh1": 4
+      }
+    },
+    "Guarded_Dungeon_Entrances_for_Project_Cyrodiil.esp": {
+      "added": {
+        "t_glb_lvl_dreughs+0": 1,
+        "t_glb_lvl_dreughs+2": 1,
+        "t_glb_lvl_dreughs-2": 1,
+        "t_mw_fau_blindslaufi_01": 2
+      }
+    }
+  }
+}

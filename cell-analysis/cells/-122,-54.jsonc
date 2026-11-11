@@ -229,6 +229,11 @@
         "astelar_villa_redguard": 1,
         "astelar_villa_suspguy": 1
       }
+    },
+    "Populated Cyrodiil.ESP": {
+      "added": {
+        "ppc_npc_29": 1
+      }
     }
   }
 }

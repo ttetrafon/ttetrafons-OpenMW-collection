@@ -198,6 +198,12 @@
         "t_rga_furn_mat_02": 1
       }
     },
+    "Anvil Rickshaw Travel.ESP": {
+      "added": {
+        "mwg_anvil_rickshaw_04": 1,
+        "mwg_com_rickshaw_04": 1
+      }
+    },
     "Wares_PC_traders.esp": {
       "added": {
         "aa_wares_healer": 1
