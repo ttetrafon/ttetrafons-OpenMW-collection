@@ -1,6 +1,16 @@
 {
   "cell": "-3,2",
   "plugins": {
+    "Tamrielic Treasures_Caldera Shop.ESP": {
+      "added": {
+        "flora_root_wg_02": 1,
+        "flora_stoneflower_01": 3,
+        "flora_tree_wg_01": 1,
+        "terrain_rock_wg_05": 1,
+        "terrain_rocks_wg_01": 1,
+        "terrain_rocks_wg_04": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_solo_imp_spawn": 1

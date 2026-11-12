@@ -237,6 +237,15 @@
         "urn_04_food": 1
       }
     },
+    "Magical Mainland Homes.ESP": {
+      "added": {
+        "ex_hlaalu_b_05": 1,
+        "furn_crate_lid_01": 1,
+        "furn_crate_open_01": 1,
+        "t_com_brokenbottle_07": 1,
+        "t_com_brokenbottle_08": 1
+      }
+    },
     "Wares_TR_traders.esp": {
       "added": {
         "aa_wares_baker": 1,

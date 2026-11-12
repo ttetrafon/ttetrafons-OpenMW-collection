@@ -1,0 +1,70 @@
+{
+  "cell": "Helnim, Aljef Guar-Leg's House",
+  "name": "Helnim, Aljef Guar-Leg's House",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_p_bed_28": 1,
+        "barrel_01_cheapfood20": 1,
+        "barrel_01_cheapfood5": 3,
+        "barrel_01_drinks": 3,
+        "barrel_02_cheapfood5": 1,
+        "bk_abcs": 1,
+        "chest_small_01": 1,
+        "com_chest_01_empty": 1,
+        "com_sack_01_chpfood5": 3,
+        "com_sack_02_chpfood3": 2,
+        "com_sack_02_gold_05": 1,
+        "com_sack_03_chpfood5": 1,
+        "crate_01_de_mclothes": 2,
+        "crate_01_eggs": 1,
+        "crate_01_eggs10": 1,
+        "crate_01_food": 1,
+        "crate_02_foodmult": 1,
+        "ex_nord_door_01": 1,
+        "food_kwama_egg_02": 1,
+        "furn_com_p_bench_01": 1,
+        "furn_com_p_shelf_03": 1,
+        "furn_com_pm_chair_02": 1,
+        "furn_com_tapestry_05": 2,
+        "furn_crate_lid_01": 1,
+        "furn_crate_open_01": 1,
+        "furn_de_basket_01": 1,
+        "gold_001": 6,
+        "in_com_wincover_01": 2,
+        "in_lava_blacksquare": 1,
+        "in_nord_doorf_01": 1,
+        "in_nord_house_02": 1,
+        "ingred_bread_01": 2,
+        "iron_gauntlet_left": 1,
+        "iron_gauntlet_right": 1,
+        "light_com_candle_05": 1,
+        "light_com_candle_07_128": 2,
+        "misc_com_basket_02": 1,
+        "misc_com_bottle_02": 4,
+        "misc_com_bottle_08": 2,
+        "misc_com_bottle_11": 4,
+        "misc_com_bottle_14": 3,
+        "misc_com_metal_plate_04": 1,
+        "misc_com_tankard_01": 4,
+        "misc_com_wood_bowl_02": 1,
+        "misc_com_wood_cup_02": 5,
+        "misc_com_wood_fork": 2,
+        "misc_com_wood_knife": 2,
+        "misc_uni_pillow_02": 1,
+        "northmarker": 1,
+        "potion_comberry_wine_01": 2,
+        "potion_local_brew_01": 11,
+        "potion_local_liquor_01": 1,
+        "t_imp_furn_rug_01": 1,
+        "t_imp_furnp_table_01": 1,
+        "tr_m2_aljef guar-leg": 1
+      }
+    },
+    "HelnimREDUXskriak.ESP": {
+      "modified": {
+        "tr_m2_aljef guar-leg": 1
+      }
+    }
+  }
+}

@@ -103,6 +103,18 @@
         "tr_m7_renixia vedius": 1
       }
     },
+    "Magical Mainland Homes.ESP": {
+      "added": {
+        "ex_velothi_loaddoor_01": 1,
+        "maho_shipal_key": 1,
+        "maho_shipal_note2": 1,
+        "t_com_nail_01": 1,
+        "t_de_setveloth_x_tower_04": 1
+      },
+      "modified": {
+        "flora_plant_08": 2
+      }
+    },
     "F&F_Mainland.ESP": {
       "added": {
         "aa_party_levelled_list": 2

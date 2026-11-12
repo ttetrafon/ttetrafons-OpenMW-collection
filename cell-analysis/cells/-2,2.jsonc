@@ -15,6 +15,47 @@
         "am_beggar7": 1
       }
     },
+    "Tamrielic Treasures_Caldera Shop.ESP": {
+      "added": {
+        "aakarcs_signact": 1,
+        "active_chimney_smoke02": 1,
+        "ex_c_chimney_tall_02": 1,
+        "ex_common_building_01": 1,
+        "ex_common_door_01": 1,
+        "ex_common_entrance_01": 1,
+        "ex_common_window_01": 1,
+        "ex_de_railing_01": 2,
+        "ex_de_railing_02": 2,
+        "ex_de_railing_03": 2,
+        "flora_ivy_01": 6,
+        "flora_ivy_02": 5,
+        "flora_root_wg_01": 5,
+        "flora_root_wg_02": 4,
+        "flora_stoneflower_01": 8,
+        "flora_stoneflower_02": 1,
+        "flora_tree_wg_01": 3,
+        "flora_tree_wg_03": 1,
+        "flora_tree_wg_07": 3,
+        "furn_com_fence_02": 4,
+        "furn_de_rope_07": 3,
+        "furn_imp_signbase_01": 1,
+        "light_com_lantern_01_s": 2,
+        "light_com_lantern_sweetie1": 1,
+        "t_mw_flora_desertrose01": 1,
+        "t_mw_flora_desertrose02": 2,
+        "t_mw_flora_desertrose03": 1,
+        "t_mwcom_var_bls1drmspce": 1,
+        "terrain_rock_wg_05": 16,
+        "terrain_rocks_wg_01": 6,
+        "terrain_rocks_wg_03": 5,
+        "terrain_rocks_wg_04": 1
+      },
+      "modified": {
+        "furn_imp_signbase_01": 1,
+        "terrain_rock_wg_05": 1,
+        "terrain_rocks_wg_03": 1
+      }
+    },
     "Treasures of Magic.ESP": {
       "added": {
         "bc3000_conrillchest": 1,

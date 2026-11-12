@@ -54,6 +54,16 @@
         "tr_m1_r_daydena nulelas": 1
       }
     },
+    "HelnimREDUXskriak.ESP": {
+      "added": {
+        "furn_imp_flagpole_01": 1,
+        "t_com_setharbor_boatfisher_01": 1,
+        "t_de_set_bannertownhelnim_01": 1
+      },
+      "modified": {
+        "ex_de_docks_pilings": 1
+      }
+    },
     "F&F_Mainland.ESP": {
       "added": {
         "_aa_sailor_list_spawn": 1

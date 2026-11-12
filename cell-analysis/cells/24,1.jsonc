@@ -93,6 +93,17 @@
         "tr_m2_irelle namarce": 1
       }
     },
+    "HelnimREDUXskriak.ESP": {
+      "added": {
+        "ex_common_plat_lrg": 10,
+        "ex_de_docks_piling_01": 7,
+        "t_nor_setpalisade_posts_02": 9
+      },
+      "modified": {
+        "ex_ship_plank": 2,
+        "tr_m2_irelle namarce": 1
+      }
+    },
     "F&F_Mainland.ESP": {
       "added": {
         "_aa_n_all_nightlife_spawn": 1

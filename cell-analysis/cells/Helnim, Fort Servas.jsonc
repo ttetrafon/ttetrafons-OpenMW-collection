@@ -198,6 +198,16 @@
         "tr_m2_servas capris": 1
       }
     },
+    "HelnimREDUXskriak.ESP": {
+      "added": {
+        "templar_helmet_armor": 1
+      },
+      "modified": {
+        "silver_helm": 1,
+        "t_bk_comraderytr": 1,
+        "tr_m2_brandirn": 1
+      }
+    },
     "Wares_TR_traders.esp": {
       "added": {
         "aa_wares_priest": 1,

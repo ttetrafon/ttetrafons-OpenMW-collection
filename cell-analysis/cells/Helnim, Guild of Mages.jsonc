@@ -184,6 +184,11 @@
         "aa_wares_alchemist": 1,
         "aa_wares_magical": 1
       }
+    },
+    "HelnimREDUXskriak.ESP": {
+      "modified": {
+        "tr_m2_kaishi": 1
+      }
     }
   }
 }

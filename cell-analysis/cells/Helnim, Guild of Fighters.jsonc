@@ -202,6 +202,11 @@
       "added": {
         "_aa_in_smith_spawn": 1
       }
+    },
+    "HelnimREDUXskriak.ESP": {
+      "modified": {
+        "tr_m2_kah-meelai": 1
+      }
     }
   }
 }

@@ -75,6 +75,33 @@
         "urn_ash00": 3
       }
     },
+    "Magical Mainland Homes.ESP": {
+      "added": {
+        "chimney_smoke_small": 1,
+        "ex_velothi_loaddoor_01": 1,
+        "ex_velothi_window_01": 4,
+        "furn_de_signpost_02": 1,
+        "light_de_paper_lantern_01": 1,
+        "maho_door_at_locked": 1,
+        "maho_ekapi": 1,
+        "maho_guar_pack_athirr": 1,
+        "maho_merch_athirr": 1,
+        "t_de_setveloth_x_chimney_01": 1,
+        "t_de_setveloth_x_house_09": 1,
+        "t_de_setveloth_x_house_10": 1,
+        "t_de_setveloth_x_house_17": 1,
+        "t_de_setveloth_x_well_01": 1
+      },
+      "modified": {
+        "flora_comberry_01": 1,
+        "flora_kreshweed_01": 1,
+        "flora_kreshweed_02": 1,
+        "t_mw_floraat_treeg_01": 1,
+        "t_mw_terrrockat_rock_24": 1,
+        "t_mw_terrrockat_rockgrp_01": 1,
+        "t_mw_terrrockat_rockgrp_03": 1
+      }
+    },
     "F&F_Mainland.ESP": {
       "added": {
         "_aa_solo_ord_spawn": 1,

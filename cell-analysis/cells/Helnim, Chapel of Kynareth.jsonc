@@ -200,6 +200,14 @@
       "added": {
         "gvrm_pray_imp_com_trcpy": 1
       }
+    },
+    "HelnimREDUXskriak.ESP": {
+      "modified": {
+        "tr_m2_calaciren": 1,
+        "tr_m2_godred the weary": 1,
+        "tr_m2_q_4_attia": 1,
+        "tr_m2_tiunia veltrus": 1
+      }
     }
   }
 }

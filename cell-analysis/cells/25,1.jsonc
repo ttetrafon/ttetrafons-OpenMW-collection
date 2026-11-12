@@ -314,6 +314,54 @@
         "wooden staff": 1
       }
     },
+    "HelnimREDUXskriak.ESP": {
+      "added": {
+        "000helnimskriaktelvbox1": 6,
+        "000skriakhelnimbook1": 1,
+        "000skriakhelnimtelvboat1": 1,
+        "ab_a_backbasket": 1,
+        "active_sign_c_guildf_01": 1,
+        "active_sign_c_guildm_01": 1,
+        "ex_common_plat_lrg": 42,
+        "ex_de_docks_piling_01": 7,
+        "ex_imp_wallent_02": 3,
+        "furn_banner_imp_01": 1,
+        "furn_bannerd_welcome_01": 1,
+        "furn_imp_flag_01": 2,
+        "furn_imp_flagpole_01": 1,
+        "furn_imp_signbase_01": 1,
+        "furn_imp_signbase_02": 1,
+        "t_com_furn_bannerhanger_01": 1,
+        "t_com_var_ropeclothes_03": 1,
+        "t_de_set_bannertownhelnim_01": 2,
+        "t_imp_legionmw_x_dock_07": 1,
+        "t_imp_setmw_f_signbase02": 1,
+        "t_imp_setmw_f_signbase04": 2,
+        "t_nor_setpalisade_gatehouse_02": 1,
+        "t_nor_setpalisade_post_01": 16,
+        "t_nor_setpalisade_posts_01": 15,
+        "t_nor_setpalisade_posts_02": 44,
+        "t_nor_setpalisade_posts_03": 15,
+        "t_nor_setpalisade_stair_01": 2,
+        "t_nor_setpalisade_tower_01": 2,
+        "tr_m1_fw_gatei1_bar_01": 1,
+        "tr_m2_grodring": 1,
+        "tr_m2_he_alch_derawin": 1,
+        "tr_m2_he_sign_alehouse": 1,
+        "tr_m2_he_sign_inn_reddragon": 1,
+        "tr_m2_he_sign_zbc": 1,
+        "tr_m2_helnim_inscrstone": 1
+      },
+      "modified": {
+        "ex_imp_wallent_02": 2,
+        "t_com_var_cratebroken_01": 1,
+        "terrain_rock_ac_07": 1,
+        "tr_m1_fw_gatei1_bar_01": 1,
+        "tr_m2_derawin": 1,
+        "tr_m2_feliwa": 1,
+        "tr_m2_imp_archer": 1
+      }
+    },
     "Wares_TR_traders.esp": {
       "added": {
         "aa_wares_alchemist": 1,

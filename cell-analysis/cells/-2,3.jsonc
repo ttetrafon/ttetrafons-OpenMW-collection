@@ -1,6 +1,42 @@
 {
   "cell": "-2,3",
   "plugins": {
+    "Tamrielic Treasures_Caldera Shop.ESP": {
+      "added": {
+        "ab_furn_comladderstep": 1,
+        "ab_furn_deexworkbench": 1,
+        "ab_furn_ropecoil": 1,
+        "ab_furn_woodstack02tarp": 1,
+        "ab_misc_woodsaw": 1,
+        "ex_de_railing_01": 1,
+        "ex_de_railing_02": 1,
+        "ex_de_railing_03": 1,
+        "ex_nord_well_01": 1,
+        "flora_root_wg_02": 2,
+        "flora_root_wg_05": 2,
+        "flora_stoneflower_01": 4,
+        "flora_tree_wg_01": 1,
+        "flora_tree_wg_08": 1,
+        "furn_de_rope_07": 1,
+        "furn_log_01": 1,
+        "furn_log_02": 1,
+        "light_com_lantern_sweetie1": 1,
+        "misc_com_bucket_01": 2,
+        "terrain_rock_wg_05": 3,
+        "terrain_rocks_wg_01": 3,
+        "terrain_rocks_wg_03": 5,
+        "terrain_rocks_wg_04": 1
+      },
+      "modified": {
+        "ex_de_railing_01": 1,
+        "ex_de_railing_02": 1,
+        "ex_de_railing_03": 1,
+        "flora_stoneflower_01": 1,
+        "terrain_rocks_wg_01": 2,
+        "terrain_rocks_wg_03": 1,
+        "terrain_rocks_wg_04": 1
+      }
+    },
     "Creatures_RP_Purist.ESP": {
       "added": {
         "plx_flowers": 3

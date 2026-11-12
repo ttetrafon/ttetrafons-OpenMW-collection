@@ -81,6 +81,14 @@
         "tr_m2_tiron naren": 1
       }
     },
+    "HelnimREDUXskriak.ESP": {
+      "added": {
+        "tr_m2_mainette jes": 1
+      },
+      "modified": {
+        "tr_m2_mjornir": 1
+      }
+    },
     "Wares_TR_traders.esp": {
       "added": {
         "aa_wares_trader": 1

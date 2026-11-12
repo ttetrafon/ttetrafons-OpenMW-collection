@@ -1,0 +1,78 @@
+{
+  "cell": "13,27",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_de_railing_01": 12,
+        "ex_de_railing_03": 2,
+        "flora_emp_parasol_02": 2,
+        "flora_emp_parasol_03": 1,
+        "flora_kreshweed_01": 6,
+        "flora_kreshweed_02": 4,
+        "flora_kreshweed_03": 2,
+        "flora_t_podbud_01": 1,
+        "flora_t_podbud_03": 1,
+        "flora_t_podbud_04": 1,
+        "flora_tree_ac_01": 1,
+        "flora_tree_ac_02": 1,
+        "flora_tree_ac_03": 1,
+        "furn_com_fence_01": 1,
+        "t_com_setmw_signwaybahrammu_01": 1,
+        "t_com_setmw_signwaynivalis_01": 1,
+        "t_com_setmw_signwaytelrivus_01": 1,
+        "t_mw_rlvl_althoacoast+0": 1,
+        "t_mw_rlvl_althoaland+0": 1,
+        "t_mw_rlvl_telvanniislescoast+2": 1,
+        "t_mw_terrrockac_menhir_02b": 31,
+        "t_mw_terrrockac_menhirsnw_01b": 8,
+        "t_mw_terrrockac_menhirsnw_02b": 5,
+        "terrain_rock_ac_01": 4,
+        "terrain_rock_ac_02": 4,
+        "terrain_rock_ac_03": 1,
+        "terrain_rock_ac_04": 5,
+        "terrain_rock_ac_05": 2,
+        "terrain_rock_ac_07": 5,
+        "terrain_rock_ac_09": 2,
+        "terrain_rock_ac_10": 2,
+        "terrain_rock_ac_11": 7,
+        "terrain_rock_ac_12": 1
+      }
+    },
+    "Magical Mainland Homes.ESP": {
+      "added": {
+        "active_chimney_smoke02": 1,
+        "ex_common_building_01": 1,
+        "ex_common_chimney_tall": 1,
+        "ex_common_door_01": 2,
+        "ex_common_window_02": 1,
+        "ex_common_window_03": 2,
+        "ex_de_shack_plank_01": 6,
+        "flora_kreshweed_03": 1,
+        "furn_com_lantern_hook": 2,
+        "furn_com_planter": 1,
+        "furn_com_rm_stool_01": 1,
+        "furn_com_rm_table_05": 1,
+        "light_com_lantern_02": 2,
+        "maho_door1_niva_locked": 1,
+        "maho_door2_niva_locked": 1,
+        "maho_guar_pack_niva": 1,
+        "maho_ladiajannus": 1,
+        "maho_merch_niva": 1,
+        "t_glb_terrice_iciclesmall_02": 3,
+        "t_glb_terrsnow_heap_05": 2,
+        "t_glb_terrsnow_heap_24": 3,
+        "t_imp_furnm_chair01brown": 2,
+        "t_imp_setmw_i_plainsmallwall_01": 1,
+        "t_imp_setmw_x_1plat_01a": 1,
+        "t_imp_setmw_x_building_01": 1,
+        "t_imp_setmw_x_doorjam_02": 1
+      },
+      "modified": {
+        "t_mw_terrrockac_menhirsnw_01b": 1,
+        "t_mw_terrrockac_menhirsnw_02b": 1,
+        "terrain_rock_ac_01": 1,
+        "terrain_rock_ac_11": 1
+      }
+    }
+  }
+}

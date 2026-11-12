@@ -204,6 +204,14 @@
         "urn_03_food": 1
       }
     },
+    "Magical Mainland Homes.ESP": {
+      "added": {
+        "ex_redoran_hut_01_a": 1,
+        "ex_redoran_hut_02": 1,
+        "maho_door_aldiuv_locked": 1,
+        "maho_lorwen": 1
+      }
+    },
     "Wares_TR_traders.esp": {
       "added": {
         "aa_wares_smith": 1,

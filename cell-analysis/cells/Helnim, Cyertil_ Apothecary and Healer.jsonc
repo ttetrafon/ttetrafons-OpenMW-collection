@@ -154,6 +154,11 @@
       "added": {
         "aa_wares_apothecary": 1
       }
+    },
+    "HelnimREDUXskriak.ESP": {
+      "modified": {
+        "tr_m2_cyertil": 1
+      }
     }
   }
 }

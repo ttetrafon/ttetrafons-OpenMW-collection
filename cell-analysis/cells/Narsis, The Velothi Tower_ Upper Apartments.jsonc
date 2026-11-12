@@ -1,0 +1,59 @@
+{
+  "cell": "Narsis, The Velothi Tower: Upper Apartments",
+  "name": "Narsis, The Velothi Tower: Upper Apartments",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "chest_small_02_wooduten": 1,
+        "com_sack_01": 3,
+        "com_sack_03": 2,
+        "crate_01_random_pos": 1,
+        "crate_02_empty": 1,
+        "de_p_chest_02_empty": 1,
+        "furn_de_rope_03": 3,
+        "furn_de_rug_big_05": 6,
+        "furn_de_tapestry_04": 5,
+        "furn_planter_02": 1,
+        "in_hlaalu_doorjamb_load": 7,
+        "in_hlaalu_hall_3way": 8,
+        "in_hlaalu_hall_4way": 1,
+        "in_hlaalu_hall_center": 2,
+        "in_hlaalu_hall_corner_01": 8,
+        "in_hlaalu_hall_end": 1,
+        "in_hlaalu_loaddoor_01": 7,
+        "light_de_candle_06_64": 3,
+        "light_de_lantern_04_128": 3,
+        "misc_com_basket_02": 1,
+        "misc_de_foldedcloth00": 2,
+        "misc_de_pot_glass_peach_01": 3,
+        "northmarker": 1,
+        "t_de_furn_tapestry_17": 5,
+        "t_de_furnm_shelf_01": 2,
+        "t_de_sethla_i_stairs_h_01": 1,
+        "t_de_sethla_i_stairs_h_02": 1,
+        "t_de_sethla_i_stairs_mid_01": 2,
+        "t_de_sethla_x_win_04": 1,
+        "t_glb_var_spiderweb_03a": 1,
+        "t_glb_var_spiderweb_03b": 1,
+        "t_mw_florash_bush_01": 1,
+        "t_mwcom_var_crl1pos": 1
+      }
+    },
+    "Exo_NarsisVTPenthouse.esp": {
+      "added": {
+        "furn_de_rope_03": 1,
+        "in_hlaalu_doorjamb_load": 1,
+        "in_hlaalu_hall_3way": 1,
+        "in_hlaalu_hall_corner_01": 1,
+        "in_hlaalu_loaddoor_02": 1,
+        "light_de_lantern_04_128": 1,
+        "t_de_sethla_i_nofloor_end_01": 1,
+        "t_de_sethla_i_stairs_h_01": 1
+      },
+      "modified": {
+        "furn_de_rope_03": 1,
+        "light_de_lantern_04_128": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "cell": "24,0",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "blue coast ref 1024": 1,
+        "ex_common_plat_cent": 1,
+        "ex_common_plat_end": 1,
+        "ex_de_docks_steps_01": 1,
+        "ex_de_oar": 2,
+        "ex_de_rowboat": 1,
+        "ex_imp_keep_02": 1,
+        "ex_imp_loaddoor_02": 1,
+        "ex_imp_plat_01": 1,
+        "ex_imp_towerb_base_01": 1,
+        "ex_imp_wall_stairs_03": 1,
+        "ex_imp_wallent_02": 1,
+        "ex_t_menhir_l_01": 5,
+        "ex_t_rock_coastal_01": 2,
+        "ex_t_rock_coastal_02": 2,
+        "flora_emp_parasol_02": 1,
+        "flora_kelp_02": 3,
+        "flora_kelp_03": 2,
+        "flora_muckspunge_02": 1,
+        "flora_t_podbud_04": 1,
+        "flora_tree_ac_02": 1,
+        "flora_tree_ac_04": 1,
+        "kollop_01_pearl": 1,
+        "kollop_02_pearl": 1,
+        "light_fire_400": 1,
+        "t_imp_legionmw_x_well_01": 1,
+        "t_mw_terrash_pile_01": 2,
+        "t_mw_terrash_pile_04": 1,
+        "t_mw_terrash_pile_07": 1,
+        "terrain_rock_ac_01": 1,
+        "terrain_rock_ac_03": 1,
+        "terrain_rock_ac_06": 1,
+        "terrain_rock_ac_08": 1,
+        "terrain_rock_ac_09": 1,
+        "terrain_rock_ac_12": 1,
+        "tr_m2_q_19_stolencrate": 1,
+        "tr_m2_q_il_cliffracer": 5,
+        "tr_m2_reema": 1
+      }
+    },
+    "HelnimREDUXskriak.ESP": {
+      "added": {
+        "t_com_var_ropeclothes_03": 1
+      }
+    }
+  }
+}

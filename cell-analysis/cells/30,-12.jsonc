@@ -132,6 +132,35 @@
         "tr_m2_q_ak_dulis_llendu": 1
       }
     },
+    "Magical Mainland Homes.ESP": {
+      "added": {
+        "ex_mh_building_02": 1,
+        "ex_mh_building_05": 1,
+        "ex_mh_door_01": 1,
+        "ex_mh_doorjamb_02a": 1,
+        "ex_mh_lantern_post": 1,
+        "ex_mh_window_01": 4,
+        "light_de_lantern_03_sway": 1,
+        "maho_door_akam_locked": 1,
+        "maho_guar_pack_akmo": 1,
+        "maho_merch_akam": 1,
+        "maho_nilmir": 1
+      },
+      "modified": {
+        "ex_de_docks_piling_01": 1,
+        "flora_corkbulb": 1,
+        "flora_grass_01": 5,
+        "flora_kreshweed_01": 1,
+        "flora_plant_01": 10,
+        "flora_stoneflower_02": 1,
+        "flora_tree_wg_05": 1,
+        "sound_rocks00": 1,
+        "t_mw_terrrockwg_cliff_03": 1,
+        "terrain_rock_wg_16": 1,
+        "terrain_rocks_wg_01": 2,
+        "terrain_rocks_wg_03": 1
+      }
+    },
     "DM_TR_AkaMoreIndoril.esp": {
       "added": {
         "light_de_lantern_03_sway": 2,

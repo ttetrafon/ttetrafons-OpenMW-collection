@@ -240,6 +240,22 @@
         "tr_narsisguard_hlafam_s": 2
       }
     },
+    "Magical Mainland Homes.ESP": {
+      "added": {
+        "com_sack_02_chpfood3": 1,
+        "ex_hlaalu_dsteps_03": 1,
+        "furn_de_lightpost_01": 1,
+        "hlaal_loaddoor_01": 1,
+        "light_de_streetlight_01_223": 1,
+        "maho_door_narsisc_locked1": 1,
+        "maho_tinasoarelas": 1
+      },
+      "modified": {
+        "furn_de_lightpost_01": 1,
+        "light_de_streetlight_01_223": 1,
+        "t_mw_florash_bush_09a": 1
+      }
+    },
     "Wares_TR_traders.esp": {
       "added": {
         "aa_wares_trader": 1

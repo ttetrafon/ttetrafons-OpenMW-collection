@@ -1,0 +1,73 @@
+{
+  "cell": "18,14",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_t_menhir_l_01": 27,
+        "flora_emp_parasol_01": 1,
+        "flora_emp_parasol_02": 2,
+        "flora_kreshweed_01": 7,
+        "flora_kreshweed_02": 4,
+        "flora_kreshweed_03": 1,
+        "flora_t_podbud_02": 3,
+        "flora_t_podbud_03": 2,
+        "flora_t_podbud_04": 2,
+        "flora_tree_ac_01": 4,
+        "flora_tree_ac_02": 2,
+        "flora_tree_ac_03": 1,
+        "slaughterfish_small": 1,
+        "t_mw_rlvl_boethiahspinecoast+2": 1,
+        "t_mw_rlvl_dagonurul+0": 1,
+        "terrain_rock_ac_03": 1,
+        "terrain_rock_ac_04": 3,
+        "terrain_rock_ac_07": 4,
+        "terrain_rock_ac_08": 1,
+        "terrain_rock_ac_10": 2,
+        "terrain_rock_ac_12": 2
+      }
+    },
+    "Magical Mainland Homes.ESP": {
+      "added": {
+        "chimney_smoke_small": 1,
+        "ex_c_chimney_tall_02": 1,
+        "ex_common_building_02": 1,
+        "ex_common_door_01": 1,
+        "ex_common_entrance_02": 1,
+        "ex_common_window_01": 1,
+        "ex_common_window_02": 1,
+        "ex_drystonewall_c_01": 4,
+        "ex_drystonewall_d_01": 5,
+        "ex_drystonewall_end_01": 2,
+        "ex_drystonewall_s_01": 5,
+        "flora_kreshweed_01": 1,
+        "flora_t_podbud_02": 1,
+        "flora_t_podbud_04": 1,
+        "flora_tree_ac_01": 1,
+        "flora_tree_ac_02": 1,
+        "flora_tree_ac_03": 1,
+        "furn_com_lantern_hook": 1,
+        "light_com_lantern_02": 2,
+        "maho_door_firew_locked": 1,
+        "maho_firew_bookdrop": 1,
+        "maho_guar_pack_firew": 1,
+        "maho_merch_fw": 1,
+        "maho_valanvessius": 1,
+        "t_de_set_cart_01": 1,
+        "t_imp_legionmw_x_well_02": 1,
+        "t_imp_set_lamppost_01": 1,
+        "t_imp_setmw_x_2window_01": 4,
+        "t_imp_setmw_x_building_01": 2
+      },
+      "modified": {
+        "flora_emp_parasol_01": 1,
+        "flora_emp_parasol_02": 1,
+        "flora_kreshweed_02": 1,
+        "flora_t_podbud_02": 1,
+        "flora_t_podbud_04": 1,
+        "flora_tree_ac_01": 1,
+        "flora_tree_ac_03": 1,
+        "terrain_rock_ac_10": 1
+      }
+    }
+  }
+}

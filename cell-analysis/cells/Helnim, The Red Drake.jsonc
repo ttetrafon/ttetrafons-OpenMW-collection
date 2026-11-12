@@ -188,6 +188,18 @@
         "tr_m2_temis lorthus_d": 1
       }
     },
+    "HelnimREDUXskriak.ESP": {
+      "added": {
+        "000helnimskriakhelnimbanner1": 1,
+        "000helnimskriakreddrake1": 1,
+        "t_bre_furn_coatofarms_htelvanni": 1,
+        "tr_m2_balis favani": 1
+      },
+      "modified": {
+        "tr_m2_merias_inn": 1,
+        "tr_m2_sanas indalor": 1
+      }
+    },
     "Wares_TR_traders.esp": {
       "added": {
         "aa_wares_baker": 1,
