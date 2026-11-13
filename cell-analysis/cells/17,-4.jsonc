@@ -1,6 +1,45 @@
 {
   "cell": "17,-4",
   "plugins": {
+    "OAAB - Tel Raloran.esp": {
+      "added": {
+        "_cor_wl_terr_dark1": 2,
+        "ab_ex_telmenhirrooted02": 1,
+        "ab_ex_telplanterwater": 1,
+        "ab_flora_acsapling02": 3,
+        "ab_flora_acsapling03": 1,
+        "ab_flora_acsapling04": 1,
+        "ab_flora_parasolbonsai02": 3,
+        "ab_flora_parasolbonsai03": 1,
+        "ab_flora_parasolbonsai05": 1,
+        "ab_furn_barrel01water": 1,
+        "ab_furn_ropewashhalf02": 1,
+        "ab_o_crate02wepdunmer": 1,
+        "bc mushroom 256": 2,
+        "com_sack_01_chpfood5": 2,
+        "ex_t_menhir_01": 2,
+        "ex_t_rock_coastal_01": 3,
+        "ex_t_rock_coastal_02": 4,
+        "ex_t_root_03": 1,
+        "ex_t_root_xl_02": 2,
+        "ex_t_turret_03": 1,
+        "flora_bc_mushroom_01": 1,
+        "flora_bc_mushroom_02": 1,
+        "flora_bc_mushroom_05": 1,
+        "flora_bc_mushroom_06": 4,
+        "flora_bc_mushroom_07": 1,
+        "flora_bc_mushroom_08": 5,
+        "flora_bittergreen_01": 2,
+        "flora_muckspunge_02": 1,
+        "flora_t_shelffungus_01": 2
+      },
+      "modified": {
+        "ex_t_menhir_01": 2,
+        "ex_t_menhir_l_01": 1,
+        "ex_t_rock_coastal_01": 1,
+        "flora_kreshweed_03": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_east_barrel": 1,

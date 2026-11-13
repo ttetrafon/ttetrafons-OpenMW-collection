@@ -1,0 +1,31 @@
+{
+  "cell": "14,16",
+  "plugins": {
+    "RR_Telvanni_Lighthouse_Tel Vos_Eng.ESP": {
+      "added": {
+        "_ex_t_dormer_03": 1,
+        "_ex_t_lh_door_02": 1,
+        "_ex_t_lighthouse_02": 1,
+        "blue coast ref 1024": 1,
+        "ex_t_door_01": 1,
+        "flora_bc_grass_01": 1,
+        "flora_bc_moss_03": 1,
+        "flora_bc_moss_09": 1,
+        "flora_bc_moss_10": 1,
+        "furn_imp_metalring": 4,
+        "furn_imp_stoneblock_01": 6,
+        "sound_crystal_chime": 4
+      },
+      "modified": {
+        "ex_t_menhir_l_01": 6
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "barrel_01_empty": 2,
+        "xero_marker": 1,
+        "xero_north_barrel": 1
+      }
+    }
+  }
+}

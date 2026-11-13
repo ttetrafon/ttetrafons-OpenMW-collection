@@ -1,6 +1,57 @@
 {
   "cell": "18,-3",
   "plugins": {
+    "OAAB - Tel Raloran.esp": {
+      "added": {
+        "_cor_wl_terr_dark1": 4,
+        "_cor_wl_terr_dark2": 2,
+        "_cor_wl_terr_dark3": 2,
+        "ex_t_menhir_l_01": 3,
+        "ex_t_rock_coastal_01": 2,
+        "ex_t_rock_coastal_02": 2,
+        "flora_emp_parasol_02": 1,
+        "flora_emp_parasol_03": 1,
+        "flora_kreshweed_01": 2,
+        "flora_kreshweed_02": 1,
+        "flora_kreshweed_03": 2,
+        "flora_t_podbud_01": 2,
+        "flora_t_podbud_03": 1,
+        "flora_t_podbud_04": 1,
+        "flora_tree_ac_01": 4,
+        "flora_tree_ac_02": 1,
+        "flora_tree_ac_03": 1,
+        "flora_tree_ac_04": 2,
+        "terrain_rock_ac_02": 7,
+        "terrain_rock_ac_03": 3,
+        "terrain_rock_ac_04": 2,
+        "terrain_rock_ac_07": 5,
+        "terrain_rock_ac_08": 2,
+        "terrain_rock_ac_10": 3,
+        "terrain_rock_ac_12": 4
+      },
+      "modified": {
+        "ex_t_menhir_01": 1,
+        "ex_t_menhir_l_01": 16,
+        "ex_wild_rat_lev+0": 1,
+        "flora_emp_parasol_02": 2,
+        "flora_emp_parasol_03": 2,
+        "flora_kreshweed_01": 5,
+        "flora_kreshweed_03": 1,
+        "flora_t_podbud_01": 1,
+        "flora_t_podbud_03": 2,
+        "flora_t_podbud_04": 1,
+        "flora_tree_ac_01": 2,
+        "flora_tree_ac_04": 3,
+        "terrain_rock_ac_02": 2,
+        "terrain_rock_ac_03": 2,
+        "terrain_rock_ac_04": 3,
+        "terrain_rock_ac_06": 2,
+        "terrain_rock_ac_07": 4,
+        "terrain_rock_ac_08": 2,
+        "terrain_rock_ac_10": 4,
+        "terrain_rock_ac_12": 2
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_solo_spawn_no_guard": 1

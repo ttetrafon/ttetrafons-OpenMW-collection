@@ -1,0 +1,70 @@
+{
+  "cell": "Port Telvannis, Dirnitha Aserath's House",
+  "name": "Port Telvannis, Dirnitha Aserath's House",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_p_bed_13": 1,
+        "apparatus_a_alembic_01": 1,
+        "apparatus_a_mortar_01": 1,
+        "apparatus_j_calcinator_01": 1,
+        "bk_aedraanddaedra": 1,
+        "com_sack_01_saltrice_10": 1,
+        "com_sack_02_ingred": 3,
+        "common_glove_left_01": 1,
+        "common_glove_right_01": 1,
+        "de_drawers_02_fclothes4": 1,
+        "flora_bc_vine_02": 5,
+        "flora_bc_vine_03": 2,
+        "flora_bc_vine_04": 1,
+        "flora_bc_vine_05": 5,
+        "flora_bc_vine_07": 1,
+        "flora_tree_ac_01": 1,
+        "furn_com_planter": 1,
+        "furn_de_p_chair_02": 1,
+        "furn_de_p_table_04": 1,
+        "furn_de_p_table_05": 1,
+        "furn_de_rug_big_05": 2,
+        "in_t_housepod_01": 1,
+        "in_t_housepod_2flr_stair": 1,
+        "in_t_housepod_door_exit": 1,
+        "in_t_housepod_pole_01": 1,
+        "in_t_housepod_pole_02": 2,
+        "in_t_housepod_pole_03": 1,
+        "in_t_railing_pole": 1,
+        "in_t_railing_pole_rails": 4,
+        "ingred_fire_salts_01": 2,
+        "ingred_resin_01": 1,
+        "ingred_scales_01": 1,
+        "ingred_shalk_resin_01": 1,
+        "light_de_candle_20": 1,
+        "light_de_lantern_02": 1,
+        "misc_com_bottle_10": 1,
+        "misc_com_wood_cup_02": 1,
+        "misc_de_basket_01": 1,
+        "misc_de_bowl_bugdesign_01": 1,
+        "misc_de_tankard_01": 1,
+        "misc_uni_pillow_01": 1,
+        "northmarker": 1,
+        "p_restore_health_s": 2,
+        "sc_paper plain": 8,
+        "t_bk_varietiesofthoughttr_v3": 1,
+        "t_de_furn_tapestry_05": 2,
+        "t_ingmine_amber_01": 1,
+        "t_ingmine_opal_01": 3,
+        "t_mwcom_var_bl1chpfood05": 1,
+        "t_mwcom_var_bl1chpfood20": 1,
+        "t_mwcom_var_sk1cpfood1/2": 1,
+        "t_mwcom_var_sk1ing": 1,
+        "t_mwde_furn_u4ing": 1,
+        "tr_m1_dirnitha_aserath": 1,
+        "urn_01_ingred": 1
+      }
+    },
+    "PortTelvannisRedux.ESP": {
+      "modified": {
+        "tr_m1_dirnitha_aserath": 1
+      }
+    }
+  }
+}

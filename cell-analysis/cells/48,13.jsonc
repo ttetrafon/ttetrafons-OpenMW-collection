@@ -1,0 +1,16 @@
+{
+  "cell": "48,13",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_t_menhir_l_01": 1,
+        "t_mw_rlvl_telvanniisleswater-2": 1
+      }
+    },
+    "PortTelvannisRedux.ESP": {
+      "modified": {
+        "ex_t_menhir_l_01": 1
+      }
+    }
+  }
+}

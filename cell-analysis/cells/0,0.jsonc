@@ -1,11 +1,6 @@
 {
   "cell": "0,0",
   "plugins": {
-    "DM_TR_EnaMoreIndoril.ESP": {
-      "added": {
-        "t_de_setind_x_wall_gate_02": 1
-      }
-    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_ex_daedric_ruins_spawn": 1

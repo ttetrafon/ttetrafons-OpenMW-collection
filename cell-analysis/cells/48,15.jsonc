@@ -1,0 +1,29 @@
+{
+  "cell": "48,15",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "blue coast ref 1024": 2,
+        "ex_t_menhir_l_01": 14,
+        "flora_kelp_01": 11,
+        "flora_kelp_02": 20,
+        "flora_kelp_03": 22,
+        "flora_kelp_04": 6,
+        "flora_kreshweed_02": 1,
+        "flora_saltrice_01": 5,
+        "flora_saltrice_02": 3,
+        "kollop_02_pearl": 4,
+        "kollop_03_pearl": 3,
+        "terrain_rock_ac_09": 2,
+        "terrain_rock_ac_10": 2
+      }
+    },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "dm_telvseabeacons": 1,
+        "ex_t_lant_03tsb": 1,
+        "sound_crystal_chime": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "cell": "40,18",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_t_hook": 14,
+        "ex_t_menhir_l_01": 25,
+        "ex_t_root_arch_01": 5,
+        "ex_t_root_stem": 2,
+        "ex_t_root_xl_01": 1,
+        "ex_t_root_xl_02": 1,
+        "ex_t_root_xl_03": 3,
+        "ex_t_slavemarket": 1,
+        "ex_t_tunnel": 5,
+        "flora_kreshweed_02": 1,
+        "flora_kreshweed_03": 2,
+        "flora_t_podbud_01": 1,
+        "furn_de_signpost_02": 1,
+        "light_de_lantern_04_177": 14,
+        "t_de_set_bannertownporttelv_01": 1,
+        "t_mw_rlvl_telvanniislesland+2": 1,
+        "t_mw_rlvl_telvanniislesland-2": 1,
+        "terrain_rock_ac_12": 3,
+        "tr_m1_tel_guard_s": 1
+      }
+    },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "ex_t_door_stone_large": 1,
+        "t_de_set_bannertownporttelv_01": 1
+      }
+    }
+  }
+}

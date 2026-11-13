@@ -1,0 +1,64 @@
+{
+  "cell": "Port Telvannis, Dunel Varys' House",
+  "name": "Port Telvannis, Dunel Varys' House",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_p_bed_10": 1,
+        "bk_vivecandmephala": 1,
+        "bookskill_athletics3": 1,
+        "com_sack_01_rnd_ingr_5": 1,
+        "de_p_chest_02_pos4": 1,
+        "de_p_closet_02_de_mclot": 1,
+        "flora_bc_vine_03": 8,
+        "flora_bc_vine_07": 10,
+        "furn_de_p_bookshelf_01": 1,
+        "furn_de_p_chair_02": 1,
+        "furn_de_p_table_01": 1,
+        "furn_de_rug_big_01": 2,
+        "furn_de_screen_guar_01": 2,
+        "in_t_housepod_01_hall": 1,
+        "in_t_housepod_01_hall_02": 1,
+        "in_t_housepod_door_exit": 1,
+        "in_t_housepod_pole_01": 2,
+        "in_t_housepod_pole_02": 4,
+        "in_t_housepod_pole_03": 2,
+        "ingred_bread_01": 1,
+        "light_de_candle_09": 1,
+        "light_de_candle_20": 1,
+        "light_de_paper_lantern_01_128": 3,
+        "misc_com_basket_01": 1,
+        "misc_com_bottle_04": 1,
+        "misc_com_bottle_10": 2,
+        "misc_com_bottle_14": 3,
+        "misc_com_wood_fork": 1,
+        "misc_com_wood_knife": 1,
+        "misc_de_foldedcloth00": 2,
+        "misc_uni_pillow_01": 1,
+        "northmarker": 1,
+        "t_bk_traditionalsloadtaletr": 1,
+        "t_de_stonewarebowl_01": 1,
+        "t_de_stonewarebowl_02": 1,
+        "t_de_stonewarecup_01": 2,
+        "t_de_stonewarecup_02": 4,
+        "t_de_stonewarejug_01": 1,
+        "t_de_stonewarepitcher_01": 1,
+        "t_de_stonewareplate_03": 3,
+        "t_de_stonewareplate_04": 4,
+        "t_de_stonewarepot_01": 2,
+        "t_de_stonewarepot_02": 1,
+        "t_de_stonewarepot_03": 1,
+        "t_ingfood_meatcliffracer_01": 1,
+        "t_mwcom_var_sk1cpfood1/2": 2,
+        "t_mwcom_var_sk1ing": 2,
+        "tr_m1_dunel_varys": 1,
+        "tr_m1_q59_pr_rat": 1
+      }
+    },
+    "PortTelvannisRedux.ESP": {
+      "modified": {
+        "tr_m1_dunel_varys": 1
+      }
+    }
+  }
+}

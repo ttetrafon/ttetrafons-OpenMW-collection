@@ -1,6 +1,17 @@
 {
   "cell": "18,-4",
   "plugins": {
+    "OAAB - Tel Raloran.esp": {
+      "added": {
+        "_cor_wl_terr_dark1": 1,
+        "ab_ex_telmenhirrooted01": 1,
+        "ex_t_menhir_01": 1
+      },
+      "modified": {
+        "ex_t_menhir_01": 1,
+        "ex_t_menhir_l_01": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "gold_001": 4,

@@ -70,6 +70,43 @@
         "tr_m1_nervul_dresan": 1
       }
     },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "000ptrcitychimer1": 1,
+        "ab_furn_mudcrabshell": 1,
+        "ab_furn_plaqueempty": 1,
+        "ab_furn_telfireplace": 1,
+        "ab_furn_telfireplacechimney": 1,
+        "ab_furn_teltapestry01": 1,
+        "com_basket_01_chpfood5": 1,
+        "com_sack_01_chpfood5": 1,
+        "dr_art_telvanni_l_01": 1,
+        "dr_con_o_fishheads_01": 1,
+        "dr_con_potioncase_lg": 1,
+        "dr_ktch_metal_forks_10": 1,
+        "dr_ktch_metal_knives_10": 1,
+        "dr_ktch_metal_spoons_10": 1,
+        "dr_ktch_wood_forks_10": 2,
+        "dr_ktch_wood_knives_10": 2,
+        "dr_ktch_wood_spoons_10": 2,
+        "furn_com_rm_table_04": 1,
+        "t_de_furn_tapestrytel_01a": 1,
+        "t_de_furn_tapestrytel_01b": 1,
+        "t_de_furn_tapestrytel_01c": 1,
+        "t_de_furn_tapestrytel_01d": 1,
+        "t_de_furn_tapestrytel_02a": 1,
+        "t_de_furn_tapestrytel_02c": 1,
+        "t_de_furn_tapestrytel_02d": 1,
+        "t_de_furn_tapestrytel_03a": 1,
+        "t_de_furn_tapestrytel_03b": 1,
+        "t_de_furn_tapestrytel_03c": 1,
+        "t_de_settelv_f_shelf_01": 1,
+        "t_qyc_shellwarepitcher": 1,
+        "tr_m1_aldyni_veran": 1,
+        "tr_m1_hizam_aneroth": 1,
+        "tr_m1_liam": 1
+      }
+    },
     "Wares_TR_traders.esp": {
       "added": {
         "aa_wares_baker": 1,

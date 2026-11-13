@@ -66,6 +66,53 @@
         "tr_m1_tel_guard_s": 1
       }
     },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "ab_misc_comredwareteapot": 1,
+        "ab_misc_comwoodtankard": 1,
+        "cephalopod_helm": 1,
+        "dr_con_ammopack_01": 1,
+        "dr_con_bookstack_01": 1,
+        "dr_con_potioncase_lg": 1,
+        "dr_con_potioncase_sm": 1,
+        "dr_con_satchel_01": 1,
+        "dr_con_scrollbag_01": 1,
+        "dr_con_thiefkit_01": 1,
+        "dr_con_toolbox_01": 1,
+        "dr_glass_telescope_s_01": 1,
+        "dr_ktch_metal_forks_10": 1,
+        "dr_ktch_metal_knives_10": 1,
+        "dr_ktch_metal_spoons_10": 1,
+        "dr_ktch_wood_forks_10": 1,
+        "dr_ktch_wood_knives_10": 1,
+        "dr_ktch_wood_spoons_10": 1,
+        "dr_pott_t_coaster_01": 1,
+        "dr_rack_keyrack_01": 1,
+        "furn_com_rm_table_04": 1,
+        "t_de_cardmisctel_02": 1,
+        "t_de_cardmisctel_05": 1,
+        "t_de_cardmisctel_06": 1,
+        "t_de_furn_tapestrytel_01a": 1,
+        "t_de_furn_tapestrytel_01b": 1,
+        "t_de_furn_tapestrytel_01c": 1,
+        "t_de_furn_tapestrytel_01d": 1,
+        "t_de_furn_tapestrytel_02a": 1,
+        "t_de_furn_tapestrytel_02b": 1,
+        "t_de_furn_tapestrytel_02c": 1,
+        "t_de_furn_tapestrytel_02d": 1,
+        "t_de_furn_tapestrytel_03a": 1,
+        "t_de_furn_tapestrytel_03b": 1,
+        "t_de_furn_tapestrytel_03c": 1,
+        "t_de_molecrab_boots_01": 1,
+        "t_de_telvcephalopod_boots_01": 1
+      },
+      "modified": {
+        "misc_com_broom_01": 1,
+        "misc_com_plate_02": 1,
+        "misc_com_plate_03": 1,
+        "tr_m1_bren_galdis": 1
+      }
+    },
     "Wares_TR_traders.esp": {
       "added": {
         "aa_wares_trader_telv": 1

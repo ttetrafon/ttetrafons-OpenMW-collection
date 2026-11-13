@@ -1,0 +1,47 @@
+{
+  "cell": "38,19",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "blue coast ref 1024": 2,
+        "ex_t_menhir_01": 2,
+        "ex_t_menhir_l_01": 27,
+        "flora_emp_parasol_03": 1,
+        "flora_kelp_02": 4,
+        "flora_kelp_03": 4,
+        "flora_kelp_04": 6,
+        "flora_kreshweed_01": 1,
+        "flora_kreshweed_02": 2,
+        "flora_kreshweed_03": 4,
+        "flora_marshmerrow_01": 2,
+        "flora_marshmerrow_02": 2,
+        "flora_marshmerrow_03": 3,
+        "flora_saltrice_01": 2,
+        "flora_saltrice_02": 2,
+        "flora_t_podbud_01": 1,
+        "flora_t_podbud_02": 1,
+        "flora_tree_ac_01": 1,
+        "in_cave_plant00": 6,
+        "t_mw_flora_blackrose01": 2,
+        "t_mw_flora_blackrose02": 2,
+        "t_mw_rlvl_seaofghostswater+0": 1,
+        "t_mw_rlvl_telvanniislescoast+2": 2,
+        "terrain_rock_ac_02": 2,
+        "terrain_rock_ac_03": 1,
+        "terrain_rock_ac_04": 2,
+        "terrain_rock_ac_05": 1,
+        "terrain_rock_ac_09": 1,
+        "terrain_rock_ac_10": 4,
+        "terrain_rock_ac_11": 2,
+        "terrain_rock_ac_12": 3
+      }
+    },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "dm_telvseabeacons": 1,
+        "ex_t_lant_03tsb": 1,
+        "sound_crystal_chime": 1
+      }
+    }
+  }
+}

@@ -71,6 +71,17 @@
         "tr_m1_tel_guard_s": 1
       }
     },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "kjs_dim_hcrichtest": 2,
+        "t_de_furn_tapestrytel_01a": 1,
+        "uvi_t_root_wrap_01v": 1
+      },
+      "modified": {
+        "t_de_furn_tapestry_01": 1,
+        "tr_m1_calbin_rgis": 1
+      }
+    },
     "Wares_TR_traders.esp": {
       "added": {
         "aa_wares_clothes": 1

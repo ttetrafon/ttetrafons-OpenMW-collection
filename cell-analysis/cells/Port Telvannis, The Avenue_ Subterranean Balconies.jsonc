@@ -158,6 +158,29 @@
         "tr_m1_taranon": 1
       }
     },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "000ptrcitysload1": 1,
+        "000ptrkhajiitslave1": 1,
+        "dm_telvseabeacons": 1,
+        "dr_ktch_metal_forks_10": 1,
+        "dr_ktch_metal_knives_10": 1,
+        "dr_ktch_metal_spoons_10": 1,
+        "dr_pott_t_coaster_01": 6,
+        "ex_t_lant_03tsb": 1,
+        "t_de_cardmisctel_03": 1,
+        "t_de_cardmisctel_04": 1,
+        "t_de_cardmisctel_05": 1
+      },
+      "modified": {
+        "light_de_candle_10_64": 1,
+        "light_de_paper_lantern_64_01": 3,
+        "misc_com_tankard_01": 1,
+        "misc_de_goblet_05": 1,
+        "tr_m1_fedura_drenim": 1,
+        "tr_m1_taranon": 1
+      }
+    },
     "Wares_TR_traders.esp": {
       "added": {
         "aa_wares_baker": 1,

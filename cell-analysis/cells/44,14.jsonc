@@ -1,0 +1,27 @@
+{
+  "cell": "44,14",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_t_menhir_l_01": 7,
+        "flora_kelp_01": 1,
+        "flora_kelp_02": 6,
+        "flora_kelp_03": 4,
+        "flora_kelp_04": 2,
+        "kollop_03_pearl": 2,
+        "t_mw_rlvl_telvanniislescoast-2": 1,
+        "t_mw_rlvl_telvanniisleswater+2": 1,
+        "terrain_rock_ac_03": 2,
+        "terrain_rock_ac_04": 1,
+        "terrain_rock_ac_11": 1
+      }
+    },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "dm_telvseabeacons": 1,
+        "ex_t_lant_03tsb": 1,
+        "sound_crystal_chime": 1
+      }
+    }
+  }
+}

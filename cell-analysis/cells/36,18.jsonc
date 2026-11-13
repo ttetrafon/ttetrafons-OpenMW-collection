@@ -1,0 +1,29 @@
+{
+  "cell": "36,18",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "blue coast ref 1024": 1,
+        "ex_t_menhir_l_01": 43,
+        "flora_kelp_02": 2,
+        "flora_kelp_03": 2,
+        "flora_kelp_04": 3,
+        "in_cave_plant00": 3,
+        "t_mw_fau_ceph_01": 1,
+        "t_mw_rlvl_telvanniislescoast+0": 1,
+        "t_mw_rlvl_telvanniislescoast-2": 1,
+        "t_mw_rlvl_telvanniislesland+0": 1,
+        "t_mw_rlvl_telvanniislesland+2": 1,
+        "t_mw_rlvl_telvanniislesland-2": 1,
+        "t_mw_rlvl_telvanniisleswater+0": 1
+      }
+    },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "dm_telvseabeacons": 1,
+        "ex_t_lant_03tsb": 1,
+        "sound_crystal_chime": 1
+      }
+    }
+  }
+}

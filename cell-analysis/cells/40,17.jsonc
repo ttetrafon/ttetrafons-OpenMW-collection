@@ -1,0 +1,45 @@
+{
+  "cell": "40,17",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_t_hook": 6,
+        "ex_t_menhir_l_01": 32,
+        "ex_t_root_01": 1,
+        "ex_t_root_03": 1,
+        "ex_t_root_04": 1,
+        "ex_t_root_05": 2,
+        "ex_t_root_lendsplit": 2,
+        "ex_t_root_stem": 3,
+        "ex_t_root_xl_01": 1,
+        "ex_t_root_xl_02": 1,
+        "ex_t_root_xl_03": 1,
+        "ex_t_rootball": 1,
+        "ex_t_slavemarket": 1,
+        "ex_t_tunnel": 1,
+        "ex_t_turret_03": 1,
+        "flora_emp_parasol_02": 3,
+        "flora_t_shelffungus_01": 2,
+        "flora_tree_ac_03": 3,
+        "light_de_lantern_04_177": 6,
+        "terrain_rock_ac_01": 1,
+        "terrain_rock_ac_02": 1,
+        "terrain_rock_ac_03": 1,
+        "terrain_rock_ac_04": 1,
+        "terrain_rock_ac_05": 1,
+        "terrain_rock_ac_06": 1,
+        "terrain_rock_ac_07": 2,
+        "terrain_rock_ac_08": 1,
+        "terrain_rock_ac_09": 1,
+        "terrain_rock_ac_11": 1,
+        "terrain_rock_ac_12": 3,
+        "tr_m1_tel_guard_s": 1
+      }
+    },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "ex_t_root_xl_02": 1
+      }
+    }
+  }
+}

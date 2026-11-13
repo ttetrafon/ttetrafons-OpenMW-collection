@@ -1,0 +1,48 @@
+{
+  "cell": "Port Telvannis, Bevasea Thareloth's House",
+  "name": "Port Telvannis, Bevasea Thareloth's House",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_r_bed_19": 1,
+        "de_r_chest_01_pos": 1,
+        "de_r_drawers_01_mcloth": 1,
+        "flora_bc_vine_01": 1,
+        "flora_bc_vine_02": 2,
+        "flora_bc_vine_04": 1,
+        "flora_bc_vine_05": 1,
+        "flora_bc_vine_07": 1,
+        "flora_grass_01": 1,
+        "furn_de_r_chair_03": 1,
+        "furn_de_r_table_09": 1,
+        "furn_de_r_wallscreen_01": 2,
+        "furn_de_rug_big_02": 1,
+        "furn_planter_01": 2,
+        "in_t_housepod_02": 1,
+        "in_t_housepod_door_exit": 1,
+        "in_t_housepod_pole_01": 1,
+        "in_t_housepod_pole_02": 1,
+        "in_t_housepod_pole_03": 1,
+        "light_de_candle_16_64": 2,
+        "light_de_lamp_01": 1,
+        "misc_com_plate_01": 1,
+        "misc_com_silverware_fork": 1,
+        "misc_com_silverware_knife": 1,
+        "misc_com_silverware_spoon": 1,
+        "misc_de_bowl_01": 1,
+        "misc_de_goblet_04": 1,
+        "misc_uni_pillow_01": 1,
+        "northmarker": 1,
+        "potion_comberry_brandy_01": 1,
+        "t_mw_fauna_cookedornd01": 1,
+        "t_mw_flora_blackrose02": 1,
+        "tr_m1_bevasea_thareloth": 1
+      }
+    },
+    "PortTelvannisRedux.ESP": {
+      "modified": {
+        "tr_m1_bevasea_thareloth": 1
+      }
+    }
+  }
+}

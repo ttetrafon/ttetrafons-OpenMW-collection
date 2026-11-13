@@ -87,6 +87,11 @@
       "added": {
         "aa_wares_trader_telv": 1
       }
+    },
+    "PortTelvannisRedux.ESP": {
+      "modified": {
+        "tr_m1_aresthi_brendu": 1
+      }
     }
   }
 }

@@ -1,0 +1,38 @@
+{
+  "cell": "41,18",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_t_menhir_l_01": 35,
+        "ex_t_rock_coastal_02": 9,
+        "ex_t_root_xl_01": 1,
+        "ex_t_root_xl_02": 1,
+        "flora_emp_parasol_01": 6,
+        "flora_emp_parasol_02": 4,
+        "flora_emp_parasol_03": 2,
+        "flora_kreshweed_01": 9,
+        "flora_kreshweed_02": 1,
+        "flora_kreshweed_03": 3,
+        "flora_muckspunge_01": 2,
+        "flora_muckspunge_04": 1,
+        "flora_muckspunge_06": 2,
+        "flora_t_podbud_01": 2,
+        "flora_t_podbud_03": 1,
+        "flora_tree_ac_02": 6,
+        "flora_tree_ac_03": 3,
+        "flora_tree_ac_04": 2,
+        "t_mw_rlvl_telvanniislesland+0": 1,
+        "t_mw_rlvl_telvanniislesland-2": 1,
+        "terrain_rock_ac_03": 4,
+        "terrain_rock_ac_04": 2,
+        "terrain_rock_ac_10": 5,
+        "terrain_rock_ac_11": 6
+      }
+    },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "t_de_settelv_x_towerseedling_01": 1
+      }
+    }
+  }
+}

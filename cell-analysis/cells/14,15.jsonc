@@ -1,0 +1,80 @@
+{
+  "cell": "14,15",
+  "plugins": {
+    "RR_Telvanni_Lighthouse_Tel Vos_Eng.ESP": {
+      "added": {
+        "_blue coast ref 256": 7,
+        "_ex_t_lant_03": 2,
+        "_ex_t_lant_04_l": 2,
+        "_ex_t_lant_04_r": 3,
+        "barrel_01_ashyams": 2,
+        "barrel_01_moonsugar": 1,
+        "crate_01_eggs": 3,
+        "crate_01_empty": 2,
+        "ex_cavern_padlock00": 1,
+        "ex_de_oar": 2,
+        "ex_de_rowboat": 1,
+        "ex_imp_towerb_cons_02": 1,
+        "ex_t_gateway_great": 1,
+        "ex_t_menhir_01": 1,
+        "ex_t_menhir_l_01": 9,
+        "ex_t_rock_coastal_01": 5,
+        "ex_t_rock_coastal_02": 8,
+        "ex_t_root_01": 2,
+        "ex_t_root_03": 1,
+        "ex_t_root_04": 1,
+        "ex_t_root_05": 1,
+        "ex_t_root_stem": 1,
+        "flora_bc_moss_04": 2,
+        "flora_bc_moss_06": 1,
+        "flora_bc_moss_08": 1,
+        "flora_kreshweed_01": 6,
+        "flora_kreshweed_02": 3,
+        "flora_kreshweed_03": 2,
+        "flora_marshmerrow_02": 1,
+        "flora_saltrice_01": 1,
+        "flora_t_mushroom_01": 1,
+        "flora_t_podbud_01": 1,
+        "flora_t_podbud_02": 1,
+        "flora_t_podbud_03": 2,
+        "flora_t_podbud_04": 3,
+        "flora_tree_ac_01": 1,
+        "flora_tree_ac_02": 2,
+        "flora_tree_ac_03": 1,
+        "furn_com_cauldron_01": 1,
+        "furn_de_firepit_f_01_400": 1,
+        "furn_de_p_stool_02": 1,
+        "furn_imp_metalring": 2,
+        "furn_imp_stoneblock_01": 19,
+        "gold_001": 2,
+        "iron dagger": 1,
+        "iron throwing knife": 3,
+        "misc_com_bottle_01": 1,
+        "misc_com_bottle_05": 1,
+        "misc_com_bottle_08": 3,
+        "misc_com_bottle_11": 1,
+        "misc_com_bottle_13": 2,
+        "misc_com_bottle_14": 1,
+        "pick_journeyman_01": 3,
+        "probe_journeyman_01": 1,
+        "sound_crystal_chime": 7,
+        "terrain_rock_ac_01": 2,
+        "terrain_rock_ac_02": 6,
+        "terrain_rock_ac_04": 2,
+        "terrain_rock_ac_06": 1,
+        "terrain_rock_ac_08": 5
+      },
+      "modified": {
+        "ex_shore_cliffracer_lev+0": 1,
+        "ex_t_menhir_l_01": 4
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "ingred_muck_01": 3,
+        "xero_east_chest": 1,
+        "xero_marker": 1
+      }
+    }
+  }
+}

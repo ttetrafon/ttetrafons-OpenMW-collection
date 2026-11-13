@@ -56,6 +56,7 @@
     },
     "DM_TR_AkaMoreIndoril.esp": {
       "modified": {
+        "t_mw_terrrockwg_cliff_02": 1,
         "terrain_rock_wg_08": 1,
         "terrain_rock_wg_12": 1
       }

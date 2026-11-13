@@ -73,6 +73,31 @@
         "misc_com_bucket_01": 1
       }
     },
+    "RR_Telvanni_Lighthouse_Tel Vos_Eng.ESP": {
+      "added": {
+        "_act_banner_lh": 1,
+        "_ex_t_signpost": 1,
+        "ex_t_menhir_01": 1,
+        "ex_t_rock_coastal_03": 1,
+        "ex_t_root_01": 1,
+        "flora_marshmerrow_01": 1,
+        "flora_marshmerrow_02": 1,
+        "flora_marshmerrow_03": 3,
+        "flora_saltrice_01": 2,
+        "flora_saltrice_02": 2,
+        "terrain_rock_ac_05": 1,
+        "terrain_rock_ac_08": 1
+      },
+      "modified": {
+        "ex_t_menhir_01": 1,
+        "ex_t_menhir_l_01": 1,
+        "flora_marshmerrow_01": 1,
+        "flora_marshmerrow_02": 1,
+        "flora_marshmerrow_03": 3,
+        "flora_saltrice_01": 2,
+        "flora_saltrice_02": 2
+      }
+    },
     "Uncharted Artifacts.esp": {
       "added": {
         "x0_m07_chest": 1,

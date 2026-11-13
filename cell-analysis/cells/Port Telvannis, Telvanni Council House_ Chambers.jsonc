@@ -1,0 +1,57 @@
+{
+  "cell": "Port Telvannis, Telvanni Council House: Chambers",
+  "name": "Port Telvannis, Telvanni Council House: Chambers",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "act_crystal_01_pulse": 3,
+        "act_crystal_02_pulse": 1,
+        "collision wall - inviso!!": 1,
+        "in_icesheet_01": 112,
+        "in_lava_blacksquare": 9,
+        "in_t_council_beams_02": 2,
+        "in_t_crystal_01": 2,
+        "in_t_crystal_02": 3,
+        "in_t_gatesymbol": 12,
+        "in_t_housepod_2ndfloor": 1,
+        "in_t_l_pillar_01": 3,
+        "in_t_manor_djamb_exit": 5,
+        "in_t_platform_02": 9,
+        "in_t_railing_pole_rails": 36,
+        "in_t_root_wrap_01": 13,
+        "in_t_root_wrap_02": 3,
+        "in_t_s_pillar_02": 1,
+        "in_t_s_pillar_04": 2,
+        "in_t_s_pillar_large_01": 1,
+        "in_t_stairs_wiz_03": 1,
+        "purp_01_128_pulse": 5,
+        "purple_512": 12,
+        "sound_crystal_chime": 6,
+        "t_de_settelv_doorlargein_03": 1,
+        "tr_m1_platform_02_pt_float": 2,
+        "tr_m1_pt_chcryst": 1,
+        "tr_m1_q_malvasmarker": 1,
+        "tr_m1_t_areth_morvayn": 1,
+        "tr_m1_t_fervas_shulisa": 1,
+        "tr_m1_t_malvas_relvani": 1,
+        "tr_m1_t_nethan_marys": 1,
+        "tr_m1_t_nevrile_omayn": 1,
+        "tr_m1_t_norahin_darys": 1
+      }
+    },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "000ptr_cor_lr_levitation_pad": 1,
+        "000ptr_cor_lr_light_teal": 1,
+        "tr_m1_platform_02_pt_float": 1,
+        "tr_m1_t_fervas_shulisa": 1,
+        "tr_m1_t_nethan_marys": 1,
+        "tr_m1_t_nevrile_omayn": 1,
+        "tr_m1_t_norahin_darys": 1
+      },
+      "modified": {
+        "in_t_s_pillar_large_01": 1
+      }
+    }
+  }
+}

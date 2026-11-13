@@ -67,6 +67,29 @@
         "tr_m1_tel_guard_s": 1
       }
     },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "de_r_chest_01_potion_al": 1,
+        "dr_con_ammopack_01": 1,
+        "dr_con_bookstack_01": 1,
+        "dr_con_potioncase_lg": 2,
+        "dr_con_potioncase_sm": 2,
+        "dr_con_satchel_01": 2,
+        "dr_con_scrollbag_01": 1,
+        "dr_con_thiefkit_01": 1,
+        "dr_con_toolbox_01": 1,
+        "dr_ktch_metal_forks_10": 1,
+        "dr_ktch_metal_knives_10": 1,
+        "dr_ktch_metal_spoons_10": 1,
+        "dr_ktch_wood_forks_10": 1,
+        "dr_ktch_wood_knives_10": 1,
+        "dr_ktch_wood_spoons_10": 1,
+        "dr_rack_keyrack_01": 2,
+        "furn_com_rm_table_04": 3,
+        "light_de_lamp_01": 1,
+        "tr_m1_gali_therinyth": 1
+      }
+    },
     "Wares_TR_traders.esp": {
       "added": {
         "aa_wares_alchemist": 1

@@ -1,0 +1,25 @@
+{
+  "cell": "45,18",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_t_menhir_l_01": 24,
+        "in_dae_atronach_lev+0": 1,
+        "t_mw_lvl_netcheswild+0": 1,
+        "t_mw_rlvl_telvanniislesland+0": 1,
+        "terrain_rock_ma_57": 2
+      }
+    },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "000porttelvannisnexusflag1": 1,
+        "000ptnaufragouscrystal1": 2,
+        "ab_ex_telrootbranchsmall": 1,
+        "ex_t_housestem_02": 1,
+        "ex_t_root_03": 1,
+        "flora_t_mushroom_01": 2,
+        "in_t_crystal_02": 1
+      }
+    }
+  }
+}

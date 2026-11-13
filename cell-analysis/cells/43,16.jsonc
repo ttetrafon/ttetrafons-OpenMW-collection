@@ -1,0 +1,45 @@
+{
+  "cell": "43,16",
+  "name": "Port Telvannis",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_t_brace_01": 1,
+        "ex_t_door_02": 1,
+        "ex_t_doorway_02": 1,
+        "ex_t_housepod_02": 2,
+        "ex_t_housepod_04": 1,
+        "ex_t_housestem_01": 1,
+        "ex_t_menhir_l_01": 32,
+        "ex_t_pole_hooked": 1,
+        "ex_t_root_01": 1,
+        "ex_t_root_04": 1,
+        "ex_t_root_06": 1,
+        "ex_t_root_hook": 2,
+        "ex_t_root_xl_03": 1,
+        "flora_emp_parasol_02": 7,
+        "flora_t_mushroom_01": 1,
+        "flora_t_podbud_01": 1,
+        "light_de_lantern_07_128": 2,
+        "light_de_lantern_07_warm": 1,
+        "t_mw_rlvl_telvanniislescoast-2": 1,
+        "tr_m1_salms varys": 1
+      }
+    },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "ex_de_shack_02": 1,
+        "ex_de_shack_04": 1,
+        "ex_t_pole_hooked": 1,
+        "ex_t_root_xl_03": 2,
+        "light_de_lantern_07_warm": 1,
+        "t_de_settelv_x_playertowrspr_01": 1,
+        "t_glb_var_blood_03": 1,
+        "t_glb_var_blood_04": 1
+      },
+      "modified": {
+        "ex_t_housepod_04": 1
+      }
+    }
+  }
+}

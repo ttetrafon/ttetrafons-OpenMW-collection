@@ -1,0 +1,73 @@
+{
+  "cell": "Port Telvannis, Aghzank gro-Zurgh's House",
+  "name": "Port Telvannis, Aghzank gro-Zurgh's House",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "active_de_p_bed_28": 1,
+        "com_sack_01_chpfood5": 1,
+        "crate_01_eggs": 1,
+        "crate_01_food_misc01": 1,
+        "crate_02_bottle05_5": 1,
+        "flora_bc_vine_02": 2,
+        "flora_bc_vine_03": 1,
+        "flora_bc_vine_04": 1,
+        "flora_bc_vine_05": 1,
+        "flora_bc_vine_06": 1,
+        "flora_bc_vine_07": 1,
+        "food_kwama_egg_02": 1,
+        "furn_de_p_bookshelf_01": 1,
+        "furn_de_p_chair_02": 1,
+        "furn_de_p_table_02": 1,
+        "furn_de_rug_01": 1,
+        "in_t_housepod_01": 1,
+        "in_t_housepod_door_exit": 1,
+        "in_t_housepod_pole_01": 1,
+        "in_t_housepod_pole_02": 1,
+        "in_t_housepod_pole_03": 1,
+        "ingred_bread_01": 1,
+        "ingred_rat_meat_01": 1,
+        "iron warhammer": 1,
+        "light_com_candle_07_128": 1,
+        "light_com_lantern_01_off": 1,
+        "misc_com_bottle_05": 1,
+        "misc_com_bottle_08": 1,
+        "misc_com_bottle_14": 2,
+        "misc_com_broom_01": 1,
+        "misc_com_bucket_01": 1,
+        "misc_com_metal_plate_04": 1,
+        "misc_com_redware_vase": 1,
+        "misc_com_wood_bowl_04": 2,
+        "misc_com_wood_cup_02": 5,
+        "misc_de_basket_01": 1,
+        "misc_de_bowl_orange_green_01": 1,
+        "misc_de_glass_yellow_01": 3,
+        "misc_de_pot_blue_01": 2,
+        "misc_de_pot_blue_02": 2,
+        "misc_de_pot_green_01": 3,
+        "northmarker": 1,
+        "t_com_dice_01": 1,
+        "t_ingfood_eggmolecrab_01": 1,
+        "t_mwcom_var_bss1food": 1,
+        "t_mwcom_var_sk1cpfood1/2": 1,
+        "t_mwcom_var_sk1ing": 1,
+        "t_mwcom_var_sk3ing": 1,
+        "tr_m1_aghzank_grozurgh": 1
+      }
+    },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "dr_smth_i_orchalc": 1,
+        "light_com_candle_07_128": 2,
+        "misc_uni_pillow_01": 1,
+        "orcish_helm": 1,
+        "t_com_skullorc_01": 1,
+        "t_com_skullorc_02": 1,
+        "t_orc_drum_01": 1
+      },
+      "modified": {
+        "tr_m1_aghzank_grozurgh": 1
+      }
+    }
+  }
+}

@@ -75,6 +75,38 @@
         "tr_m1_tel_guard_s": 1
       }
     },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "000ptrsunder_fake1": 1,
+        "ab_a_irondeboots": 1,
+        "ab_a_irondecuirass": 1,
+        "ab_a_irondehelm": 1,
+        "ab_a_irondepldleft": 1,
+        "ab_a_irondepldright": 1,
+        "ab_repair_flatter_01": 1,
+        "ab_repair_fuller_01": 1,
+        "ab_repair_mallet_01": 1,
+        "ab_repair_swage_01": 1,
+        "dr_asrt_p_f_bookcase_01": 2,
+        "dr_asrt_p_f_bookcase_02": 1,
+        "dr_asrt_p_f_bookcase_03": 1,
+        "dr_asrt_p_f_bookcase_04": 1,
+        "dr_chain_lg_0600a": 1,
+        "dr_con_ammopack_01": 1,
+        "dr_con_toolbox_01": 1,
+        "dr_dung_cage_03": 1,
+        "dr_dung_hook_01": 1,
+        "dr_dung_hook_02": 1,
+        "dr_rack_keyrack_01": 1,
+        "furn_de_in_banner_telvani_01": 1,
+        "t_tsa_regular_shield_01": 1
+      },
+      "modified": {
+        "bonemold_shield": 1,
+        "bonemold_tshield_telvanniguard": 1,
+        "tr_m1_de_p_chest_derdel": 1
+      }
+    },
     "Wares_TR_traders.esp": {
       "added": {
         "aa_wares_smith": 1

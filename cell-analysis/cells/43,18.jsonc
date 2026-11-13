@@ -8,6 +8,11 @@
         "terrain_rock_ma_57": 2
       }
     },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "ex_t_root_xl_02": 1
+      }
+    },
     "F&F_Mainland.ESP": {
       "added": {
         "_aa_solo_spawn_no_guard": 1

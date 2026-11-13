@@ -1,0 +1,20 @@
+{
+  "cell": "34,16",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_t_menhir_l_01": 36,
+        "t_mw_rlvl_seaofghostswater-2": 1,
+        "t_mw_rlvl_telvanniislescoast+0": 1,
+        "terrain_rock_wg_08": 1
+      }
+    },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "dm_telvseabeacons": 1,
+        "ex_t_lant_03tsb": 1,
+        "sound_crystal_chime": 1
+      }
+    }
+  }
+}

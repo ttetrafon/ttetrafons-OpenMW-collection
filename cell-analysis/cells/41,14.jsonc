@@ -1,0 +1,38 @@
+{
+  "cell": "41,14",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_t_bigroot_01": 1,
+        "ex_t_bigroot_02": 1,
+        "ex_t_brace_01": 3,
+        "ex_t_clawgrowth_01": 2,
+        "ex_t_clawgrowth_02": 2,
+        "ex_t_dormer_02": 1,
+        "ex_t_hook": 4,
+        "ex_t_menhir_l_01": 14,
+        "ex_t_root_01": 1,
+        "ex_t_root_02": 1,
+        "ex_t_root_03": 1,
+        "ex_t_root_04": 1,
+        "ex_t_root_06": 1,
+        "ex_t_root_hook": 1,
+        "ex_t_root_spikes_01": 1,
+        "ex_t_root_spikes_02": 1,
+        "ex_t_root_stem": 3,
+        "ex_t_root_xl_02": 1,
+        "ex_t_root_xl_03": 1,
+        "ex_t_rootball": 1,
+        "flora_emp_parasol_01": 3,
+        "flora_emp_parasol_02": 2,
+        "flora_emp_parasol_03": 2,
+        "t_mw_rlvl_telvanniisleswater+2": 1
+      }
+    },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "t_de_settelv_x_playertowrspr_01": 1
+      }
+    }
+  }
+}

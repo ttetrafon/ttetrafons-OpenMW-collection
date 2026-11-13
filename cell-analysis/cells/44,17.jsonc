@@ -1,0 +1,18 @@
+{
+  "cell": "44,17",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_t_menhir_l_01": 84,
+        "t_mw_lvl_escapedmonsters-2": 1,
+        "terrain_rock_ma_57": 2,
+        "terrain_rock_ma_5a": 1
+      }
+    },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "000ptr_cor_lr_mushroom_pod": 1
+      }
+    }
+  }
+}

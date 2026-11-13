@@ -94,6 +94,30 @@
         "tr_m1_tel_guard_s": 1
       }
     },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "000ptrtelvgateway1": 1,
+        "000telvbox1skriak": 1,
+        "ab_ex_telmenhirarch": 1,
+        "ab_ex_telmenhirrooted02": 1,
+        "ab_ex_telrootbranchlarge": 1,
+        "dr_asrt_crane_01": 1,
+        "dr_con_box_03_d1_stl_w": 1,
+        "ex_t_root_xl_01": 1,
+        "in_t_crystal_02": 1,
+        "t_de_set_bannerslaves01": 1,
+        "t_de_set_bannertownporttelv_01": 2,
+        "t_de_set_wagon_01": 1,
+        "t_de_var_crystal_04": 2,
+        "tr_m1_russel": 1
+      },
+      "modified": {
+        "ex_t_menhir_l_01": 1,
+        "ex_t_rootball": 1,
+        "tr_m1_geldii": 1,
+        "tr_m1_relamus andoril": 1
+      }
+    },
     "RepopulatedMainland.ESP": {
       "added": {
         "gvrm_mercwand_dun_trcpy": 2

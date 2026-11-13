@@ -1,0 +1,23 @@
+{
+  "cell": "40,16",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_t_menhir_l_01": 32,
+        "ex_t_root_xl_02": 1,
+        "ex_t_root_xl_03": 1,
+        "flora_tree_ac_01": 2,
+        "flora_tree_ac_03": 1,
+        "terrain_rock_ac_07": 1,
+        "terrain_rock_ac_08": 1,
+        "terrain_rock_ac_11": 2
+      }
+    },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "ex_t_root_xl_02": 1,
+        "t_de_settelv_x_towerseedling_01": 1
+      }
+    }
+  }
+}

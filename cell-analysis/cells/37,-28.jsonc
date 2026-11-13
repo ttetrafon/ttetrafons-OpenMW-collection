@@ -104,6 +104,7 @@
     },
     "DM_TR_EnaMoreIndoril.ESP": {
       "added": {
+        "misc_com_bucket_01": 1,
         "t_de_furn_lightpost_02": 7,
         "t_de_setind_door_chap": 1,
         "t_de_setind_door_square": 6,
@@ -126,7 +127,7 @@
         "t_de_setind_x_plat_dk_3way": 1,
         "t_de_setind_x_plat_step_01": 4,
         "t_de_setind_x_plat_str_01": 1,
-        "t_de_setind_x_steps_00": 2,
+        "t_de_setind_x_steps_00": 3,
         "t_de_setind_x_wall_cnr_01": 9,
         "t_de_setind_x_wall_cnr_02": 3,
         "t_de_setind_x_wall_cnrgate_03": 1,

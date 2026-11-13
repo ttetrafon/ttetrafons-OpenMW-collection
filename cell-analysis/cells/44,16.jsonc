@@ -1,0 +1,18 @@
+{
+  "cell": "44,16",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_t_menhir_l_01": 97,
+        "flora_emp_parasol_02": 1,
+        "t_mw_lvl_escapedmonsters+0": 1,
+        "t_mw_rlvl_telvanniislesland+0": 2
+      }
+    },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "ex_t_root_xl_02": 1
+      }
+    }
+  }
+}

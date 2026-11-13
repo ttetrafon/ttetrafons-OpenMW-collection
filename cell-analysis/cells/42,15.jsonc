@@ -64,6 +64,26 @@
       "modified": {
         "ex_t_menhir_l_01": 6
       }
+    },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "000ptrlighthouseguard1": 1,
+        "_ex_t_lantern_01": 4,
+        "_ex_t_lantern_02": 3,
+        "_ex_telv_lh": 1,
+        "blue coast ref 1024": 1,
+        "ex_t_root_02": 1,
+        "ex_t_root_05": 1,
+        "flora_bc_moss_03": 1,
+        "flora_bc_moss_04": 2,
+        "flora_bc_moss_06": 1,
+        "flora_bc_moss_10": 1,
+        "flora_bc_moss_16": 2,
+        "flora_kreshweed_01": 1,
+        "flora_kreshweed_03": 1,
+        "flora_t_podbud_03": 1,
+        "sound_crystal_chime": 10
+      }
     }
   }
 }

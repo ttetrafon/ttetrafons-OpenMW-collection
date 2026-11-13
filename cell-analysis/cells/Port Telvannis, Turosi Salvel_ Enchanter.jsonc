@@ -67,6 +67,39 @@
         "tr_m1_w_silver_mace_flame": 1
       }
     },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "000ptrslavebracerpile1": 1,
+        "ab_a_eggminerhelm": 1,
+        "de_p_chest_02_pos3": 1,
+        "dr_asrt_mod_ship": 1,
+        "dr_asrt_telescope_lg_01": 1,
+        "dr_con_ammopack_01": 1,
+        "dr_con_bookstack_01": 1,
+        "dr_con_box_03_d1_stl_a": 1,
+        "dr_con_scrollbag_01": 1,
+        "dr_con_toolbox_01": 1,
+        "dr_hook_rack_01": 2,
+        "dr_hook_rack_02": 2,
+        "dr_lite_lan_cubed_base": 2,
+        "dr_lite_lan_diamond_base": 2,
+        "dr_lite_lan_ribbed_base": 2,
+        "dr_lite_lan_round_base": 2,
+        "dr_lite_lan_trileg_base": 2,
+        "dr_rack_keyrack_01": 1,
+        "dr_tbl_lighttable_01": 2,
+        "helm of wounding": 1,
+        "in_t_housepod_pole_04": 1,
+        "shield of wounds": 1,
+        "velothian shield": 1
+      },
+      "modified": {
+        "blessed_shield": 1,
+        "silver sparksword": 1,
+        "steel staff of war": 1,
+        "tr_m1_turosi_salvel": 1
+      }
+    },
     "Wares_TR_traders.esp": {
       "added": {
         "aa_wares_magical_telv": 1

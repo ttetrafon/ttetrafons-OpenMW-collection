@@ -1,0 +1,15 @@
+{
+  "cell": "46,16",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_t_menhir_l_01": 100
+      }
+    },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "000ptr_cor_lr_mushroom_pod": 1
+      }
+    }
+  }
+}

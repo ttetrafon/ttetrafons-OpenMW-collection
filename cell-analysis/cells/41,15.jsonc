@@ -1,0 +1,51 @@
+{
+  "cell": "41,15",
+  "name": "Port Telvannis",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "blue coast ref 1024": 1,
+        "crate_01": 5,
+        "crate_01_armor_leather": 1,
+        "crate_01_eggs": 1,
+        "crate_01_eggs10": 1,
+        "crate_01_empty_float": 1,
+        "crate_01_food": 1,
+        "ex_t_dock_main": 1,
+        "ex_t_housestem_02": 1,
+        "ex_t_menhir_l_01": 20,
+        "ex_t_platform_02": 1,
+        "ex_t_pole_hooked": 3,
+        "ex_t_root_02": 1,
+        "ex_t_rootball": 2,
+        "flora_kelp_02": 4,
+        "flora_kelp_03": 4,
+        "furn_de_signpost_02": 1,
+        "in_t_gatesymbol": 1,
+        "in_t_railing_pole": 1,
+        "in_t_railing_pole_rails": 16,
+        "light_de_paper_lantern_04": 1,
+        "t_de_set_bannertownporttelv_01": 1,
+        "t_mw_fauna_waterstrider_01": 1,
+        "terrain_rock_ac_01": 5,
+        "terrain_rock_ac_08": 1,
+        "tr_m1_dolmse_andala": 1,
+        "tr_m1_q59_adh_assa_3": 1,
+        "tr_m1_s_alhat": 1,
+        "tr_m1_tel_guard": 1
+      }
+    },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "000telvbox1skriak": 1,
+        "000telvbox2skriakfloat": 1,
+        "t_de_set_bannertownporttelv_01": 1,
+        "tr_m1_dolmse_andala": 1
+      },
+      "modified": {
+        "tr_m1_q59_adh_assa_3": 1,
+        "tr_m1_s_alhat": 1
+      }
+    }
+  }
+}

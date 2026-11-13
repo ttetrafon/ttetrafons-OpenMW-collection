@@ -1,0 +1,19 @@
+{
+  "cell": "40,15",
+  "plugins": {
+    "TR_Mainland.esm": {
+      "added": {
+        "ex_t_menhir_l_01": 18,
+        "t_mw_rlvl_telvanniislescoast+2": 1,
+        "tr_m1_rand_molecrab": 6
+      }
+    },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "dm_telvseabeacons": 1,
+        "ex_t_lant_03tsb": 1,
+        "sound_crystal_chime": 1
+      }
+    }
+  }
+}

@@ -89,6 +89,35 @@
         "tr_m1_tumsea rethrend": 1
       }
     },
+    "PortTelvannisRedux.ESP": {
+      "added": {
+        "000ptrguard1s": 1,
+        "000ptrtr_m1_pt_felis_books2": 1,
+        "dr_chain_lg_0600a": 1,
+        "ex_t_clawgrowth_01": 2,
+        "ex_t_clawgrowth_02": 1,
+        "ex_t_manor_02": 1,
+        "ex_t_pole_hooked": 1,
+        "ex_t_root_lendsplit": 1,
+        "ex_t_root_stem": 1,
+        "ex_t_turret_03": 2,
+        "t_de_var_crystal_03": 1,
+        "t_de_var_crystal_05": 1,
+        "tr_m1_pt_encha_cerul": 1,
+        "tr_m1_pt_felis_books": 1,
+        "tr_m1_pt_smith_deram": 1
+      },
+      "modified": {
+        "ex_t_brace_01": 1,
+        "ex_t_clawgrowth_02": 2,
+        "ex_t_door_02": 1,
+        "ex_t_doorway_01": 1,
+        "ex_t_root_xl_03": 1,
+        "ex_t_stair_01": 1,
+        "tr_m1_q59_adh_assa_1": 1,
+        "tr_m1_tumsea rethrend": 1
+      }
+    },
     "RepopulatedMainland.ESP": {
       "added": {
         "gvrm_mercwand_dun_trcpy": 1
