@@ -13,6 +13,27 @@
         "opn_sound_swamp_3": 2
       }
     },
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "bs_f_alocasia_plant_2_1": 2,
+        "bs_f_hydnum_azure1": 6,
+        "bs_f_lizard_head3a_deco_lt": 2,
+        "bs_f_red_kelp_01_1": 4,
+        "bs_f_shiv_shroom_mn1_0": 5,
+        "bs_f_shiv_shroom_mn3_0": 6,
+        "bs_f_shiv_shroom_mn4_0": 2,
+        "bs_f_si_mushroom_03m": 3,
+        "bs_f_statue_si_01_1b": 1,
+        "ex_dae_door_load_oval": 1,
+        "flora_bc_fern_02": 6,
+        "flora_bc_grass_01": 7
+      },
+      "modified": {
+        "gg_ex_dae_sheomania": 1,
+        "holmgeira": 1,
+        "in_dae_all_lev-2": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "misc_com_metal_goblet_01": 1,

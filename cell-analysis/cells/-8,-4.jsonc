@@ -11,6 +11,24 @@
         "opn_sound_swamp_3": 1
       }
     },
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "ab_terr_ashpile_m": 1,
+        "active_de_p_bed_28": 1,
+        "bs_daed_urn_11_1_ing": 2,
+        "bs_flora_brittleb2": 1,
+        "bs_furn_dae_firepit01": 1,
+        "furn_de_firepit": 1,
+        "furn_de_screen_guar_01": 5,
+        "t_cr_goblin_pelt_05": 2,
+        "t_cr_goblin_pelt_06": 3,
+        "t_cyr_cre_gob_01": 1,
+        "t_orc_furn_rug_03": 1,
+        "t_skyorc_setnmd_ch2pos": 1,
+        "t_skyorc_setnmd_sk1food": 1,
+        "t_skyorc_setnmd_sk2food": 2
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "contain_corpse_water": 1,

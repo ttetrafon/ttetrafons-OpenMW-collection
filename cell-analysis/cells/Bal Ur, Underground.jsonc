@@ -1,0 +1,75 @@
+{
+  "cell": "Bal Ur, Underground",
+  "name": "Bal Ur, Underground",
+  "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "blue_night_lite_1024": 1,
+        "bs_barrel_01_misc2": 1,
+        "bs_barrel_02_misc1": 1,
+        "bs_boiler_01a": 2,
+        "bs_c_o_dust": 1,
+        "bs_cont_mb_urn1_mbdrink": 2,
+        "bs_cont_mb_urn2": 2,
+        "bs_cont_mb_urn2_loot": 1,
+        "bs_cont_mb_urn3_ing": 2,
+        "bs_daed_loot_chest4": 1,
+        "bs_daed_potion_01": 1,
+        "bs_db_dng_chain2": 4,
+        "bs_ex_dae_cage_01": 3,
+        "bs_ex_mb_dae_buttress_r": 6,
+        "bs_ex_mb_dae_pillar_02": 6,
+        "bs_ex_mb_pit2b": 1,
+        "bs_f_banner_molag_bal": 2,
+        "bs_f_molag_bal_sigil01_act": 1,
+        "bs_f_platform_mb": 1,
+        "bs_frostmonarch": 1,
+        "bs_furn_dae_rubblemb_04a": 2,
+        "bs_furn_rug_blue_patt1": 1,
+        "bs_harvester": 1,
+        "bs_in_dae_connectmb_lcave": 1,
+        "bs_in_dae_doorjambmb_01": 2,
+        "bs_in_dae_doormb_01": 1,
+        "bs_in_dae_hallmb_l_entry": 2,
+        "bs_in_dae_plat_stairs_herm": 3,
+        "bs_in_dae_platformmb_01": 20,
+        "bs_in_dae_roommb_l_cor_01": 4,
+        "bs_in_mb_crystal_02": 1,
+        "bs_in_mb_dae_pillar_tall": 10,
+        "bs_in_mb_genrtr2": 1,
+        "bs_in_mire_swirl_1024_01": 8,
+        "bs_light_mb_dae_brazier02c": 10,
+        "bs_mb_crystal_light_2": 1,
+        "bs_mb_crystal_light_2b": 4,
+        "bs_oblivion_cube_mb1": 1,
+        "bs_rocks_jagged_g1bs": 1,
+        "bs_rocks_jagged_g2bs": 2,
+        "bs_rocks_jagged_g3bbs": 1,
+        "bs_tree_mb_bound1s_g": 4,
+        "com_chest_11_k01": 2,
+        "in_pycave2_s_04": 1,
+        "in_pycave2_s_05": 2,
+        "in_pycave_04": 1,
+        "in_pycave_09": 1,
+        "in_pycave_14": 1,
+        "misc_soulgem_grand": 1,
+        "sound_power_hum": 2
+      },
+      "modified": {
+        "active_dae_molagbal2": 1,
+        "in_lava_rock_23": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_vermin_marker_box": 2
+      }
+    },
+    "Daedric Shrine Overhaul - Fropa's Fixes.ESP": {
+      "modified": {
+        "in_dae_hall_l_corner": 1,
+        "in_dae_hall_ruin_l_01": 1
+      }
+    }
+  }
+}

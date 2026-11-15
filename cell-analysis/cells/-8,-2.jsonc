@@ -13,6 +13,21 @@
         "opn_sound_swamp_2": 2
       }
     },
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "ab_f_bloodgrass_01": 2,
+        "ab_f_harrada_01": 1,
+        "ab_f_harrada_01b": 2,
+        "ab_flora_chartree_01": 1,
+        "ab_flora_chartree_02": 1,
+        "ab_flora_chartree_04": 2,
+        "ab_flora_chartree_05": 2,
+        "ab_fx_scorch01": 3,
+        "ab_o_corpseburnt03loot": 1,
+        "scamp": 3,
+        "t_dae_cre_drem_cast_01": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "crate_01_empty": 1,

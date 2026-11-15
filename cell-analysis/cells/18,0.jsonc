@@ -1,6 +1,12 @@
 {
   "cell": "18,0",
   "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "ab_terr_ashpile_l": 3,
+        "bs_gargoyle_still": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "misc_com_metal_goblet_01": 1,

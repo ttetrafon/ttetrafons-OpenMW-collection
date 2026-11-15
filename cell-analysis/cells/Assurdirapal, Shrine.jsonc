@@ -1,0 +1,56 @@
+{
+  "cell": "Assurdirapal, Shrine",
+  "name": "Assurdirapal, Shrine",
+  "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "ab_ex_ashltentsmall": 2,
+        "ab_ex_comtent01": 1,
+        "ab_furn_ashlskull_03": 2,
+        "ab_furn_pracmatruined": 1,
+        "ab_furn_sackgrain01": 1,
+        "ab_furn_sackhugeclosed": 1,
+        "ab_misc_comcarddeck01": 1,
+        "ab_misc_dice": 2,
+        "ab_o_barrel02grouppos": 1,
+        "ab_r_crabpot01": 1,
+        "ab_terr_ashpile_l": 1,
+        "active_de_bedroll": 1,
+        "bs_barrel_01_fishs": 1,
+        "bs_cookingp02_dark_sp4": 1,
+        "bs_f_banner_malacath4a": 1,
+        "bs_m_case_0_gold": 1,
+        "bs_sbottle02a_mw": 1,
+        "bs_small_bag_02_gold": 1,
+        "furn_de_firepit_f_200": 1,
+        "misc_com_bottle_09": 1,
+        "misc_com_bottle_13": 2,
+        "misc_com_tankard_01": 3,
+        "potion_cyro_brandy_01": 1
+      },
+      "modified": {
+        "active_de_bedroll": 1,
+        "barrel_01_ingredients": 1,
+        "com_basket_01_food": 1,
+        "com_sack_01_chpfood5": 1,
+        "com_sack_02_chpfood3": 1,
+        "com_sack_03_chpfood5": 1,
+        "in_dae_rubble_01a": 2,
+        "in_dae_rubble_01c": 1,
+        "in_dae_rubble_04a": 1,
+        "light_de_candle_02": 1,
+        "misc_com_bottle_01": 1,
+        "misc_com_metal_plate_04": 2,
+        "misc_com_wood_fork": 2,
+        "misc_com_wood_knife": 2,
+        "misc_com_wood_spoon_01": 2,
+        "misc_de_tankard_01": 4
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_vermin_marker_box": 2
+      }
+    }
+  }
+}

@@ -1,6 +1,24 @@
 {
   "cell": "0,21",
   "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "ab_in_cavebonerib01": 3,
+        "ab_terr_ashpile_m": 7,
+        "bs_flora_brittleb2": 3,
+        "bs_gargoyle_still": 1,
+        "t_orc_furn_rug_04": 1,
+        "t_skyorc_setnmd_ch1arm": 1,
+        "t_skyorc_setnmd_ch1hun2": 1,
+        "t_skyorc_setnmd_ch1loot": 1,
+        "terrain_ashmire_02": 1,
+        "terrain_rock_ac_06": 2,
+        "terrain_rock_ac_10": 5
+      },
+      "modified": {
+        "in_dae_all_lev+0": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "iron dagger": 1,

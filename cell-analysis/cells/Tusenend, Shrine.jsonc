@@ -1,0 +1,68 @@
+{
+  "cell": "Tusenend, Shrine",
+  "name": "Tusenend, Shrine",
+  "plugins": {
+    "NOD - Core.esm": {
+      "added": {
+        "nod_rv_daedric_helm_molag": 1
+      }
+    },
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "active_dae_molagbal": 1,
+        "bs_adele_morr_vase03": 3,
+        "bs_arurn01d_mw": 1,
+        "bs_c_o_dust": 2,
+        "bs_cont_mb_urn1": 1,
+        "bs_cont_mb_urn1_misc": 1,
+        "bs_cont_mb_urn2": 1,
+        "bs_cont_mb_urn2_loot": 1,
+        "bs_cont_mb_urn3_ing": 1,
+        "bs_ex_mb_pit2b": 2,
+        "bs_f_mancage_chain_hang": 3,
+        "bs_furn_dae_claw_lg_herm": 2,
+        "bs_furn_dae_rubblemb_04a": 1,
+        "bs_furn_rug_blue_patt1": 2,
+        "bs_harvester": 1,
+        "bs_in_dae_doorjambmb_ld": 1,
+        "bs_in_dae_hallmb_l_end": 1,
+        "bs_in_dae_hallmb_l_entry": 1,
+        "bs_in_dae_hallmb_l_stairs": 1,
+        "bs_in_dae_plat_stairs_herm": 1,
+        "bs_in_dae_platformmb_01": 1,
+        "bs_in_dae_roommb_l_cor_01": 4,
+        "bs_in_dae_roommb_l_floor": 6,
+        "bs_in_dae_roommb_l_rf_03": 6,
+        "bs_in_dae_roommb_l_side": 9,
+        "bs_in_mb_crystal_02": 2,
+        "bs_in_mb_dae_pillar_tall": 4,
+        "bs_light_mb_dae_brazier02c": 6,
+        "bs_light_mb_dae_jet2": 2,
+        "bs_mb_crystal_light_2": 2,
+        "bs_mb_crystal_light_2b": 1,
+        "slave_bracer_left": 1,
+        "slave_bracer_right": 1
+      },
+      "modified": {
+        "active_de_bedroll": 4,
+        "barirrid": 1,
+        "bookskill_heavy armor1": 1,
+        "com_sack_02_gold_05": 1,
+        "ex_dae_door_load_oval": 1,
+        "gold_001": 1,
+        "gold_005": 1,
+        "gold_010": 1,
+        "ingred_ectoplasm_01": 1,
+        "light_de_lamp_03_256": 1,
+        "misc_com_plate_07": 1,
+        "misc_de_goblet_02": 1,
+        "misc_soulgem_lesser": 1,
+        "p_fortify_fatigue_c": 1,
+        "p_fortify_magicka_s": 1,
+        "potion_comberry_brandy_01": 1,
+        "sc_elementalburstfire": 1,
+        "sc_frostbane": 1
+      }
+    }
+  }
+}

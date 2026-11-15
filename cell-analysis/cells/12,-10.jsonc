@@ -2,6 +2,24 @@
   "cell": "12,-10",
   "name": "Zaintiraris",
   "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "bs_f_alocasia_plant_2_1": 2,
+        "bs_f_amber_stump2_2": 1,
+        "bs_f_amber_stump_l_1_1": 1,
+        "bs_f_hydnum_azure1": 3,
+        "bs_f_shiv_shroom_mn1_0": 1,
+        "bs_f_shiv_shroom_mn2_0": 1,
+        "bs_f_shiv_shroom_mn3_0": 1,
+        "bs_f_shiv_shroom_mn4_1": 3,
+        "bs_f_si_mushroom_02m2": 4,
+        "bs_f_si_mushroom_sapm": 3,
+        "bs_vurt_flora_tree_wg_05_na": 2,
+        "bs_vurt_flora_tree_wg_07_na": 2,
+        "flora_bush_01": 4,
+        "gg_ex_dae_sheomania": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_east_barrel": 1,

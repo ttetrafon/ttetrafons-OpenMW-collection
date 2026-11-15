@@ -1,6 +1,34 @@
 {
   "cell": "14,11",
   "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "bs_ex_dae_wallmb_512_01": 11,
+        "bs_ex_mb_dae_buttress_r": 6,
+        "bs_ex_mb_dae_door_load1": 1,
+        "bs_ex_mb_dae_pillar_01": 1,
+        "bs_ex_mb_dae_pillar_02": 4,
+        "bs_ex_mb_dae_pillar_03": 2,
+        "bs_ex_mb_dae_ruin_01a": 1,
+        "bs_ex_mb_dae_ruin_02_1": 3,
+        "bs_ex_mb_dae_ruin_ent1": 1,
+        "bs_ex_mb_dae_ruin_platf1": 1,
+        "bs_ex_mb_dae_stairs2": 3,
+        "bs_ex_mb_jagged_rock01": 2,
+        "bs_ex_mb_jagged_rock02": 2,
+        "bs_ex_mb_jagged_rock03": 2,
+        "bs_ex_mb_jagged_rock04": 1,
+        "bs_ex_mb_rock32": 1,
+        "bs_ex_mb_rock34": 2,
+        "bs_ex_mb_rock41": 1,
+        "bs_ex_mb_rock51": 1,
+        "bs_ex_mb_rock79": 1,
+        "bs_ex_mb_rocks_01": 2,
+        "bs_ex_mb_rocks_03": 3,
+        "bs_flora_tree_mb_05": 1,
+        "bs_harvester": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_ex_daedric_ruins_spawn": 1

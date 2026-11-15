@@ -1,6 +1,14 @@
 {
   "cell": "-15,13",
   "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "terrain_rock_wg_08": 1
+      },
+      "modified": {
+        "terrain_rock_wg_07": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_ex_barnacles_05": 1,

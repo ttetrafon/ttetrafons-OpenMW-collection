@@ -13,6 +13,24 @@
         "aatl_l_dae_summcircle": 1,
         "t_dae_cre_seducdark_02": 1
       }
+    },
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "bs_daed_urn_01_1": 1,
+        "bs_daed_urn_03_1": 2,
+        "bs_f_dae_cor_bench_4": 1,
+        "bs_furn_dae_claw_lg": 4,
+        "bs_hbbrazier01dnc_mw": 2,
+        "ex_dae_pillar_01": 1,
+        "ex_dae_ruin_platform_01": 1,
+        "in_dae_room_l_floor_01": 1,
+        "in_lava_1024_01": 1,
+        "misc_soulgem_greater": 2
+      },
+      "modified": {
+        "in_dae_dremora_lev+2": 1,
+        "llathise dralas": 1
+      }
     }
   }
 }

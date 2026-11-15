@@ -2,6 +2,19 @@
   "cell": "5,15",
   "name": "Zergonipal",
   "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "ab_in_cavebonerib01": 3,
+        "ab_terr_ashpile_m": 1,
+        "bs_ash_guardian1": 1,
+        "bs_flora_brittleb2": 2,
+        "terrain_ashmire_02": 2,
+        "terrain_rock_ma_67": 9
+      },
+      "modified": {
+        "terrain_rock_ma_67": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_ex_daedric_ruins_spawn": 1

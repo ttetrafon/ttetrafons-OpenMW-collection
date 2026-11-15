@@ -2,6 +2,41 @@
   "cell": "-10,15",
   "name": "Ashalmawia",
   "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "bs_c_o_dust": 1,
+        "bs_ex_dae_wallmb_512_01": 4,
+        "bs_ex_dae_wallmb_512_02": 2,
+        "bs_ex_mb_dae_buttress_r": 3,
+        "bs_ex_mb_dae_claw_02": 2,
+        "bs_ex_mb_dae_door_load1": 1,
+        "bs_ex_mb_dae_pillar_02": 2,
+        "bs_ex_mb_dae_pillar_03": 5,
+        "bs_ex_mb_dae_ruin_01": 2,
+        "bs_ex_mb_dae_ruin_01a": 1,
+        "bs_ex_mb_dae_ruin_02_1": 3,
+        "bs_ex_mb_dae_ruin_ent1": 1,
+        "bs_ex_mb_dae_ruin_platf1": 2,
+        "bs_ex_mb_dae_stairs2": 5,
+        "bs_ex_mb_jagged_rock01": 26,
+        "bs_ex_mb_jagged_rock02": 1,
+        "bs_ex_mb_jagged_rock03": 1,
+        "bs_ex_mb_jagged_rock04": 3,
+        "bs_ex_mb_rock34": 1,
+        "bs_ex_mb_rock68": 7,
+        "bs_ex_mb_rock79": 2,
+        "bs_ex_mb_rocks_02": 7,
+        "bs_flora_mb_tree_01c_1": 5,
+        "bs_flora_mb_tree_02c_2": 2,
+        "bs_flora_tree_mb_05": 4,
+        "bs_harvester": 1,
+        "bs_light_mb_dae_brazier02c": 2,
+        "bs_tree_mb_bound1s_g": 3
+      },
+      "modified": {
+        "ex_dae_door_load_oval": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_ex_daedric_ruins_spawn": 1

@@ -1,6 +1,21 @@
 {
   "cell": "-7,9",
   "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "ab_in_cavebonerib01": 3,
+        "ab_terr_ashpile_m": 4,
+        "bs_ash_guardian1": 1,
+        "bs_flora_brittleb2": 3,
+        "terrain_rock_wg_18": 5,
+        "terrain_rocks_wg_03": 2,
+        "terrain_rocks_wg_04": 1
+      },
+      "modified": {
+        "terrain_rock_wg_18": 2,
+        "terrain_rocks_wg_03": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_ex_daedric_ruins_spawn": 1

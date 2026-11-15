@@ -1,6 +1,27 @@
 {
   "cell": "3,-3",
   "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "ab_in_cavebonerib01": 2,
+        "act_terrain_lava_ventlg": 3,
+        "bs_ash_guardian1": 1,
+        "bs_flora_brittleb2": 5,
+        "bs_gargoyle_still": 1,
+        "flora_trama_shrub_04": 1,
+        "terrain_ma_rock13": 4,
+        "terrain_rock_ma_07": 3,
+        "terrain_rock_ma_5a": 2
+      },
+      "modified": {
+        "act_terrain_lava_ventlg": 1,
+        "flora_trama_shrub_04": 1,
+        "terrain_ma_rock13": 1,
+        "terrain_rock_ma_07": 1,
+        "terrain_rock_ma_56": 1,
+        "terrain_rock_ma_5a": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_ex_daedric_ruins_spawn": 1

@@ -1,6 +1,14 @@
 {
   "cell": "15,-9",
   "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "bs_f_letifer_orca1_2": 3,
+        "bs_f_mancage_chain_hang": 1,
+        "bs_ter_rocks_lava_02": 2,
+        "furn_mist512": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_east_sack": 1,

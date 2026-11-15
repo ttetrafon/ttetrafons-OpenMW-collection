@@ -7,6 +7,56 @@
         "nod_rv_daedric_helm_dagon": 1
       }
     },
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "ab_f_bloodgrass_01": 2,
+        "ab_f_harrada_01": 1,
+        "ab_furn_dngchain": 2,
+        "ab_fx_lavafall01": 1,
+        "ab_misc_boneracerskull": 1,
+        "ab_o_corpsefresh07hang": 2,
+        "ab_o_daedricchest_01pos": 1,
+        "ab_o_daedriccoffer01pos": 1,
+        "active_dae_mehrunes": 1,
+        "bs_daed_cont_punishd_5": 1,
+        "bs_daed_cont_punishd_sp": 1,
+        "gg_curse_ab_misc_daegoblet_01": 1,
+        "in_dae_mezzanine_edge": 6,
+        "in_dae_pillar_tall.max": 1,
+        "in_lava_1024": 3,
+        "light_dae_brazier00": 1,
+        "terrain_ashland_rock_06": 1,
+        "terrain_ashland_rock_07": 1,
+        "terrain_ashland_rock_11": 5,
+        "terrain_ashland_rock_12": 1,
+        "terrain_ashland_rock_16": 1
+      },
+      "modified": {
+        "furn_de_rug_big_04": 2,
+        "gold_005": 1,
+        "gold_025": 1,
+        "in_dae_dremora_lev-2": 1,
+        "in_dae_pillar_tall.max": 1,
+        "in_dae_platform_512_01": 1,
+        "in_dae_platform_stairs": 1,
+        "in_dae_rubble_01b": 1,
+        "in_dae_rubble_03b": 1,
+        "ingred_dae_cursed_raw_ebony_01": 1,
+        "light_com_candle_07": 1,
+        "light_dae_brazier00": 1,
+        "misc_com_metal_plate_04": 1,
+        "sound_daedric_chant00": 1,
+        "thovasi alen": 1
+      }
+    },
+    "Daedric Shrine Overhaul - Fropa's Fixes.ESP": {
+      "added": {
+        "ab_fx_lavafall01": 1
+      },
+      "modified": {
+        "ab_fx_lavafall01": 1
+      }
+    },
     "Creatures_RP_Purist.ESP": {
       "added": {
         "plx_daedra_shrine_mehrunes": 1

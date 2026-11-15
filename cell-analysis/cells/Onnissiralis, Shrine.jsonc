@@ -1,0 +1,105 @@
+{
+  "cell": "Onnissiralis, Shrine",
+  "name": "Onnissiralis, Shrine",
+  "plugins": {
+    "Helm of Tohan Naturalized.esp": {
+      "added": {
+        "com_chest_tohan_unique": 1,
+        "flora_root_wg_03": 1,
+        "flora_root_wg_07": 1,
+        "flora_root_wg_08": 1,
+        "in_cavern_roots10": 1,
+        "in_dae_door_01": 1,
+        "in_dae_doorjamb_01": 1,
+        "in_dae_hall_l_entry_01": 1,
+        "in_dae_room_l_corner_01": 2,
+        "in_mud_rock_01": 1,
+        "in_mud_rock_03": 1,
+        "in_mud_rock_06": 7,
+        "in_mud_rock_07": 1,
+        "in_mud_rock_21": 5,
+        "in_mud_rock_23": 1,
+        "in_mudcave_03": 1,
+        "in_mudcave_nat_exit00": 1,
+        "in_mudcave_stal00": 6,
+        "in_mudcave_stal40": 1,
+        "in_mudtrans_00": 1
+      },
+      "modified": {
+        "in_dae_hall_l_entry_01": 1
+      }
+    },
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "ab_fx_watercircle512": 1,
+        "ab_fx_waterfalltall": 2,
+        "blue water ref 256": 1,
+        "bs_alch_bottle_wine1": 1,
+        "bs_bed_08l_strt": 3,
+        "bs_com_chest_01a_misc": 1,
+        "bs_cupboard_sh_03b": 1,
+        "bs_daed_urn_19x": 1,
+        "bs_daed_urn_20x_mania": 2,
+        "bs_ex_dae_ruin_plat_si_lt": 1,
+        "bs_ex_dae_ruin_stair_si_lt": 1,
+        "bs_f_aster_bloom1_1": 3,
+        "bs_f_hydnum_azure1": 6,
+        "bs_f_sheo_head1c_m": 1,
+        "bs_f_sheo_head_tri1": 1,
+        "bs_f_shiv_shroom_mn1_0": 1,
+        "bs_f_shiv_shroom_mn1_1": 1,
+        "bs_f_shiv_shroom_mn2_0": 1,
+        "bs_f_shiv_shroom_mn2_1": 1,
+        "bs_f_shiv_shroom_mn3_1": 1,
+        "bs_f_shiv_shroom_mn3_2": 1,
+        "bs_f_shiv_shroom_mn4_0": 1,
+        "bs_f_shiv_shroom_mn4_1": 1,
+        "bs_f_si_mushroom_sapm": 3,
+        "bs_f_worm_head1": 5,
+        "bs_fn_dae_chair3_1": 1,
+        "bs_fn_dae_table4_1": 1,
+        "bs_furn_rug_scroll_patt2": 2,
+        "bs_gb_dae_floor_01": 10,
+        "bs_gb_dae_hall_doorjam": 2,
+        "bs_gb_dae_mezzanine_edge": 12,
+        "bs_gb_dae_roof1": 10,
+        "bs_gb_dae_rubble_pointy1": 20,
+        "bs_gb_oban_hall_corner": 10,
+        "bs_gb_oban_hall_corner_2": 2,
+        "bs_gb_oban_hall_entry": 2,
+        "bs_gb_oban_side": 14,
+        "bs_i_alocasia_fruit_1": 1,
+        "bs_in_mer_dae_platf_stairs": 1,
+        "bs_light_dae_brazier00_si1": 2,
+        "bs_misc_com_metal_fork_0": 1,
+        "bs_misc_com_metal_knife_1": 1,
+        "bs_misc_com_metal_spoon_1c": 1,
+        "bs_nom_cheese_cyrodiil": 1,
+        "bs_rock_spire_mw1big": 2,
+        "bs_rock_spire_mw2big": 1,
+        "bs_rock_spire_mw3big": 3,
+        "bs_ter_rock_si_16": 1,
+        "in_dae_rubble_01b": 2,
+        "misc_com_metal_plate_05": 1,
+        "white_1024_01": 1,
+        "white_512_01": 1
+      },
+      "modified": {
+        "light_de_lamp_03_512": 2
+      }
+    },
+    "Daedric Shrine Overhaul - Fropa's Fixes.ESP": {
+      "modified": {
+        "bs_bed_08l_strt": 1,
+        "bs_furn_rug_scroll_patt2": 1,
+        "bs_gb_dae_floor_01": 1,
+        "bs_gb_dae_rubble_pointy1": 6,
+        "bs_misc_com_metal_fork_0": 1,
+        "bs_misc_com_metal_knife_1": 1,
+        "bs_nom_cheese_cyrodiil": 1,
+        "in_dae_rubble_01b": 2,
+        "misc_com_bottle_06": 1
+      }
+    }
+  }
+}

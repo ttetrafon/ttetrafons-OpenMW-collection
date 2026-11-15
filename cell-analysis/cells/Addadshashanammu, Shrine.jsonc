@@ -13,6 +13,86 @@
         "ab_light_skullcandleblackrf_128": 4
       }
     },
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "active_dae_sheogorath": 1,
+        "bk_madnessofpelagius": 1,
+        "bs_bar_cu_kettle": 1,
+        "bs_bed_08l_strt": 1,
+        "bs_bk_text_folio_with": 1,
+        "bs_cupboard_sh_03b": 1,
+        "bs_daed_urn_19x_misc": 2,
+        "bs_daed_urn_20x": 2,
+        "bs_daed_urn_20x_mania": 1,
+        "bs_ex_dae_ruin_04_si": 1,
+        "bs_f_banner_sheogorath2a": 1,
+        "bs_f_flamestalk1_0": 1,
+        "bs_f_flamestalk3_0": 1,
+        "bs_f_shiv_shroom_mn1_0": 1,
+        "bs_f_shiv_shroom_mn2_0": 1,
+        "bs_f_shiv_shroom_mn3_0": 1,
+        "bs_f_worm_head1": 2,
+        "bs_fn_dae_chair3_1": 2,
+        "bs_fn_dae_table2_2": 1,
+        "bs_fn_dae_table4_1": 1,
+        "bs_furn_planter_02_si_mn1": 1,
+        "bs_furn_rug_gold_patt1": 1,
+        "bs_furn_rug_scroll_patt2": 1,
+        "bs_gb_dae_floor_01": 2,
+        "bs_gb_dae_hall_doorjam": 1,
+        "bs_gb_dae_hall_stairs1": 2,
+        "bs_gb_dae_roof1": 1,
+        "bs_gb_oban_hall_corner": 10,
+        "bs_gb_oban_hall_entry": 5,
+        "bs_gb_oban_side": 6,
+        "bs_i_sweetcake_03b": 1,
+        "bs_in_dae_pillar_tall_si1": 1,
+        "bs_in_dae_platform_stairs_si": 1,
+        "bs_kitch_saucer met": 1,
+        "bs_kitch_teacup met": 1,
+        "bs_light_dae_brazier00_si1": 3,
+        "bs_light_shiv_lamp_tri_4": 1,
+        "bs_m_shivering_map4": 1,
+        "bs_shelf02a_sh": 1,
+        "bs_wl_book_studded_ta": 1,
+        "light_com_candle_07_128": 2,
+        "light_com_candle_07_77": 1,
+        "sc_paper plain": 1,
+        "white_128_01": 2,
+        "white_512_01": 1
+      },
+      "modified": {
+        "apparatus_a_alembic_01": 1,
+        "apparatus_a_calcinator_01": 1,
+        "apparatus_a_mortar_01": 1,
+        "bk_oldways": 1,
+        "bookskill_alteration5": 1,
+        "bookskill_axe1": 1,
+        "chest_01_v_potion_ap_02": 1,
+        "chest_small_01_soulgem": 1,
+        "dortodd": 1,
+        "eradan": 1,
+        "furn_de_rug_big_04": 2,
+        "in_dae_room_l_floor_01": 1,
+        "in_mold_rock_23": 2,
+        "ingred_dae_cursed_pearl_01": 1,
+        "irinwe": 1,
+        "jolding": 1,
+        "light_com_candle_10": 1,
+        "light_de_candle_19_256": 1,
+        "misc_com_bottle_08": 1,
+        "misc_com_metal_plate_04": 1,
+        "misc_de_goblet_08": 1,
+        "p_detect_creatures_s": 1,
+        "pelena acicius": 1,
+        "sc_balefulsuffering": 1,
+        "sc_blackdespair": 2,
+        "sc_flamebane": 1,
+        "silver dagger": 1,
+        "sound_daedric_chant00": 1,
+        "winged twilight": 1
+      }
+    },
     "Creatures_RP_Purist.ESP": {
       "added": {
         "plx_daedra_shrine_sheograth": 1,
@@ -22,6 +102,13 @@
     "Creatures and Critters.ESP": {
       "added": {
         "aa_cr_shrine_sheograth": 1
+      }
+    },
+    "Daedric Shrine Overhaul - Fropa's Fixes.ESP": {
+      "modified": {
+        "bs_gb_oban_hall_corner": 4,
+        "bs_gb_oban_hall_entry": 2,
+        "bs_gb_oban_side": 4
       }
     }
   }

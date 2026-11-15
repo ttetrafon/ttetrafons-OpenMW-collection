@@ -1,0 +1,61 @@
+{
+  "cell": "Bal Ur, Shrine",
+  "name": "Bal Ur, Shrine",
+  "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "bs_boiler_01a": 2,
+        "bs_ex_mb_dae_ruin_plat3a": 1,
+        "bs_f_mancage_chain_hang": 4,
+        "bs_f_molag_bal_sigil01": 2,
+        "bs_f_platform_mb": 2,
+        "bs_furn_rug_blue_patt1": 4,
+        "bs_harvester": 1,
+        "bs_in_dae_hallmb_l_entry": 3,
+        "bs_in_dae_mezz_edge_herm": 12,
+        "bs_in_dae_roommb_l_cor_01": 8,
+        "bs_in_dae_roommb_l_floor": 10,
+        "bs_in_dae_roommb_l_rf_03": 12,
+        "bs_in_dae_roommb_l_side": 17,
+        "bs_in_mb_dae_pillar_tall": 6,
+        "bs_in_mb_dae_platf_stairs": 2,
+        "bs_in_mb_genrtr2": 1,
+        "bs_in_mire_swirl_1024_01": 2,
+        "bs_light_mb_dae_brazier02c": 4,
+        "bs_light_mb_lamp_braz1_1": 2,
+        "bs_mb_crystal_light_2b": 4,
+        "bs_oblivion_cube_mb1": 3
+      },
+      "modified": {
+        "in_dae_door_01": 1,
+        "in_dae_doorjamb_01": 1,
+        "in_dae_hall_l_endcap_01": 1,
+        "light_dae_censer": 2,
+        "rakoslod": 1
+      }
+    },
+    "Daedric Shrine Overhaul - Fropa's Fixes.ESP": {
+      "modified": {
+        "bs_f_mancage_chain_hang": 2,
+        "bs_in_dae_hallmb_l_entry": 1,
+        "bs_in_dae_mezz_edge_herm": 6,
+        "bs_in_dae_roommb_l_cor_01": 4,
+        "bs_in_dae_roommb_l_rf_03": 5,
+        "bs_in_dae_roommb_l_side": 9,
+        "bs_in_mb_dae_pillar_tall": 6,
+        "in_dae_hall_l_endcap_01": 2,
+        "in_dae_hall_l_stairs_01": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::147331",
+      "object": "in_dae_hall_l_endcap_01",
+      "plugins": [
+        "Daedric Shrine Overhaul FULL.esp",
+        "Daedric Shrine Overhaul - Fropa's Fixes.ESP"
+      ]
+    }
+  ]
+}

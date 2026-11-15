@@ -1,6 +1,14 @@
 {
   "cell": "17,-5",
   "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "ab_terr_ashpile_m": 3,
+        "bs_ash_guardian1": 1,
+        "bs_flora_brittleb2": 2,
+        "terrain_ashmire_02": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_ex_daedric_ruins_spawn": 1

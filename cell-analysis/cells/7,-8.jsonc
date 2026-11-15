@@ -1,6 +1,22 @@
 {
   "cell": "7,-8",
   "plugins": {
+    "Astrology Shrines (Shrines Only).esp": {
+      "added": {
+        "bf_astrostoneapprent1": 1,
+        "bf_muckshovelz": 1,
+        "bf_stoneplatformma": 1,
+        "bf_tribunalamulet": 1,
+        "flora_ash_grass_b_01": 2,
+        "flora_ash_grass_r_01": 1,
+        "flora_ash_grass_w_01": 2,
+        "flora_fire_fern_01": 1,
+        "flora_fire_fern_02": 1,
+        "light_de_lantern_10": 2,
+        "p_water_breathing_s": 1,
+        "p_water_walking_s": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_solo_hl_spawn": 1

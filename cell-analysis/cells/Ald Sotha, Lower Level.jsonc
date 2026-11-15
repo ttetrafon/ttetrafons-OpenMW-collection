@@ -1,0 +1,24 @@
+{
+  "cell": "Ald Sotha, Lower Level",
+  "name": "Ald Sotha, Lower Level",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_dbop_dun": 2
+      }
+    },
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "ab_f_bloodgrass_01": 2,
+        "ab_f_harrada_01": 1,
+        "bs_daed_loot_chest3_s_a": 1,
+        "ex_dae_ruin_02_skew": 1,
+        "in_lava_1024_01": 1,
+        "terrain_ashland_rock_11": 2
+      },
+      "modified": {
+        "in_dae_rubble_01c": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "cell": "Almurbalarammi, Shrine",
+  "name": "Almurbalarammi, Shrine",
+  "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "ab_fx_blood01": 1,
+        "ab_fx_blood02": 1,
+        "ab_fx_blood03": 1,
+        "ab_fx_blood08": 1,
+        "ab_o_corpsefresh03loot": 1,
+        "ab_o_corpsefresh04loot": 1,
+        "active_dae_sheogorath": 1,
+        "active_de_bedroll": 2,
+        "bs_act_flies": 3,
+        "bs_alch_bottle_wine1": 1,
+        "bs_alch_bottle_wine3": 1,
+        "bs_bed_07dm_strt": 1,
+        "bs_bone_bone01": 8,
+        "bs_com_chest_01a_misc": 1,
+        "bs_contain_corpse_ns": 2,
+        "bs_cupboard01_1_dae": 1,
+        "bs_daed_urn_19x": 1,
+        "bs_daed_urn_20x_dement": 2,
+        "bs_ex_dae_rubble_pile07": 1,
+        "bs_f_act_lights3": 1,
+        "bs_f_billowing_stump1bd": 1,
+        "bs_f_fungus_stalks1": 3,
+        "bs_f_paint_canvas_0": 4,
+        "bs_f_sewage_si_dem_03": 3,
+        "bs_f_shrunken_head1": 1,
+        "bs_f_shrunken_head2": 1,
+        "bs_f_shrunken_head3": 1,
+        "bs_f_shrunken_head4": 1,
+        "bs_furn_rug_multi_mandem3d": 1,
+        "bs_green_billowing": 1,
+        "bs_i_hunger_tongue5": 1,
+        "bs_in_dae_room_l_side_dem1": 3,
+        "bs_l_hunger_candle2blk_64": 1,
+        "bs_m_furn_bone_rib_01": 3,
+        "bs_skelmassg_bs": 1,
+        "door_dwrv_inner00": 4,
+        "furn_mist512": 5,
+        "gold_001": 1,
+        "hunger": 2,
+        "in_dae_door_01": 17,
+        "in_dae_doorjamb_01": 19,
+        "in_dae_platform_512_01": 1,
+        "in_dae_room_l_corner_01": 1,
+        "misc_com_metal_plate_04": 1,
+        "misc_skull00": 3,
+        "sound_flies00": 3
+      },
+      "modified": {
+        "in_dae_rubble_01b": 1,
+        "in_dae_rubble_01c": 1,
+        "in_dae_rubble_06": 2,
+        "in_dae_rubble_07": 1,
+        "light_de_lamp_03_512": 1,
+        "sound_daedric_chant00": 1
+      }
+    },
+    "Daedric Shrine Overhaul - Fropa's Fixes.ESP": {
+      "modified": {
+        "bs_contain_corpse_ns": 1
+      }
+    }
+  }
+}

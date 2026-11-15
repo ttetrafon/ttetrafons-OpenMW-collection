@@ -58,6 +58,29 @@
         "terrain_rock_wg_18": 1
       }
     },
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "ab_f_bloodgrass_01": 4,
+        "ab_f_harrada_01b": 2,
+        "ab_furn_dngchainsmall256": 3,
+        "ab_fx_lavafall01": 1,
+        "ab_fx_scorch01": 3,
+        "ab_o_corpseburnt03loot": 1,
+        "ab_o_corpsefresh07hang": 3,
+        "bs_czy_spiddal": 3,
+        "bs_flesh_sackhp_01": 1,
+        "in_lava_1024": 2,
+        "terrain_rock_wg_07": 6,
+        "terrain_rock_wg_12": 2
+      },
+      "modified": {
+        "in_dae_all_lev-2": 1,
+        "terrain_rock_wg_07": 1,
+        "terrain_rock_wg_08": 1,
+        "terrain_rock_wg_10": 1,
+        "terrain_rock_wg_12": 1
+      }
+    },
     "Uncharted Artifacts.esp": {
       "added": {
         "x0_m13_bottle": 1
@@ -86,6 +109,23 @@
       "added": {
         "aa_cr_w_creature_list_1": 9
       }
+    },
+    "Daedric Shrine Overhaul - Fropa's Fixes.ESP": {
+      "modified": {
+        "in_lava_1024": 1,
+        "terrain_rock_wg_07": 1,
+        "terrain_rock_wg_12": 2
+      }
     }
-  }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::227447",
+      "object": "terrain_rock_wg_07",
+      "plugins": [
+        "Daedric Shrine Overhaul FULL.esp",
+        "Daedric Shrine Overhaul - Fropa's Fixes.ESP"
+      ]
+    }
+  ]
 }

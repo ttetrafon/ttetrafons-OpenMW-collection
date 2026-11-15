@@ -1,0 +1,61 @@
+{
+  "cell": "6,-5",
+  "name": "Bal Ur",
+  "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "bs_ex_dae_wallmb_512_01": 8,
+        "bs_ex_dae_wallmb_512_02": 6,
+        "bs_ex_mb_dae_buttress_r": 6,
+        "bs_ex_mb_dae_claw_02": 7,
+        "bs_ex_mb_dae_door_load1": 1,
+        "bs_ex_mb_dae_pillar_01": 4,
+        "bs_ex_mb_dae_pillar_02": 6,
+        "bs_ex_mb_dae_pillar_03": 4,
+        "bs_ex_mb_dae_ruin_01": 1,
+        "bs_ex_mb_dae_ruin_02_1": 1,
+        "bs_ex_mb_dae_ruin_ent1": 2,
+        "bs_ex_mb_dae_stairs2": 2,
+        "bs_ex_mb_jagged_rock01": 4,
+        "bs_ex_mb_jagged_rock02": 2,
+        "bs_ex_mb_jagged_rock03": 6,
+        "bs_ex_mb_rock07": 2,
+        "bs_ex_mb_rock32": 2,
+        "bs_ex_mb_rock34": 1,
+        "bs_ex_mb_rock44": 3,
+        "bs_ex_mb_rock68": 1,
+        "bs_ex_mb_rocks_01": 5,
+        "bs_ex_mb_rocks_02": 5,
+        "bs_ex_mb_rocks_03": 2,
+        "bs_ex_mb_rocks_04": 1,
+        "bs_flora_mb_tree_01c_1": 1,
+        "bs_flora_tree_mb_05": 2,
+        "bs_tree_mb_bound1s_g": 1,
+        "flora_ashtree_03": 1,
+        "flora_ashtree_04": 2,
+        "flora_ashtree_05": 1,
+        "flora_ashtree_06": 1
+      },
+      "modified": {
+        "flora_ashtree_06": 1,
+        "in_cave_alit_lev+0": 2,
+        "terrain_rock_ma_57": 1
+      }
+    },
+    "Daedric Shrine Overhaul - Fropa's Fixes.ESP": {
+      "added": {
+        "in_lava_oval": 1
+      },
+      "modified": {
+        "bs_ex_mb_rocks_01": 1,
+        "bs_ex_mb_rocks_02": 1,
+        "bs_flora_tree_mb_05": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_ex_daed_bat": 2
+      }
+    }
+  }
+}

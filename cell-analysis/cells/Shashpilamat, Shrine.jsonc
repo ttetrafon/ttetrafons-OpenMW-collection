@@ -1,0 +1,64 @@
+{
+  "cell": "Shashpilamat, Shrine",
+  "name": "Shashpilamat, Shrine",
+  "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "ab_bk_alchemistcompendium2": 1,
+        "ab_dae_atronachiron": 1,
+        "ab_furn_grinderwheel": 1,
+        "ab_misc_reedpen": 1,
+        "ab_misc_scalesbrass": 1,
+        "ab_terr_ashpile_l": 2,
+        "ab_terr_lavarocks01": 2,
+        "active_dae_malacath": 1,
+        "bs_act_terrain_lava_ventlg": 2,
+        "bs_alc_bulb_c_s_mw": 1,
+        "bs_alc_ladle_s_mw": 1,
+        "bs_alc_poti_a_s_mw_an": 1,
+        "bs_alc_poti_b_s_mw_bb": 1,
+        "bs_alc_poti_d_s_mw_fm": 1,
+        "bs_alc_stand_big_s_mw": 1,
+        "bs_alc_stove_s_mw": 1,
+        "bs_bd_bedroll_scale2": 2,
+        "bs_bk_text_octavo_06_3_sotw": 1,
+        "bs_daed_urn_09": 1,
+        "bs_daed_urn_10lg_1_ing": 1,
+        "bs_daed_urn_11_1_ing": 1,
+        "bs_flora_brittleb2": 1,
+        "bs_furn_dae_forge2c": 1,
+        "bs_ingred_hob_tongue": 1,
+        "bs_m_coins_0_loot": 1,
+        "bs_m_repair_hammer_daed3": 1,
+        "bs_maganvil02_dae": 1,
+        "bs_med_candle_sb_a_on_mw": 1,
+        "bs_tr_ingred_dragonfly_red": 1,
+        "chitin spear": 1,
+        "flora_rm_scathecraw_02": 2,
+        "furn_bone_01": 2,
+        "furn_bone_rib_01": 1,
+        "furn_bone_skull_01": 1,
+        "furn_bone_stake00": 1,
+        "furn_de_ex_stool_02": 1,
+        "furn_de_practice_mat": 1,
+        "furn_uni_spearholder_01": 1,
+        "in_dae_rubble_04a": 1,
+        "ingred_void_salts_01": 1,
+        "iron spear": 1,
+        "light_fire": 2,
+        "misc_com_bucket_01": 1,
+        "sc_paper plain": 3,
+        "terrain_ashmire_02": 1
+      },
+      "modified": {
+        "com_chest_02_lev_gold": 1,
+        "durzol gro-dumulg": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "modified": {
+        "light_dae_brazier00": 1
+      }
+    }
+  }
+}

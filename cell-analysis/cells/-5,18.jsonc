@@ -2,6 +2,31 @@
   "cell": "-5,18",
   "name": "Ashurnabitashpi",
   "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "ab_ex_barricade01": 3,
+        "ab_f_bloodgrass_01": 3,
+        "ab_f_harrada_01": 4,
+        "ab_f_harrada_01b": 2,
+        "ab_furn_dngchainsmall256": 2,
+        "ab_furn_mvskeleton_01": 1,
+        "ab_fx_scorch01": 3,
+        "ab_fx_scorch02": 2,
+        "ab_in_bonepileflat256": 1,
+        "ab_o_corpseburnt04loot": 2,
+        "ab_o_corpsefresh07hang": 2,
+        "ab_o_daedricchest_01": 1,
+        "bs_czy_spiddal": 6,
+        "bs_mineexplode_d_mw": 3,
+        "dead_scamp": 1,
+        "ex_dae_pillar_02_ruin": 1,
+        "gg_dso_deadguar": 1,
+        "in_lava_1024": 2
+      },
+      "modified": {
+        "ex_dae_pillar_02_ruin": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_ex_daedric_ruins_spawn": 1

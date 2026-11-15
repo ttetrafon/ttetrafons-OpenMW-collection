@@ -1,0 +1,48 @@
+{
+  "cell": "Ashalmawia, Shrine, Sunken Vaults",
+  "name": "Ashalmawia, Shrine, Sunken Vaults",
+  "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "bs_ex_mb_dae_pillar_02": 4,
+        "bs_ex_mb_dae_ruin_01": 1,
+        "bs_ex_mb_dae_ruin_platf1": 2,
+        "bs_in_dae_connectmb_lcave": 1,
+        "bs_in_dae_doorjambmb_01": 1,
+        "bs_in_dae_doormb_01": 1,
+        "bs_in_dae_mezz_edge_herm": 17,
+        "bs_in_dae_roommb_l_cor_02": 18,
+        "bs_light_mb_dae_brazier02c": 4,
+        "in_py_rock_06": 2,
+        "in_py_rock_14": 4,
+        "in_py_rock_17": 2,
+        "in_py_rock_18": 4,
+        "in_py_rock_21": 3,
+        "in_py_rock_23": 1,
+        "in_py_rock_24": 1,
+        "in_pycave2_s_05": 1,
+        "in_pycave_04": 1,
+        "in_pycave_21_1": 2
+      },
+      "modified": {
+        "com_chest_daed_ruin_01": 1,
+        "ex_dae_pillar_02_ruin": 1,
+        "sound_cave_wind00": 1
+      }
+    },
+    "Daedric Shrine Overhaul - Fropa's Fixes.ESP": {
+      "added": {
+        "bs_in_dae_roommb_l_cor_02": 1
+      },
+      "modified": {
+        "bs_in_dae_mezz_edge_herm": 1,
+        "bs_in_dae_roommb_l_cor_02": 1,
+        "chest_small_01_goldr500": 1,
+        "com_chest_02_tomb_rare": 1,
+        "daedric dart": 2,
+        "daedric mace": 1,
+        "in_pycave_21_1": 2
+      }
+    }
+  }
+}

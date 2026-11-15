@@ -8,6 +8,51 @@
         "in_dae_doorjamb_load": 1
       }
     },
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "ab_furn_deplnhammockrug05": 1,
+        "ab_furn_grinderwheel": 1,
+        "ab_o_daedricchest_01pos": 1,
+        "ab_terr_ashpile_l": 3,
+        "active_dae_malacath": 1,
+        "active_de_bedroll": 1,
+        "bs_act_terrain_lava_ventlg": 2,
+        "bs_ash_guardian1": 1,
+        "bs_daed_loot_chest_coin": 1,
+        "bs_daed_urn_10lg_1_ing": 1,
+        "bs_daed_urn_11_1_ing": 1,
+        "bs_f_banner_malacath4a": 1,
+        "bs_flora_brittleb2": 3,
+        "bs_tr_cont_rock_iron_01": 1,
+        "flora_rm_scathecraw_02": 1,
+        "furn_anvil00": 1,
+        "furn_de_p_bookshelf_01": 1,
+        "furn_de_p_chair_02": 2,
+        "furn_de_p_table_01": 1,
+        "furn_de_practice_mat": 1,
+        "furn_uni_spearholder_01": 1,
+        "in_lava_rock_27": 1,
+        "light_de_candle_01_64": 1,
+        "misc_com_bottle_01": 1,
+        "misc_com_bottle_02": 5,
+        "misc_com_bottle_03": 2,
+        "misc_com_bottle_04": 3,
+        "misc_com_bottle_05": 4,
+        "misc_com_bottle_06": 1,
+        "misc_com_bottle_07": 1,
+        "misc_com_bottle_08": 3,
+        "misc_com_bottle_09": 3,
+        "misc_com_bottle_10": 3,
+        "misc_com_bottle_11": 1,
+        "misc_com_bottle_12": 2,
+        "misc_com_metal_plate_04": 1,
+        "misc_de_tankard_01": 1
+      },
+      "modified": {
+        "bogakh gro-mar": 1,
+        "p_chameleon_q": 1
+      }
+    },
     "Treasures of Magic.ESP": {
       "added": {
         "bc3000_lockedringitem": 1

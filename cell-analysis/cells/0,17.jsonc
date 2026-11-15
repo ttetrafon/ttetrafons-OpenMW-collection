@@ -1,6 +1,25 @@
 {
   "cell": "0,17",
   "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "ab_f_bloodgrass_01": 3,
+        "ab_f_harrada_01": 2,
+        "ab_f_harrada_01b": 1,
+        "ab_furn_dngchainsmall256": 2,
+        "ab_o_corpsefresh07hang": 2,
+        "bs_czy_spiddal": 6,
+        "bs_flesh_sackhp_01": 1,
+        "in_dae_rubble_01b": 1,
+        "in_lava_1024": 2
+      },
+      "modified": {
+        "ex_dae_wall_512_03": 1,
+        "ex_dae_wall_512_09": 1,
+        "in_dae_all_lev+0": 1,
+        "in_dae_all_lev+2": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_ex_daedric_ruins_spawn": 1
@@ -15,6 +34,11 @@
     "Creatures and Critters.ESP": {
       "added": {
         "aa_cr_shrine_mehrunes": 3
+      }
+    },
+    "Daedric Shrine Overhaul - Fropa's Fixes.ESP": {
+      "modified": {
+        "in_lava_1024": 2
       }
     }
   }

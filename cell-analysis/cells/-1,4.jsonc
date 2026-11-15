@@ -1,6 +1,49 @@
 {
   "cell": "-1,4",
   "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "bs_c_o_dust": 1,
+        "bs_ex_dae_wallmb_512_01": 10,
+        "bs_ex_mb_dae_buttress_r": 3,
+        "bs_ex_mb_dae_claw_02": 4,
+        "bs_ex_mb_dae_door_load1": 1,
+        "bs_ex_mb_dae_pillar_01": 8,
+        "bs_ex_mb_dae_pillar_02": 5,
+        "bs_ex_mb_dae_pillar_03": 1,
+        "bs_ex_mb_dae_ruin_01": 1,
+        "bs_ex_mb_dae_ruin_01a": 1,
+        "bs_ex_mb_dae_ruin_02_1": 1,
+        "bs_ex_mb_dae_ruin_ent1": 1,
+        "bs_ex_mb_jagged_rock01": 6,
+        "bs_ex_mb_jagged_rock02": 7,
+        "bs_ex_mb_jagged_rock03": 11,
+        "bs_ex_mb_jagged_rock04": 1,
+        "bs_ex_mb_rock32": 1,
+        "bs_ex_mb_rock34": 1,
+        "bs_ex_mb_rocks_01": 5,
+        "bs_ex_mb_rocks_02": 5,
+        "bs_ex_mb_rocks_03": 3,
+        "bs_ex_mb_rocks_04": 1,
+        "flora_ashtree_04": 3,
+        "flora_ashtree_05": 3,
+        "flora_ashtree_07": 3
+      },
+      "modified": {
+        "ex_dae_door_load_oval": 1,
+        "flora_fire_fern_02": 1,
+        "flora_rm_scathecraw_02": 1,
+        "in_dae_all_lev+2": 2,
+        "in_dae_rubble_06": 1,
+        "terrain_ashland_rock_01": 1,
+        "terrain_ashland_rock_11": 1,
+        "terrain_ashland_rock_12": 1,
+        "terrain_ashland_rock_13": 1,
+        "tramaroot_03": 2,
+        "tramaroot_04": 1,
+        "tramaroot_05": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_ex_daedric_ruins_spawn": 1

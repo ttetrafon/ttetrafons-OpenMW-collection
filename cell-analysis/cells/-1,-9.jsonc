@@ -20,6 +20,25 @@
         "opn_sound_swamp_3": 1
       }
     },
+    "Astrology Shrines (Shrines Only).esp": {
+      "added": {
+        "bf_astrostonesteed1": 1,
+        "bf_muckshovel1z": 1,
+        "bf_stoneplatformbc": 1,
+        "bf_tribunalamulet": 1,
+        "flora_bc_fern_03": 1,
+        "flora_bc_fern_04": 1,
+        "flora_bc_grass_01": 1,
+        "flora_bc_mushroom_01": 1,
+        "flora_bc_mushroom_02": 2,
+        "flora_bc_mushroom_06": 1,
+        "flora_bc_mushroom_07": 1,
+        "flora_bc_mushroom_08": 2,
+        "gondolier_helm": 1,
+        "heavy_leather_boots": 1,
+        "light_de_lantern_05": 1
+      }
+    },
     "Uncharted Artifacts.esp": {
       "added": {
         "x0_map01_trigger": 1

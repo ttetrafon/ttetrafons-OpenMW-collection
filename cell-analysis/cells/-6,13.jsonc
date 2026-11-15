@@ -1,6 +1,31 @@
 {
   "cell": "-6,13",
   "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "ab_in_bonepileflat256": 1,
+        "ab_in_bonepileflat512": 2,
+        "bs_daed_urn_19x_misc": 2,
+        "bs_daed_urn_20x": 2,
+        "bs_f_act_lights2": 1,
+        "bs_f_fungus_stalks1": 4,
+        "bs_f_letifer_orca1_2": 4,
+        "bs_f_madness_ore_dep1_1": 1,
+        "bs_f_putrid_gigantea1_1": 2,
+        "bs_f_sewage_si_dem_03": 1,
+        "bs_f_si_mushroom_01d": 1,
+        "bs_f_si_mushroom_sapd": 3,
+        "bs_r_shambles": 1,
+        "bs_ter_rocks_lava_02": 4,
+        "bs_vurt_neentree": 1,
+        "bs_vurt_tree_gl_08": 2,
+        "furn_mist512": 2,
+        "sound_bm_ice": 1
+      },
+      "modified": {
+        "in_dae_all_lev+2": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_ex_daedric_ruins_spawn": 1

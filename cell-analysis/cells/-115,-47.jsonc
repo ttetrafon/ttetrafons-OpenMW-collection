@@ -275,6 +275,41 @@
         "t_sc_bookofcirclespc": 1
       }
     },
+    "Brina Cross House v1.esp": {
+      "added": {
+        "furn_com_lantern_hook": 1,
+        "light_com_lantern_01_128": 1,
+        "t_cyr_flora_ladysmnt01": 1,
+        "t_cyr_flora_tigerlill02": 1,
+        "t_cyr_floragc_bush_01": 1,
+        "t_cyr_floragc_shrub_01": 1,
+        "t_cyr_floragc_shrub_02": 1,
+        "t_imp_setanv_x_chimney_01": 1,
+        "t_imp_setanv_x_stonewall_01": 4,
+        "t_imp_setanv_x_stonewall_03": 1,
+        "t_imp_setanv_x_stonewall_04": 4,
+        "t_imp_setanv_x_stonewall_05": 1,
+        "t_imp_setgc_door_01": 1,
+        "t_imp_setgc_x_bench_01": 1,
+        "t_imp_setgc_x_building_02": 1,
+        "t_imp_setgc_x_canopy_01": 1,
+        "t_imp_setgc_x_doorframe_01": 1,
+        "t_imp_setgc_x_window_02": 1,
+        "t_imp_setgc_x_window_03": 2
+      },
+      "modified": {
+        "t_com_setfarm_haypile_01": 1,
+        "t_cyr_flora_ladysmnt01": 1,
+        "t_cyr_flora_spikerice02": 1,
+        "t_cyr_floragc_bush_02": 1,
+        "t_cyr_floragc_shrub_01": 2,
+        "t_cyr_floragc_shrub_02": 2,
+        "t_cyr_floragc_tree_03": 1,
+        "t_imp_setanv_x_stonewall_01": 3,
+        "t_imp_setanv_x_stonewall_02": 5,
+        "t_imp_setanv_x_stonewall_04": 2
+      }
+    },
     "Villa_Stellaris.esp": {
       "added": {
         "astelar_breton_smchest": 1,

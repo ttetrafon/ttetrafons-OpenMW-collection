@@ -1,0 +1,89 @@
+{
+  "cell": "Ashalmawia, Shrine",
+  "name": "Ashalmawia, Shrine",
+  "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "ab_o_corpsefresh02loot": 1,
+        "active_dae_molagbal": 1,
+        "barrel_02_cheapfood5": 2,
+        "blue_night_lite_1024": 2,
+        "bs_alch_bottle_blu_leathr2": 2,
+        "bs_barrel_02_misc1": 1,
+        "bs_boiler_01a": 1,
+        "bs_coldharbour_cr": 1,
+        "bs_com_chest_01_shoes": 1,
+        "bs_cont_mb_urn2": 1,
+        "bs_cont_mb_urn2_loot": 1,
+        "bs_ex_mb_dae_buttress_r": 2,
+        "bs_ex_mb_dae_ruin_platf1": 1,
+        "bs_ex_mb_dae_stairs2": 2,
+        "bs_f_banner_molag_bal": 3,
+        "bs_f_mancage_chain_hang": 3,
+        "bs_f_molag_bal_sigil01": 2,
+        "bs_f_platform_mb": 2,
+        "bs_furn_dae_rubblemb_04a": 1,
+        "bs_furn_rug_blue_patt1": 2,
+        "bs_in_dae_connectmb_lcave": 1,
+        "bs_in_dae_doorjambmb_01": 2,
+        "bs_in_dae_doorjambmb_ld": 1,
+        "bs_in_dae_doormb_01": 2,
+        "bs_in_dae_hallmb_l_01": 1,
+        "bs_in_dae_hallmb_l_corner": 2,
+        "bs_in_dae_hallmb_l_end": 2,
+        "bs_in_dae_hallmb_l_entry": 5,
+        "bs_in_dae_hallmb_l_stairs": 5,
+        "bs_in_dae_platformmb_01": 1,
+        "bs_in_dae_roommb_l_cor_01": 7,
+        "bs_in_dae_roommb_l_floor": 1,
+        "bs_in_dae_roommb_l_rf_03": 2,
+        "bs_in_dae_roommb_l_side": 3,
+        "bs_in_mb_dae_pillar_tall": 2,
+        "bs_light_mb_dae_brazier02c": 6,
+        "bs_light_mb_dae_jet2": 4,
+        "bs_light_mb_lamp_braz1_1": 1,
+        "bs_m_soul_gem_black1": 1,
+        "bs_mb_couldron01": 1,
+        "bs_mb_crystal_light_2b": 2,
+        "bs_oblivion_cube_mb1": 2,
+        "bs_ring_empty_sgp_mw": 1,
+        "bs_rocks_jagged_g1bs": 1,
+        "bs_rocks_jagged_g2bs": 2,
+        "bs_rocks_jagged_g3bbs": 1,
+        "in_pycave2_s_04": 1,
+        "in_pycave2_s_05": 1,
+        "in_pycave_00": 1,
+        "misc_com_metal_plate_04": 1
+      },
+      "modified": {
+        "active_de_bedroll": 2,
+        "ex_dae_door_load_oval": 1,
+        "in_lava_rock_09": 1,
+        "in_lava_rock_12": 1,
+        "in_lava_rock_23": 1,
+        "key_ashalmawia_prisoncell": 1,
+        "light_de_candle_02": 1,
+        "misc_com_bottle_01": 1,
+        "misc_com_metal_plate_04": 2,
+        "misc_com_wood_fork": 2,
+        "misc_com_wood_knife": 2,
+        "misc_com_wood_spoon_01": 2,
+        "misc_de_tankard_01": 2
+      }
+    },
+    "Daedric Shrine Overhaul - Fropa's Fixes.ESP": {
+      "added": {
+        "bs_in_dae_roommb_l_rf_03": 1
+      },
+      "modified": {
+        "bs_in_dae_hallmb_l_entry": 1,
+        "bs_in_dae_roommb_l_cor_01": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_vermin_marker_box": 2
+      }
+    }
+  }
+}

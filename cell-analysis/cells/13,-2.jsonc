@@ -1,0 +1,18 @@
+{
+  "cell": "13,-2",
+  "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "blue water ref 256_ripple": 1,
+        "bs_ex_mb_rock41": 1,
+        "bs_ex_mb_rock44": 1,
+        "bs_ex_mb_rocks_03": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_travelingtrader_arm_spawn": 1
+      }
+    }
+  }
+}

@@ -1,6 +1,54 @@
 {
   "cell": "14,-2",
   "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "barrel_01": 2,
+        "blue water ref 256_ripple": 6,
+        "bs_adele_morr_vase03": 1,
+        "bs_alch_bottle_ale_12blu": 1,
+        "bs_bk_text_folio_03_cctap": 1,
+        "bs_bulb_plant_1fa": 2,
+        "bs_coldharbour_cr": 2,
+        "bs_cont_mb_urn1_misc": 1,
+        "bs_cont_mb_urn2": 2,
+        "bs_cont_mb_urn3_ing": 2,
+        "bs_daed_loot_chest3": 1,
+        "bs_ex_mb_dae_door_load1": 1,
+        "bs_ex_mb_dae_pillar_03": 1,
+        "bs_ex_mb_dae_ruin_01": 1,
+        "bs_ex_mb_dae_ruin_01a": 1,
+        "bs_ex_mb_dae_ruin_ent1": 1,
+        "bs_ex_mb_jagged_rock01": 5,
+        "bs_ex_mb_jagged_rock02": 4,
+        "bs_ex_mb_jagged_rock03": 7,
+        "bs_ex_mb_rock33": 3,
+        "bs_ex_mb_rock34": 3,
+        "bs_ex_mb_rock41": 1,
+        "bs_ex_mb_rock51": 1,
+        "bs_ex_mb_rock68": 1,
+        "bs_ex_mb_rock79": 1,
+        "bs_ex_mb_rocks_01": 5,
+        "bs_ex_mb_rocks_02": 7,
+        "bs_ex_mb_rocks_03": 12,
+        "bs_ex_mb_rocks_04": 7,
+        "bs_flora_mb_tree_01c_1": 1,
+        "bs_flora_mb_tree_02c_2": 2,
+        "bs_flora_tree_mb_05": 1,
+        "bs_frostmonarch": 1,
+        "bs_harvester": 1,
+        "bs_rockbridge_mw": 2,
+        "com_chest_01_arrows": 1,
+        "flora_ash_log_01": 1,
+        "flora_ashtree_04": 2,
+        "flora_ashtree_05": 2,
+        "flora_ashtree_06": 1
+      },
+      "modified": {
+        "ex_dae_door_load_oval": 1,
+        "flora_ashtree_07": 1
+      }
+    },
     "Treasures of Magic.ESP": {
       "added": {
         "bc3000_vehkchild": 1
@@ -20,6 +68,11 @@
     "Creatures and Critters.ESP": {
       "added": {
         "aa_cr_shrine_molagbal": 4
+      }
+    },
+    "Daedric Shrine Overhaul - Fropa's Fixes.ESP": {
+      "modified": {
+        "bs_ex_mb_dae_door_load1": 1
       }
     }
   }

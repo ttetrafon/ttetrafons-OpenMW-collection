@@ -1,0 +1,65 @@
+{
+  "cell": "Ihinipalit, Shrine",
+  "name": "Ihinipalit, Shrine",
+  "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "bs_a_helm_cv_exp0_gnd": 1,
+        "bs_a_helm_cv_ext1_gnd": 1,
+        "bs_cupboard01_1_dae": 1,
+        "bs_cupboard_sh_03b": 1,
+        "bs_daed_urn_19x_misc": 2,
+        "bs_daed_urn_20x": 1,
+        "bs_daed_urn_20x_dement": 1,
+        "bs_f_banner_sheogorath2a": 1,
+        "bs_f_banner_sheogorath3": 1,
+        "bs_f_blister_pod1_1": 3,
+        "bs_f_flamestalk1_0": 1,
+        "bs_f_flamestalk3_0": 1,
+        "bs_f_letifer_orca1_2": 1,
+        "bs_f_shiv_shroom_mn1_0": 1,
+        "bs_f_shiv_shroom_mn2_0": 1,
+        "bs_f_shiv_shroom_mn3_0": 1,
+        "bs_f_worm_head1": 2,
+        "bs_fn_dae_chair3_1": 2,
+        "bs_fn_dae_table2_2": 1,
+        "bs_furn_planter_02_si_dm1": 1,
+        "bs_furn_planter_02_si_mn1": 1,
+        "bs_furn_rug_gold_patt1": 2,
+        "bs_furn_rug_multi_mandem3d": 2,
+        "bs_furn_rug_scroll_patt1": 2,
+        "bs_furn_rug_scroll_patt2": 2,
+        "bs_grummite_btlr0_2": 1,
+        "bs_i_flame_stalk1": 1,
+        "bs_i_grummite_eggs": 1,
+        "bs_light_com_candle_01b_blk": 2,
+        "bs_light_shiv_lamp_tri_4": 2,
+        "bs_ll_cabbage_leaf": 1,
+        "bs_tad_cheese_pit": 2,
+        "ex_vivec_waterfall_01": 2,
+        "ingred_bread_01": 1,
+        "light_com_candle_07_77": 1,
+        "misc_com_metal_plate_04": 1,
+        "misc_com_metal_plate_05": 3,
+        "misc_com_silverware_spoon": 3,
+        "misc_com_wood_spoon_02": 1,
+        "misc_de_pot_blue_01": 1,
+        "misc_inkwell": 1,
+        "misc_quill": 1,
+        "misc_rollingpin_01": 1,
+        "misc_skull00": 1,
+        "misc_soulgem_petty": 1,
+        "misc_spool_01": 1
+      },
+      "modified": {
+        "bc mushroom 64": 4,
+        "ex_vivec_waterfall_01": 2
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_hazeskooma": 1
+      }
+    }
+  }
+}

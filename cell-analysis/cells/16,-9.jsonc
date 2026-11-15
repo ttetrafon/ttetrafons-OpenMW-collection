@@ -1,6 +1,24 @@
 {
   "cell": "16,-9",
   "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "bs_f_fungus_stalks1": 3,
+        "bs_f_letifer_orca1_2": 3,
+        "bs_f_mancage_chain_hang": 4,
+        "bs_f_putrid_gigantea1_1": 5,
+        "bs_f_si_mushroom_01d": 1,
+        "bs_f_si_mushroom_03d": 2,
+        "bs_f_si_mushroom_sapd": 1,
+        "bs_ter_rocks_lava_02": 4,
+        "bs_vurt_tree_gl_08": 2,
+        "flora_grass_01": 3,
+        "furn_mist512": 4
+      },
+      "modified": {
+        "flora_tree_ac_02": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_ex_daedric_ruins_spawn": 1

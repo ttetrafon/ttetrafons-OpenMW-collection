@@ -1,6 +1,20 @@
 {
   "cell": "9,16",
   "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "bs_cecaelia1_1": 1,
+        "bs_fungslug": 5,
+        "bs_fungslug_m": 1,
+        "furn_mist512": 7,
+        "t_cyr_und_ghst_01": 2,
+        "t_cyr_und_wrthfad_01": 1,
+        "t_dae_cre_verm_01": 1
+      },
+      "modified": {
+        "ex_dae_door_load_oval": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "misc_com_metal_goblet_02": 1,

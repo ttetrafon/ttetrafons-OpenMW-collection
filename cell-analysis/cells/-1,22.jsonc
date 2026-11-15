@@ -16,6 +16,22 @@
         "daris norvayne": 1
       }
     },
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "bs_f_aster_bloom1_1": 3,
+        "bs_f_red_kelp_01_1": 7,
+        "bs_f_si_mushroom_02m2": 1,
+        "bs_f_si_mushroom_03m": 3,
+        "bs_f_si_mushroom_sapm": 5,
+        "bs_f_worm_head1": 3,
+        "ex_barnacles_02": 2,
+        "ex_t_menhir_l_01": 2,
+        "gg_ex_dae_sheomania": 1
+      },
+      "modified": {
+        "ex_t_menhir_l_01": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_marker": 1,

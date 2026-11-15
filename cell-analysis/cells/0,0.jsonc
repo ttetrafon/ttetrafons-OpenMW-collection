@@ -1,6 +1,36 @@
 {
   "cell": "0,0",
   "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "ab_f_bloodgrass_01": 5,
+        "ab_f_harrada_01": 2,
+        "ab_f_harrada_01b": 2,
+        "ab_flora_chartree_03": 1,
+        "ab_flora_chartree_07": 1,
+        "ab_furn_dngchainsmall256": 2,
+        "ab_fx_scorch01": 1,
+        "ab_o_corpseburnt02loot": 1,
+        "ab_o_corpsefresh07hang": 2,
+        "ex_dae_wall_512_02": 1,
+        "ex_dae_wall_512_06": 1,
+        "in_lava_1024": 2,
+        "scamp": 1,
+        "t_dae_cre_dremcyr_01": 1,
+        "t_dae_cre_dremkynr_01": 1
+      },
+      "modified": {
+        "ex_dae_pillar_02_ruin_02": 1,
+        "ex_dae_pillar_03": 1,
+        "ex_dae_wall_512_02": 1,
+        "ex_dae_wall_512_04": 1,
+        "ex_dae_wall_512_06": 1,
+        "ex_dae_wall_512_08": 1,
+        "in_dae_rubble_03a": 1,
+        "in_dae_rubble_03b": 1,
+        "terrain_rock_ma_02": 2
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_ex_daedric_ruins_spawn": 1

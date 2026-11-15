@@ -1,0 +1,72 @@
+{
+  "cell": "Ramimilk, Shrine",
+  "name": "Ramimilk, Shrine",
+  "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "ab_misc_boneskelargfoot": 1,
+        "ab_misc_boneskelarmupperl": 2,
+        "ab_misc_boneskelarmwristr": 2,
+        "ab_misc_boneskelfootr": 1,
+        "ab_misc_boneskelhandr.1": 1,
+        "ab_misc_boneskellegupperr.1": 1,
+        "ab_misc_boneskelribs": 2,
+        "ab_misc_boneskelskulljaw": 1,
+        "ab_misc_boneskeltorsobroken": 1,
+        "ab_o_corpse10": 1,
+        "ab_o_corpsefresh02loot": 1,
+        "active_dae_molagbal": 1,
+        "bs_alch_bottle_blu_leathr2": 2,
+        "bs_atroflesh_arm1": 1,
+        "bs_barrel_02_misc1": 1,
+        "bs_com_chest_01_shoes": 1,
+        "bs_cont_mb_urn2": 1,
+        "bs_cont_mb_urn2_loot": 1,
+        "bs_daed_loot_chest4_2": 1,
+        "bs_ex_sc_soul_fissure3_2": 1,
+        "bs_f_mancage_chain_hang": 3,
+        "bs_furn_dae_rubblemb_04a": 2,
+        "bs_furn_rug_blue_patt1": 3,
+        "bs_in_dae_doorjambmb_01": 1,
+        "bs_in_dae_doorjambmb_ld": 1,
+        "bs_in_dae_doormb_01": 1,
+        "bs_in_dae_hallmb_l_01": 1,
+        "bs_in_dae_hallmb_l_end": 1,
+        "bs_in_dae_hallmb_l_entry": 3,
+        "bs_in_dae_hallmb_l_stairs": 1,
+        "bs_in_dae_plat_stairs_herm": 1,
+        "bs_in_dae_platformmb_01": 2,
+        "bs_in_dae_roommb_l_cor_01": 8,
+        "bs_in_dae_roommb_l_floor": 2,
+        "bs_in_dae_roommb_l_rf_03": 2,
+        "bs_in_dae_roommb_l_side": 5,
+        "bs_in_mb_dae_pillar_tall": 4,
+        "bs_light_mb_dae_brazier02c": 6,
+        "bs_light_mb_dae_jet2": 2,
+        "bs_m_soul_gem_black1": 1,
+        "bs_mb_couldron01": 1,
+        "bs_ring_empty_sgp_mw": 1,
+        "bs_skeleton_soulcairn12": 1,
+        "bs_skeleton_soulcairnky": 1,
+        "bs_sm_skeleton_soulcair": 1,
+        "bs_soul_fissure_light": 1,
+        "light_dae_censer": 1,
+        "sound_lave_vat": 1
+      },
+      "modified": {
+        "barrel_02_cheapfood5": 2,
+        "ex_dae_door_load_oval": 1,
+        "fevris senoril": 1,
+        "ingred_dae_cursed_emerald_01": 1,
+        "light_dae_censer": 1,
+        "misc_com_metal_plate_04": 1,
+        "sc_leaguestep": 1
+      }
+    },
+    "Unique Uniques.ESP": {
+      "modified": {
+        "ebony wizard's staff": 1
+      }
+    }
+  }
+}

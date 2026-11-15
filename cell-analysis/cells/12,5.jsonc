@@ -1,0 +1,16 @@
+{
+  "cell": "12,5",
+  "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "bs_ex_dae_wallmb_512_01": 1,
+        "bs_ex_mb_dae_pillar_03": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_gz": 1
+      }
+    }
+  }
+}
