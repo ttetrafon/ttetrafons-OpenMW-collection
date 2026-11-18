@@ -1,0 +1,44 @@
+{
+  "cell": "Urshilaku, Kakuna Burial",
+  "name": "Urshilaku, Kakuna Burial",
+  "plugins": {
+    "OAAB - Urshilaku Burial Caverns.ESP": {
+      "added": {
+        "ab_a_bugblueboots": 1,
+        "ab_f_fomentarius_01": 2,
+        "ab_f_fomentarius_03": 1,
+        "ab_f_urnula_01": 2,
+        "ab_f_urnula_02": 1,
+        "ab_f_urnula_03": 1,
+        "ab_misc_deebonycup_01": 1,
+        "ab_o_ashltrinketbox": 1,
+        "chitin shortsword": 1,
+        "fireblade": 1,
+        "flora_bc_shelffungus_01": 5,
+        "flora_bc_shelffungus_02": 6,
+        "flora_bc_shelffungus_03": 3,
+        "flora_bc_shelffungus_04": 4,
+        "flora_bc_vine_01": 2,
+        "flora_bc_vine_02": 2,
+        "flora_bc_vine_03": 2,
+        "flora_bc_vine_04": 2,
+        "flora_bc_vine_06": 2,
+        "misc_dwrv_coin00": 2,
+        "rem_urshilaku_archer": 2,
+        "rem_urshilaku_melee": 1
+      },
+      "modified": {
+        "ab_furn_burial00": 5,
+        "ab_o_urn01ing": 1,
+        "ab_o_urn01scrolls": 1,
+        "ab_o_urn02ing": 1,
+        "ab_o_urn05ing": 3
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_mummy_05": 1
+      }
+    }
+  }
+}

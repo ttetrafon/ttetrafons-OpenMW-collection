@@ -1,0 +1,85 @@
+{
+  "cell": "Urshilaku, Karma Burial",
+  "name": "Urshilaku, Karma Burial",
+  "plugins": {
+    "OAAB - Urshilaku Burial Caverns.ESP": {
+      "added": {
+        "ab_a_chitinscouthelm": 1,
+        "ab_c_commonamulet01": 1,
+        "ab_door_moldentr_01": 1,
+        "ab_furn_ashlbowl": 1,
+        "ab_furn_ashlskull_01": 1,
+        "ab_furn_ashlskull_02": 2,
+        "ab_furn_ashlskull_03": 2,
+        "ab_furn_bonealitskull": 1,
+        "ab_in_cavemoldwall01": 1,
+        "ab_in_cavemoldwall02": 1,
+        "ab_in_cavemoldwall03": 1,
+        "ab_in_cavemoldwall04": 1,
+        "ab_key_junk": 1,
+        "ab_misc_bkruinedoctavo02": 1,
+        "ab_o_urn01scrolls": 1,
+        "ab_w_ashlglassarrow10x": 1,
+        "ab_w_ashlglassclub": 1,
+        "bk_bookofdaedra": 1,
+        "bk_words_of_the_wind": 1,
+        "chitin greaves": 1,
+        "contain_corpse10": 1,
+        "ex_barnacles_01": 4,
+        "ex_barnacles_02": 3,
+        "ex_barnacles_03": 2,
+        "ex_t_rock_coastal_03": 5,
+        "firebite club": 1,
+        "flora_bc_mushroom_01": 3,
+        "flora_bc_mushroom_02": 4,
+        "flora_bc_mushroom_04": 2,
+        "flora_bc_mushroom_05": 2,
+        "flora_bc_mushroom_06": 2,
+        "flora_bc_mushroom_07": 3,
+        "flora_bc_mushroom_08": 3,
+        "flora_bc_podplant_01": 2,
+        "flora_bc_podplant_02": 2,
+        "flora_bc_vine_01": 2,
+        "flora_bc_vine_02": 6,
+        "flora_bc_vine_03": 3,
+        "flora_bc_vine_04": 1,
+        "flora_bc_vine_05": 3,
+        "flora_bc_vine_06": 4,
+        "flora_bc_vine_07": 2,
+        "flora_kelp_01": 6,
+        "flora_kelp_02": 5,
+        "flora_kelp_03": 3,
+        "flora_kelp_04": 3,
+        "in_mold_rock_01": 7,
+        "in_mold_rock_02": 4,
+        "in_mold_rock_03": 3,
+        "in_mold_rock_05": 1,
+        "in_mold_rock_06": 2,
+        "ingred_resin_01": 1,
+        "ingred_trama_root_01": 1,
+        "misc_de_drum_02": 1,
+        "rem_urshilaku_archer": 3,
+        "rem_urshilaku_melee": 2,
+        "sc_elementalburstfrost": 1,
+        "tramaroot_03": 1,
+        "tramaroot_05": 2,
+        "urn_04_food": 1,
+        "velothian shield": 1
+      },
+      "modified": {
+        "ab_furn_burial00": 22,
+        "ab_o_urn01scrolls": 1,
+        "ab_o_urn05ing": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_mummy_01": 1,
+        "plx_mummy_04": 1
+      },
+      "modified": {
+        "door_cavern_doors10": 1
+      }
+    }
+  }
+}

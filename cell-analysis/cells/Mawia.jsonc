@@ -2,6 +2,170 @@
   "cell": "Mawia",
   "name": "Mawia",
   "plugins": {
+    "OAAB - Mawia.ESP": {
+      "added": {
+        "ab_furn_boneskel01half": 3,
+        "ab_furn_boneskelarml": 1,
+        "ab_furn_boneskellegl": 1,
+        "ab_furn_boneskellegshinl": 1,
+        "ab_furn_boneskellegupperr": 2,
+        "ab_furn_boneskelpelvis": 1,
+        "ab_furn_boneskelribs": 3,
+        "ab_furn_boneskelskull": 160,
+        "ab_furn_boneskelskulljaw": 1,
+        "ab_furn_boneskelskullupper": 3,
+        "ab_furn_boneskeltorso": 2,
+        "ab_furn_boneskeltorsobroken": 2,
+        "ab_furn_burial00": 42,
+        "ab_furn_velrubble01": 13,
+        "ab_furn_velrubble02": 9,
+        "ab_furn_velrubble03": 15,
+        "ab_in_bonepile01": 17,
+        "ab_ingcrea_spidervenom": 1,
+        "ab_ingflor_dustcap": 1,
+        "ab_ingflor_fomentarius": 1,
+        "ab_ingflor_telvanniresin": 1,
+        "ab_ingflor_urnula": 2,
+        "ab_ingmine_diopside_01": 1,
+        "ab_misc_bkruinedoctavo02": 1,
+        "ab_misc_bkruinedquarto": 1,
+        "ab_misc_deblueflask_02": 1,
+        "ab_misc_declaybowl_01": 1,
+        "ab_misc_degreenplate": 1,
+        "ab_misc_deyelglasscup_01": 1,
+        "ab_o_corpsevigil_01": 1,
+        "ab_o_crate01food": 9,
+        "ab_o_crate01pos": 3,
+        "ab_o_deplndrawersclothm": 1,
+        "ab_o_sackflatfood": 4,
+        "ab_o_sackflating": 2,
+        "ab_o_urn01food": 2,
+        "ab_o_urn01ing": 12,
+        "ab_o_urn01scrolls": 2,
+        "ab_o_urn02food": 4,
+        "ab_o_urn03food": 3,
+        "ab_o_urn04food": 1,
+        "ab_o_urn05ing": 8,
+        "ab_terr_dirtpile_l": 1,
+        "ab_terr_dirtpile_m": 4,
+        "ab_terr_dirtpile_s": 6,
+        "ab_w_bonesaw": 1,
+        "ab_w_cookknifebone": 1,
+        "ab_w_cookknifecleave": 1,
+        "bk_arkaytheenemy": 1,
+        "bonewalker": 1,
+        "bonewalker_greater": 2,
+        "chest_small_01_gold_25": 1,
+        "chest_small_02_gems": 1,
+        "chitin dagger": 1,
+        "chitin pauldron - left": 1,
+        "com_chest_02_vault_02": 1,
+        "com_sack_02_gold_05": 1,
+        "com_sack_03": 2,
+        "contain_corpse00": 1,
+        "contain_corpse10": 10,
+        "contain_corpse20": 7,
+        "crate_01": 9,
+        "crate_01_de_weapons": 1,
+        "crate_02_torch": 2,
+        "cruel vipersword": 1,
+        "de_p_chest_02_gold_25": 1,
+        "de_p_closet_02_de_robes": 1,
+        "devil katana": 1,
+        "ex_de_docks_gate": 1,
+        "expensive_belt_03": 1,
+        "furn_bone_01": 91,
+        "furn_bone_stake00": 4,
+        "furn_burial20": 3,
+        "furn_de_rug_big_03": 2,
+        "furn_spear_static": 2,
+        "furn_web00": 8,
+        "furn_web10": 25,
+        "gold_001": 15,
+        "gold_005": 5,
+        "gold_010": 1,
+        "gold_025": 2,
+        "in_v_l_int_column_01": 1,
+        "in_v_l_int_column_03": 1,
+        "in_v_l_int_rail_01": 17,
+        "in_velothi_platform_01": 1,
+        "ingred_crab_meat_01": 1,
+        "ingred_fire_salts_01": 1,
+        "ingred_ghoul_heart_01": 1,
+        "ingred_green_lichen_01": 1,
+        "ingred_guar_hide_01": 1,
+        "ingred_heather_01": 1,
+        "ingred_human_meat_01": 1,
+        "ingred_kresh_fiber_01": 1,
+        "ingred_kwama_cuttle_01": 1,
+        "ingred_marshmerrow_01": 1,
+        "ingred_roobrush_01": 2,
+        "ingred_willow_anther_01": 1,
+        "iron dagger": 12,
+        "iron viperskewer": 1,
+        "iron_bracer_left": 2,
+        "iron_pauldron_right": 1,
+        "light_com_candle_02": 1,
+        "light_com_candle_13": 3,
+        "light_com_lantern_01": 1,
+        "misc_com_redware_bowl": 1,
+        "misc_com_redware_plate": 1,
+        "misc_de_foldedcloth00": 1,
+        "misc_de_goblet_08": 2,
+        "misc_de_pot_redware_01": 1,
+        "misc_imp_silverware_plate_02": 1,
+        "misc_inkwell": 2,
+        "misc_quill": 2,
+        "misc_skull00": 4,
+        "misc_skull10": 1,
+        "misc_soulgem_common": 2,
+        "misc_soulgem_grand": 1,
+        "misc_soulgem_greater": 2,
+        "misc_soulgem_petty": 2,
+        "mummy_02": 1,
+        "mummy_04": 1,
+        "netch_leather_cuirass": 1,
+        "netch_leather_greaves": 1,
+        "p_burden_s": 1,
+        "p_chameleon_q": 1,
+        "p_cure_paralyzation_s": 1,
+        "p_cure_poison_s": 1,
+        "p_night-eye_c": 1,
+        "sack_tomb_ingred": 2,
+        "sc_balefulsuffering": 1,
+        "sc_summonskeletalservant": 1,
+        "silver dagger": 1,
+        "silver flameaxe": 1,
+        "skeleton champion": 2,
+        "steel staff of war": 1,
+        "terrain_rock_ac_01": 1,
+        "terrain_rock_ac_02": 3,
+        "terrain_rock_ac_03": 4,
+        "terrain_rock_ac_04": 5,
+        "terrain_rock_ac_08": 1,
+        "terrain_rock_ac_09": 4,
+        "terrain_rock_ac_11": 1,
+        "text_paper_roll_01": 2,
+        "urn_05": 2,
+        "urn_05_food": 7
+      },
+      "modified": {
+        "ab_furn_boneskelskull": 37,
+        "ab_furn_boneskelskullupper": 8,
+        "ab_in_velsmallhall04alcove": 7,
+        "ab_o_crate01pos": 3,
+        "ab_o_crate02pos": 2,
+        "ab_o_sackbenting": 1,
+        "ab_o_sackflating": 3,
+        "ab_o_sacklargeing": 1,
+        "furn_bone_01": 7,
+        "furn_de_rug_big_05": 1,
+        "in_tomb_all_lev+0": 1,
+        "in_tomb_all_lev+2": 2,
+        "in_velothismall_column_01": 1,
+        "light_de_candle_red_02": 4
+      }
+    },
     "Ownership Overhaul.esm": {
       "modified": {
         "apparatus_j_alembic_01": 1,
@@ -146,6 +310,7 @@
       "object": "crate_02_random_pos",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB - Mawia.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -154,6 +319,7 @@
       "object": "com_sack_03_ingredients",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB - Mawia.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -162,6 +328,7 @@
       "object": "com_sack_02_ingred",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB - Mawia.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -170,6 +337,7 @@
       "object": "com_sack_01_ingred",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB - Mawia.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -178,6 +346,7 @@
       "object": "com_sack_01_ingred",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB - Mawia.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -250,6 +419,7 @@
       "object": "crate_01_random_pos",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB - Mawia.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -258,6 +428,7 @@
       "object": "crate_02_random_pos",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB - Mawia.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -266,6 +437,7 @@
       "object": "crate_01_random_pos",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB - Mawia.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -274,6 +446,7 @@
       "object": "com_sack_01_ingred",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB - Mawia.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -290,6 +463,7 @@
       "object": "crate_01_random_pos",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB - Mawia.ESP",
         "Ownership Overhaul.esp"
       ]
     },

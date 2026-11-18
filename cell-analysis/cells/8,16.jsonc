@@ -17,6 +17,11 @@
         "aa_cr_i_butterlfy_gz": 1,
         "aa_cr_night_only_exterior_undea": 1
       }
+    },
+    "OAAB - Favel Ancestral Tomb.ESP": {
+      "modified": {
+        "ex_velothi_loaddoor_01": 1
+      }
     }
   }
 }

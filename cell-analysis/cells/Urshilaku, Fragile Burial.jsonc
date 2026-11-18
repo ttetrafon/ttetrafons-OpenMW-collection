@@ -2,6 +2,84 @@
   "cell": "Urshilaku, Fragile Burial",
   "name": "Urshilaku, Fragile Burial",
   "plugins": {
+    "OAAB - Urshilaku Burial Caverns.ESP": {
+      "added": {
+        "ab_a_dreughbracerr": 1,
+        "ab_flora_kelpgrass01": 1,
+        "ab_flora_kelpgrass04": 1,
+        "ab_flora_kelpshrubgroup01": 2,
+        "ab_in_cavemoldceil01": 4,
+        "ab_in_cavemoldfloor01": 1,
+        "ab_in_cavemoldwall01": 2,
+        "ab_in_cavemoldwall02": 3,
+        "ab_in_cavemoldwall03": 4,
+        "ab_in_cavemoldwall04": 1,
+        "ab_o_ashltrinketbox": 1,
+        "ab_w_chitinarrow10x": 1,
+        "ab_w_chitinlongbow": 1,
+        "blue water ref 256": 5,
+        "ex_barnacles_01": 1,
+        "ex_barnacles_02": 2,
+        "ex_barnacles_03": 1,
+        "flora_bc_vine_01": 8,
+        "flora_bc_vine_02": 3,
+        "flora_bc_vine_03": 5,
+        "flora_bc_vine_04": 2,
+        "flora_bc_vine_05": 1,
+        "flora_bc_vine_06": 3,
+        "flora_bc_vine_07": 2,
+        "flora_kelp_01": 1,
+        "flora_kelp_02": 1,
+        "flora_kelp_03": 1,
+        "in_mold_rock_01": 1,
+        "in_mold_rock_04": 2,
+        "in_mold_rock_06": 2,
+        "in_mold_rock_22": 1,
+        "in_mold_rock_24": 1,
+        "in_mold_rock_26": 2,
+        "in_moldboulder02": 1,
+        "in_moldboulder05": 1,
+        "in_moldcave_11": 1,
+        "p_night-eye_e": 1,
+        "rem_urshilaku_archer": 1,
+        "rem_urshilaku_melee": 1,
+        "ring of fireballs": 1,
+        "skeleton archer": 2,
+        "tramaroot_01": 1,
+        "tramaroot_02": 1,
+        "tramaroot_03": 2,
+        "tramaroot_04": 2,
+        "tramaroot_06": 2
+      },
+      "modified": {
+        "ab_o_urn01scrolls": 1,
+        "ab_o_urn05ing": 1,
+        "blue water ref 256": 1,
+        "blue water ref 512_ripple": 3,
+        "bookskill_illusion5": 1,
+        "door_cavern_doors20": 1,
+        "ebony_closed_helm": 1,
+        "ex_t_menhir_l_01": 5,
+        "ex_t_rock_coastal_01": 3,
+        "ex_t_rock_coastal_02": 1,
+        "furn_burial20": 3,
+        "furn_mist512": 3,
+        "glass_towershield": 1,
+        "green_spulse_64": 4,
+        "in_moldcave2_s_04": 2,
+        "in_moldcave_lroom2_00": 4,
+        "in_moldcave_lroom3_01": 3,
+        "in_moldcave_lroom4_01": 1,
+        "in_moldcave_lroom4_02": 1,
+        "in_moldcave_lroom4_03": 1,
+        "in_moldtrans_00": 1,
+        "mummy_01": 1,
+        "mummy_02": 1,
+        "mummy_03": 1,
+        "sound_cave_drip00": 1,
+        "worm lord": 1
+      }
+    },
     "Creatures_RP_Purist.ESP": {
       "added": {
         "ex_t_rock_coastal_02": 1,
@@ -14,5 +92,15 @@
         "aa_cr_skeleton_worm": 1
       }
     }
-  }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::371838",
+      "object": "worm lord",
+      "plugins": [
+        "OAAB - Urshilaku Burial Caverns.ESP",
+        "Creatures and Critters.ESP"
+      ]
+    }
+  ]
 }

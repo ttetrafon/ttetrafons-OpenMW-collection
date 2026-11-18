@@ -10,6 +10,11 @@
       "added": {
         "aa_cr_i_moth_all": 2
       }
+    },
+    "OAAB - Salothran Ancestral Tomb.ESP": {
+      "modified": {
+        "ex_velothi_loaddoor_01": 1
+      }
     }
   }
 }

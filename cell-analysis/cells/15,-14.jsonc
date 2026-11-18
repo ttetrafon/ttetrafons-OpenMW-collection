@@ -15,6 +15,11 @@
         "aa_cr_b_wisp_all": 1,
         "aa_cr_i_butterlfy_ac": 1
       }
+    },
+    "OAAB - Arano Ancestral Tomb.ESP": {
+      "modified": {
+        "ex_velothi_loaddoor_01": 1
+      }
     }
   }
 }

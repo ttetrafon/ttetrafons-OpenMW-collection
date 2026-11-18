@@ -2,6 +2,45 @@
   "cell": "Urshilaku, Kefka Burial",
   "name": "Urshilaku, Kefka Burial",
   "plugins": {
+    "OAAB - Urshilaku Burial Caverns.ESP": {
+      "added": {
+        "ab_f_tramavine_01": 3,
+        "ab_f_tramavine_02": 2,
+        "ab_f_tramavine_03": 1,
+        "ab_furn_ashlbowl": 2,
+        "ab_in_cavemoldwall02": 1,
+        "ab_misc_ashlflute": 1,
+        "ab_o_ashlscathecraw": 3,
+        "ab_o_ashltrinketbox": 1,
+        "ab_terr_ashpile_m": 2,
+        "ab_terr_ashpile_s": 1,
+        "dwarven shortsword": 1,
+        "furn_ashl_bugbowl_02": 1,
+        "furn_ashl_bugbowl_03": 2,
+        "gold_001": 6,
+        "gold_005": 1,
+        "green_spulse_128": 1,
+        "in_mold_rock_01": 4,
+        "in_mold_rock_02": 1,
+        "in_strong_archway00": 1,
+        "ingred_alit_hide_01": 1,
+        "ingred_fire_salts_01": 1,
+        "ingred_wickwheat_01": 1,
+        "mummy_03": 1,
+        "rem_urshilaku_archer": 3,
+        "rem_urshilaku_melee": 3,
+        "slaughterfish": 2,
+        "tramaroot_01": 5,
+        "tramaroot_02": 1,
+        "tramaroot_03": 3,
+        "tramaroot_04": 1,
+        "tramaroot_05": 2,
+        "tramaroot_06": 3
+      },
+      "modified": {
+        "ab_furn_burial00": 11
+      }
+    },
     "Creatures_RP_Purist.ESP": {
       "added": {
         "plx_mummy_02": 1,

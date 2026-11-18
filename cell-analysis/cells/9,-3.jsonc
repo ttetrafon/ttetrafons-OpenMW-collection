@@ -10,6 +10,11 @@
       "added": {
         "aa_cr_night_only_exterior_undea": 1
       }
+    },
+    "OAAB - Mababi.ESP": {
+      "modified": {
+        "ex_velothi_loaddoor_01": 1
+      }
     }
   }
 }
