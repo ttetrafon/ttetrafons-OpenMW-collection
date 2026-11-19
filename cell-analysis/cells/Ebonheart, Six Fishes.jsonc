@@ -31,6 +31,11 @@
         "daylight_fishes_300_west": 4
       }
     },
+    "Velothi Wall Art.ESP": {
+      "added": {
+        "vdf_f_v_wall_talos_app1": 1
+      }
+    },
     "Wares_traders.ESP": {
       "added": {
         "aa_wares_baker": 1,

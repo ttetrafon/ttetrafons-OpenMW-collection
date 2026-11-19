@@ -2,6 +2,11 @@
   "cell": "Balmora, Rarayn Radarys' House",
   "name": "Balmora, Rarayn Radarys' House",
   "plugins": {
+    "Velothi Wall Art.ESP": {
+      "added": {
+        "vdf_f_v_wall_dagothur_app2": 1
+      }
+    },
     "Ownership Overhaul.esm": {
       "modified": {
         "gold_001": 6,

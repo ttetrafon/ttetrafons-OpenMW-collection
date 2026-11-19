@@ -1,6 +1,24 @@
 {
   "cell": "5,-5",
   "plugins": {
+    "Ascadia Land of Pilgrimage.ESP": {
+      "added": {
+        "ab_o_derchchest01pos": 1,
+        "ab_w_chitinhalberd": 1,
+        "flora_plant_04": 1,
+        "lai_engraved_right_pauldron": 1,
+        "t_mw_flora_meadowrye01": 1,
+        "t_mw_flora_meadowrye02": 2,
+        "t_mw_flora_meadowrye03": 1,
+        "t_mw_terrrockai_mtpeaktrv_01": 2,
+        "t_mw_terrrockai_mtpeaktrv_02": 1,
+        "t_mw_terrrockai_mtridgetrv_01": 1,
+        "t_mw_terrrockai_mtridgetrv_02": 1,
+        "t_mw_terrrockai_rock_07": 2,
+        "t_mw_terrrockai_rock_08": 1,
+        "t_mw_terrrockma_mtridge_02": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_marker": 1,

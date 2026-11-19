@@ -1,6 +1,48 @@
 {
   "cell": "5,-12",
   "plugins": {
+    "Ascadia Land of Pilgrimage.ESP": {
+      "added": {
+        "ab_flora_acsapling01": 1,
+        "ab_flora_aisapling01": 1,
+        "ab_flora_aisapling02": 1,
+        "ab_flora_aisapling03": 4,
+        "ab_flora_aisapling04": 5,
+        "ab_flora_parasolbonsai01": 3,
+        "ab_flora_parasolbonsai03": 3,
+        "ab_flora_parasolbonsai04": 2,
+        "ab_flora_parasolmid01": 3,
+        "ab_flora_parasolmid02": 3,
+        "ab_flora_parasolmid03": 2,
+        "flora_black_anther_01": 2,
+        "flora_bush_01": 4,
+        "flora_gold_kanet_01": 2,
+        "flora_grass_01": 5,
+        "flora_willow_flower_01": 4,
+        "flora_willow_flower_02": 2,
+        "t_mw_flora_bluekanet_01": 3,
+        "t_mw_flora_bluekanet_02": 5,
+        "t_mw_flora_hornlilly01": 5,
+        "t_mw_flora_hornlilly03": 1,
+        "t_mw_flora_munzur_01": 3,
+        "t_mw_flora_munzur_02": 7,
+        "t_mw_flora_munzur_03": 3,
+        "t_mw_flora_redfireflw02": 3,
+        "t_mw_flora_redrose02": 1,
+        "t_mw_flora_shroomtableg_01": 3,
+        "t_mw_flora_shroomtableg_02": 4,
+        "t_mw_flora_shroomtableg_03": 1,
+        "t_mw_flora_shroomtableg_04": 1,
+        "t_mw_flora_shroomtableg_05": 1,
+        "t_mw_flora_shroomtableg_06": 2,
+        "t_mw_flora_shroomtabler_02": 1,
+        "t_mw_flora_treeaistump_01": 1,
+        "t_mw_flora_treeaistump_03": 2,
+        "t_mw_flora_treeaistump_06": 2,
+        "t_mw_flora_treeaistump_09": 1,
+        "t_mw_flora_treeaistump_12": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_marker": 2,

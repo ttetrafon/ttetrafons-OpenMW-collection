@@ -40,6 +40,38 @@
         "terrain_rocks_ai_01": 1
       }
     },
+    "Ascadia Land of Pilgrimage.ESP": {
+      "added": {
+        "ab_f_marshmgroup_o": 10,
+        "ab_flora_aisapling03": 1,
+        "ex_barnacles_03": 1,
+        "flora_black_anther_01": 1,
+        "flora_black_anther_02": 1,
+        "flora_bush_01": 3,
+        "flora_gold_kanet_01": 4,
+        "flora_grass_01": 1,
+        "flora_tree_ac_01": 2,
+        "flora_tree_ac_02": 2,
+        "flora_tree_ac_03": 1,
+        "flora_tree_ac_04": 1,
+        "flora_tree_ai_01": 1,
+        "flora_tree_ai_05": 1,
+        "flora_willow_flower_01": 1,
+        "flora_willow_flower_02": 2,
+        "t_mw_flora_bluekanet_01": 1,
+        "t_mw_flora_bluekanet_02": 2,
+        "t_mw_flora_munzur_01": 1,
+        "t_mw_flora_munzur_03": 1,
+        "t_mw_flora_redrose02": 1,
+        "t_mw_flora_shroomtableg_02": 1,
+        "t_mw_flora_shroomtableg_03": 1,
+        "terrain_rock_ai_07": 2,
+        "terrain_rock_ai_08": 2,
+        "terrain_rock_ai_09": 2,
+        "terrain_rock_ai_10": 1,
+        "terrain_rock_ai_12": 2
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_marker": 1,

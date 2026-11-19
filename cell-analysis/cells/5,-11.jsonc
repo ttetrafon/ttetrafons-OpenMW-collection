@@ -15,6 +15,20 @@
         "am_drummer10": 1
       }
     },
+    "Ascadia Land of Pilgrimage.ESP": {
+      "added": {
+        "ab_ex_velblockpost": 1,
+        "ab_flora_aisapling04": 1,
+        "ab_flora_parasolmid01": 1,
+        "ex_v_sign_telvanni_01": 1,
+        "flora_tree_ai_05": 1,
+        "light_velothi_brazier_177": 2,
+        "t_de_setveloth_x_wall_06": 1,
+        "t_mw_flora_munzur_03": 1,
+        "terrain_rock_ai_11": 1,
+        "terrain_rocks_ai_03": 2
+      }
+    },
     "Treasures of Magic.ESP": {
       "added": {
         "bc3000_visusralar": 1

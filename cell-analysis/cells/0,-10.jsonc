@@ -31,6 +31,12 @@
         "opn_sound_swamp_3": 2
       }
     },
+    "Ascadia Land of Pilgrimage.ESP": {
+      "added": {
+        "ab_flora_bcsapling01": 1,
+        "ex_vivec_roadmarker_01": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_solo_imp_spawn": 1

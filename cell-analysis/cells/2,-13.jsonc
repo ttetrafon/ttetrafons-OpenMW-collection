@@ -32,6 +32,45 @@
         "aatl_o_rch_box_dangerq": 1
       }
     },
+    "Ascadia Land of Pilgrimage.ESP": {
+      "added": {
+        "ab_flora_aisapling04": 2,
+        "ab_flora_parasolbonsai01": 1,
+        "ab_flora_parasolbonsai03": 4,
+        "ab_flora_parasolbonsai04": 1,
+        "ab_flora_parasolbonsai05": 2,
+        "ab_flora_parasolmid02": 2,
+        "ab_flora_parasolmid03": 1,
+        "ex_hlaalu_pole_02": 1,
+        "flora_black_anther_01": 4,
+        "flora_black_anther_02": 5,
+        "flora_bush_01": 2,
+        "flora_comberry_01": 3,
+        "flora_corkbulb": 5,
+        "flora_gold_kanet_01": 4,
+        "flora_gold_kanet_02": 1,
+        "flora_grass_01": 5,
+        "flora_grass_03": 1,
+        "flora_tree_ai_02": 2,
+        "flora_willow_flower_01": 5,
+        "flora_willow_flower_02": 4,
+        "furn_de_lightpost_01": 1,
+        "light_de_streetlight_01_223": 1,
+        "t_mw_flora_bluekanet_01": 1,
+        "t_mw_flora_bluekanet_02": 2,
+        "t_mw_flora_hornlilly01": 1,
+        "t_mw_flora_munzur_01": 6,
+        "t_mw_flora_munzur_02": 6,
+        "t_mw_flora_munzur_03": 5,
+        "t_mw_flora_redrose01": 7,
+        "t_mw_flora_redrose02": 5,
+        "t_mw_flora_shroomtableg_02": 2,
+        "t_mw_flora_shroomtableg_03": 1,
+        "t_mw_flora_shroomtableg_05": 1,
+        "t_mw_flora_treeaistump_03": 1,
+        "t_mw_flora_treeaistump_06": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_n_all_nightlife_spawn": 1,

@@ -39,6 +39,25 @@
         "light_de_lantern_05": 1
       }
     },
+    "Ascadia Land of Pilgrimage.ESP": {
+      "added": {
+        "ab_flora_aisapling03": 1,
+        "ab_flora_parasolmid01": 1,
+        "ab_flora_parasolmid02": 1,
+        "ex_de_railing_02": 1,
+        "t_mw_flora_bluekanet_01": 1,
+        "t_mw_flora_bluekanet_02": 1,
+        "t_mw_flora_munzur_01": 1,
+        "t_mw_flora_munzur_02": 1,
+        "t_mw_flora_munzur_03": 1,
+        "t_mw_terrrockai_mtridgetrv_01": 1,
+        "t_mw_terrrockai_mtridgetrv_02": 1,
+        "terrain_rock_ai_10": 1
+      },
+      "modified": {
+        "flora_comberry_01": 1
+      }
+    },
     "Uncharted Artifacts.esp": {
       "added": {
         "x0_map01_trigger": 1

@@ -9,6 +9,21 @@
         "flame light": 1
       }
     },
+    "Velothi Wall Art.ESP": {
+      "added": {
+        "vdf_f_v_wall_almsivi_app1d": 1,
+        "vdf_f_v_wall_dear_app1": 1,
+        "vdf_f_v_wall_desym14_app": 1,
+        "vdf_f_v_wall_desym21_app1": 1,
+        "vdf_f_v_wall_desym3_app": 1,
+        "vdf_f_v_wall_desym4_app": 1,
+        "vdf_f_v_wall_desym6_app": 1,
+        "vdf_f_v_wall_desym9_app": 1,
+        "vdf_f_v_wall_dreugharm_app": 1,
+        "vdf_f_v_wall_templesym1_app": 1,
+        "vdf_f_v_wall_vivec3_app1": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_mugger_spawn": 1

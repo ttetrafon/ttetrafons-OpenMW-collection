@@ -1,6 +1,170 @@
 {
   "cell": "4,-8",
   "plugins": {
+    "Ascadia Land of Pilgrimage.ESP": {
+      "added": {
+        "ab_ex_defencewattle01": 6,
+        "ab_ex_depalisade01": 12,
+        "ab_ex_depalisade02": 15,
+        "ab_ex_depalisade03": 1,
+        "ab_ex_depalisadepole01": 1,
+        "ab_ex_depalisadepole02": 1,
+        "ab_ex_depalisadepole03": 1,
+        "ab_ex_deshack03": 1,
+        "ab_ex_deshackwin01": 1,
+        "ab_ex_hlacanalpoles03": 1,
+        "ab_ex_siltstriderrestquiet": 1,
+        "ab_f_hackle-lohbundle": 4,
+        "ab_f_marshmbundle1_o": 1,
+        "ab_f_marshmbundle2_o": 4,
+        "ab_flora_aisapling01": 1,
+        "ab_flora_aisapling02": 1,
+        "ab_flora_aisapling03": 5,
+        "ab_flora_aisapling04": 9,
+        "ab_flora_parasolbonsai01": 2,
+        "ab_flora_parasolbonsai02": 3,
+        "ab_flora_parasolbonsai03": 1,
+        "ab_flora_parasolbonsai04": 2,
+        "ab_flora_parasolbonsai05": 3,
+        "ab_flora_parasolmid01": 5,
+        "ab_flora_parasolmid02": 6,
+        "ab_flora_parasolmid03": 5,
+        "ab_flora_parasolsmall01": 1,
+        "ab_flora_parasolsmall02": 4,
+        "ab_furn_cartwheel": 1,
+        "ab_furn_crate03open": 1,
+        "ab_furn_deexshelfwall01": 1,
+        "ab_furn_deextable03tarp": 1,
+        "ab_furn_deplanterbonsai": 2,
+        "ab_furn_ropetiesmall": 1,
+        "ab_furn_wheelbarrow": 1,
+        "ab_light_delantpaper03_256_s": 1,
+        "ab_o_ashlscathecraw": 1,
+        "ab_o_comchestwornmsugar": 1,
+        "ab_o_urnash_01": 1,
+        "ab_o_urnash_02": 1,
+        "ab_o_velothicoffer_01": 1,
+        "ab_w_toolscythe": 1,
+        "ex_coiled_rope": 2,
+        "ex_de_docks_gate": 2,
+        "ex_de_docks_piling_01": 1,
+        "ex_de_railing_01": 49,
+        "ex_de_railing_02": 13,
+        "ex_de_railing_03": 10,
+        "ex_de_shack_door": 2,
+        "ex_de_shack_steps": 1,
+        "ex_hlaalu_pole_02": 12,
+        "ex_v_foundation_03": 2,
+        "flora_black_anther_01": 5,
+        "flora_black_anther_02": 11,
+        "flora_bush_01": 24,
+        "flora_comberry_01": 10,
+        "flora_corkbulb": 11,
+        "flora_emp_parasol_02": 1,
+        "flora_gold_kanet_01": 23,
+        "flora_gold_kanet_02": 10,
+        "flora_grass_01": 13,
+        "flora_grass_02": 3,
+        "flora_grass_03": 1,
+        "flora_heather_01": 5,
+        "flora_plant_01": 2,
+        "flora_plant_04": 5,
+        "flora_plant_07": 21,
+        "flora_stoneflower_01": 16,
+        "flora_stoneflower_02": 14,
+        "flora_tree_ai_01": 1,
+        "flora_tree_ai_02": 2,
+        "flora_tree_ai_03": 1,
+        "flora_tree_ai_04": 3,
+        "flora_tree_ai_05": 2,
+        "flora_tree_ai_06": 1,
+        "flora_willow_flower_01": 6,
+        "flora_willow_flower_02": 8,
+        "furn_banner_temple_03": 1,
+        "furn_de_bannerpost_01": 1,
+        "furn_de_lightpost_01": 8,
+        "furn_de_signpost_02": 2,
+        "furn_hook_01": 1,
+        "furn_shrine_aralor_cure_01": 1,
+        "in_dae_rubble_07": 1,
+        "ingred_hackle-lo_leaf_01": 1,
+        "ingred_netch_leather_01": 3,
+        "laicheststealing": 1,
+        "laimarshmerrowcrate": 1,
+        "laiprayerstooltoaralor": 1,
+        "laistrider": 2,
+        "laistriderfarmbanner": 1,
+        "laistriderfarmer": 1,
+        "light_de_lantern_01_77": 1,
+        "light_de_lantern_03_200_r": 1,
+        "light_de_lantern_04_sway": 2,
+        "light_de_lantern_05_sway": 1,
+        "light_de_streetlight_01_223": 8,
+        "light_tikitorch_177": 2,
+        "light_velothi_brazier_177": 1,
+        "miner's pick": 1,
+        "t_bk_gospelofsaintaralortr": 1,
+        "t_com_hammer_repair_01": 1,
+        "t_com_var_plankbrokena_02": 1,
+        "t_com_var_ropeknot_01": 10,
+        "t_com_var_ropestraight_01": 2,
+        "t_de_set_bannersaintaralor_02": 1,
+        "t_glb_fauna_glowbug_04": 1,
+        "t_ingmine_oregold_01": 1,
+        "t_ingmine_oreiron_01": 2,
+        "t_ingmine_oresilver_01": 1,
+        "t_mw_fau_slstrid_01": 1,
+        "t_mw_flora_blackrose01": 1,
+        "t_mw_flora_blackrose02": 1,
+        "t_mw_flora_bluekanet_01": 11,
+        "t_mw_flora_bluekanet_02": 18,
+        "t_mw_flora_hornlilly01": 1,
+        "t_mw_flora_hornlilly03": 2,
+        "t_mw_flora_hornlilly05": 1,
+        "t_mw_flora_meadowrye01": 1,
+        "t_mw_flora_meadowrye02": 8,
+        "t_mw_flora_meadowrye03": 8,
+        "t_mw_flora_meadowrye04": 4,
+        "t_mw_flora_munzur_01": 10,
+        "t_mw_flora_munzur_02": 7,
+        "t_mw_flora_munzur_03": 7,
+        "t_mw_flora_redfireflw01": 1,
+        "t_mw_flora_redfireflw02": 2,
+        "t_mw_flora_redfireflw03": 2,
+        "t_mw_flora_redrose01": 8,
+        "t_mw_flora_redrose02": 7,
+        "t_mw_flora_resintap01": 1,
+        "t_mw_flora_treeaistump_10": 1,
+        "t_mw_floraai_sapling_03": 1,
+        "t_mw_terrrockai_rock_10": 1,
+        "t_mw_terrrockai_rock_13": 1,
+        "t_mw_terrrockai_rock_14": 1,
+        "terrain_rock_ai_04": 1,
+        "terrain_rock_ai_05": 4,
+        "terrain_rock_ai_06": 3,
+        "terrain_rock_ai_08": 1,
+        "terrain_rock_ai_10": 1,
+        "terrain_rocks_ai_01": 12,
+        "terrain_rocks_ai_02": 3,
+        "terrain_rocks_ai_03": 16,
+        "terrain_rocks_ai_04": 1,
+        "wooden staff": 1
+      },
+      "modified": {
+        "ex_ascadianisles_lev+2": 1,
+        "ex_de_railing_01": 3,
+        "ex_de_railing_02": 2,
+        "ex_de_railing_03": 1,
+        "flora_emp_parasol_02": 1,
+        "flora_saltrice_01": 4,
+        "flora_saltrice_02": 6,
+        "flora_tree_ai_01": 3,
+        "flora_tree_ai_05": 1,
+        "hlaal_loaddoor_01": 1,
+        "terrain_rock_ai_07": 1,
+        "terrain_rock_ai_12": 2
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_solo_hl_spawn": 1
@@ -65,6 +229,7 @@
       "object": "flora_saltrice_02",
       "plugins": [
         "Ownership Overhaul.esm",
+        "Ascadia Land of Pilgrimage.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -129,6 +294,7 @@
       "object": "flora_saltrice_01",
       "plugins": [
         "Ownership Overhaul.esm",
+        "Ascadia Land of Pilgrimage.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -137,6 +303,7 @@
       "object": "flora_saltrice_02",
       "plugins": [
         "Ownership Overhaul.esm",
+        "Ascadia Land of Pilgrimage.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -145,6 +312,7 @@
       "object": "flora_saltrice_01",
       "plugins": [
         "Ownership Overhaul.esm",
+        "Ascadia Land of Pilgrimage.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -153,6 +321,7 @@
       "object": "flora_saltrice_01",
       "plugins": [
         "Ownership Overhaul.esm",
+        "Ascadia Land of Pilgrimage.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -161,6 +330,7 @@
       "object": "flora_saltrice_02",
       "plugins": [
         "Ownership Overhaul.esm",
+        "Ascadia Land of Pilgrimage.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -169,6 +339,7 @@
       "object": "flora_saltrice_01",
       "plugins": [
         "Ownership Overhaul.esm",
+        "Ascadia Land of Pilgrimage.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -177,6 +348,7 @@
       "object": "flora_saltrice_02",
       "plugins": [
         "Ownership Overhaul.esm",
+        "Ascadia Land of Pilgrimage.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -185,6 +357,7 @@
       "object": "flora_saltrice_02",
       "plugins": [
         "Ownership Overhaul.esm",
+        "Ascadia Land of Pilgrimage.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -193,6 +366,7 @@
       "object": "flora_saltrice_02",
       "plugins": [
         "Ownership Overhaul.esm",
+        "Ascadia Land of Pilgrimage.ESP",
         "Ownership Overhaul.esp"
       ]
     },

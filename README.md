@@ -19,12 +19,19 @@
 
 ### Leveling...
 
+player->addspell "Almsivi Intervention"
+player->addspell "Daedric Bite"
+player->addspell "Divine Intervention"
+player->addspell "Dispel"
 player->addspell "draconic_senses"
+player->addspell "Levitate"
 player->addspell "multimark_mark_spell"
 player->addspell "multimark_recall_spell
 player->addspell "Night-Eye"
 player->addspell "Ondusi's Open Door"
 player->addspell "Telekinesis"
+player->addspell "Water Breathing"
+player->addspell "Water Walking"
 player->addspell "Wild Open"
 
 player->additem daedric_helm_clavicusvile 1

@@ -17,6 +17,12 @@
         "p_water_walking_s": 1
       }
     },
+    "Ascadia Land of Pilgrimage.ESP": {
+      "added": {
+        "ab_flora_kelpbranchedgroup01": 1,
+        "ab_flora_kelpshrubgroup01": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_solo_hl_spawn": 1

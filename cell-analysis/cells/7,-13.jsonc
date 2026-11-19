@@ -1,0 +1,53 @@
+{
+  "cell": "7,-13",
+  "plugins": {
+    "Ascadia Land of Pilgrimage.ESP": {
+      "added": {
+        "ab_flora_aisapling01": 1,
+        "ab_flora_aisapling03": 2,
+        "ab_flora_aisapling04": 3,
+        "ab_flora_parasolbonsai01": 2,
+        "ab_flora_parasolbonsai04": 1,
+        "ab_flora_parasolmid01": 2,
+        "ab_flora_parasolmid03": 2,
+        "ab_o_barrel01smuggler": 1,
+        "com_chest_02_lev_gold": 1,
+        "ex_hlaalu_pole_02": 1,
+        "flora_black_anther_01": 6,
+        "flora_black_anther_02": 4,
+        "flora_bush_01": 4,
+        "flora_corkbulb": 1,
+        "flora_emp_parasol_01": 1,
+        "flora_gold_kanet_01": 2,
+        "flora_gold_kanet_02": 2,
+        "flora_grass_01": 3,
+        "flora_grass_02": 1,
+        "flora_willow_flower_01": 2,
+        "flora_willow_flower_02": 4,
+        "furn_de_lightpost_01": 1,
+        "lailegionclaymore": 1,
+        "light_de_streetlight_01_223": 1,
+        "t_mw_flora_bluekanet_01": 2,
+        "t_mw_flora_munzur_01": 1,
+        "t_mw_flora_munzur_02": 5,
+        "t_mw_flora_munzur_03": 5,
+        "t_mw_flora_redfireflw01": 1,
+        "t_mw_flora_redfireflw03": 1,
+        "t_mw_flora_redrose01": 8,
+        "t_mw_flora_redrose02": 5,
+        "t_mw_flora_shroomtableg_02": 1,
+        "t_mw_flora_shroomtableg_03": 1,
+        "t_mw_flora_shroomtableg_05": 2,
+        "t_mw_flora_shroomtableg_06": 1,
+        "t_mw_flora_treeaistump_02": 1,
+        "t_mw_terrrockai_rock_01": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_east_sack": 1,
+        "xero_marker": 1
+      }
+    }
+  }
+}

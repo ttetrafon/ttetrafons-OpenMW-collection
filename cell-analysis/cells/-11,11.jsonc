@@ -29,6 +29,19 @@
         "mwc_slaver_07": 1
       }
     },
+    "Velothi Wall Art.ESP": {
+      "added": {
+        "vdf_f_v_wall_bonelord_app1": 1,
+        "vdf_f_v_wall_dear5_app2": 1,
+        "vdf_f_v_wall_desym10_app": 1,
+        "vdf_f_v_wall_red_app2_6": 1,
+        "vdf_f_v_wall_templesym1_app": 1,
+        "vdf_f_v_wall_velothi_app1": 1,
+        "vdf_f_v_wall_vivrudtext1_app3": 1,
+        "vdf_f_v_wall_vivrudtext2_app1": 1,
+        "vdf_f_vivic_ruddy_wall_app7": 1
+      }
+    },
     "Wares_traders.ESP": {
       "added": {
         "aa_wares_clothes": 1,

@@ -30,6 +30,23 @@
         "vst_floater_br_03h": 1
       }
     },
+    "Velothi Wall Art.ESP": {
+      "added": {
+        "vdf_f_v_wall_almsivi_app1d": 1,
+        "vdf_f_v_wall_daeface_app": 1,
+        "vdf_f_v_wall_desym17_app2": 1,
+        "vdf_f_v_wall_desym23_app1": 1,
+        "vdf_f_v_wall_desym24_app1": 1,
+        "vdf_f_v_wall_desym4_app": 1,
+        "vdf_f_v_wall_desym5_app": 1,
+        "vdf_f_v_wall_desym7_app0": 1,
+        "vdf_f_v_wall_dewar5_app": 1,
+        "vdf_f_v_wall_dewar_app1d": 1,
+        "vdf_f_v_wall_dewar_app2c": 1,
+        "vdf_f_v_wall_redhero_app": 1,
+        "vdf_f_v_wall_uni_app2": 1
+      }
+    },
     "Wares_traders.ESP": {
       "added": {
         "aa_wares_trader": 1

@@ -1,6 +1,28 @@
 {
   "cell": "1,-14",
   "plugins": {
+    "Ascadia Land of Pilgrimage.ESP": {
+      "added": {
+        "ab_flora_parasolbonsai04": 1,
+        "ab_flora_parasolbonsai05": 1,
+        "flora_black_anther_01": 2,
+        "flora_black_anther_02": 2,
+        "flora_bush_01": 1,
+        "flora_gold_kanet_01": 3,
+        "flora_gold_kanet_02": 3,
+        "flora_grass_01": 1,
+        "flora_willow_flower_01": 2,
+        "t_mw_flora_bluekanet_01": 3,
+        "t_mw_flora_bluekanet_02": 3,
+        "t_mw_flora_hornlilly01": 1,
+        "t_mw_flora_munzur_01": 1,
+        "t_mw_flora_munzur_02": 2,
+        "t_mw_flora_munzur_03": 2,
+        "t_mw_flora_redrose01": 1,
+        "t_mw_flora_redrose02": 2,
+        "t_mw_flora_treeaistump_04": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_ex_barnacles_06": 1,

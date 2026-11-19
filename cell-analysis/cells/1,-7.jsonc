@@ -1,6 +1,58 @@
 {
   "cell": "1,-7",
   "plugins": {
+    "Ascadia Land of Pilgrimage.ESP": {
+      "added": {
+        "ab_a_chitinhlahelm01": 1,
+        "ab_ex_depalisade01": 14,
+        "ab_ex_depalisade02": 11,
+        "ab_furn_debannerfarmer01": 1,
+        "ab_light_cavelantern256": 1,
+        "ab_o_barrel01smuggler": 1,
+        "ab_o_crate03smuggler": 1,
+        "ab_o_cratehlaaluarmor": 1,
+        "ab_o_cratehlaaluebony": 1,
+        "ab_o_cratesmuggler": 1,
+        "ab_o_packfursmuggler": 1,
+        "ab_r_crabpot01": 1,
+        "ab_w_chitinarrow10x": 1,
+        "ab_w_ironrapiervip": 1,
+        "ex_de_oar": 2,
+        "flora_comberry_01": 1,
+        "flora_plant_01": 1,
+        "flora_plant_04": 10,
+        "furn_de_rope_07": 1,
+        "furn_de_signpost_02": 1,
+        "furn_de_signpost_04": 1,
+        "lai_engraved_left_bracer": 1,
+        "lai_livestock_durzog": 1,
+        "light_de_lantern_04_177_s": 1,
+        "p_invisibility_s": 1,
+        "t_imp_setharbor_galleonrowboat": 1,
+        "t_mw_flora_hornlilly02": 1,
+        "t_mw_flora_meadowrye02": 8,
+        "t_mw_flora_meadowrye03": 8,
+        "t_mw_flora_redrose02": 1,
+        "t_mw_flora_treeaistump_05": 1,
+        "t_mw_flora_treeaistump_06": 1,
+        "t_mw_flora_treeaistump_07": 1,
+        "t_mw_flora_treeaistump_11": 1,
+        "t_mw_flora_treeaistump_12": 1,
+        "t_mw_terrrockai_rock_02": 1,
+        "t_mw_terrrockai_rock_03": 1,
+        "t_mw_terrrockai_rock_04": 1,
+        "t_mw_terrrockai_rock_07": 1,
+        "t_mw_terrrockai_rock_11": 1,
+        "t_mw_terrrockai_rock_13": 3,
+        "t_mw_terrrockai_rock_14": 1,
+        "t_mw_terrrockai_rock_18": 2,
+        "t_mwde_furn_chs2ingnars": 1
+      },
+      "modified": {
+        "ex_ascadianisles_lev+0": 1,
+        "ex_cave_door_01": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_marker": 1,

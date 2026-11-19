@@ -12,6 +12,19 @@
         "gvrm_balmoracitizens": 4
       }
     },
+    "Velothi Wall Art.ESP": {
+      "added": {
+        "vdf_f_v_wall_almsivi_app1d": 1,
+        "vdf_f_v_wall_desym12_app": 1,
+        "vdf_f_v_wall_desym14_app": 1,
+        "vdf_f_v_wall_desym15_app": 1,
+        "vdf_f_v_wall_desym16_app": 1,
+        "vdf_f_v_wall_dreugh_app1": 1,
+        "vdf_f_v_wall_tdog_app": 1,
+        "vdf_f_v_wall_velothi_app1": 1,
+        "vdf_f_v_wall_vivecsolo_app": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_n_all_nightlife_spawn": 1

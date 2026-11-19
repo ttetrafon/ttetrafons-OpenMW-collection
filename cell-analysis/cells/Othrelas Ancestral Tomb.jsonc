@@ -1,0 +1,16 @@
+{
+  "cell": "Othrelas Ancestral Tomb",
+  "name": "Othrelas Ancestral Tomb",
+  "plugins": {
+    "LootWellUrned.ESP": {
+      "added": {
+        "_uyl_othrelas": 1
+      }
+    },
+    "Ascadia Land of Pilgrimage.ESP": {
+      "modified": {
+        "in_velothismall_ndoor_01": 1
+      }
+    }
+  }
+}

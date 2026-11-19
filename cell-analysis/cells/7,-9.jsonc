@@ -1,6 +1,16 @@
 {
   "cell": "7,-9",
   "plugins": {
+    "Ascadia Land of Pilgrimage.ESP": {
+      "added": {
+        "ab_ex_deruinshortwallcap": 2,
+        "ex_ruin_30": 1,
+        "ex_ruin_40": 2,
+        "ex_ruin_rubble10": 1,
+        "ex_ruin_rubble20": 1,
+        "t_de_setruin_x_07": 2
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "barrel_01_empty": 1,

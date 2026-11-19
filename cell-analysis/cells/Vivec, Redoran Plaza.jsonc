@@ -20,6 +20,20 @@
         "daylight_redoran_2000_south": 2
       }
     },
+    "Velothi Wall Art.ESP": {
+      "added": {
+        "vdf_f_v_wall_desym13_app": 1,
+        "vdf_f_v_wall_desym14_app": 1,
+        "vdf_f_v_wall_desym15_app": 1,
+        "vdf_f_v_wall_desym20_app1": 1,
+        "vdf_f_v_wall_desym5_app": 1,
+        "vdf_f_v_wall_desym7_app2": 1,
+        "vdf_f_v_wall_red_nbl_app1c": 1,
+        "vdf_f_v_wall_red_sym_app1": 2,
+        "vdf_f_v_wall_silt_app2": 1,
+        "vdf_f_vivic_celeb_wall_app3": 1
+      }
+    },
     "Aoimevelho Wares with ALL NPCs.ESP": {
       "added": {
         "!aoi_nobles_r": 1

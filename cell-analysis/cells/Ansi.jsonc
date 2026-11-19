@@ -1,0 +1,17 @@
+{
+  "cell": "Ansi",
+  "name": "Ansi",
+  "plugins": {
+    "Ascadia Land of Pilgrimage.ESP": {
+      "added": {
+        "door_cavern_doors10": 1,
+        "t_mw_cavemold_rock_02": 4
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_vermin_marker_cloth": 1
+      }
+    }
+  }
+}

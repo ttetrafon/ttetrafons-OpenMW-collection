@@ -18,6 +18,14 @@
         "terrain_rock_ai_12": 1
       }
     },
+    "Ascadia Land of Pilgrimage.ESP": {
+      "added": {
+        "flora_tree_ac_01": 1,
+        "flora_tree_ac_04": 1,
+        "t_mw_flora_redrose01": 1,
+        "t_mw_flora_redrose02": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "misc_com_bottle_06": 3,

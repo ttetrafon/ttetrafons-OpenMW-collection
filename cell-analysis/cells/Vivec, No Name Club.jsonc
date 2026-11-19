@@ -20,6 +20,12 @@
         "furn_com_rm_barstool": 1
       }
     },
+    "Velothi Wall Art.ESP": {
+      "added": {
+        "vdf_f_v_wall_desym3_app": 1,
+        "vdf_f_v_wall_scamp1_app": 1
+      }
+    },
     "Wares_traders.ESP": {
       "added": {
         "aa_wares_pawn": 1,

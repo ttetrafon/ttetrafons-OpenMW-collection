@@ -11,6 +11,29 @@
         "opn_sound_swamp_2": 1
       }
     },
+    "Ascadia Land of Pilgrimage.ESP": {
+      "added": {
+        "ab_flora_acsapling04": 1,
+        "ab_flora_aisapling02": 1,
+        "ab_flora_aisapling04": 1,
+        "flora_bush_01": 2,
+        "flora_emp_parasol_01": 1,
+        "flora_t_pc_hold_mushroom_02": 1,
+        "t_de_var_lanterngreen05_256_r": 1,
+        "t_glb_und_skelarise_02": 1,
+        "t_mw_flora_bluekanet_01": 1,
+        "t_mw_flora_bluekanet_02": 1,
+        "t_mw_flora_munzur_01": 1,
+        "t_mw_flora_munzur_02": 1,
+        "t_mw_flora_munzur_03": 1,
+        "t_mw_flora_resintap01": 1,
+        "t_mw_flora_treeaistump_02": 1,
+        "t_mw_terrrockai_clifftile_03": 2,
+        "t_mw_terrrockai_mtpeaktrv_01": 1,
+        "t_mw_terrrockai_rock_05": 1,
+        "terrain_rocks_ai_01": 2
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_solo_spawn_no_guard": 1,

@@ -31,6 +31,13 @@
         "misc_uni_pillow_02": 1
       }
     },
+    "Velothi Wall Art.ESP": {
+      "added": {
+        "vdf_f_v_wall_almsivi_app1d": 1,
+        "vdf_f_v_wall_templesym1_app": 1,
+        "vdf_f_vivic_ruby_wall_app2": 1
+      }
+    },
     "Treasures of Magic.ESP": {
       "added": {
         "bc3000_hiddencache": 2

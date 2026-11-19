@@ -17,6 +17,14 @@
         "furn_com_rm_barstool": 1
       }
     },
+    "Velothi Wall Art.ESP": {
+      "added": {
+        "furn_com_coatofarms_01": 1,
+        "vdf_f_v_wall_dragon_app7b": 4,
+        "vdf_f_v_wall_legionre_app2a": 1,
+        "vdf_f_v_wall_nibenf_app2": 1
+      }
+    },
     "Wares_traders.ESP": {
       "added": {
         "aa_wares_baker": 1,

@@ -11,6 +11,23 @@
         "ex_velothi_loaddoor_01": 1
       }
     },
+    "Velothi Wall Art.ESP": {
+      "added": {
+        "vdf_f_v_wall_dear_app2": 1,
+        "vdf_f_v_wall_desym11_app": 1,
+        "vdf_f_v_wall_desym15_app": 1,
+        "vdf_f_v_wall_desym17_app2": 1,
+        "vdf_f_v_wall_desym18_app": 1,
+        "vdf_f_v_wall_desym19_app2": 1,
+        "vdf_f_v_wall_desym22_app1": 1,
+        "vdf_f_v_wall_dewar_app3b": 1,
+        "vdf_f_v_wall_indoril_app1": 1,
+        "vdf_f_v_wall_netch3_app1": 1,
+        "vdf_f_v_wall_templesym1_app": 1,
+        "vdf_f_v_wall_templesym2_app": 1,
+        "vdf_f_v_wall_velothi_app1": 1
+      }
+    },
     "Ownership Overhaul.esm": {
       "modified": {
         "crate_01_eggs": 1,

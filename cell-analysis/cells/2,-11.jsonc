@@ -14,6 +14,54 @@
         "am_beggar24": 1
       }
     },
+    "Ascadia Land of Pilgrimage.ESP": {
+      "added": {
+        "ab_flora_aisapling01": 2,
+        "ab_flora_aisapling02": 2,
+        "ab_flora_aisapling03": 4,
+        "ab_flora_aisapling04": 3,
+        "ab_flora_parasolbonsai03": 2,
+        "ab_flora_parasolmid02": 1,
+        "ab_flora_parasolsmall01": 1,
+        "ab_flora_parasolsmall02": 1,
+        "ab_light_delantpaper03_256_s": 4,
+        "ex_v_sign_hlaalu_01": 2,
+        "ex_vivec_w_e_01": 4,
+        "flora_bush_01": 3,
+        "flora_comberry_01": 1,
+        "flora_emp_parasol_01": 1,
+        "flora_gold_kanet_01": 1,
+        "flora_gold_kanet_02": 1,
+        "flora_grass_01": 5,
+        "flora_heather_01": 2,
+        "flora_plant_01": 4,
+        "flora_plant_04": 4,
+        "flora_tree_ai_03": 1,
+        "furn_de_lightpost_01": 4,
+        "t_de_setveloth_x_wall_06": 2,
+        "t_de_setveloth_x_well_01": 1,
+        "t_mw_flora_bluekanet_01": 2,
+        "t_mw_flora_hornlilly01": 1,
+        "t_mw_flora_hornlilly02": 1,
+        "t_mw_flora_meadowrye01": 1,
+        "t_mw_flora_meadowrye02": 1,
+        "t_mw_flora_meadowrye03": 1,
+        "t_mw_flora_munzur_01": 6,
+        "t_mw_flora_munzur_02": 7,
+        "t_mw_flora_munzur_03": 9,
+        "t_mw_flora_redrose01": 5,
+        "t_mw_flora_redrose02": 4,
+        "t_mw_flora_shroomtableg_01": 1,
+        "t_mw_terrrockai_rock_09": 1,
+        "terrain_rock_ai_11": 1,
+        "terrain_rocks_ai_01": 3,
+        "terrain_rocks_ai_02": 1,
+        "terrain_rocks_ai_03": 1
+      },
+      "modified": {
+        "terrain_rocks_ai_03": 2
+      }
+    },
     "Wares_traders.ESP": {
       "added": {
         "aa_wares_assassin": 1

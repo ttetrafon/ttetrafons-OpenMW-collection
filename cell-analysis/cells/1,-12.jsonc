@@ -1,6 +1,41 @@
 {
   "cell": "1,-12",
   "plugins": {
+    "Ascadia Land of Pilgrimage.ESP": {
+      "added": {
+        "ab_flora_aisapling01": 2,
+        "ab_flora_aisapling02": 2,
+        "ab_flora_aisapling03": 3,
+        "ab_flora_aisapling04": 3,
+        "ab_flora_parasolbonsai01": 3,
+        "ab_flora_parasolbonsai03": 1,
+        "ab_flora_parasolbonsai04": 1,
+        "ab_flora_parasolbonsai05": 1,
+        "ab_flora_parasolmid01": 2,
+        "ab_flora_parasolmid02": 4,
+        "ab_flora_parasolmid03": 2,
+        "ab_light_delantpaper03_256_s": 1,
+        "ex_vivec_w_e_01": 1,
+        "flora_bush_01": 2,
+        "flora_comberry_01": 1,
+        "flora_corkbulb": 1,
+        "flora_emp_parasol_02": 3,
+        "flora_tree_ai_03": 1,
+        "furn_de_lightpost_01": 1,
+        "t_mw_flora_munzur_01": 10,
+        "t_mw_flora_munzur_02": 9,
+        "t_mw_flora_munzur_03": 11,
+        "t_mw_flora_redrose01": 10,
+        "t_mw_flora_redrose02": 13,
+        "t_mw_flora_resintap01": 1,
+        "t_mw_flora_shroomtableg_01": 3,
+        "t_mw_flora_shroomtableg_03": 1,
+        "terrain_rocks_ai_03": 1
+      },
+      "modified": {
+        "terrain_rocks_ai_01": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_ex_barnacles_05": 1,

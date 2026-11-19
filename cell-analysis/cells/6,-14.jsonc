@@ -1,6 +1,35 @@
 {
   "cell": "6,-14",
   "plugins": {
+    "Ascadia Land of Pilgrimage.ESP": {
+      "added": {
+        "ab_door_darkness": 1,
+        "ab_flora_parasolbonsai04": 1,
+        "ab_flora_parasolmid03": 1,
+        "flora_black_anther_01": 1,
+        "flora_black_anther_02": 1,
+        "flora_bush_01": 2,
+        "flora_comberry_01": 1,
+        "flora_corkbulb": 1,
+        "t_mw_flora_redrose01": 1,
+        "t_mw_flora_redrose02": 1,
+        "t_mw_flora_shroomtableg_01": 1,
+        "t_mw_flora_shroomtableg_02": 1,
+        "t_mw_terrrockai_bridge_02": 1,
+        "t_mw_terrrockai_caveentr_10c": 1,
+        "t_mw_terrrockai_mtpeaktrv_03": 1,
+        "t_mw_terrrockai_rock_02": 1,
+        "t_mw_terrrockai_rock_04": 1,
+        "t_mw_terrrockai_rock_10": 2,
+        "t_mw_terrrockai_rock_11": 2,
+        "terrain_rock_ai_10": 1,
+        "terrain_rock_ai_12": 1,
+        "terrain_rocks_ai_01": 1
+      },
+      "modified": {
+        "ex_cave_door_01": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_marker": 1,

@@ -15,6 +15,15 @@
         "opn_sound_swamp_3": 1
       }
     },
+    "Ascadia Land of Pilgrimage.ESP": {
+      "added": {
+        "t_mw_terrrockai_clifftrv_04": 1,
+        "t_mw_terrrockai_mtpeaktrv_02": 1,
+        "t_mw_terrrockai_mtridgetrv_01": 1,
+        "terrain_rock_ai_10": 1,
+        "terrain_rocks_ai_01": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_solo_spawn_no_guard": 1

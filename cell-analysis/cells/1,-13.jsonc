@@ -7,6 +7,14 @@
         "gvrm_impports": 1
       }
     },
+    "Ascadia Land of Pilgrimage.ESP": {
+      "added": {
+        "ab_flora_parasolmid03": 1,
+        "flora_plant_04": 1,
+        "t_mw_flora_munzur_01": 1,
+        "t_mw_flora_munzur_02": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_n_all_nightlife_spawn": 1,

@@ -52,6 +52,13 @@
         "bs_flora_tree_mb_05": 1
       }
     },
+    "Ascadia Land of Pilgrimage.ESP": {
+      "added": {
+        "t_mw_terrrockma_mtpeak_02": 1,
+        "t_mw_terrrockma_mtridge_01": 1,
+        "t_mw_terrrockma_plateau_02": 1
+      }
+    },
     "Creatures_RP_Purist.ESP": {
       "added": {
         "plx_ex_daed_bat": 2

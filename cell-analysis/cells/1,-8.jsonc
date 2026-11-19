@@ -1,6 +1,40 @@
 {
   "cell": "1,-8",
   "plugins": {
+    "Ascadia Land of Pilgrimage.ESP": {
+      "added": {
+        "ab_ex_depalisade01": 9,
+        "ab_ex_depalisade02": 11,
+        "ab_flora_aisapling03": 1,
+        "ab_flora_parasolbonsai01": 1,
+        "ab_flora_parasolbonsai04": 1,
+        "ab_flora_parasolmid01": 1,
+        "ab_flora_parasolmid03": 1,
+        "ab_in_altruinwall01": 1,
+        "ab_in_altruinwall02": 2,
+        "flora_comberry_01": 2,
+        "flora_gold_kanet_01": 1,
+        "flora_plant_04": 7,
+        "flora_tree_ai_06": 1,
+        "t_mw_flora_bluekanet_01": 2,
+        "t_mw_flora_bluekanet_02": 1,
+        "t_mw_flora_hornlilly01": 1,
+        "t_mw_flora_meadowrye02": 6,
+        "t_mw_flora_meadowrye03": 4,
+        "t_mw_flora_meadowrye04": 1,
+        "t_mw_flora_redfireflw01": 1,
+        "t_mw_flora_redfireflw03": 1,
+        "t_mw_flora_redrose02": 1,
+        "t_mw_flora_treeaistump_04": 1,
+        "t_mw_flora_treeaistump_05": 1,
+        "terrain_rock_ai_10": 1,
+        "terrain_rock_ai_11": 1,
+        "terrain_rock_ai_12": 1
+      },
+      "modified": {
+        "flora_tree_ai_01": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_marker": 1,

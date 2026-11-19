@@ -58,6 +58,46 @@
         "terrain_rock_ai_08": 1
       }
     },
+    "Ascadia Land of Pilgrimage.ESP": {
+      "added": {
+        "ab_flora_aisapling03": 1,
+        "ab_flora_aisapling04": 1,
+        "ab_flora_parasolbonsai01": 1,
+        "ab_flora_parasolbonsai03": 2,
+        "ab_flora_parasolbonsai04": 3,
+        "ab_flora_parasolbonsai05": 1,
+        "ab_flora_parasolmid02": 1,
+        "ab_flora_parasolmid03": 1,
+        "ab_light_delantpaper03_256_s": 1,
+        "ex_hlaalu_pole_02": 1,
+        "flora_black_anther_01": 2,
+        "flora_black_anther_02": 2,
+        "flora_comberry_01": 1,
+        "flora_corkbulb": 1,
+        "flora_plant_01": 5,
+        "flora_plant_04": 2,
+        "furn_de_lightpost_01": 1,
+        "light_de_streetlight_01_223": 1,
+        "t_com_var_ropeknot_01": 1,
+        "t_de_set_bannersaintmeris_01": 1,
+        "t_de_set_x_pole_01": 1,
+        "t_de_set_x_pole_02": 1,
+        "t_de_set_x_rung_01": 1,
+        "t_mw_flora_bluekanet_01": 4,
+        "t_mw_flora_hornlilly01": 1,
+        "t_mw_flora_hornlilly02": 1,
+        "t_mw_flora_hornlilly04": 2,
+        "t_mw_flora_meadowrye01": 1,
+        "t_mw_flora_meadowrye02": 2,
+        "t_mw_flora_meadowrye03": 1,
+        "t_mw_flora_meadowrye04": 1,
+        "t_mw_flora_redfireflw01": 2,
+        "t_mw_flora_redfireflw02": 1,
+        "t_mw_flora_redfireflw03": 2,
+        "t_mw_flora_redrose01": 4,
+        "t_mw_flora_redrose02": 3
+      }
+    },
     "Uncharted Artifacts.esp": {
       "added": {
         "x0_m09_bottle": 1

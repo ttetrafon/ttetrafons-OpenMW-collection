@@ -7,6 +7,15 @@
         "gvrm_un_skm_cm_dun_30": 1
       }
     },
+    "Ascadia Land of Pilgrimage.ESP": {
+      "added": {
+        "t_mw_terrrockai_mtpeaktrv_01": 1,
+        "t_mw_terrrockai_mtpeaktrv_03": 1,
+        "t_mw_terrrockai_mtridgetrv_02": 2,
+        "t_mw_terrrockai_mtridgetrv_03": 2,
+        "terrain_rock_ai_08": 4
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_marker": 1,

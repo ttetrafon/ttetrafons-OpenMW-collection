@@ -12,6 +12,12 @@
         "gvrm_bcom_am_marker": 2
       }
     },
+    "Ascadia Land of Pilgrimage.ESP": {
+      "added": {
+        "flora_tree_ai_01": 1,
+        "flora_tree_ai_04": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_marker": 1,

@@ -24,6 +24,21 @@
         "daylight_hlaalu_2400_ring": 4
       }
     },
+    "Velothi Wall Art.ESP": {
+      "added": {
+        "vdf_f_v_wall_defem1_app2": 1,
+        "vdf_f_v_wall_desym5_app": 1,
+        "vdf_f_v_wall_desym7_app1": 1,
+        "vdf_f_v_wall_desym8_app": 1,
+        "vdf_f_v_wall_dewar4_app1": 1,
+        "vdf_f_v_wall_hlaimp_app2": 1,
+        "vdf_f_v_wall_moons1_app2": 1,
+        "vdf_f_v_wall_scamp2_app": 1,
+        "vdf_f_v_wall_seyda_app4": 1,
+        "vdf_f_v_wall_ship1_app13": 1,
+        "vdf_f_v_wall_vivecsolo_app": 1
+      }
+    },
     "Aoimevelho Wares with ALL NPCs.ESP": {
       "added": {
         "!aoi_nobles_h": 1
