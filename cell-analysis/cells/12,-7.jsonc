@@ -1,6 +1,18 @@
 {
   "cell": "12,-7",
   "plugins": {
+    "Sload and Slavers.ESP": {
+      "added": {
+        "mwc_slave_003": 1,
+        "mwc_slaver_10": 1,
+        "mwc_sload_beth_new10c": 1
+      }
+    },
+    "Sloadic Transport.ESP": {
+      "added": {
+        "vst_floater_br_03_idle": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_solo_arm_spawn": 1,

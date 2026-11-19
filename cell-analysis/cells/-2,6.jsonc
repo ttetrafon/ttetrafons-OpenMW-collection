@@ -34,6 +34,14 @@
         "de_p_chest_02_meldor": 1
       }
     },
+    "Sload and Slavers.ESP": {
+      "added": {
+        "mwc_slave_002": 1,
+        "mwc_slaver_08": 1,
+        "mwc_slaver_09": 1,
+        "mwc_slaver_14": 1
+      }
+    },
     "Wares_traders.ESP": {
       "added": {
         "aa_wares_smith": 1

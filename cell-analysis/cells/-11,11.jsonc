@@ -22,6 +22,13 @@
         "furn_de_p_stool_02": 3
       }
     },
+    "Sload and Slavers.ESP": {
+      "added": {
+        "mwc_guar_pack_01": 1,
+        "mwc_slaver_06": 1,
+        "mwc_slaver_07": 1
+      }
+    },
     "Wares_traders.ESP": {
       "added": {
         "aa_wares_clothes": 1,

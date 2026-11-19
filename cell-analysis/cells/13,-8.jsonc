@@ -17,6 +17,19 @@
         "am_slavesittingkm": 1
       }
     },
+    "Sload and Slavers.ESP": {
+      "added": {
+        "mwc_redoran_warrior_01": 1,
+        "mwc_slaver_01": 1,
+        "mwc_slaver_05": 1,
+        "mwc_sload_beth_new13d": 1
+      }
+    },
+    "Sloadic Transport.ESP": {
+      "added": {
+        "vst_floater_br_03h": 1
+      }
+    },
     "Wares_traders.ESP": {
       "added": {
         "aa_wares_trader": 1

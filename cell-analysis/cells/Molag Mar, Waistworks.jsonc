@@ -20,6 +20,18 @@
         "sound_blacksmith_amb00": 1
       }
     },
+    "Sload and Slavers.ESP": {
+      "added": {
+        "furn_de_bannerpost_02": 1,
+        "in_velothismall_3way_01": 1,
+        "in_velothismall_dj_01": 1,
+        "in_velothismall_ndoor_01": 1,
+        "mwc_banner_de_wepar": 1
+      },
+      "modified": {
+        "in_velothismall_hall_01": 1
+      }
+    },
     "Ownership Overhaul.esm": {
       "modified": {
         "flora_fire_fern_01": 1,

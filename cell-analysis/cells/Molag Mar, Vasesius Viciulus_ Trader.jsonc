@@ -9,6 +9,11 @@
         "rp_al_equipment": 1
       }
     },
+    "Sload and Slavers.ESP": {
+      "added": {
+        "mwc_text_loathsomesload": 1
+      }
+    },
     "Wares_traders.ESP": {
       "added": {
         "aa_wares_trader": 1

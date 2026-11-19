@@ -56,6 +56,16 @@
         "aatl_npc_ar_tadpole": 1
       }
     },
+    "Sload and Slavers.ESP": {
+      "added": {
+        "mwc_slave_001": 1,
+        "mwc_slave_005": 1,
+        "mwc_slave_006": 1,
+        "mwc_slaver_02": 1,
+        "mwc_slaver_13": 1,
+        "mwc_sload_beth_new11f": 1
+      }
+    },
     "Treasures of Magic.ESP": {
       "added": {
         "bc3000_hiddencache": 4

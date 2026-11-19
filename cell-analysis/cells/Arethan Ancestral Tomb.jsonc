@@ -2,6 +2,23 @@
   "cell": "Arethan Ancestral Tomb",
   "name": "Arethan Ancestral Tomb",
   "plugins": {
+    "Sload and Slavers.ESP": {
+      "added": {
+        "bk_corpsepreperation2_c": 1,
+        "bk_corpsepreperation3_c": 1,
+        "light_de_candle_15_64": 3,
+        "misc_skull00": 6,
+        "misc_skull10": 1,
+        "mwc_crystal_coral_03": 1,
+        "mwc_m_sload_symbol_01": 1,
+        "mwc_m_sload_symbol_02": 1,
+        "mwc_m_sload_symbol_03": 1,
+        "mwc_sload_beth_new14g": 1,
+        "mwc_sload_btl_01a_alc": 1,
+        "mwc_sload_btl_03b": 1,
+        "mwc_zombie_slave_01": 6
+      }
+    },
     "Creatures_RP_Purist.ESP": {
       "added": {
         "un_lord_greater": 1
