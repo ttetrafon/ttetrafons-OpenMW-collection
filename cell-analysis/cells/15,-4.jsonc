@@ -1,0 +1,17 @@
+{
+  "cell": "15,-4",
+  "plugins": {
+    "RockyAzurasCoast.ESP": {
+      "added": {
+        "ab_terr_acmtpeak01": 1,
+        "ab_terr_acmtpeak02": 1,
+        "ab_terr_acmtridge03": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_map04_trigger": 1
+      }
+    }
+  }
+}

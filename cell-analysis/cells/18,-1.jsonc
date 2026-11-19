@@ -1,6 +1,11 @@
 {
   "cell": "18,-1",
   "plugins": {
+    "RockyAzurasCoast.ESP": {
+      "added": {
+        "ab_terr_acmtpeak02": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "misc_com_redware_bowl": 1,

@@ -1,0 +1,18 @@
+{
+  "cell": "20,0",
+  "plugins": {
+    "RockyAzurasCoast.ESP": {
+      "added": {
+        "ab_terr_acmtpeak02": 1,
+        "ab_terr_acmtridge03": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_east_chest": 1,
+        "xero_ex_barnacles_06": 1,
+        "xero_marker": 1
+      }
+    }
+  }
+}

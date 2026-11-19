@@ -11,6 +11,16 @@
         "t_cyrrga_ch2smug": 1
       }
     },
+    "RockyAzurasCoast.ESP": {
+      "added": {
+        "ab_terr_accliff_04": 1,
+        "ab_terr_acmtpeak01": 2,
+        "ab_terr_acmtridge01": 1,
+        "dm_shroom_04": 1,
+        "dm_shroom_05": 1,
+        "flora_kreshweed_01": 2
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "gold_001": 10,

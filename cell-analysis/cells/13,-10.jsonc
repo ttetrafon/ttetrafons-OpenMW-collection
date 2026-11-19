@@ -1,6 +1,16 @@
 {
   "cell": "13,-10",
   "plugins": {
+    "RockyAzurasCoast.ESP": {
+      "added": {
+        "ab_terr_acmtpeak01": 1,
+        "ab_terr_acmtridge01": 1,
+        "ab_terr_acmtridge02": 1
+      },
+      "modified": {
+        "ex_shore_cliffracer_lev+2": 1
+      }
+    },
     "Creatures_RP_Purist.ESP": {
       "added": {
         "plx_daedra_shrine_azura": 1

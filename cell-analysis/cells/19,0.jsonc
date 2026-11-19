@@ -1,6 +1,24 @@
 {
   "cell": "19,0",
   "plugins": {
+    "RockyAzurasCoast.ESP": {
+      "added": {
+        "ab_terr_acmtridge02": 1
+      },
+      "modified": {
+        "blue coast ref 1024": 2,
+        "dm_shroom_02": 1,
+        "ex_barnacles_02": 2,
+        "ex_barnacles_03": 1,
+        "ex_t_menhir_l_01": 8,
+        "flora_kelp_02": 4,
+        "flora_kelp_03": 5,
+        "flora_kelp_04": 3,
+        "in_cave_plant00": 2,
+        "kollop_02_pearl": 2,
+        "kollop_03_pearl": 2
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_east_crate": 1,

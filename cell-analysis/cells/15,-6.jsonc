@@ -1,0 +1,20 @@
+{
+  "cell": "15,-6",
+  "plugins": {
+    "RockyAzurasCoast.ESP": {
+      "added": {
+        "ab_terr_acmtpeak02": 1,
+        "ab_terr_acmtridge01": 1,
+        "ab_terr_acmtridge03": 2
+      },
+      "modified": {
+        "ex_shore_cliffracer_lev+0": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

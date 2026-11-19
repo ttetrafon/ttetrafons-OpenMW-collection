@@ -1,6 +1,14 @@
 {
   "cell": "18,-3",
   "plugins": {
+    "RockyAzurasCoast.ESP": {
+      "added": {
+        "ab_terr_acmtpeak01": 1,
+        "ab_terr_acmtpeak02": 1,
+        "ab_terr_acmtridge02": 1,
+        "ab_terr_acmtridge03": 1
+      }
+    },
     "OAAB - Tel Raloran.esp": {
       "added": {
         "_cor_wl_terr_dark1": 4,

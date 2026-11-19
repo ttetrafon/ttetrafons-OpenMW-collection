@@ -1,6 +1,11 @@
 {
   "cell": "18,-4",
   "plugins": {
+    "Holamayan Island.esp": {
+      "added": {
+        "ab_terr_acmtridge02": 1
+      }
+    },
     "OAAB - Tel Raloran.esp": {
       "added": {
         "_cor_wl_terr_dark1": 1,

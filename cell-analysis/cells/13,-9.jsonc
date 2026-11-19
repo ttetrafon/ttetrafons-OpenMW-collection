@@ -1,6 +1,12 @@
 {
   "cell": "13,-9",
   "plugins": {
+    "RockyAzurasCoast.ESP": {
+      "added": {
+        "ab_terr_acmtpeak01": 1,
+        "ab_terr_acmtridge01": 3
+      }
+    },
     "Wares_traders.ESP": {
       "added": {
         "aa_wares_wise": 1

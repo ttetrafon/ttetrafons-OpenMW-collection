@@ -7,6 +7,32 @@
         "gvrm_playerhunter_all": 1
       }
     },
+    "RockyAzurasCoast.ESP": {
+      "added": {
+        "ab_terr_acmtpeak01": 1,
+        "ab_terr_acmtpeak02": 2
+      }
+    },
+    "Holamayan Island.esp": {
+      "added": {
+        "ab_terr_accliff_03": 1,
+        "ab_terr_accliff_05": 1,
+        "ab_terr_acmtpeak02": 1,
+        "ab_terr_acmtridge01": 3,
+        "ab_terr_acrocks_01": 1,
+        "ab_terr_acrocks_03": 1,
+        "ex_t_menhir_l_01": 1,
+        "flora_emp_parasol_02": 1,
+        "flora_kreshweed_02": 1,
+        "flora_stoneflower_01": 1,
+        "flora_stoneflower_02": 1,
+        "flora_tree_ac_03": 2,
+        "terrain_rock_ac_08": 1
+      },
+      "modified": {
+        "terrain_rock_ac_08": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_east_sack": 1,

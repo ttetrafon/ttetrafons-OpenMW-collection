@@ -1,6 +1,13 @@
 {
   "cell": "14,-12",
   "plugins": {
+    "RockyAzurasCoast.ESP": {
+      "added": {
+        "ab_terr_acmtpeak02": 2,
+        "ab_terr_acmtridge01": 1,
+        "ab_terr_acmtridge02": 2
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "ingred_muck_01": 2,

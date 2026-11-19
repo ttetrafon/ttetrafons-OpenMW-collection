@@ -17,6 +17,42 @@
         "t_cyrcom_var_cr3smug": 1
       }
     },
+    "RockyAzurasCoast.ESP": {
+      "added": {
+        "ab_ex_telplatformroundflat": 1,
+        "ab_ex_telrootportal02": 1,
+        "ab_flora_telmushroof": 1,
+        "ab_furn_candlewaxwhite02": 1,
+        "ab_furn_shrinesothasil_a": 1,
+        "ab_furn_templerug01circle": 1,
+        "ab_furn_templerug01small": 1,
+        "ab_light_comcandlewhite02_128": 1,
+        "ab_misc_cointriune10": 1,
+        "ab_terr_accliff_02": 1,
+        "ab_terr_accliff_04": 2,
+        "ab_terr_acmtpeak01": 2,
+        "ab_terr_acmtridge01": 4,
+        "ab_terr_acmtridge03": 2,
+        "bk_doorsofthespirit": 1,
+        "bk_saryonissermons": 1,
+        "dm_shroom_04": 1,
+        "dm_shroom_05": 1,
+        "dm_table_heavy": 1,
+        "dm_wall_200_01": 1,
+        "dm_wall_200_02": 1,
+        "dm_wall_200_03": 2,
+        "ex_t_rock_coastal_01": 5,
+        "ex_t_rock_coastal_02": 7,
+        "furn_de_cushion_round_03": 3,
+        "furn_de_cushion_round_07": 2,
+        "ingred_bc_coda_flower": 1,
+        "light_com_candle_07": 1,
+        "misc_com_redware_platter": 1
+      },
+      "modified": {
+        "ex_t_rock_coastal_01": 2
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_east_crate": 1,

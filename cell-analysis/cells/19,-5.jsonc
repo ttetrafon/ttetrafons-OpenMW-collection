@@ -1,6 +1,45 @@
 {
   "cell": "19,-5",
   "plugins": {
+    "Holamayan Island.esp": {
+      "added": {
+        "ab_ex_dedocksnethang": 1,
+        "ab_ex_derack02": 1,
+        "ab_flora_acsapling01": 2,
+        "ab_flora_acsapling02": 2,
+        "ab_flora_acsapling03": 1,
+        "ab_flora_acsapling04": 1,
+        "ab_furn_cratebroken01": 1,
+        "ab_furn_urnopen": 1,
+        "ab_light_delantpapergrn03_256": 1,
+        "ab_r_sfishsmallhang": 2,
+        "ab_terr_accliff_01": 1,
+        "ab_terr_accliff_02": 1,
+        "ab_terr_accliff_03": 1,
+        "ab_terr_accliff_08": 3,
+        "ab_terr_acmtpeak02": 1,
+        "ab_terr_acrocks_02": 1,
+        "barrel_01_ingredients": 1,
+        "crate_01_food": 1,
+        "ex_de_docks_end": 2,
+        "ex_de_shack_awning_02": 1,
+        "ex_ship_plank": 1,
+        "flora_kreshweed_01": 2,
+        "flora_kreshweed_02": 1,
+        "flora_muckpod_04": 1,
+        "flora_muckspunge_04": 1,
+        "flora_stoneflower_01": 1,
+        "flora_tree_ac_02": 1,
+        "flora_tree_ac_03": 1,
+        "furn_de_ex_bench_01": 1,
+        "furn_de_lightpost_01": 1,
+        "light_de_lantern_02_256_blue_s": 1
+      },
+      "modified": {
+        "ex_t_menhir_l_01": 1,
+        "vevrana aryon": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_east_sack": 1,

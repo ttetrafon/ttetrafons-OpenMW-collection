@@ -1,6 +1,11 @@
 {
   "cell": "15,-11",
   "plugins": {
+    "RockyAzurasCoast.ESP": {
+      "added": {
+        "ab_terr_acmtpeak02": 2
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_east_barrel": 1,

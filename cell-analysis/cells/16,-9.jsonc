@@ -19,6 +19,16 @@
         "flora_tree_ac_02": 1
       }
     },
+    "RockyAzurasCoast.ESP": {
+      "added": {
+        "ab_terr_acmtpeak02": 1,
+        "ab_terr_acmtridge01": 3,
+        "ab_terr_acmtridge02": 2
+      },
+      "modified": {
+        "ex_azurascoast_lev-1": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_ex_daedric_ruins_spawn": 1

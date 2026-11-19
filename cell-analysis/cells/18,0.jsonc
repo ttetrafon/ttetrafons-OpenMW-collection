@@ -7,6 +7,19 @@
         "bs_gargoyle_still": 1
       }
     },
+    "RockyAzurasCoast.ESP": {
+      "added": {
+        "ab_terr_acmtpeak01": 2,
+        "ab_terr_acmtpeak02": 1,
+        "ab_terr_acmtridge01": 4,
+        "ab_terr_acmtridge02": 1,
+        "ab_terr_acmtridge03": 1
+      },
+      "modified": {
+        "dm_shroom_01": 1,
+        "dm_shroom_02": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "misc_com_metal_goblet_01": 1,

@@ -1,0 +1,20 @@
+{
+  "cell": "12,-9",
+  "plugins": {
+    "Daedric Shrine Overhaul FULL.esp": {
+      "added": {
+        "bs_f_si_mushroom_02m2": 1,
+        "bs_vurt_flora_tree_wg_07_na": 1,
+        "flora_bush_01": 1
+      }
+    },
+    "RockyAzurasCoast.ESP": {
+      "added": {
+        "ab_terr_acmtpeak01": 1
+      },
+      "modified": {
+        "ex_shore_cliffracer_lev+0": 1
+      }
+    }
+  }
+}

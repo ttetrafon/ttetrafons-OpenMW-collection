@@ -1,6 +1,13 @@
 {
   "cell": "19,-6",
   "plugins": {
+    "RockyAzurasCoast.ESP": {
+      "added": {
+        "ab_terr_accliff_02": 2,
+        "ab_terr_accliff_03": 2,
+        "ab_terr_acmtridge01": 2
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_east_sack": 1,

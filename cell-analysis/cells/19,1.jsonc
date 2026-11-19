@@ -1,6 +1,52 @@
 {
   "cell": "19,1",
   "plugins": {
+    "RockyAzurasCoast.ESP": {
+      "added": {
+        "ab_terr_acmtpeak01": 1,
+        "ab_terr_acmtridge01": 2,
+        "ab_terr_acmtridge02": 1,
+        "ab_terr_acmtridge03": 4
+      },
+      "modified": {
+        "blue coast ref 1024": 1,
+        "ex_shore_cliffracer_lev+0": 1,
+        "ex_shore_cliffracer_lev+2": 1,
+        "ex_t_menhir_01": 2,
+        "ex_t_menhir_l_01": 5,
+        "ex_t_rock_coastal_01": 5,
+        "ex_t_rock_coastal_02": 3,
+        "flora_black_anther_02": 1,
+        "flora_gold_kanet_01": 1,
+        "flora_gold_kanet_02": 1,
+        "flora_kelp_01": 3,
+        "flora_kelp_02": 8,
+        "flora_kelp_03": 5,
+        "flora_kelp_04": 6,
+        "flora_kreshweed_01": 3,
+        "flora_kreshweed_02": 1,
+        "flora_kreshweed_03": 1,
+        "flora_marshmerrow_01": 1,
+        "flora_marshmerrow_02": 2,
+        "flora_marshmerrow_03": 3,
+        "flora_muckpod_05": 1,
+        "flora_muckspunge_04": 1,
+        "flora_saltrice_01": 2,
+        "flora_saltrice_02": 2,
+        "flora_t_mushroom_02": 1,
+        "flora_t_podbud_01": 1,
+        "flora_t_podbud_03": 1,
+        "flora_tree_ac_04": 1,
+        "kollop_02_pearl": 1,
+        "kollop_03_pearl": 1,
+        "mudcrab": 1,
+        "terrain_rock_ac_02": 1,
+        "terrain_rock_ac_04": 1,
+        "terrain_rock_ac_08": 1,
+        "terrain_rock_ac_10": 2,
+        "terrain_rock_ac_11": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "barrel_01_empty": 1,

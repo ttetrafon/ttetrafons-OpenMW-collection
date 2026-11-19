@@ -1,6 +1,14 @@
 {
   "cell": "19,-7",
   "plugins": {
+    "RockyAzurasCoast.ESP": {
+      "added": {
+        "ab_terr_accliff_02": 3,
+        "ab_terr_accliff_03": 1,
+        "ab_terr_acmtpeak01": 2,
+        "ab_terr_acmtridge01": 2
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_solo_spawn_no_guard": 1

@@ -1,0 +1,15 @@
+{
+  "cell": "15,-1",
+  "plugins": {
+    "RockyAzurasCoast.ESP": {
+      "added": {
+        "ab_terr_acmtridge02": 2
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}
