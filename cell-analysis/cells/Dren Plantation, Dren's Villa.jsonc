@@ -19,6 +19,11 @@
         "adamantium_helm": 1
       }
     },
+    "Adanumuran Reclaimed.esp": {
+      "added": {
+        "aa_th_ai_vtastek": 1
+      }
+    },
     "Olive the Enchanter.esp": {
       "added": {
         "p_fortify_alchemy_s": 5

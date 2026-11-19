@@ -2,6 +2,11 @@
   "cell": "Balmora, Hlaalu Council Manor",
   "name": "Balmora, Hlaalu Council Manor",
   "plugins": {
+    "Adanumuran Reclaimed.esp": {
+      "added": {
+        "aa_th_balm_phal": 1
+      }
+    },
     "Wares_traders.ESP": {
       "added": {
         "aa_wares_assassin": 1,

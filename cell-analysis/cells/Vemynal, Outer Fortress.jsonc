@@ -1,0 +1,16 @@
+{
+  "cell": "Vemynal, Outer Fortress",
+  "name": "Vemynal, Outer Fortress",
+  "plugins": {
+    "Adanumuran Reclaimed.esp": {
+      "added": {
+        "aa_th_sm_alembic": 1
+      }
+    },
+    "D2Items.esp": {
+      "modified": {
+        "dwemer shortsword": 1
+      }
+    }
+  }
+}

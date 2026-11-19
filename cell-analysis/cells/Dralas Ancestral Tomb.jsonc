@@ -2,6 +2,11 @@
   "cell": "Dralas Ancestral Tomb",
   "name": "Dralas Ancestral Tomb",
   "plugins": {
+    "Adanumuran Reclaimed.esp": {
+      "added": {
+        "aa_th_bosses": 1
+      }
+    },
     "Creatures_RP_Purist.ESP": {
       "added": {
         "un_lord_lesser": 1,

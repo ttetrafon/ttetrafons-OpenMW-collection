@@ -1,6 +1,13 @@
 {
   "cell": "-9,-3",
   "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "barrel_01_empty": 1,
+        "xero_marker": 1,
+        "xero_west_barrel": 1
+      }
+    },
     "Sea Forts of Morrowind 1.0v.ESP": {
       "added": {
         "barrel_01_arrows": 1,
@@ -104,13 +111,6 @@
         "flora_kelp_01": 2,
         "flora_kelp_02": 1,
         "in_cave_plant00": 1
-      }
-    },
-    "Hidden Sea Loot.ESP": {
-      "added": {
-        "barrel_01_empty": 1,
-        "xero_marker": 1,
-        "xero_west_barrel": 1
       }
     }
   }

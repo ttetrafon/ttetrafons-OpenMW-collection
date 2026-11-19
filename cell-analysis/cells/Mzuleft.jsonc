@@ -2,6 +2,11 @@
   "cell": "Mzuleft",
   "name": "Mzuleft",
   "plugins": {
+    "Adanumuran Reclaimed.esp": {
+      "added": {
+        "aa_th_sm_dwemer_repair": 1
+      }
+    },
     "Ownership Overhaul.esm": {
       "modified": {
         "crate_02_random_pos": 2,

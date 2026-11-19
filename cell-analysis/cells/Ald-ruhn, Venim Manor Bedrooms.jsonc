@@ -2,6 +2,11 @@
   "cell": "Ald-ruhn, Venim Manor Bedrooms",
   "name": "Ald-ruhn, Venim Manor Bedrooms",
   "plugins": {
+    "Adanumuran Reclaimed.esp": {
+      "added": {
+        "aa_th_ashlands_vtastek": 1
+      }
+    },
     "Ownership Overhaul.esm": {
       "modified": {
         "active_de_r_bed_01": 4

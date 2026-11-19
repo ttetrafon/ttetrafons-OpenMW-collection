@@ -2,6 +2,14 @@
   "cell": "Suran, Oran Manor",
   "name": "Suran, Oran Manor",
   "plugins": {
+    "Adanumuran Reclaimed.esp": {
+      "added": {
+        "aa_th_suran_paint_m": 1
+      },
+      "modified": {
+        "in_hlaalu_hall_stairsl": 1
+      }
+    },
     "Wares_traders.ESP": {
       "added": {
         "aa_wares_thief": 1,

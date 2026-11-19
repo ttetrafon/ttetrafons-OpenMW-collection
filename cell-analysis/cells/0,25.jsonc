@@ -2,6 +2,13 @@
   "cell": "0,25",
   "name": "Royal Crest Fortress",
   "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "gold_001": 4,
+        "xero_marker": 1,
+        "xero_north_chest": 1
+      }
+    },
     "Sea Forts of Morrowind 1.0v.ESP": {
       "added": {
         "barrel_01_arrows": 1,
@@ -87,13 +94,6 @@
         "ts_ex_ladders_1": 1,
         "ts_ex_navyship": 1,
         "ts_furn_treb_01": 1
-      }
-    },
-    "Hidden Sea Loot.ESP": {
-      "added": {
-        "gold_001": 4,
-        "xero_marker": 1,
-        "xero_north_chest": 1
       }
     }
   }

@@ -2,6 +2,11 @@
   "cell": "Mournhold, Sadri Manor",
   "name": "Mournhold, Sadri Manor",
   "plugins": {
+    "Adanumuran Reclaimed.esp": {
+      "added": {
+        "aa_th_set3_paint_m": 1
+      }
+    },
     "Ownership Overhaul.esm": {
       "modified": {
         "ex_mh_sewer_trapdoor_sadri": 1,

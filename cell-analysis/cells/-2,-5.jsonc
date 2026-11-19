@@ -1,6 +1,30 @@
 {
   "cell": "-2,-5",
   "plugins": {
+    "Adanumuran Reclaimed.esp": {
+      "added": {
+        "aa_th_raider10a": 1,
+        "aa_th_raider30a": 1,
+        "aa_th_raider30b": 1,
+        "aa_th_raider30c": 1,
+        "aa_th_raider5c": 1,
+        "aa_th_skull_display1": 1,
+        "aa_th_skull_display10": 1,
+        "aa_th_skull_display2": 1,
+        "aa_th_skull_display3": 1,
+        "aa_th_skull_display4": 1,
+        "aa_th_skull_display5": 1,
+        "aa_th_skull_display6": 1,
+        "aa_th_skull_display7": 1,
+        "aa_th_skull_display8": 1,
+        "aa_th_skull_display9": 1,
+        "aa_th_spear_display": 1,
+        "aa_th_spear_display2": 1
+      },
+      "modified": {
+        "aa_th_cavedoor_in": 1
+      }
+    },
     "Ascadia Land of Pilgrimage.ESP": {
       "added": {
         "ab_ex_velwellfountain": 1,

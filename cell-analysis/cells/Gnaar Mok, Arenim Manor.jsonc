@@ -2,6 +2,11 @@
   "cell": "Gnaar Mok, Arenim Manor",
   "name": "Gnaar Mok, Arenim Manor",
   "plugins": {
+    "Adanumuran Reclaimed.esp": {
+      "added": {
+        "aa_th_gnaar_bahamut": 1
+      }
+    },
     "Privileges&Services 1.1.esp": {
       "added": {
         "abm_trapguhlaup": 1

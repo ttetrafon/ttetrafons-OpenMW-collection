@@ -1,6 +1,12 @@
 {
   "cell": "18,9",
   "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_east_barrel": 1,
+        "xero_marker": 1
+      }
+    },
     "Sea Forts of Morrowind 1.0v.ESP": {
       "added": {
         "barrel_01_arrows": 1,
@@ -97,12 +103,6 @@
       },
       "modified": {
         "ex_t_menhir_l_01": 1
-      }
-    },
-    "Hidden Sea Loot.ESP": {
-      "added": {
-        "xero_east_barrel": 1,
-        "xero_marker": 1
       }
     }
   }

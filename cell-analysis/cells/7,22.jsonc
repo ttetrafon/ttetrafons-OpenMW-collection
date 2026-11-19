@@ -12,13 +12,6 @@
         "sky_xvv_df_jurid": 1
       }
     },
-    "OAAB - Shipwrecks.esm": {
-      "added": {
-        "_cor_ship_cont_bot_00": 7,
-        "_cor_ship_cont_bot_01": 1,
-        "_cor_ship_ylgor": 1
-      }
-    },
     "RepopulatedMorrowind.ESM": {
       "added": {
         "gvrm_am_marker": 1,

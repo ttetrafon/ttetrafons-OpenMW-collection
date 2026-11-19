@@ -1,0 +1,16 @@
+{
+  "cell": "Zainsipilu",
+  "name": "Zainsipilu",
+  "plugins": {
+    "Adanumuran Reclaimed.esp": {
+      "added": {
+        "aa_th_bosses": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_armordrinker": 1
+      }
+    }
+  }
+}

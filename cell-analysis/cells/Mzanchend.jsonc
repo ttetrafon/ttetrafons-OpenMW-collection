@@ -1,0 +1,16 @@
+{
+  "cell": "Mzanchend",
+  "name": "Mzanchend",
+  "plugins": {
+    "Adanumuran Reclaimed.esp": {
+      "added": {
+        "aa_th_sm_calcinator": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_sothabeatinggear": 1
+      }
+    }
+  }
+}

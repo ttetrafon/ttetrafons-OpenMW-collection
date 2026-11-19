@@ -2,6 +2,12 @@
   "cell": "Raven Rock, Mine",
   "name": "Raven Rock, Mine",
   "plugins": {
+    "Adanumuran Reclaimed.esp": {
+      "added": {
+        "aa_th_ledger_raven": 1,
+        "crate_01_misc01": 1
+      }
+    },
     "RepopulatedBloodmoon.ESP": {
       "added": {
         "gvrm_rr_mn_cm_bmcpy": 5

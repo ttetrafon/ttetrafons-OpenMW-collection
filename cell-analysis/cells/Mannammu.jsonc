@@ -1,0 +1,16 @@
+{
+  "cell": "Mannammu",
+  "name": "Mannammu",
+  "plugins": {
+    "Adanumuran Reclaimed.esp": {
+      "added": {
+        "aa_th_bosses": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "modified": {
+        "r0_h2o_all_lev+2_int": 1
+      }
+    }
+  }
+}

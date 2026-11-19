@@ -2,11 +2,6 @@
   "cell": "Neglected Shipwreck, Upper Level",
   "name": "Neglected Shipwreck, Upper Level",
   "plugins": {
-    "OAAB - Shipwrecks.esm": {
-      "modified": {
-        "ex_de_ship_trapdoor": 1
-      }
-    },
     "Uncharted Artifacts.esp": {
       "modified": {
         "barrel_02_floater_ing": 2,
@@ -23,15 +18,5 @@
         "sound_boat_creak00": 1
       }
     }
-  },
-  "conflicts": [
-    {
-      "ref": "morrowind::318033",
-      "object": "ex_de_ship_trapdoor",
-      "plugins": [
-        "OAAB - Shipwrecks.esm",
-        "Uncharted Artifacts.esp"
-      ]
-    }
-  ]
+  }
 }

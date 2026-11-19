@@ -1,0 +1,18 @@
+{
+  "cell": "Arkngthand, Land's Blood Gallery",
+  "name": "Arkngthand, Land's Blood Gallery",
+  "plugins": {
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_m_cook_dwe_pan": 1,
+        "aatl_m_cook_dwe_pot": 1,
+        "aatl_rep_rusty": 1
+      }
+    },
+    "Adanumuran Reclaimed.esp": {
+      "added": {
+        "aa_th_sm_dwemer_prongs": 1
+      }
+    }
+  }
+}

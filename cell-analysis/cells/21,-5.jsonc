@@ -11,6 +11,13 @@
         "t_mw_rlvl_innerseawater+0": 1
       }
     },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_corpse10_water": 1,
+        "xero_east_chest": 1,
+        "xero_marker": 1
+      }
+    },
     "Uncharted Artifacts.esp": {
       "added": {
         "dreugh": 1,
@@ -27,13 +34,6 @@
         "in_cave_plant10": 11,
         "in_mudboulder00": 8,
         "in_mudboulder04": 1
-      }
-    },
-    "Hidden Sea Loot.ESP": {
-      "added": {
-        "xero_corpse10_water": 1,
-        "xero_east_chest": 1,
-        "xero_marker": 1
       }
     }
   }

@@ -20,11 +20,6 @@
         "xero_marker": 1,
         "xero_west_sack": 1
       }
-    },
-    "OAAB - Shipwrecks.esm": {
-      "modified": {
-        "_cor_ship_de_shack_plank_03_a": 2
-      }
     }
   }
 }

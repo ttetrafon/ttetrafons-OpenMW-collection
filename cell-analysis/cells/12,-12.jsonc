@@ -1,6 +1,13 @@
 {
   "cell": "12,-12",
   "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "barrel_01_empty": 1,
+        "xero_east_barrel": 1,
+        "xero_marker": 1
+      }
+    },
     "Uncharted Artifacts.esp": {
       "added": {
         "x0_map17_trigger": 1,
@@ -8,13 +15,6 @@
       },
       "modified": {
         "flora_gold_kanet_01": 1
-      }
-    },
-    "Hidden Sea Loot.ESP": {
-      "added": {
-        "barrel_01_empty": 1,
-        "xero_east_barrel": 1,
-        "xero_marker": 1
       }
     },
     "Treasures of Magic.ESP": {

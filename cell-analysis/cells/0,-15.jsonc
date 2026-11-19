@@ -16,11 +16,6 @@
         "terrain_rock_ai_12": 1
       }
     },
-    "Uncharted Artifacts.esp": {
-      "added": {
-        "x0_map18_trigger": 1
-      }
-    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_furn_crate_lid_01": 3,
@@ -28,6 +23,11 @@
         "xero_furn_scrapwood01": 3,
         "xero_marker": 1,
         "xero_south_crate": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_map18_trigger": 1
       }
     },
     "Creatures_RP_Purist.ESP": {

@@ -1,0 +1,16 @@
+{
+  "cell": "Bthuand",
+  "name": "Bthuand",
+  "plugins": {
+    "Adanumuran Reclaimed.esp": {
+      "added": {
+        "aa_th_sm_pick": 2
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "in_dwe_all_lev-2": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "cell": "Neglected Shipwreck, Lower Level",
+  "name": "Neglected Shipwreck, Lower Level",
+  "plugins": {
+    "Adanumuran Reclaimed.esp": {
+      "added": {
+        "aa_th_cratestolen": 1
+      }
+    },
+    "Uncharted Artifacts.esp": {
+      "added": {
+        "x0_m05_chest": 1,
+        "x0_m05_key": 1
+      },
+      "modified": {
+        "ex_de_ship_trapdoor": 1,
+        "in_de_ship_lowerlevel": 1
+      }
+    }
+  }
+}

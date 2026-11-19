@@ -2,6 +2,11 @@
   "cell": "Vivec, St. Olms Yngling Manor Basement",
   "name": "Vivec, St. Olms Yngling Manor Basement",
   "plugins": {
+    "Adanumuran Reclaimed.esp": {
+      "added": {
+        "aa_th_vivec_paint_m": 1
+      }
+    },
     "Ownership Overhaul.esm": {
       "modified": {
         "active_de_bedroll": 1,

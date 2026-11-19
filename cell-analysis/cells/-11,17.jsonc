@@ -1,6 +1,14 @@
 {
   "cell": "-11,17",
   "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "barrel_01_empty": 1,
+        "xero_marker": 2,
+        "xero_north_barrel": 1,
+        "xero_north_sack": 1
+      }
+    },
     "Sea Forts of Morrowind 1.0v.ESP": {
       "added": {
         "barrel_01_arrows": 1,
@@ -90,14 +98,6 @@
       },
       "modified": {
         "terrain_rock_wg_08": 1
-      }
-    },
-    "Hidden Sea Loot.ESP": {
-      "added": {
-        "barrel_01_empty": 1,
-        "xero_marker": 2,
-        "xero_north_barrel": 1,
-        "xero_north_sack": 1
       }
     }
   }

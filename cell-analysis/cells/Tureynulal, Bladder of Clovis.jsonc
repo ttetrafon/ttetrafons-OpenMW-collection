@@ -1,0 +1,16 @@
+{
+  "cell": "Tureynulal, Bladder of Clovis",
+  "name": "Tureynulal, Bladder of Clovis",
+  "plugins": {
+    "Adanumuran Reclaimed.esp": {
+      "added": {
+        "aa_th_sm_calcinator": 1
+      }
+    },
+    "True_Lights_And_Darkness_1.1.esp": {
+      "modified": {
+        "blue water ref 128": 3
+      }
+    }
+  }
+}

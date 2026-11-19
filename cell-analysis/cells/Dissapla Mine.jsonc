@@ -13,6 +13,12 @@
         "am_miner9": 1
       }
     },
+    "Adanumuran Reclaimed.esp": {
+      "added": {
+        "aa_th_ledger_dissapala": 1,
+        "crate_01_misc01": 1
+      }
+    },
     "Ownership Overhaul.esm": {
       "modified": {
         "light_de_lantern_06a": 1,

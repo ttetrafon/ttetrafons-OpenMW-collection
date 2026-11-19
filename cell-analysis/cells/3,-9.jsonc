@@ -295,6 +295,19 @@
         "terrain_rock_ai_12": 1
       }
     },
+    "OAAB - Hawia_Egg_Mine.ESP": {
+      "added": {
+        "ab_furn_barrel02lid": 1,
+        "ab_furn_barrel02open": 1,
+        "ab_in_kwamaholes03": 1,
+        "ab_in_kwamatower03": 1,
+        "ab_in_kwamatowerforager_a": 1,
+        "furn_guarcart00": 1
+      },
+      "modified": {
+        "door_cavern_doors10": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_marker": 1,

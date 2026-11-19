@@ -1,0 +1,11 @@
+{
+  "cell": "Remote Shipwreck, Upper Level",
+  "name": "Remote Shipwreck, Upper Level",
+  "plugins": {
+    "Adanumuran Reclaimed.esp": {
+      "added": {
+        "aa_th_cratestolen": 1
+      }
+    }
+  }
+}

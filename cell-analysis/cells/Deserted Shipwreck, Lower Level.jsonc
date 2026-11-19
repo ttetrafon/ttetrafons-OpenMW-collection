@@ -2,6 +2,11 @@
   "cell": "Deserted Shipwreck, Lower Level",
   "name": "Deserted Shipwreck, Lower Level",
   "plugins": {
+    "Adanumuran Reclaimed.esp": {
+      "added": {
+        "aa_th_cratestolen": 1
+      }
+    },
     "Uncharted Artifacts.esp": {
       "added": {
         "x0_m17_bottle": 1

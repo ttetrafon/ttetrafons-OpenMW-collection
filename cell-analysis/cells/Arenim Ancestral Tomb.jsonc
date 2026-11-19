@@ -20,6 +20,11 @@
         "_uyl_arenim": 1,
         "_uyl_light": 1
       }
+    },
+    "Uncharted Artifacts.esp": {
+      "modified": {
+        "in_velothismall_ndoor_01": 1
+      }
     }
   }
 }

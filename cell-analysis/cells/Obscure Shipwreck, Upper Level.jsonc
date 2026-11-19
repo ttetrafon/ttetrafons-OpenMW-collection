@@ -11,21 +11,6 @@
         "ex_de_ship_trapdoor": 1,
         "misc_de_tankard_01": 1
       }
-    },
-    "OAAB - Shipwrecks.esm": {
-      "modified": {
-        "ex_de_ship_trapdoor": 1
-      }
     }
-  },
-  "conflicts": [
-    {
-      "ref": "morrowind::318098",
-      "object": "ex_de_ship_trapdoor",
-      "plugins": [
-        "OAAB - Shipwrecks.esm",
-        "Uncharted Artifacts.esp"
-      ]
-    }
-  ]
+  }
 }

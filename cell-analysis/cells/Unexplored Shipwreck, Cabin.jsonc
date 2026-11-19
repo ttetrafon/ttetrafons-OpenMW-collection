@@ -2,14 +2,14 @@
   "cell": "Unexplored Shipwreck, Cabin",
   "name": "Unexplored Shipwreck, Cabin",
   "plugins": {
+    "Adanumuran Reclaimed.esp": {
+      "added": {
+        "aa_th_cratestolen": 1
+      }
+    },
     "Uncharted Artifacts.esp": {
       "added": {
         "x0_m01_key": 1
-      }
-    },
-    "OAAB - Shipwrecks.esm": {
-      "modified": {
-        "in_de_ship_cabindoor": 1
       }
     }
   }

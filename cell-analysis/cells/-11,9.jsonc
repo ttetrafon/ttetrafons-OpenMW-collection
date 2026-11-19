@@ -2,11 +2,6 @@
   "cell": "-11,9",
   "name": "Koal Cave Entrance",
   "plugins": {
-    "OAAB - Shipwrecks.esm": {
-      "added": {
-        "_cor_ship_cont_bot_05": 1
-      }
-    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_marker": 1,

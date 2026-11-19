@@ -2,14 +2,14 @@
   "cell": "Shunned Shipwreck, Upper Level",
   "name": "Shunned Shipwreck, Upper Level",
   "plugins": {
+    "Adanumuran Reclaimed.esp": {
+      "added": {
+        "aa_th_cratestolen": 1
+      }
+    },
     "Uncharted Artifacts.esp": {
       "added": {
         "x0_m21_bottle": 1
-      }
-    },
-    "OAAB - Shipwrecks.esm": {
-      "modified": {
-        "ex_de_ship_trapdoor": 1
       }
     }
   }

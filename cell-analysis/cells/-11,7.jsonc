@@ -1,6 +1,13 @@
 {
   "cell": "-11,7",
   "plugins": {
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "barrel_01_empty": 1,
+        "xero_marker": 1,
+        "xero_west_barrel": 1
+      }
+    },
     "Uncharted Artifacts.esp": {
       "added": {
         "dreugh": 1,
@@ -18,13 +25,6 @@
         "in_mudboulder00": 7,
         "in_mudboulder04": 1,
         "kollop_02_pearl": 1
-      }
-    },
-    "Hidden Sea Loot.ESP": {
-      "added": {
-        "barrel_01_empty": 1,
-        "xero_marker": 1,
-        "xero_west_barrel": 1
       }
     }
   }

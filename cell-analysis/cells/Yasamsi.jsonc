@@ -1,0 +1,16 @@
+{
+  "cell": "Yasamsi",
+  "name": "Yasamsi",
+  "plugins": {
+    "Adanumuran Reclaimed.esp": {
+      "added": {
+        "aa_th_bosses": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_vermin_marker_box": 1
+      }
+    }
+  }
+}

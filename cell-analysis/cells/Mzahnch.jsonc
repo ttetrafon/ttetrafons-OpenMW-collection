@@ -8,6 +8,11 @@
         "p_dwemer_lubricant00": 1
       }
     },
+    "Adanumuran Reclaimed.esp": {
+      "added": {
+        "aa_th_sm_probe": 2
+      }
+    },
     "Treasures of Magic.ESP": {
       "added": {
         "bc3000_cliffshaver": 1

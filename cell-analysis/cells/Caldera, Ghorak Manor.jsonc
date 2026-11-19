@@ -24,6 +24,11 @@
         "daylight_ghorac_300_west": 4
       }
     },
+    "Adanumuran Reclaimed.esp": {
+      "added": {
+        "aa_th_cald_paint_m": 1
+      }
+    },
     "TTD_UnderMassersGaze.esp": {
       "added": {
         "tdd_bucket_alcohol": 1,

@@ -2,11 +2,6 @@
   "cell": "Koal Cave",
   "name": "Koal Cave",
   "plugins": {
-    "OAAB - Shipwrecks.esm": {
-      "added": {
-        "_cor_ship_cont_bot_06": 1
-      }
-    },
     "RepopulatedMorrowind.ESM": {
       "added": {
         "gvrm_dun_pray_5": 1

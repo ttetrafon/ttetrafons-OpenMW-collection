@@ -13,6 +13,12 @@
         "am_miner2": 1
       }
     },
+    "Adanumuran Reclaimed.esp": {
+      "added": {
+        "aa_th_ledger_abaelun": 1,
+        "crate_01_misc01": 1
+      }
+    },
     "True_Lights_And_Darkness_1.1.esp": {
       "modified": {
         "light_tikitorch002": 1
