@@ -1,6 +1,12 @@
 {
   "cell": "-14,13",
   "plugins": {
+    "Dwemer Legacy Reforged - Arkngthunch-Sturdumz.esp": {
+      "added": {
+        "flora_muckpod_05": 1,
+        "flora_muckspunge_05": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_marker": 1,

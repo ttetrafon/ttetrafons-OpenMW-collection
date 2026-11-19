@@ -1,6 +1,31 @@
 {
   "cell": "7,14",
   "plugins": {
+    "Valley of the Wind Overhaul.esp": {
+      "added": {
+        "_ex_valley_cliff1": 1,
+        "_ex_valley_cliff2": 1,
+        "_ex_valley_cliff3": 1,
+        "_ex_valley_cliff4": 2,
+        "flora_ashtree_04": 1,
+        "terrain_rock_rm_14": 1
+      },
+      "modified": {
+        "ex_velothi_entrance_02": 1,
+        "flora_ashtree_01": 2,
+        "flora_ashtree_02": 1,
+        "flora_ashtree_03": 5,
+        "flora_ashtree_04": 2,
+        "flora_ashtree_05": 1,
+        "flora_ashtree_07": 1,
+        "flora_rm_scathecraw_01": 3,
+        "in_velothismall_ndoor_01": 1,
+        "terrain_rock_rm_04": 1,
+        "terrain_rock_rm_17": 1,
+        "terrain_rock_rm_18": 1,
+        "terrain_rock_rm_19": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_ex_tomb70_spawn": 1

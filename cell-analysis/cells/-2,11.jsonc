@@ -1,6 +1,24 @@
 {
   "cell": "-2,11",
   "plugins": {
+    "Markgran Forest.esp": {
+      "added": {
+        "ab_f_dustcap_01": 1,
+        "ab_f_dustcap_04": 1,
+        "flora_ash_grass_b_01": 1,
+        "flora_ash_grass_w_01": 1,
+        "flora_trama_shrub_03": 1,
+        "t_mw_flora_terrastree_01": 1,
+        "t_mw_floragm_empparasol_03": 2,
+        "t_mw_florash_bush_01": 1,
+        "t_mw_florash_bush_03": 2
+      },
+      "modified": {
+        "flora_ashtree_05": 1,
+        "flora_ashtree_06": 1,
+        "terrain_ashland_rock_09": 1
+      }
+    },
     "Ownership Overhaul.esm": {
       "modified": {
         "com_sack_01_ingred": 1,

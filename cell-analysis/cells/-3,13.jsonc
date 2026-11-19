@@ -1,0 +1,41 @@
+{
+  "cell": "-3,13",
+  "plugins": {
+    "Markgran Forest.esp": {
+      "added": {
+        "ab_f_dustcap_03": 1,
+        "ab_terr_alcliff_05": 1,
+        "ex_wild_all_lev+0": 1,
+        "flora_ash_log_02": 1,
+        "flora_ashtree_07": 1,
+        "flora_trama_shrub_03": 1,
+        "t_glb_fauna_glowbug_01": 2,
+        "t_glb_fauna_glowbugs_03": 1,
+        "t_mw_flora_terrastree_03": 1,
+        "t_mw_floragm_empparasol_01": 1,
+        "t_mw_floragm_empparasol_02": 2,
+        "t_mw_floragm_empparasol_04": 4,
+        "tramaroot_01": 1,
+        "tramaroot_02": 2,
+        "tramaroot_06": 1
+      },
+      "modified": {
+        "ex_shore_cliffracer_lev+0": 1,
+        "flora_ash_grass_w_01": 1,
+        "flora_ashtree_01": 1,
+        "flora_ashtree_02": 1,
+        "flora_ashtree_04": 1,
+        "flora_ashtree_05": 1,
+        "flora_ashtree_06": 1,
+        "flora_ashtree_07": 1,
+        "terrain_rock_ma_02": 1,
+        "terrain_rock_rm_19": 1
+      }
+    },
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_hiddencache": 1
+      }
+    }
+  }
+}

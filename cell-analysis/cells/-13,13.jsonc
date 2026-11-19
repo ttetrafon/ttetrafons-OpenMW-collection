@@ -1,6 +1,24 @@
 {
   "cell": "-13,13",
   "plugins": {
+    "Dwemer Legacy Reforged - Arkngthunch-Sturdumz.esp": {
+      "added": {
+        "ab_ex_dwrvbridgecenter": 2,
+        "ab_furn_dwrvbarrelexploded": 1,
+        "ab_furn_dwrvcentsteam02": 1,
+        "ab_fx_oilslickspill01": 1,
+        "ab_in_dwrvpipefit_l_txt": 8,
+        "ab_in_dwrvpipefit_split2": 1,
+        "ab_light_dwrvneon10": 1,
+        "demcenturionspider": 1,
+        "dwarven mace": 1,
+        "ex_dwrv_ruin50": 1,
+        "ex_dwrv_ruin60": 1,
+        "misc_dwrv_coin00": 5,
+        "t_dwe_dngruin_neonbrk01_off": 1,
+        "terrain_rock_wg_09": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "ingred_muck_01": 4,

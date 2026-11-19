@@ -12,6 +12,15 @@
         "furn_de_ex_stool_02_nocol": 1
       }
     },
+    "Dwemer Legacy Reforged - Arkngthunch-Sturdumz.esp": {
+      "added": {
+        "ex_dwrv_walker00": 1,
+        "ex_dwrv_walker10": 1,
+        "ex_dwrv_walker20": 1,
+        "flora_chokeweed_02": 1,
+        "terrain_rock_wg_17": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "ingred_muck_01": 5,

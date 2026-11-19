@@ -1,0 +1,18 @@
+{
+  "cell": "-7,16",
+  "plugins": {
+    "Markgran Forest.esp": {
+      "added": {
+        "ab_terr_alcliff_01": 1,
+        "ex_dwrv_ruin60": 1,
+        "t_dwe_dngruin_i_pipe_brk_04": 1,
+        "terrain_rock_rm_18": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_red_spawn": 1
+      }
+    }
+  }
+}

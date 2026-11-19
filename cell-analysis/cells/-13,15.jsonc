@@ -1,6 +1,18 @@
 {
   "cell": "-13,15",
   "plugins": {
+    "Dwemer Legacy Reforged - Arkngthunch-Sturdumz.esp": {
+      "added": {
+        "dembars": 1,
+        "flora_kelp_02": 1,
+        "in_dwrv_shaft10": 1,
+        "t_mw_terrrockwg_rock_06": 1,
+        "terrain_rock_wg_02": 3,
+        "terrain_rock_wg_16": 7,
+        "terrain_rock_wg_18": 2,
+        "terrain_rocks_wg_01": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_marker": 1,

@@ -2,6 +2,78 @@
   "cell": "Sharapli",
   "name": "Sharapli",
   "plugins": {
+    "Clean_Sharapli.esp": {
+      "added": {
+        "furn_6th_dagothsymbol": 1,
+        "furn_6th_platform": 1,
+        "furn_6th_tallbanner": 2,
+        "furn_6th_troth_01": 1,
+        "in_lava_blacksquare": 6,
+        "in_lava_rock_02": 3,
+        "in_lava_rock_03": 28,
+        "in_lava_rock_04": 9,
+        "in_lava_rock_05": 5,
+        "in_lava_rock_06": 3,
+        "in_lava_rock_08": 3,
+        "in_lava_rock_09": 6,
+        "in_lava_rock_11": 11,
+        "in_lava_rock_13": 5,
+        "in_lava_rock_14": 2,
+        "in_lava_rock_15": 1,
+        "in_lava_rock_16": 8,
+        "in_lava_rock_17": 3,
+        "in_lava_rock_19": 2,
+        "in_lavacave_form10": 1,
+        "in_lavacave_form20": 13,
+        "ingred_6th_corprusmeat_01": 1,
+        "ingred_6th_corprusmeat_02": 1,
+        "ingred_6th_corprusmeat_03": 1,
+        "ingred_6th_corprusmeat_04": 1,
+        "lava_light_500": 1,
+        "light_6th_brazier_02": 1,
+        "light_6th_brazier_400": 10,
+        "light_com_candle_13_77": 3
+      },
+      "modified": {
+        "act_terrain_lava_vent": 2,
+        "act_terrain_lava_ventlg": 1,
+        "active_6th_bell_01": 1,
+        "active_6th_bell_02": 1,
+        "active_6th_bell_03": 1,
+        "active_6th_bell_04": 1,
+        "active_6th_bell_05": 1,
+        "active_6th_bell_06": 1,
+        "dreamer": 1,
+        "dreamer_f_01": 1,
+        "ex_cave_door_01": 1,
+        "furn_6th_bells": 1,
+        "furn_6th_platform": 1,
+        "furn_6th_troth_01": 1,
+        "in_6th_all_lev+0": 1,
+        "in_6th_ash_lev-2": 1,
+        "in_lava_1024": 2,
+        "in_lava_blacksquare": 2,
+        "in_lava_rock_04": 1,
+        "in_lava_rock_06": 4,
+        "in_lava_rock_08": 4,
+        "in_lava_rock_09": 4,
+        "in_lava_rock_10": 1,
+        "in_lava_rock_13": 1,
+        "in_lava_rock_14": 2,
+        "in_lava_rock_16": 3,
+        "in_lavaboulder02": 1,
+        "in_lavaboulder03": 1,
+        "in_lavacave_19": 1,
+        "ingred_6th_corprusmeat_05": 3,
+        "ingred_6th_corprusmeat_06": 3,
+        "ingred_6th_corprusmeat_07": 1,
+        "lava_light_500": 2,
+        "light_6th_brazier": 1,
+        "light_6th_brazier_400": 2,
+        "light_com_candle_13_77": 3,
+        "northmarker": 1
+      }
+    },
     "Creatures_RP_Purist.ESP": {
       "added": {
         "plx_dreamers": 3,
@@ -18,5 +90,15 @@
         "aa_cr_dreamer_c03": 1
       }
     }
-  }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::85356",
+      "object": "dreamer",
+      "plugins": [
+        "Clean_Sharapli.esp",
+        "Creatures and Critters.ESP"
+      ]
+    }
+  ]
 }

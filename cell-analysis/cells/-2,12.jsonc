@@ -1,0 +1,72 @@
+{
+  "cell": "-2,12",
+  "plugins": {
+    "Markgran Forest.esp": {
+      "added": {
+        "ab_f_dustcap_01": 6,
+        "ab_f_dustcap_02": 5,
+        "ab_f_dustcap_03": 1,
+        "ab_f_dustcap_04": 5,
+        "ab_flora_ashgrassblack_01": 2,
+        "ab_flora_ashgrassred_01": 6,
+        "ab_flora_ashgrasswhite_01": 8,
+        "ab_in_cavepyventsteam01": 2,
+        "ab_in_cavepyventsteam02": 1,
+        "ab_o_corpse20flies": 1,
+        "ab_terr_alcliff_02": 2,
+        "ab_terr_alcliff_03": 1,
+        "ab_terr_alcliff_04": 1,
+        "ab_terr_alcliff_06": 2,
+        "contain_trama_shrub_01": 4,
+        "ex_siltstrider_01": 1,
+        "flora_ash_grass_b_01": 3,
+        "flora_ash_grass_w_01": 7,
+        "flora_ash_log_02": 4,
+        "flora_ashtree_02": 3,
+        "flora_ashtree_05": 2,
+        "flora_ashtree_06": 1,
+        "flora_rm_scathecraw_01": 2,
+        "flora_rm_scathecraw_02": 9,
+        "flora_trama_shrub_02": 2,
+        "flora_trama_shrub_03": 2,
+        "green light_256": 1,
+        "t_glb_fauna_glowbug_01": 8,
+        "t_glb_fauna_glowbugs_03": 4,
+        "t_mw_flora_terrastree_01": 3,
+        "t_mw_flora_terrastree_02": 1,
+        "t_mw_flora_terrastree_03": 3,
+        "t_mw_flora_terrastree_04": 1,
+        "t_mw_floragm_empparasol_01": 6,
+        "t_mw_floragm_empparasol_02": 3,
+        "t_mw_floragm_empparasol_03": 4,
+        "t_mw_floragm_empparasol_04": 9,
+        "t_mw_florash_bush_01": 4,
+        "t_mw_florash_bush_03": 4,
+        "terrain_rock_ma_10": 1,
+        "terrain_rock_ma_53": 1,
+        "terrain_rock_ma_55": 1,
+        "terrain_rock_rm_19": 1,
+        "tramaroot_01": 4,
+        "tramaroot_02": 8,
+        "tramaroot_03": 1,
+        "tramaroot_06": 2
+      },
+      "modified": {
+        "ex_shore_cliffracer_lev+0": 1,
+        "flora_ash_grass_w_01": 5,
+        "flora_ashtree_02": 1,
+        "flora_ashtree_03": 1,
+        "flora_ashtree_04": 2,
+        "flora_ashtree_06": 3,
+        "flora_ashtree_07": 1,
+        "terrain_rock_ma_55": 1,
+        "terrain_rock_rm_24": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_red_spawn": 1
+      }
+    }
+  }
+}

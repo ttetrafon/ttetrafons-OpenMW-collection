@@ -1,0 +1,105 @@
+{
+  "cell": "-5,16",
+  "plugins": {
+    "Dwemer Legacy Reforged - Bthungthumz and Druscashti.esp": {
+      "added": {
+        "ab_ex_dwrvalcoverm_01": 1,
+        "ab_ex_dwrvbridgebrokeside02": 1,
+        "ab_ex_dwrvdigger": 1,
+        "ab_ex_dwrvroadedge01": 9,
+        "ab_furn_dwrvcentsteam02": 1,
+        "ab_fx_lavafall00": 5,
+        "ab_fx_steamleak": 9,
+        "ab_in_dwrvcentchute_a": 1,
+        "ab_in_dwrvpipelrgelbow": 5,
+        "ab_in_dwrvpipelrgstrt640": 6,
+        "ab_in_dwrvrubble01": 1,
+        "ab_und_dwrvspectrewep": 1,
+        "ab_und_dwrvspectrewepf": 1,
+        "centurion_spider": 1,
+        "centurion_spider_dead": 1,
+        "contain_trama_shrub_01": 1,
+        "contain_trama_shrub_02": 2,
+        "contain_trama_shrub_03": 1,
+        "contain_trama_shrub_04": 2,
+        "contain_trama_shrub_05": 2,
+        "demairshipkey": 1,
+        "dwarven halberd": 1,
+        "dwemer_boots": 1,
+        "dwemer_bracer_left": 1,
+        "dwemer_bracer_right": 1,
+        "dwemer_cuirass": 1,
+        "dwemer_greaves": 1,
+        "dwemer_pauldron_left": 1,
+        "dwemer_pauldron_right": 1,
+        "ex_dwrv_block10": 3,
+        "ex_dwrv_block30": 1,
+        "ex_dwrv_bridge00": 2,
+        "ex_dwrv_bridge10": 1,
+        "ex_dwrv_enter00": 1,
+        "ex_dwrv_observ00": 1,
+        "ex_dwrv_pipe00": 17,
+        "ex_dwrv_pipe10": 3,
+        "ex_dwrv_ruin10": 3,
+        "ex_dwrv_ruin60": 3,
+        "ex_dwrv_ruin80": 1,
+        "ex_dwrv_steamstack00": 3,
+        "ex_dwrv_walker10": 1,
+        "ex_dwrv_walker20": 1,
+        "flora_ashtree_05": 1,
+        "flora_fire_fern_01": 3,
+        "furn_dwrv_bench00": 1,
+        "helm of wounding": 1,
+        "in_dwrv_gear00": 4,
+        "in_lava_1024": 1,
+        "lava_light_2048": 1,
+        "light_dwrv_neonbroke00": 1,
+        "light_fire_400": 3,
+        "p_dwemer_lubricant00": 2,
+        "red_128_pulse": 2,
+        "shield of wounds": 1,
+        "sound_dwemer_ruin00": 4,
+        "t_dwe_dngruin_neon02_280": 4,
+        "t_dwe_dngruin_neonbrk02_off": 4,
+        "t_dwe_dngruin_x_guardtower_01": 1,
+        "t_dwe_dngruin_x_statue_04": 1,
+        "t_dwe_dngruin_x_statuehead_01": 1,
+        "t_dwe_und_ghstgr_01": 1,
+        "terrain_rock_rm_19": 1,
+        "volcano_steam": 1
+      },
+      "modified": {
+        "ex_dwrv_ruin10": 2,
+        "ex_dwrv_ruin_tower00": 3,
+        "ex_dwrv_steamstack00": 1,
+        "ex_dwrv_wall20": 1,
+        "ex_dwrv_wall40": 1,
+        "ex_dwrv_wall50": 1,
+        "terrain_rock_rm_14": 1,
+        "terrain_rock_rm_15": 1,
+        "terrain_rock_rm_18": 1,
+        "terrain_rock_rm_19": 2,
+        "terrain_rock_rm_21": 1
+      }
+    },
+    "Markgran Forest.esp": {
+      "added": {
+        "ab_ex_dwrvroadedge01": 1,
+        "ab_terr_alcliff_01": 2,
+        "ab_terr_alcliff_05": 1,
+        "ex_dwrv_pipe00": 1,
+        "ex_dwrv_ruin30": 1,
+        "ex_dwrv_wall30": 1,
+        "flora_ashtree_07": 1
+      },
+      "modified": {
+        "flora_ashtree_01": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_ex_dwe_spawn": 1
+      }
+    }
+  }
+}

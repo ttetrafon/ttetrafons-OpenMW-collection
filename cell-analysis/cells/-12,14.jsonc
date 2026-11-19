@@ -1,6 +1,36 @@
 {
   "cell": "-12,14",
   "plugins": {
+    "Dwemer Legacy Reforged - Arkngthunch-Sturdumz.esp": {
+      "added": {
+        "ab_ex_dwrvbridgebrokeside01": 1,
+        "ab_ex_dwrvroadedge01": 1,
+        "ab_furn_dwrvcentsphere02": 1,
+        "ab_furn_dwrvcentsphere03": 1,
+        "ab_furn_dwrvcentsphere05": 1,
+        "ab_fx_oilslickspill01": 1,
+        "ex_dwrv_block00": 1,
+        "ex_dwrv_bridge10": 2,
+        "ex_dwrv_cosmo00": 2,
+        "ex_dwrv_pipe00": 1,
+        "ex_dwrv_ruin40": 1,
+        "ex_dwrv_ruin60": 1,
+        "ex_westgash_lev+2": 1,
+        "in_dwrv_gear00": 1,
+        "t_dwe_dngruin_x_guardtower_01": 1,
+        "t_dwe_dngruin_x_statue_05": 1,
+        "t_dwe_dngruin_x_statue_06": 1,
+        "t_dwe_dngruin_x_statuehead_01": 1,
+        "terrain_rock_wg_12": 2,
+        "terrain_rock_wg_14": 1,
+        "terrain_rock_wg_15": 1,
+        "terrain_rock_wg_17": 2,
+        "terrain_rock_wg_18": 1
+      },
+      "modified": {
+        "terrain_rock_wg_01": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_solo_spawn_no_guard": 1

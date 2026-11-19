@@ -1,0 +1,46 @@
+{
+  "cell": "-1,15",
+  "plugins": {
+    "Kogoruhn - Extinct City of Ash and Sulfur.esp": {
+      "added": {
+        "ab_terr_alcliff_02": 3,
+        "ab_terr_alcliff_04": 1,
+        "ab_terr_ashpile_m": 1,
+        "flora_ashtree_05": 1,
+        "flora_ashtree_06": 3,
+        "t_de_setind_bell_03": 1,
+        "t_mw_terrsulphurss_pool1024_01": 1,
+        "terrain_ashland_rock_03": 1,
+        "terrain_ashland_rock_05": 1,
+        "terrain_ashland_rock_08": 2,
+        "terrain_rock_rm_14": 1,
+        "volcano_steam": 1
+      },
+      "modified": {
+        "ex_wild_all_lev+0": 1,
+        "ex_wild_all_lev+2": 3,
+        "flora_ash_grass_b_01": 1,
+        "flora_ash_grass_r_01": 1,
+        "flora_ash_grass_w_01": 3,
+        "flora_ashtree_06": 1,
+        "flora_rm_scathecraw_01": 1,
+        "flora_trama_shrub_06": 1,
+        "terrain_ashland_rock_03": 7,
+        "terrain_ashland_rock_04": 1,
+        "terrain_ashland_rock_05": 5,
+        "terrain_ashland_rock_08": 4,
+        "terrain_ashland_rock_10": 3,
+        "terrain_cairn_al_03": 1,
+        "tramaroot_01": 1,
+        "tramaroot_02": 1,
+        "tramaroot_05": 1,
+        "tramaroot_06": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_creaturesofthenight": 1
+      }
+    }
+  }
+}

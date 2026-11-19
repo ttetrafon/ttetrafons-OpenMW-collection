@@ -7,6 +7,19 @@
         "aa_th_sm_pick": 2
       }
     },
+    "Clean_Bthuand Expanded.esp": {
+      "added": {
+        "_pd_bthuand_note1": 1,
+        "_pd_dark_crevice": 2,
+        "light_com_lantern_02_128": 1
+      },
+      "modified": {
+        "dark_512_01": 1,
+        "furn_dwrv_fitting00": 1,
+        "in_mudboulder03": 1,
+        "in_mudboulder05": 2
+      }
+    },
     "Creatures_RP_Purist.ESP": {
       "added": {
         "in_dwe_all_lev-2": 1

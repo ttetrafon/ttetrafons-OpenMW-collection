@@ -1,6 +1,12 @@
 {
   "cell": "-7,15",
   "plugins": {
+    "Markgran Forest.esp": {
+      "added": {
+        "t_mw_terrsulphurss_pool1024_01": 1,
+        "terrain_rock_rm_19": 1
+      }
+    },
     "Creatures_RP_Purist.ESP": {
       "added": {
         "plx_flowers": 4

@@ -1,0 +1,16 @@
+{
+  "cell": "5,13",
+  "plugins": {
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_wise": 1
+      }
+    },
+    "Valley of the Wind Overhaul.esp": {
+      "modified": {
+        "ex_shore_cliffracer_lev-2": 1,
+        "terrain_rock_rm_08": 1
+      }
+    }
+  }
+}

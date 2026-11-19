@@ -1,0 +1,37 @@
+{
+  "cell": "-4,15",
+  "plugins": {
+    "Markgran Forest.esp": {
+      "added": {
+        "ab_flora_ashgrassred_01": 3,
+        "ab_in_mvcaveventsteam01": 2,
+        "ab_terr_ashpile_l": 1,
+        "contain_trama_shrub_01": 1,
+        "flora_ash_log_02": 1,
+        "flora_ashtree_03": 3,
+        "flora_ashtree_04": 4,
+        "flora_ashtree_06": 1,
+        "flora_ashtree_07": 12,
+        "t_mw_flora_terrastree_03": 1,
+        "t_mw_floragm_empparasol_01": 4,
+        "t_mw_floragm_empparasol_02": 2,
+        "t_mw_floragm_empparasol_04": 5,
+        "t_mw_florash_bush_01": 2,
+        "t_mw_terrrockrm_cliffash_02": 1,
+        "t_mw_terrsulphurss_pool1024_01": 2,
+        "terrain_rock_ma_54": 1,
+        "terrain_rock_rm_18": 3
+      },
+      "modified": {
+        "ex_shore_cliffracer_lev+2": 1,
+        "flora_ash_grass_w_01": 1,
+        "terrain_rock_ma_55": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_night_only_exterior_undea": 1
+      }
+    }
+  }
+}

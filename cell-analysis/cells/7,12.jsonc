@@ -1,0 +1,15 @@
+{
+  "cell": "7,12",
+  "plugins": {
+    "Valley of the Wind Overhaul.esp": {
+      "added": {
+        "_ex_valley_cliff3": 1
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_wise": 1
+      }
+    }
+  }
+}

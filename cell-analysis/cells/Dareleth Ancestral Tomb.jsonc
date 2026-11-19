@@ -18,6 +18,11 @@
       "added": {
         "_uyl_dareleth": 1
       }
+    },
+    "Valley of the Wind Overhaul.esp": {
+      "modified": {
+        "in_velothismall_ndoor_01": 1
+      }
     }
   }
 }

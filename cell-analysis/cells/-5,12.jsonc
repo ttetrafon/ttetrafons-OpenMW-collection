@@ -1,6 +1,56 @@
 {
   "cell": "-5,12",
   "plugins": {
+    "Markgran Forest.esp": {
+      "added": {
+        "ab_f_dustcap_03": 5,
+        "ab_f_dustcap_04": 2,
+        "ab_flora_ashgrassblack_01": 5,
+        "ab_flora_ashgrassred_01": 3,
+        "ab_flora_ashgrasswhite_01": 5,
+        "ab_in_cavepyventsteam01": 1,
+        "ab_terr_alcliff_01": 1,
+        "ab_terr_alcliff_02": 3,
+        "ab_terr_alcliff_05": 3,
+        "contain_trama_shrub_01": 3,
+        "flora_ash_grass_r_01": 1,
+        "flora_ash_grass_w_01": 1,
+        "flora_ash_log_02": 1,
+        "flora_ashtree_01": 1,
+        "flora_ashtree_04": 5,
+        "flora_ashtree_07": 2,
+        "flora_fire_fern_01": 1,
+        "flora_fire_fern_02": 1,
+        "flora_rm_scathecraw_01": 2,
+        "t_glb_fauna_glowbug_01": 2,
+        "t_glb_fauna_glowbugs_03": 2,
+        "t_mw_cr_durzog": 2,
+        "t_mw_flora_terrastree_01": 1,
+        "t_mw_flora_terrastree_03": 1,
+        "t_mw_floragm_empparasol_01": 4,
+        "t_mw_floragm_empparasol_02": 2,
+        "t_mw_floragm_empparasol_03": 2,
+        "t_mw_floragm_empparasol_04": 1,
+        "t_mw_florash_bush_01": 2,
+        "t_mw_florash_bush_03": 2,
+        "terrain_ashland_rock_01": 2,
+        "terrain_ashland_rock_03": 1,
+        "terrain_ashland_rock_07": 1,
+        "terrain_rock_rm_19": 3,
+        "tramaroot_01": 1,
+        "tramaroot_02": 4,
+        "tramaroot_06": 1
+      },
+      "modified": {
+        "ex_wild_all_lev+2": 1,
+        "flora_ashtree_05": 1,
+        "flora_ashtree_07": 1,
+        "flora_rm_scathecraw_01": 1,
+        "terrain_ashland_rock_02": 1,
+        "terrain_ashland_rock_03": 1,
+        "terrain_ashland_rock_06": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_ex_tomb70_spawn": 1

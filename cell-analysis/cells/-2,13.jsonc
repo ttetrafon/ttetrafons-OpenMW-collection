@@ -1,6 +1,98 @@
 {
   "cell": "-2,13",
   "plugins": {
+    "Kogoruhn - Extinct City of Ash and Sulfur.esp": {
+      "added": {
+        "ex_cave_door_01": 1,
+        "ex_cave_entrance_ma_lava": 1,
+        "terrain_rock_ma_02": 1,
+        "terrain_rock_ma_06": 1,
+        "terrain_rock_ma_07": 1,
+        "terrain_rock_ma_09": 2,
+        "terrain_rock_ma_10": 1,
+        "terrain_rock_ma_19": 1,
+        "terrain_rock_ma_43": 1,
+        "terrain_rock_ma_54": 1,
+        "terrain_rock_ma_55": 2,
+        "terrain_rock_ma_550": 1
+      },
+      "modified": {
+        "terrain_rock_ma_02": 2,
+        "terrain_rock_ma_10": 1,
+        "terrain_rock_ma_43": 1,
+        "terrain_rock_ma_550": 1
+      }
+    },
+    "Markgran Forest.esp": {
+      "added": {
+        "ab_f_dustcap_01": 7,
+        "ab_f_dustcap_02": 5,
+        "ab_f_dustcap_03": 8,
+        "ab_f_dustcap_04": 6,
+        "ab_flora_ashgrassred_01": 10,
+        "ab_flora_ashgrasswhite_01": 2,
+        "ab_flora_ashtrunk_03": 1,
+        "ab_fx_ashmire_1024": 1,
+        "ab_in_cavepyventsteam01": 2,
+        "ab_in_cavepyventsteam02": 3,
+        "ab_terr_alcliff_01": 1,
+        "ab_terr_alcliff_02": 2,
+        "ab_terr_alcliff_03": 1,
+        "ab_terr_alcliff_04": 1,
+        "ab_terr_alcliff_05": 3,
+        "ab_terr_alcliff_06": 5,
+        "contain_trama_shrub_01": 8,
+        "ex_shore_cliffracer_lev+0": 1,
+        "flora_ash_grass_w_01": 3,
+        "flora_ash_log_02": 5,
+        "flora_ashtree_01": 1,
+        "flora_ashtree_02": 3,
+        "flora_ashtree_03": 1,
+        "flora_ashtree_06": 1,
+        "flora_ashtree_07": 2,
+        "flora_fire_fern_01": 5,
+        "flora_rm_scathecraw_02": 8,
+        "flora_trama_shrub_02": 3,
+        "flora_trama_shrub_03": 4,
+        "t_glb_fauna_glowbug_01": 19,
+        "t_glb_fauna_glowbugs_03": 9,
+        "t_glb_var_skeletonmammothrib_02": 1,
+        "t_glb_var_skeletonmammothskl_02": 1,
+        "t_mw_flora_terrastree_01": 1,
+        "t_mw_flora_terrastree_03": 10,
+        "t_mw_flora_terrastree_04": 2,
+        "t_mw_floragm_empparasol_01": 7,
+        "t_mw_floragm_empparasol_02": 11,
+        "t_mw_floragm_empparasol_03": 1,
+        "t_mw_floragm_empparasol_04": 16,
+        "t_mw_florash_bush_01": 8,
+        "t_mw_florash_bush_03": 1,
+        "t_rea_set_i_ladder_02": 1,
+        "terrain_ashland_rock_02": 1,
+        "terrain_ashland_rock_05": 1,
+        "terrain_rock_ma_10": 3,
+        "terrain_rock_ma_55": 2,
+        "tramaroot_01": 2,
+        "tramaroot_02": 7,
+        "tramaroot_04": 1,
+        "tramaroot_06": 6
+      },
+      "modified": {
+        "flora_ash_grass_w_01": 6,
+        "flora_ashtree_01": 2,
+        "flora_ashtree_03": 2,
+        "flora_ashtree_04": 2,
+        "flora_ashtree_05": 1,
+        "flora_ashtree_06": 3,
+        "flora_ashtree_07": 3,
+        "terrain_rock_ma_02": 2,
+        "terrain_rock_ma_06": 1,
+        "terrain_rock_ma_07": 1,
+        "terrain_rock_ma_10": 1,
+        "terrain_rock_ma_53": 1,
+        "terrain_rock_ma_550": 1
+      }
+    },
     "Ownership Overhaul.esm": {
       "modified": {
         "de_p_chest_02_gold_25": 1
@@ -19,6 +111,14 @@
       "plugins": [
         "Ownership Overhaul.esm",
         "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::225291",
+      "object": "terrain_rock_ma_550",
+      "plugins": [
+        "Kogoruhn - Extinct City of Ash and Sulfur.esp",
+        "Markgran Forest.esp"
       ]
     }
   ]

@@ -1,0 +1,32 @@
+{
+  "cell": "0,5",
+  "plugins": {
+    "BeaconOfstRilms.ESP": {
+      "added": {
+        "ab_furn_redoranbanner_01": 1,
+        "ex_de_railing_03": 2,
+        "ex_r_trapdoor_01": 1,
+        "ex_redoran_hut_01_a": 1,
+        "ex_redoran_steps_01": 1,
+        "ex_redwall_arch_01": 2,
+        "ex_redwall_b_01": 3,
+        "ex_redwall_b_02": 2,
+        "ex_redwall_post_01": 1,
+        "light_fire_400": 1,
+        "str_flippedtower": 1,
+        "strt_de_set_bannersaintrilms_01": 1,
+        "strt_de_set_bannersaintrilms_02": 1,
+        "strt_nor_set_signalfirepile_02": 1
+      },
+      "modified": {
+        "terrain_rock_rm_07": 1,
+        "terrain_rock_rm_10": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_arm_spawn": 1
+      }
+    }
+  }
+}

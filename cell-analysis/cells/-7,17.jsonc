@@ -12,6 +12,21 @@
         "furn_de_ex_stool_02_nocol": 1
       }
     },
+    "Markgran Forest.esp": {
+      "added": {
+        "ab_in_mvcaveventsteam01": 2,
+        "ex_dwrv_ruin80": 1,
+        "flora_ash_log_02": 1,
+        "flora_ashtree_04": 2,
+        "flora_ashtree_07": 3,
+        "t_glb_var_skullguar_01": 1,
+        "t_mw_terrsulphurss_pool1024_01": 2,
+        "terrain_rock_rm_18": 1
+      },
+      "modified": {
+        "ex_wild_all_lev-1": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_solo_spawn_no_guard": 1

@@ -1,0 +1,96 @@
+{
+  "cell": "-6,16",
+  "plugins": {
+    "Dwemer Legacy Reforged - Bthungthumz and Druscashti.esp": {
+      "added": {
+        "ab_fx_lavafall00": 2,
+        "ex_dwrv_ruin40": 1,
+        "terrain_rock_rm_19": 1
+      },
+      "modified": {
+        "ex_wild_all_lev+0": 1,
+        "flora_ashtree_04": 1,
+        "flora_ashtree_07": 1,
+        "terrain_rock_ma_55": 1,
+        "terrain_rock_ma_550": 2,
+        "terrain_rock_ma_67": 1,
+        "terrain_rock_rm_15": 1,
+        "terrain_rock_rm_17": 1
+      }
+    },
+    "Markgran Forest.esp": {
+      "added": {
+        "ab_ex_dwrvbridgeendbroke": 3,
+        "ab_ex_dwrvdigger": 1,
+        "ab_ex_dwrvroadedge01": 3,
+        "ab_furn_bonealitcorpse02": 1,
+        "ab_fx_darkhole": 1,
+        "ab_in_mvcaveventsteam01": 2,
+        "ab_terr_alcliff_01": 2,
+        "ab_terr_alcliff_05": 2,
+        "contain_trama_shrub_01": 2,
+        "ex_dwrv_alcove00": 1,
+        "ex_dwrv_block20": 1,
+        "ex_dwrv_block30": 1,
+        "ex_dwrv_bridge00": 4,
+        "ex_dwrv_enter00": 1,
+        "ex_dwrv_header00": 1,
+        "ex_dwrv_pipe00": 2,
+        "ex_dwrv_pipe10": 1,
+        "ex_dwrv_ruin10": 1,
+        "ex_dwrv_ruin40": 1,
+        "ex_dwrv_ruin60": 3,
+        "ex_dwrv_ruin80": 1,
+        "ex_dwrv_wall60": 1,
+        "flora_ash_log_02": 1,
+        "flora_ashtree_04": 6,
+        "flora_ashtree_07": 2,
+        "in_dwrv_door_static00": 2,
+        "t_glb_var_skeletonmammothrib_02": 1,
+        "t_glb_var_skullkagouti_02": 1,
+        "t_mw_terrsulphurss_pool1024_01": 4,
+        "terrain_rock_rm_15": 1
+      },
+      "modified": {
+        "flora_ashtree_04": 4,
+        "flora_ashtree_07": 1,
+        "terrain_rock_ma_02": 1,
+        "terrain_rock_ma_55": 2,
+        "terrain_rock_ma_550": 1,
+        "terrain_rock_ma_67": 1,
+        "terrain_rock_rm_15": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  },
+  "conflicts": [
+    {
+      "ref": "morrowind::246129",
+      "object": "terrain_rock_ma_55",
+      "plugins": [
+        "Dwemer Legacy Reforged - Bthungthumz and Druscashti.esp",
+        "Markgran Forest.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::246145",
+      "object": "terrain_rock_ma_550",
+      "plugins": [
+        "Dwemer Legacy Reforged - Bthungthumz and Druscashti.esp",
+        "Markgran Forest.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::273669",
+      "object": "terrain_rock_rm_15",
+      "plugins": [
+        "Dwemer Legacy Reforged - Bthungthumz and Druscashti.esp",
+        "Markgran Forest.esp"
+      ]
+    }
+  ]
+}

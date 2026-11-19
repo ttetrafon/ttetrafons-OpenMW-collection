@@ -1,0 +1,40 @@
+{
+  "cell": "1,13",
+  "plugins": {
+    "RepopulatedMorrowind.ESM": {
+      "added": {
+        "gvrm_playerhunter_all": 1
+      }
+    },
+    "Kogoruhn - Extinct City of Ash and Sulfur.esp": {
+      "added": {
+        "ab_ex_derack02": 1,
+        "ab_f_dustcap_04": 1,
+        "ab_in_cavepyventsteam01": 1,
+        "ab_in_mvcavearch_02": 1,
+        "ex_ruin_40": 1,
+        "flora_ash_grass_w_01": 1,
+        "flora_rm_scathecraw_02": 1,
+        "in_om_statue2": 2,
+        "t_mw_flora_terrastree_02": 1,
+        "t_mw_flora_terrastree_03": 1,
+        "t_mw_floragm_empparasol_01": 1,
+        "t_mw_floragm_empparasol_04": 1
+      },
+      "modified": {
+        "flora_ashtree_06": 1,
+        "flora_rm_scathecraw_01": 2,
+        "terrain_rock_rm_13": 2,
+        "terrain_rock_rm_20": 1,
+        "tramaroot_01": 1,
+        "tramaroot_02": 1,
+        "tramaroot_03": 1
+      }
+    },
+    "Markgran Forest.esp": {
+      "added": {
+        "terrain_rock_rm_07": 1
+      }
+    }
+  }
+}
