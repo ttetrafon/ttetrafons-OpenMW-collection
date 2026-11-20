@@ -1,6 +1,11 @@
 {
   "cell": "5,13",
   "plugins": {
+    "Bal'laku - The Lonely Towers.esp": {
+      "added": {
+        "peakstar_glove": 1
+      }
+    },
     "Wares_traders.ESP": {
       "added": {
         "aa_wares_wise": 1

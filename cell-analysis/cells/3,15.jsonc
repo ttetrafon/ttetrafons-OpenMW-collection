@@ -1,6 +1,26 @@
 {
   "cell": "3,15",
   "plugins": {
+    "Bal'laku - The Lonely Towers.esp": {
+      "added": {
+        "ab_f_glowingmuscaria_01": 7,
+        "ab_f_glowingmuscaria_02": 5,
+        "ab_terr_alcliff_03": 1,
+        "ab_terr_alcliff_05": 2,
+        "ab_terr_ashpile_l": 1,
+        "ab_terr_ashpile_m": 2,
+        "ab_terr_rmcliff01": 2,
+        "dm_ballaku_mtpeak_01": 2,
+        "terrain_ashland_rock_12": 1
+      },
+      "modified": {
+        "ex_shore_cliffracer_lev+0": 1,
+        "flora_ash_log_04": 1,
+        "flora_fire_fern_01": 1,
+        "flora_rm_scathecraw_01": 1,
+        "terrain_rock_rm_17": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_solo_spawn_no_guard": 1

@@ -1,0 +1,57 @@
+{
+  "cell": "2,15",
+  "plugins": {
+    "Bal'laku - The Lonely Towers.esp": {
+      "added": {
+        "_hive_ballaku_door": 1,
+        "_hive_bridge_1": 1,
+        "_hive_tower_0": 1,
+        "_hive_tower_1": 1,
+        "ab_f_glowingmuscaria_01": 3,
+        "ab_f_glowingmuscaria_02": 3,
+        "ab_furn_ashlskull_01": 1,
+        "ab_furn_ashlskull_02": 1,
+        "ab_furn_ashlskull_03": 1,
+        "ab_furn_ropetiesmall": 4,
+        "ab_furn_ropeverticallong": 2,
+        "ab_light_delantpaperred01_256": 1,
+        "ab_light_delantpaperred02_256": 1,
+        "ab_terr_alcliff_01": 3,
+        "ab_terr_alcliff_02": 3,
+        "ab_terr_alcliff_03": 1,
+        "ab_terr_alcliff_04": 3,
+        "ab_terr_alrock_01": 1,
+        "ab_terr_ashpile_l": 7,
+        "ab_terr_ashpile_m": 2,
+        "corprus_stalker": 1,
+        "ex_ashl_banner": 1,
+        "ex_ashl_u_banner": 2,
+        "flora_ash_grass_b_01": 1,
+        "flora_ash_grass_w_01": 1,
+        "light_ashl_lantern_01": 3,
+        "light_ashl_lantern_02": 3,
+        "light_ashl_lantern_03": 3,
+        "sound_haunted00": 1
+      },
+      "modified": {
+        "terrain_ashland_rock_01": 1,
+        "terrain_ashland_rock_02": 1,
+        "terrain_ashland_rock_03": 1,
+        "terrain_ashland_rock_05": 1,
+        "terrain_ashland_rock_08": 1,
+        "terrain_ashland_rock_10": 1
+      }
+    },
+    "Baan_Binif.ESP": {
+      "added": {
+        "hive_guar_pack": 1,
+        "hive_merchant": 1
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_night_only_exterior_undea": 1
+      }
+    }
+  }
+}

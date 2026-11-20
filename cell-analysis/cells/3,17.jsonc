@@ -1,6 +1,33 @@
 {
   "cell": "3,17",
   "plugins": {
+    "Bal'laku - The Lonely Towers.esp": {
+      "added": {
+        "ab_ex_dwrvexhaust": 1,
+        "ab_f_fomentarius_01": 2,
+        "ab_f_fomentarius_02": 1,
+        "ab_f_fomentarius_03": 3,
+        "ab_f_glowingmuscaria_01": 5,
+        "ab_f_glowingmuscaria_02": 2,
+        "ab_fx_ashmirebubble": 2,
+        "ab_fx_ashmireseep": 1,
+        "ab_fx_blood01": 1,
+        "ab_fx_blood05": 2,
+        "ab_o_corpsefresh01loot": 1,
+        "ab_o_dwchestrare": 1,
+        "ab_terr_alcliff_01": 1,
+        "ab_terr_alcliff_02": 2,
+        "ab_terr_alcliff_04": 1,
+        "ab_w_dwrvarbalest": 1,
+        "dwemer_helm": 1,
+        "ex_siltstrider_01": 1,
+        "misc_dwrv_coin00": 2,
+        "steam_bluegreen": 1
+      },
+      "modified": {
+        "terrain_ashland_rock_05": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "gold_001": 4,

@@ -1,0 +1,63 @@
+{
+  "cell": "1,17",
+  "plugins": {
+    "Bal'laku - The Lonely Towers.esp": {
+      "added": {
+        "ab_a_impbmhelm": 1,
+        "ab_f_fomentarius_01": 3,
+        "ab_f_fomentarius_02": 4,
+        "ab_f_fomentarius_03": 2,
+        "ab_f_glowingmuscaria_01": 6,
+        "ab_f_glowingmuscaria_02": 4,
+        "ab_furn_ropeverticallong": 3,
+        "ab_fx_blood02": 1,
+        "ab_fx_crystalflakes": 1,
+        "ab_ingcrea_scribshell_01": 1,
+        "ab_ingflor_bloodgrass_01": 1,
+        "ab_ingmine_obsidian_01": 1,
+        "ab_ingmine_reddiamond": 1,
+        "ab_light_comcandleblue01_128": 1,
+        "ab_light_comcandleblue02_128": 2,
+        "ab_light_comcandleblue03_128": 1,
+        "ab_misc_ashlflute": 1,
+        "ab_misc_boneskelarmwristl": 1,
+        "ab_misc_boneskelfootr": 1,
+        "ab_misc_boneskelhandl": 1,
+        "ab_misc_boneskelskullnojaw": 1,
+        "ab_misc_pursecoin": 2,
+        "ab_o_satchelingfine": 1,
+        "ab_terr_alcliff_02": 3,
+        "ab_terr_alcliff_04": 1,
+        "ab_terr_ashpile_l": 1,
+        "ab_terr_ashpile_m": 1,
+        "ab_w_dreughdagger": 1,
+        "ab_w_silverrapiercrufla": 1,
+        "chitin dagger": 1,
+        "contain_corpse20": 5,
+        "furn_ashl_bugbowl_02": 1,
+        "gold_001": 1,
+        "gold_025": 1,
+        "gold_100": 1,
+        "ingred_cursed_daedras_heart_01": 1,
+        "kjs_corpse_kalintius": 1,
+        "kjs_the_lonely_towers": 1,
+        "light_ashl_lantern_05": 1,
+        "light_ashl_lantern_06": 4,
+        "light_com_candle_11_77": 1,
+        "p_reflection_q": 1,
+        "sound_haunted00": 1,
+        "terrain_cairn_al_02": 1,
+        "terrain_cairn_al_03": 1
+      },
+      "modified": {
+        "terrain_ashland_rock_06": 1,
+        "terrain_ashland_rock_08": 2
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

@@ -1,6 +1,11 @@
 {
   "cell": "12,-12",
   "plugins": {
+    "The Vestiges of Tukushapal.ESP": {
+      "added": {
+        "ex_velothi_loaddoor_01": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "barrel_01_empty": 1,

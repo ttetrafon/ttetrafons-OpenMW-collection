@@ -1,6 +1,19 @@
 {
   "cell": "1,15",
   "plugins": {
+    "Bal'laku - The Lonely Towers.esp": {
+      "added": {
+        "ab_terr_alcliff_01": 1,
+        "ab_terr_alcliff_02": 2,
+        "ab_terr_alcliff_04": 1
+      },
+      "modified": {
+        "terrain_ashland_rock_04": 1,
+        "terrain_ashland_rock_05": 2,
+        "terrain_ashland_rock_08": 2,
+        "terrain_ashland_rock_10": 2
+      }
+    },
     "Kogoruhn - Extinct City of Ash and Sulfur.esp": {
       "added": {
         "ab_terr_alcliff_02": 1,

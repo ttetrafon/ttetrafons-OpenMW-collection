@@ -1,0 +1,62 @@
+{
+  "cell": "Tukushapal, Sepulcher",
+  "name": "Tukushapal, Sepulcher",
+  "plugins": {
+    "AATL Mini Integration - Static Encounters.ESP": {
+      "added": {
+        "aatl_art_dae_pot_em": 1,
+        "aatl_con_dae_coffer01_m": 1,
+        "ab_o_corpse10flies": 1
+      }
+    },
+    "The Vestiges of Tukushapal.ESP": {
+      "added": {
+        "ab_a_chitinhlahelm01": 1,
+        "ab_door_darkness": 1,
+        "ab_ex_velfoundcobblerubbleedge": 20,
+        "ab_ex_velwallcity1024": 5,
+        "ab_ex_velwallcitycolumn01": 3,
+        "ab_ex_velwallcitycolumn02": 3,
+        "ab_furn_dngchainsmall512": 54,
+        "ab_in_cavepycliff01": 1,
+        "ab_in_cavepycliff02": 1,
+        "ab_in_cavepycliff03": 91,
+        "ab_in_cavepycliff04": 5,
+        "ab_in_cavepycliff05": 20,
+        "ab_in_cavepyrock08": 17,
+        "ab_in_cavepyrock10": 4,
+        "ab_in_cavepyrocks01": 14,
+        "ab_in_cavepyrocks02": 13,
+        "ab_in_cavepyrocks03": 32,
+        "ab_in_cavepyventsteam01": 7,
+        "ab_in_cavepyventsteam02": 5,
+        "ab_o_corpse10": 1,
+        "ab_w_chitinlongsword": 1,
+        "atronach_flame": 1,
+        "blue water ref 512_ripple": 1,
+        "chitin_towershield": 1,
+        "ex_velothi_entrance_02": 1,
+        "ex_velothi_loaddoor_01": 1,
+        "light_fire_400": 3,
+        "p_drain_intelligence_q": 1,
+        "p_feather_e": 1,
+        "p_fire_shield_q": 1,
+        "rock_ebony_06": 3,
+        "slf_mv_py_cliff_07": 29,
+        "slf_mv_py_mt_01": 33,
+        "slf_mv_statue_04": 3,
+        "slf_mv_v_stairs_wide": 1,
+        "slf_mv_velothibrazier_500": 14,
+        "sound_cave_drip00": 2,
+        "sound_cave_wind00": 1,
+        "sound_spirit_whisper00": 1
+      },
+      "modified": {
+        "blue water ref 512_ripple": 1,
+        "furn_mist512": 1,
+        "in_velothismall_ndoor_01": 1,
+        "northmarker": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "cell": "2,17",
+  "plugins": {
+    "Bal'laku - The Lonely Towers.esp": {
+      "added": {
+        "ab_f_fomentarius_01": 1,
+        "ab_f_fomentarius_02": 2,
+        "ab_f_fomentarius_03": 2,
+        "ab_f_glowingmuscaria_01": 1,
+        "ab_f_glowingmuscaria_02": 1,
+        "ab_terr_alcliff_01": 1,
+        "ab_terr_alcliff_02": 1,
+        "ab_terr_alcliff_04": 1,
+        "ab_terr_ashpile_m": 1,
+        "ex_siltstrider_02": 1,
+        "nix-hound blighted": 1
+      },
+      "modified": {
+        "terrain_ashland_rock_04": 2,
+        "terrain_ashland_rock_05": 5,
+        "terrain_ashland_rock_06": 1,
+        "terrain_ashland_rock_08": 3,
+        "terrain_ashland_rock_09": 2,
+        "terrain_ashland_rock_10": 5
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "xero_marker": 1,
+        "xero_north_barrel": 1
+      }
+    },
+    "Baan_Binif.ESP": {
+      "modified": {
+        "flora_ashtree_01": 1,
+        "terrain_ashland_rock_05": 1
+      }
+    }
+  }
+}

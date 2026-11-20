@@ -1,0 +1,46 @@
+{
+  "cell": "3,16",
+  "plugins": {
+    "Bal'laku - The Lonely Towers.esp": {
+      "added": {
+        "ab_c_commonshirt05l": 1,
+        "ab_f_fomentarius_01": 1,
+        "ab_f_fomentarius_02": 1,
+        "ab_f_fomentarius_03": 3,
+        "ab_f_glowingmuscaria_01": 4,
+        "ab_f_glowingmuscaria_02": 5,
+        "ab_furn_ropeverticallong": 1,
+        "ab_furn_ropewashhalf01": 1,
+        "ab_o_corpsefresh04": 1,
+        "ab_o_corpsefresh04loot": 1,
+        "ab_o_corpsefresh05": 1,
+        "ab_terr_alcliff_01": 1,
+        "ab_terr_alcliff_02": 6,
+        "ab_terr_alcliff_04": 2,
+        "ab_terr_alrock_01": 1,
+        "ab_terr_ashpile_l": 2,
+        "ab_terr_ashpile_m": 1,
+        "com_sack_02_pos": 1,
+        "common_pants_01_u": 1,
+        "common_pants_03": 1,
+        "common_shoes_01": 2,
+        "ex_siltstrider_03": 1,
+        "ex_siltstrider_04": 1,
+        "ex_siltstrider_05": 1,
+        "furn_rope_hook": 1,
+        "furn_rope_hooks": 1,
+        "light_ashl_lantern_03": 2,
+        "terrain_ashland_rock_08": 1
+      },
+      "modified": {
+        "flora_trama_shrub_05": 1,
+        "terrain_ashland_rock_08": 6
+      }
+    },
+    "RepopulatedMorrowind_OAAB_Data.ESP": {
+      "added": {
+        "gvrm_trvsr_ash": 1
+      }
+    }
+  }
+}

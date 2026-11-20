@@ -1,0 +1,44 @@
+{
+  "cell": "12,-14",
+  "plugins": {
+    "Arnchenzel_Dwemer Underwater House.ESP": {
+      "added": {
+        "ab_ex_dwrvruin10intact": 1,
+        "ab_flora_goldreedgrass": 6,
+        "ab_in_dwrvrubble01": 1,
+        "ab_terr_acmtridge02": 2,
+        "ab_terr_acrocks_03": 10,
+        "active_bubbles00": 1,
+        "blue coast ref 1024": 2,
+        "ex_barnacles_02": 6,
+        "ex_barnacles_03": 2,
+        "ex_dwrv_block30": 4,
+        "ex_dwrv_wall60": 1,
+        "ex_t_menhir_l_01": 7,
+        "flora_kelp_01": 4,
+        "flora_kelp_02": 2,
+        "flora_kelp_03": 2,
+        "in_cave_plant00": 4
+      },
+      "modified": {
+        "blue coast ref 1024": 1,
+        "ex_barnacles_02": 3,
+        "ex_barnacles_03": 1,
+        "ex_t_menhir_l_01": 6,
+        "flora_kelp_01": 2,
+        "flora_kelp_02": 1,
+        "flora_kelp_03": 1,
+        "in_cave_plant00": 2
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "misc_com_bottle_08": 4,
+        "xero_east_crate": 1,
+        "xero_furn_crate_lid_01": 1,
+        "xero_furn_crate_open_01": 1,
+        "xero_marker": 1
+      }
+    }
+  }
+}
