@@ -1,0 +1,26 @@
+{
+  "cell": "9,5",
+  "plugins": {
+    "The Song of the Grazelands.ESP": {
+      "added": {
+        "ab_terr_alcliff_05": 1,
+        "ab_terr_glcliff04": 1,
+        "ab_terr_glcliff05": 2,
+        "ab_terr_rmcliff01": 1,
+        "ab_terr_rmcliff02": 2,
+        "terrain_rock_rm_15": 1,
+        "terrain_rocks_gl_01": 3
+      },
+      "modified": {
+        "terrain_rocks_gl_02": 1
+      }
+    },
+    "Where the Clouds Rest.ESP": {
+      "added": {
+        "_neth_netch_bull": 1,
+        "act_crystal_02_pulse": 1,
+        "flora_bc_fern_01": 2
+      }
+    }
+  }
+}

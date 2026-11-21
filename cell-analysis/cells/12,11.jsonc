@@ -1,6 +1,16 @@
 {
   "cell": "12,11",
   "plugins": {
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "ab_flora_goldreed01": 2,
+        "ab_flora_goldreed02": 2,
+        "ab_flora_goldreed03": 1,
+        "ab_flora_goldreedgrass": 3,
+        "ab_flora_goldreedgroup02": 1,
+        "ab_flora_goldreedgroup03": 1
+      }
+    },
     "Wares_traders.ESP": {
       "added": {
         "aa_wares_wise": 1

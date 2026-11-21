@@ -1,6 +1,12 @@
 {
   "cell": "13,7",
   "plugins": {
+    "Sea Dog Tavern.esp": {
+      "added": {
+        "ex_de_oar": 2,
+        "ex_de_rowboat": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_east_sack": 1,

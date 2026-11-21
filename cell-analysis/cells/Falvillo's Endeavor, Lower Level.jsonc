@@ -2,6 +2,28 @@
   "cell": "Falvillo's Endeavor, Lower Level",
   "name": "Falvillo's Endeavor, Lower Level",
   "plugins": {
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "ab_door_deshipdoorlower": 1,
+        "ab_furn_ropelargecoil01": 1,
+        "ab_furn_ropelargecoil02": 1,
+        "ab_in_deshipdoorjamlower": 1,
+        "abtv_falvilocrew3": 1,
+        "abtv_o_cratehlaaluebony": 3,
+        "apparatus_a_spipe_01": 1,
+        "ex_de_docks_steps": 1
+      },
+      "modified": {
+        "ab_in_deshiplower": 1,
+        "barrel_01": 3,
+        "barrel_02": 1,
+        "com_chest_11_k01": 2,
+        "crate_01": 1,
+        "crate_01_empty": 4,
+        "furn_de_shack_basket_01": 1,
+        "light_de_lantern_06a": 2
+      }
+    },
     "Ownership Overhaul.esm": {
       "modified": {
         "barrel_01": 3,
@@ -31,6 +53,7 @@
       "object": "barrel_02",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -47,6 +70,7 @@
       "object": "crate_01",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -55,6 +79,7 @@
       "object": "crate_01_empty",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -63,6 +88,7 @@
       "object": "barrel_01",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -71,6 +97,7 @@
       "object": "com_chest_11_k01",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -79,6 +106,7 @@
       "object": "com_chest_11_k01",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -87,6 +115,7 @@
       "object": "crate_01_empty",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -95,6 +124,7 @@
       "object": "crate_01_empty",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -103,6 +133,7 @@
       "object": "crate_01_empty",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -111,6 +142,7 @@
       "object": "barrel_01",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -119,6 +151,7 @@
       "object": "barrel_01",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -127,6 +160,7 @@
       "object": "light_de_lantern_06a",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -135,6 +169,7 @@
       "object": "light_de_lantern_06a",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     }

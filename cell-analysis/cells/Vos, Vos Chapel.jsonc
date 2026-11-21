@@ -29,6 +29,39 @@
         "am_cleaner14": 1
       }
     },
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "ab_furn_velrubble04": 58,
+        "ab_misc_combottle_03": 1,
+        "in_lava_blacksquare": 7
+      },
+      "modified": {
+        "ab_in_velsmallhallruin02": 1,
+        "ab_o_deplndeskwriting": 1,
+        "ab_o_deplndrawersclothm": 1,
+        "ab_o_sackflating": 2,
+        "ab_o_sacklargefood": 4,
+        "ab_o_urn03food": 1,
+        "ab_o_urn04food": 1,
+        "ab_o_urn05food": 1,
+        "bk_varietiesoffaithintheempire": 1,
+        "common_robe_01": 1,
+        "eldrilu dalen": 1,
+        "furn_de_rug_big_07": 1,
+        "furn_de_rug_big_08": 1,
+        "in_velothismall_ndoor_01": 1,
+        "light_de_candle_blue_01_64": 3,
+        "misc_com_bottle_05": 1,
+        "misc_com_bottle_07": 1,
+        "misc_com_bottle_10": 1,
+        "misc_com_bottle_14": 1,
+        "misc_com_metal_plate_04": 1,
+        "misc_com_metal_plate_05": 1,
+        "misc_com_wood_fork": 1,
+        "misc_de_bowl_redware_01": 1,
+        "potion_comberry_wine_01": 3
+      }
+    },
     "Wares_traders.ESP": {
       "added": {
         "aa_wares_priest": 1

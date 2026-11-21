@@ -8,6 +8,11 @@
         "rp_telvanni_crate": 1
       }
     },
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "abgh_guarhidesberwen": 2
+      }
+    },
     "Wares_traders.ESP": {
       "added": {
         "aa_wares_trader": 1

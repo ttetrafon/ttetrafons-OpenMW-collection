@@ -1,6 +1,64 @@
 {
   "cell": "9,9",
   "plugins": {
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "terrain_rock_rm_01": 1,
+        "terrain_rock_rm_09": 1,
+        "terrain_rock_rm_10": 1
+      }
+    },
+    "The Song of the Grazelands.ESP": {
+      "added": {
+        "ab_f_hacklelo3_o": 7,
+        "ab_f_hacklelo4_o": 6,
+        "ab_f_hacklelo5_o": 4,
+        "ab_f_hacklelo6_o": 2,
+        "ab_furn_racernest": 1,
+        "ab_furn_ropetiesmall": 2,
+        "ab_furn_ropeverticallong": 1,
+        "ab_misc_decloth02large": 1,
+        "ab_o_corpse10": 1,
+        "ab_o_packnetchsmuggler": 1,
+        "ab_terr_glcliffgrass02": 1,
+        "ab_terr_glcliffgrass03": 15,
+        "ab_terr_glcliffgrass04": 2,
+        "apparatus_a_spipe_01": 1,
+        "com_sack_02_gold_100": 1,
+        "ex_ashl_z_banner_r": 3,
+        "flora_wickwheat_01": 13,
+        "flora_wickwheat_02": 1,
+        "flora_wickwheat_03": 37,
+        "flora_wickwheat_04": 61,
+        "food_kwama_egg_01": 2,
+        "ingred_moon_sugar_01": 1,
+        "light_ashl_lantern_02": 2,
+        "terrain_rock_gl_05": 1,
+        "terrain_rocks_gl_01": 10,
+        "terrain_rocks_gl_03": 23
+      },
+      "modified": {
+        "flora_hackle-lo_01": 6,
+        "flora_hackle-lo_02": 4,
+        "flora_tree_gl_09": 1,
+        "flora_wickwheat_03": 2,
+        "flora_wickwheat_04": 5,
+        "terrain_rock_gl_01": 1,
+        "terrain_rock_gl_02": 1,
+        "terrain_rock_gl_03": 1,
+        "terrain_rock_gl_04": 3,
+        "terrain_rock_gl_05": 1,
+        "terrain_rock_gl_06": 1,
+        "terrain_rock_gl_07": 2,
+        "terrain_rock_gl_08": 3,
+        "terrain_rock_gl_09": 2,
+        "terrain_rock_gl_11": 2,
+        "terrain_rock_gl_12": 3,
+        "terrain_rocks_gl_01": 2,
+        "terrain_rocks_gl_03": 1,
+        "terrain_rocks_gl_04": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_ex_tomb70_spawn": 1

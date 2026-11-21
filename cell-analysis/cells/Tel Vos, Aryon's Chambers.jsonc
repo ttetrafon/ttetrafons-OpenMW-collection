@@ -18,6 +18,35 @@
         "furn_de_cushion_square_01": 1
       }
     },
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "abtv_act_aryon": 1,
+        "in_lava_blacksquare": 6,
+        "light_de_candle_07_64": 1,
+        "misc_com_plate_08": 8,
+        "misc_com_silverware_fork": 4,
+        "misc_com_silverware_knife": 4,
+        "misc_com_silverware_spoon": 4,
+        "misc_de_goblet_06": 7,
+        "misc_de_pitcher_01": 1
+      },
+      "modified": {
+        "ab_o_combasket01pos": 3,
+        "ab_o_derchchest01gold": 2,
+        "ab_o_derchclosetclothm": 1,
+        "ab_o_derchdrawersclothm": 1,
+        "ab_o_sackflatfood": 4,
+        "ab_o_sacklargefood": 3,
+        "ab_o_sacklargeing": 1,
+        "ab_o_sacklargepos": 2,
+        "ab_o_urn03food": 1,
+        "ab_o_urn05food": 1,
+        "in_t_l_door_01": 1,
+        "misc_com_redware_bowl": 1,
+        "misc_flask_01": 1,
+        "misc_imp_silverware_bowl": 1
+      }
+    },
     "Friends & Frens - Vvardenfell.ESP": {
       "added": {
         "aa_comp_vasgood": 1

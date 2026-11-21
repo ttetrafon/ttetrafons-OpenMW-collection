@@ -1,6 +1,16 @@
 {
   "cell": "12,9",
   "plugins": {
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "terrain_rocks_gl_02": 1,
+        "terrain_rocks_gl_04": 1
+      },
+      "modified": {
+        "terrain_rocks_gl_02": 1,
+        "terrain_rocks_gl_04": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_ex_tomb70_spawn": 1,

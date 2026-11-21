@@ -1,6 +1,21 @@
 {
   "cell": "14,8",
   "plugins": {
+    "Sea Dog Tavern.esp": {
+      "added": {
+        "a_ex_de_rowboat": 1,
+        "com_sack_01_ingred": 3,
+        "com_sack_02_ingred": 1,
+        "ex_de_docks_center": 1,
+        "ex_de_docks_centerb": 2,
+        "ex_de_docks_end": 1,
+        "ex_de_docks_endc": 1,
+        "ex_de_docks_steps_01": 1,
+        "ex_de_oar": 2,
+        "ex_longboat01": 1,
+        "light_com_lantern_01": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_east_sack": 1,

@@ -1,6 +1,20 @@
 {
   "cell": "17,-8",
   "plugins": {
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "abtv_act_odirtelpodbud03": 8,
+        "abtv_act_odirtelrootgate": 9,
+        "abtv_act_odirtelroothook": 6,
+        "abtv_act_odirtelrootspikes": 4,
+        "abtv_act_odirtelrootxl02": 2,
+        "abtv_act_odirteltowersprout": 1,
+        "flora_t_podbud_03": 1
+      },
+      "modified": {
+        "abtv_act_odirtelpodbud03": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_east_chest": 1,

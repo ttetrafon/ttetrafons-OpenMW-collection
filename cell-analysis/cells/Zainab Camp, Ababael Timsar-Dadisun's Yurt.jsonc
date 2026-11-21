@@ -2,6 +2,11 @@
   "cell": "Zainab Camp, Ababael Timsar-Dadisun's Yurt",
   "name": "Zainab Camp, Ababael Timsar-Dadisun's Yurt",
   "plugins": {
+    "The Song of the Grazelands.ESP": {
+      "added": {
+        "jop_oil_paints_01": 1
+      }
+    },
     "Wares_traders.ESP": {
       "added": {
         "aa_wares_trader_ash": 1

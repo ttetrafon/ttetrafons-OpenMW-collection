@@ -1,0 +1,66 @@
+{
+  "cell": "8,6",
+  "plugins": {
+    "The Song of the Grazelands.ESP": {
+      "added": {
+        "ab_ex_dwrvalcovegl_01": 1,
+        "ab_ex_dwrvbuildcorn": 4,
+        "ab_ex_dwrvbuilddome": 1,
+        "ab_ex_dwrvbuildentry": 1,
+        "ab_ex_dwrvbuildside0512": 3,
+        "ab_f_hacklelo3_o": 1,
+        "ab_f_hacklelo4_o": 2,
+        "ab_f_hacklelo5_o": 1,
+        "ab_f_hacklelo6_o": 5,
+        "ab_light_dwrvcart": 1,
+        "ab_o_dwchestweap": 1,
+        "ab_terr_alcliff_05": 1,
+        "ab_terr_glcliff05": 2,
+        "ab_terr_glcliffgrass03": 7,
+        "ab_terr_rmcliff02": 1,
+        "door_dwe_00_exp": 1,
+        "ex_dwrv_pipe10": 2,
+        "ex_dwrv_ruin00": 1,
+        "ex_dwrv_ruin20": 1,
+        "ex_dwrv_steamstack00": 1,
+        "ex_dwrv_wall20": 1,
+        "ex_dwrv_wall30": 1,
+        "ex_dwrv_wall40": 1,
+        "ex_sheogorad_lev+2": 1,
+        "flora_tree_gl_04": 1,
+        "flora_wickwheat_01": 1,
+        "flora_wickwheat_03": 14,
+        "flora_wickwheat_04": 24,
+        "in_lava_blacksquare": 1,
+        "miner's pick": 1,
+        "misc_dwrv_gear00": 1,
+        "terrain_rock_gl_04": 1,
+        "terrain_rock_gl_11": 2,
+        "terrain_rock_gl_12": 1,
+        "terrain_rock_rm_17": 2,
+        "terrain_rocks_gl_02": 1,
+        "terrain_rocks_gl_03": 9,
+        "terrain_rocks_gl_04": 1
+      },
+      "modified": {
+        "terrain_rocks_gl_02": 1
+      }
+    },
+    "Where the Clouds Rest.ESP": {
+      "added": {
+        "_arh_barrel_scroll": 1,
+        "_arh_photodragons": 1,
+        "_arh_sm_float_island02": 1,
+        "_arh_wtcr_ttp3": 1,
+        "act_crystal_02_pulse": 3,
+        "flora_bc_fern_01": 36,
+        "flora_tree_mh_01": 3,
+        "flora_tree_mh_02": 4,
+        "light_mh_streetlamp_01": 1
+      },
+      "modified": {
+        "terrain_rock_rm_15": 1
+      }
+    }
+  }
+}

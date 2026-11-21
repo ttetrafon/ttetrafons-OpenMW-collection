@@ -1,0 +1,42 @@
+{
+  "cell": "Vos, Maela Kaushad's Farmhouse",
+  "name": "Vos, Maela Kaushad's Farmhouse",
+  "plugins": {
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "ab_ingfood_bread01a": 1,
+        "ab_ingfood_bread01b": 1,
+        "ab_ingfood_kwamaeggcentcut": 1,
+        "ab_ingfood_wickwheatdumpling": 3,
+        "ab_misc_combottle_01": 1,
+        "ab_misc_debluefork_01": 2,
+        "ab_misc_deblueknife_01": 2,
+        "ab_misc_debluespoon_01": 2,
+        "ab_misc_hairbrush": 1,
+        "ab_misc_hourglasspewter": 1,
+        "abtv_key_storehouse": 1,
+        "ex_velothi_window_01": 2
+      },
+      "modified": {
+        "ab_o_deplndrawersclothm": 1,
+        "ab_o_sackflatfood": 2,
+        "ab_o_urn03food": 1,
+        "ab_o_urn05food": 1,
+        "common_ring_03": 1,
+        "gold_001": 4,
+        "gold_005": 2,
+        "in_velothismall_ndoor_01": 1,
+        "ingred_bread_01": 2,
+        "light_de_candle_07_64": 1,
+        "misc_com_plate_06": 1,
+        "misc_de_bowl_bugdesign_01": 1,
+        "p_restore_endurance_c": 2
+      }
+    },
+    "Wares_traders.ESP": {
+      "added": {
+        "aa_wares_wise": 1
+      }
+    }
+  }
+}

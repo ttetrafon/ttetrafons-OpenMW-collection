@@ -1,0 +1,18 @@
+{
+  "cell": "8,14",
+  "plugins": {
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "terrain_rocks_gl_01": 4,
+        "terrain_rocks_gl_02": 1,
+        "terrain_rocks_gl_03": 2
+      }
+    },
+    "Creatures and Critters.ESP": {
+      "added": {
+        "aa_cr_i_butterlfy_gz": 1,
+        "aa_cr_night_only_exterior_berne": 1
+      }
+    }
+  }
+}

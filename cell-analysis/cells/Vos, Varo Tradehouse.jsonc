@@ -2,6 +2,52 @@
   "cell": "Vos, Varo Tradehouse",
   "name": "Vos, Varo Tradehouse",
   "plugins": {
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "ab_dri_musa": 1,
+        "ab_misc_combottle_02": 3,
+        "ab_misc_combottle_03": 2,
+        "ab_misc_deblueflask_02": 1,
+        "ab_o_crate01food": 1,
+        "ab_o_urn05food": 1,
+        "abtv_act_varoscuttlecounter": 1,
+        "abtv_fau_ratvaroinfest": 1,
+        "abtv_note_noticebedbandits": 1,
+        "abtv_note_noticebeware": 1,
+        "abtv_note_noticebounty": 1,
+        "abtv_note_noticemereater": 1,
+        "abtv_note_noticemissing": 1,
+        "abtv_note_noticesmith": 1,
+        "furn_de_rope_07": 9,
+        "in_lava_blacksquare": 7,
+        "misc_com_bucket_01": 1,
+        "misc_com_wood_spoon_01": 1
+      },
+      "modified": {
+        "ab_o_crate01bottles": 1,
+        "ab_o_sackflatfood": 1,
+        "ab_o_sackflating": 1,
+        "ab_o_sacklargepos": 3,
+        "ab_o_urn03ing": 1,
+        "ab_o_urn04ing": 1,
+        "abtv_o_moratrader": 1,
+        "active_de_p_bed_04": 1,
+        "com_sack_02_chpfood3": 2,
+        "in_t_s_plain_door": 2,
+        "light_de_candle_01": 1,
+        "misc_com_bottle_05": 1,
+        "misc_com_bottle_06": 1,
+        "misc_com_bottle_08": 1,
+        "misc_com_tankard_01": 5,
+        "misc_de_bowl_01": 2
+      }
+    },
+    "The Song of the Grazelands.ESP": {
+      "added": {
+        "furn_de_rope_07": 1,
+        "kjs_varo_notice": 1
+      }
+    },
     "Wares_traders.ESP": {
       "added": {
         "aa_wares_baker": 1,
@@ -79,6 +125,7 @@
       "object": "active_de_p_bed_04",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     }

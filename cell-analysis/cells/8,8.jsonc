@@ -1,0 +1,64 @@
+{
+  "cell": "8,8",
+  "plugins": {
+    "The Song of the Grazelands.ESP": {
+      "added": {
+        "ab_f_glowingmuscaria_01": 1,
+        "ab_f_glowingmuscaria_02": 2,
+        "ab_f_hacklelo3_o": 1,
+        "ab_f_hacklelo4_o": 4,
+        "ab_f_hacklelo5_o": 2,
+        "ab_f_hacklelo6_o": 4,
+        "ab_furn_boneguarskull": 2,
+        "ab_fx_blood02": 2,
+        "ab_in_bonepile01": 2,
+        "ab_in_bonepile02": 1,
+        "ab_misc_bone": 10,
+        "ab_misc_boneracerskull": 2,
+        "ab_o_corpse20flies": 1,
+        "ab_o_corpsearg02": 1,
+        "ab_o_corpsefresh03": 1,
+        "ab_o_satchelingfine": 1,
+        "ab_terr_alcliff_05": 1,
+        "ab_terr_alcliff_06": 1,
+        "ab_terr_dirtpile_m": 1,
+        "ab_terr_dirtpile_s": 9,
+        "ab_terr_glcliffgrass03": 12,
+        "ab_terr_glcliffgrass04": 1,
+        "ab_terr_rmcliff01": 2,
+        "ab_terr_rmcliff02": 2,
+        "flora_tree_gl_10": 1,
+        "flora_wickwheat_01": 2,
+        "flora_wickwheat_03": 7,
+        "flora_wickwheat_04": 14,
+        "ingred_emerald_01": 1,
+        "jop_oil_paints_01": 1,
+        "kagouti": 2,
+        "miner's pick": 1,
+        "steel flamesword": 1,
+        "terrain_rock_gl_11": 1,
+        "terrain_rocks_gl_01": 2,
+        "terrain_rocks_gl_03": 15
+      },
+      "modified": {
+        "ex_grazelands_lev+0": 1,
+        "ex_grazelands_lev+2": 2,
+        "flora_hackle-lo_01": 1,
+        "flora_hackle-lo_02": 1,
+        "flora_wickwheat_01": 2,
+        "flora_wickwheat_03": 10,
+        "flora_wickwheat_04": 17,
+        "terrain_rock_gl_02": 1,
+        "terrain_rock_gl_03": 1,
+        "terrain_rock_gl_07": 1,
+        "terrain_rock_gl_11": 1,
+        "terrain_rocks_gl_01": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1
+      }
+    }
+  }
+}

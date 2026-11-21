@@ -1,6 +1,45 @@
 {
   "cell": "11,9",
   "plugins": {
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "ab_f_hacklelo3_o": 2,
+        "ab_f_hacklelo4_o": 2,
+        "ab_f_hacklelo5_o": 3,
+        "ab_f_hacklelo6_o": 18,
+        "flora_hackle-lo_01": 4,
+        "flora_hackle-lo_02": 3,
+        "furn_de_firepit": 1,
+        "furn_log_03": 1,
+        "furn_log_04": 5,
+        "light_fire_400": 1,
+        "terrain_rock_gl_07": 1,
+        "terrain_rock_gl_12": 2,
+        "terrain_rocks_gl_01": 3,
+        "terrain_rocks_gl_03": 2
+      },
+      "modified": {
+        "flora_hackle-lo_01": 1,
+        "flora_hackle-lo_02": 1,
+        "terrain_rock_gl_12": 2,
+        "terrain_rocks_gl_01": 1,
+        "terrain_rocks_gl_03": 1
+      }
+    },
+    "Thickle-Lo Grove.ESP": {
+      "added": {
+        "ab_f_hacklelo3_o": 2,
+        "ab_f_hacklelo4_o": 1,
+        "ab_f_hacklelo6_o": 1,
+        "ab_fau_siltstrider01": 2,
+        "ab_terr_glcliff03": 1,
+        "ab_terr_glcliff04": 1,
+        "flora_hackle-lo_01": 1,
+        "flora_hackle-lo_02": 1,
+        "flora_tree_gl_04": 2,
+        "flora_tree_gl_05": 4
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_solo_spawn_no_guard": 1,

@@ -1,6 +1,48 @@
 {
   "cell": "9,8",
   "plugins": {
+    "The Song of the Grazelands.ESP": {
+      "added": {
+        "ab_f_hacklelo3_o": 2,
+        "ab_f_hacklelo4_o": 6,
+        "ab_f_hacklelo5_o": 3,
+        "ab_f_hacklelo6_o": 4,
+        "ab_furn_ashlbowl": 1,
+        "ab_misc_ashlflute": 1,
+        "ab_misc_boneskelskullupper": 1,
+        "ab_misc_wickwheatbundle": 1,
+        "ab_terr_glcliffgrass02": 1,
+        "ab_terr_glcliffgrass03": 7,
+        "ab_terr_glcliffgrass04": 2,
+        "ex_ashl_banner": 1,
+        "ex_ashl_z_banner": 1,
+        "firebite dagger": 1,
+        "flora_hackle-lo_02": 2,
+        "flora_tree_gl_01": 1,
+        "flora_tree_gl_04": 1,
+        "flora_tree_gl_07": 1,
+        "flora_wickwheat_01": 1,
+        "flora_wickwheat_03": 29,
+        "flora_wickwheat_04": 50,
+        "furn_ashl_bugbowl_01": 1,
+        "furn_ashl_bugbowl_03": 1,
+        "furn_de_ashl_post": 2,
+        "furn_hook_01": 2,
+        "ingred_hackle-lo_leaf_01": 1,
+        "light_ashl_lantern_02": 4,
+        "terrain_rock_gl_04": 1,
+        "terrain_rock_gl_11": 2,
+        "terrain_rocks_gl_01": 3,
+        "terrain_rocks_gl_02": 1,
+        "terrain_rocks_gl_03": 11
+      },
+      "modified": {
+        "ex_grazelands_lev-1": 1,
+        "flora_tree_gl_10": 1,
+        "flora_wickwheat_04": 1,
+        "terrain_rocks_gl_01": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_pilgrim_spawn": 1,

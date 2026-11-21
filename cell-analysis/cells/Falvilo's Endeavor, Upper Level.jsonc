@@ -2,6 +2,90 @@
   "cell": "Falvilo's Endeavor, Upper Level",
   "name": "Falvilo's Endeavor, Upper Level",
   "plugins": {
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "ab_door_deshipdoorlower": 1,
+        "ab_fau_ratpassive": 2,
+        "ab_furn_ropelargecoil04": 1,
+        "ab_in_deshipdoorjamlower": 1,
+        "ab_in_deshipdoorjamupper": 1,
+        "ab_in_deshipfence00": 3,
+        "ab_in_deshipfence01": 3,
+        "ab_in_deshipfence02": 2,
+        "ab_in_deshippost": 2,
+        "ab_in_deshipsteps": 1,
+        "ab_in_deshiptable": 4,
+        "ab_in_deshipwallent": 1,
+        "ab_in_deshipwallhalf": 2,
+        "ab_misc_combottle_01": 1,
+        "ab_misc_combottle_02": 1,
+        "ab_misc_compewtercup\\u001f_01": 1,
+        "ab_o_barrel01ing": 1,
+        "ab_o_crate01bottles": 1,
+        "ab_o_crate02food": 1,
+        "ab_o_sackbentfood": 2,
+        "abtv_falvilocrew1": 1,
+        "abtv_falvilocrew2": 1,
+        "furn_de_p_bench_04": 1,
+        "furn_de_rope2_01": 3,
+        "furn_de_rope_06": 4
+      },
+      "modified": {
+        "ab_in_deshipupper": 1,
+        "ab_o_barrel01ing": 1,
+        "ab_o_barrel01pos": 1,
+        "ab_o_comchestwornclothf": 1,
+        "ab_o_comchestwornmsugar": 3,
+        "ab_o_crate01food": 2,
+        "ab_o_sackflatfood": 1,
+        "active_de_bed_29": 1,
+        "active_de_bed_30": 1,
+        "barrel_01": 1,
+        "barrel_01_ashyams": 1,
+        "barrel_01_empty": 1,
+        "barrel_01_moonsugar": 1,
+        "barrel_01_saltrice": 2,
+        "barrel_02": 1,
+        "bk_abcs": 1,
+        "chest_small_02_ingfine2": 1,
+        "com_chest_11_k01": 1,
+        "com_sack_01_chpfood5": 2,
+        "com_sack_01_moon sugar5": 2,
+        "com_sack_01_saltrice_10": 1,
+        "common_belt_03": 1,
+        "common_pants_02": 2,
+        "common_shirt_02": 1,
+        "common_shirt_02_h": 1,
+        "common_shirt_03": 1,
+        "common_shoes_05": 1,
+        "crate_01_apparatus": 1,
+        "crate_01_armor_leather": 1,
+        "crate_01_eggs": 1,
+        "crate_01_empty": 3,
+        "crate_02_pillows": 1,
+        "furn_com_p_shelf_03": 1,
+        "furn_com_pm_stool_02": 3,
+        "furn_de_p_bench_04": 2,
+        "gold_001": 1,
+        "ingred_hound_meat_01": 1,
+        "light_com_candle_05_off": 1,
+        "light_com_candle_07_128": 1,
+        "light_com_lantern_02_177_boat01": 2,
+        "light_de_lantern_01": 1,
+        "light_de_lantern_06a": 6,
+        "misc_com_bottle_13": 1,
+        "misc_com_bottle_14": 1,
+        "misc_com_broom_01": 2,
+        "misc_com_bucket_01": 2,
+        "misc_com_metal_goblet_01": 1,
+        "misc_com_metal_plate_05": 1,
+        "misc_com_wood_cup_01": 1,
+        "misc_com_wood_fork": 2,
+        "misc_com_wood_knife": 2,
+        "misc_hook": 12,
+        "potion_local_liquor_01": 1
+      }
+    },
     "Ownership Overhaul.esm": {
       "modified": {
         "active_de_bed_29": 1,
@@ -111,6 +195,7 @@
       "object": "misc_com_wood_cup_01",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -119,6 +204,7 @@
       "object": "misc_hook",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -135,6 +221,7 @@
       "object": "misc_com_bucket_01",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -143,6 +230,7 @@
       "object": "misc_com_broom_01",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -151,6 +239,7 @@
       "object": "misc_hook",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -159,6 +248,7 @@
       "object": "misc_hook",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -167,6 +257,7 @@
       "object": "misc_hook",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -175,6 +266,7 @@
       "object": "misc_hook",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -183,6 +275,7 @@
       "object": "misc_hook",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -191,6 +284,7 @@
       "object": "misc_hook",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -199,6 +293,7 @@
       "object": "misc_hook",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -207,6 +302,7 @@
       "object": "barrel_01",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -215,6 +311,7 @@
       "object": "barrel_01_empty",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -223,6 +320,7 @@
       "object": "barrel_01_ingredients",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -231,6 +329,7 @@
       "object": "barrel_01_saltrice",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -239,6 +338,7 @@
       "object": "com_chest_11_moonsugar",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -247,6 +347,7 @@
       "object": "com_sack_01_chpfood5",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -255,6 +356,7 @@
       "object": "com_sack_01_moon sugar5",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -263,6 +365,7 @@
       "object": "com_sack_01_saltrice_10",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -271,6 +374,7 @@
       "object": "crate_01_apparatus",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -279,6 +383,7 @@
       "object": "crate_01_armor_leather",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -287,6 +392,7 @@
       "object": "crate_01_empty",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -295,6 +401,7 @@
       "object": "crate_01_food",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -303,6 +410,7 @@
       "object": "misc_hook",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -311,6 +419,7 @@
       "object": "barrel_01_saltrice",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -319,6 +428,7 @@
       "object": "barrel_01_moonsugar",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -327,6 +437,7 @@
       "object": "com_chest_11_moonsugar",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -335,6 +446,7 @@
       "object": "active_de_bed_29",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -343,6 +455,7 @@
       "object": "misc_hook",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -351,6 +464,7 @@
       "object": "active_de_bed_30",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -359,6 +473,7 @@
       "object": "misc_hook",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -367,6 +482,7 @@
       "object": "barrel_01_ashyams",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -375,6 +491,7 @@
       "object": "barrel_01_pos",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -383,6 +500,7 @@
       "object": "barrel_02",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -391,6 +509,7 @@
       "object": "com_chest_11_moonsugar",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -399,6 +518,7 @@
       "object": "com_chest_11_fclothesco",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -407,6 +527,7 @@
       "object": "com_sack_01_chpfood5",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -415,6 +536,7 @@
       "object": "com_sack_01_chpfood5",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -423,6 +545,7 @@
       "object": "crate_01_eggs",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -431,6 +554,7 @@
       "object": "crate_01_empty",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -439,6 +563,7 @@
       "object": "crate_01_empty",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -447,6 +572,7 @@
       "object": "crate_01_food",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -455,6 +581,7 @@
       "object": "bk_abcs",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -463,6 +590,7 @@
       "object": "misc_com_bottle_14",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -471,6 +599,7 @@
       "object": "misc_com_wood_knife",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -479,6 +608,7 @@
       "object": "misc_com_wood_fork",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -487,6 +617,7 @@
       "object": "misc_com_wood_knife",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -495,6 +626,7 @@
       "object": "misc_com_metal_goblet_01",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -503,6 +635,7 @@
       "object": "misc_hook",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -511,6 +644,7 @@
       "object": "common_belt_03",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -519,6 +653,7 @@
       "object": "common_pants_02",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -527,6 +662,7 @@
       "object": "common_pants_02",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -535,6 +671,7 @@
       "object": "common_shirt_02",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -543,6 +680,7 @@
       "object": "common_shoes_05",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -551,6 +689,7 @@
       "object": "com_chest_11_k01",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -559,6 +698,7 @@
       "object": "crate_02_pillows",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -567,6 +707,7 @@
       "object": "chest_small_02_ingfine2",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -575,6 +716,7 @@
       "object": "common_shirt_02_h",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -583,6 +725,7 @@
       "object": "common_shirt_03",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -591,6 +734,7 @@
       "object": "potion_local_liquor_01",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -599,6 +743,7 @@
       "object": "light_com_candle_05_off",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -607,6 +752,7 @@
       "object": "ingred_hound_meat_01",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -615,6 +761,7 @@
       "object": "light_de_lantern_01",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -623,6 +770,7 @@
       "object": "misc_com_wood_fork",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -631,6 +779,7 @@
       "object": "com_sack_01_moon sugar5",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -639,6 +788,7 @@
       "object": "gold_001",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -647,6 +797,7 @@
       "object": "misc_com_bucket_01",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -655,6 +806,7 @@
       "object": "misc_com_broom_01",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -663,6 +815,7 @@
       "object": "misc_com_bottle_13",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -671,6 +824,7 @@
       "object": "misc_com_metal_plate_05",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -679,6 +833,7 @@
       "object": "light_de_lantern_06a",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -687,6 +842,7 @@
       "object": "light_de_lantern_06a",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -695,6 +851,7 @@
       "object": "light_de_lantern_06a",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -703,6 +860,7 @@
       "object": "light_de_lantern_06a",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -711,6 +869,7 @@
       "object": "light_de_lantern_06a",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -719,6 +878,7 @@
       "object": "light_de_lantern_06a",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     }

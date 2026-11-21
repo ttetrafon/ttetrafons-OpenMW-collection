@@ -1,0 +1,129 @@
+{
+  "cell": "9,7",
+  "plugins": {
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "ab_door_darkness": 1,
+        "crate_01_empty": 2,
+        "crate_02_empty": 1,
+        "ex_common_plat_cent": 1,
+        "ex_common_plat_end": 2,
+        "ex_de_docks_steps": 1,
+        "furn_de_overhang_18": 1,
+        "terrain_rocks_gl_01": 1
+      },
+      "modified": {
+        "door_cavern_doors10": 1,
+        "terrain_rocks_gl_01": 1
+      }
+    },
+    "The Song of the Grazelands.ESP": {
+      "added": {
+        "ab_a_chitinscouthelm": 1,
+        "ab_a_glasshelmclose": 1,
+        "ab_door_ropeshort": 4,
+        "ab_f_hacklelo3_o": 11,
+        "ab_f_hacklelo4_o": 7,
+        "ab_f_hacklelo5_o": 3,
+        "ab_f_hacklelo6_o": 9,
+        "ab_furn_ashlbowl": 2,
+        "ab_furn_ashlincense": 2,
+        "ab_furn_ashlrugu01small": 1,
+        "ab_furn_candlewaxwhite01": 1,
+        "ab_furn_candlewaxwhite02": 2,
+        "ab_furn_candlewaxwhite03": 1,
+        "ab_furn_ropebase": 3,
+        "ab_furn_ropehang01": 8,
+        "ab_furn_ropetiesmall": 3,
+        "ab_fx_watercircle512": 1,
+        "ab_fx_waterfalltall": 1,
+        "ab_fx_watermist01": 2,
+        "ab_fx_waterripples": 1,
+        "ab_ingmine_amethyst_01": 1,
+        "ab_ingmine_bluediamond": 1,
+        "ab_ingmine_garnet_01": 1,
+        "ab_ingmine_goldpearl_01": 1,
+        "ab_light_comcandlewhite01_64": 1,
+        "ab_light_comcandlewhite02_64": 2,
+        "ab_light_comcandlewhite03_64": 1,
+        "ab_light_comcandlewhite04_64": 1,
+        "ab_misc_deceramicpot_01": 1,
+        "ab_misc_pursecoin": 1,
+        "ab_misc_wickwheatbundle": 1,
+        "ab_mrk_blackcircle01": 1,
+        "ab_mrk_blackcircle02": 1,
+        "ab_mrk_blacktriangle": 7,
+        "ab_mus_ashlflute": 1,
+        "ab_o_comchestirongems": 1,
+        "ab_r_glowbugslargegreen": 1,
+        "ab_terr_glcliffgrass03": 13,
+        "ab_terr_glcliffgrass04": 3,
+        "chitin dagger": 1,
+        "chitin guantlet - left": 1,
+        "chitin guantlet - right": 1,
+        "com_chest_02_vault_01": 1,
+        "dim_ashlpot1": 1,
+        "ex_de_railing_01": 4,
+        "ex_ropebridge_2048_01": 1,
+        "ex_vivec_waterfall_03": 1,
+        "flora_hackle-lo_01": 2,
+        "flora_hackle-lo_02": 5,
+        "flora_stoneflower_01": 1,
+        "flora_stoneflower_02": 5,
+        "flora_tree_gl_01": 7,
+        "flora_tree_gl_02": 3,
+        "flora_tree_gl_06": 1,
+        "flora_tree_gl_07": 7,
+        "flora_wickwheat_01": 8,
+        "flora_wickwheat_02": 16,
+        "flora_wickwheat_03": 35,
+        "flora_wickwheat_04": 44,
+        "furn_ashl_bugbowl": 1,
+        "furn_ashl_bugbowl_01": 2,
+        "furn_ashl_bugbowl_02": 1,
+        "furn_striderport_netramp_01": 1,
+        "furn_velothi_prayer_stool_01": 1,
+        "glass netch dagger": 1,
+        "glass throwing knife": 2,
+        "guar": 2,
+        "ingred_alit_hide_01": 1,
+        "ingred_guar_hide_01": 1,
+        "ingred_hackle-lo_leaf_01": 1,
+        "ingred_kagouti_hide_01": 1,
+        "ingred_shalk_resin_01": 2,
+        "ingred_stoneflower_petals_01": 6,
+        "light_ashl_lantern_02": 10,
+        "light_de_lantern_05": 1,
+        "terrain_rock_gl_01": 9,
+        "terrain_rock_gl_02": 1,
+        "terrain_rock_gl_03": 4,
+        "terrain_rock_gl_04": 1,
+        "terrain_rock_gl_05": 1,
+        "terrain_rock_gl_06": 1,
+        "terrain_rock_gl_08": 1,
+        "terrain_rock_gl_10": 1,
+        "terrain_rock_gl_11": 9,
+        "terrain_rock_gl_12": 8,
+        "terrain_rocks_gl_01": 2,
+        "terrain_rocks_gl_03": 19
+      },
+      "modified": {
+        "terrain_rocks_gl_03": 1
+      }
+    },
+    "Where the Clouds Rest.ESP": {
+      "added": {
+        "_neth_netch_bull": 1,
+        "act_crystal_02_pulse": 1,
+        "flora_bc_fern_01": 13,
+        "flora_tree_mh_01": 1,
+        "flora_tree_mh_02": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_herd_graze_z": 1
+      }
+    }
+  }
+}

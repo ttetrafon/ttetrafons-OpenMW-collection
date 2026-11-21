@@ -2,6 +2,99 @@
   "cell": "Tel Vos, Jail",
   "name": "Tel Vos, Jail",
   "plugins": {
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "ab_flora_caveroots01": 5,
+        "ab_flora_caveroots02": 5,
+        "ab_furn_boneskelfootl.2": 1,
+        "ab_furn_boneskellegl": 1,
+        "ab_furn_comprisonbed": 2,
+        "ab_in_cavepyboulder00": 1,
+        "ab_in_cavepyboulder10": 2,
+        "ab_in_cavepyboulder20": 4,
+        "ab_in_cavepygravel01": 6,
+        "ab_in_cavepygravel02": 3,
+        "ab_in_cavepygravel03": 6,
+        "ab_in_cavepygroundgravel": 4,
+        "ab_in_cavepygroundrock": 4,
+        "ab_in_cavepyplatform03": 4,
+        "ab_in_cavepyplatform04": 1,
+        "ab_in_cavepyplatformgravel02": 2,
+        "ab_in_cavepyrock09": 1,
+        "ab_in_cavepyrock10": 1,
+        "ab_in_cavepyrocks01": 4,
+        "ab_in_cavepyrocks02": 12,
+        "ab_in_cavepyrocktall": 2,
+        "ab_in_cavepyspike01": 1,
+        "ab_in_cavepyspike02": 1,
+        "ab_in_cavepyspike03": 1,
+        "ab_in_cavepyspike05": 2,
+        "ab_in_cavepyspike07": 1,
+        "ab_in_cavepyspike10": 1,
+        "ab_in_cavepystal30": 1,
+        "ab_in_cavepystal40": 1,
+        "ab_in_cavepystones01": 3,
+        "ab_in_cavepystones02": 4,
+        "ab_in_cavepystones03": 3,
+        "ab_in_cavepystones04": 5,
+        "ab_in_cavepywall": 13,
+        "ab_in_cavewoodretainwall00": 2,
+        "ab_misc_shackles": 1,
+        "ab_mrk_destination": 1,
+        "ab_o_corpse10flies": 1,
+        "ab_o_corpse20flies": 1,
+        "ab_terr_glcliff01": 5,
+        "furn_bone_01": 1,
+        "furn_com_tapestry_04": 3,
+        "furn_de_pathspear_02": 2,
+        "furn_imp_stoneblock_01": 13,
+        "in_cavern_ramp00": 2,
+        "in_cavern_roots00": 3,
+        "in_cavern_roots10": 3,
+        "in_impsmall_3way_01": 1,
+        "in_impsmall_corner_01": 4,
+        "in_impsmall_dj_cave_01": 1,
+        "in_impsmall_door_01": 1,
+        "in_impsmall_hall_01": 3,
+        "in_impsmall_spiral_01": 1,
+        "in_impsmall_spiral_bot_01": 1,
+        "in_impsmall_spiral_end_01": 1,
+        "in_impsmall_stairs_01": 1,
+        "in_impsmall_wall_01": 1,
+        "light_com_sconce_01": 2,
+        "terrain_rock_gl_03": 1,
+        "terrain_rock_gl_04": 4,
+        "terrain_rock_gl_06": 2,
+        "terrain_rock_gl_07": 4,
+        "terrain_rock_gl_08": 7,
+        "terrain_rock_gl_09": 4,
+        "terrain_rock_gl_10": 3,
+        "terrain_rock_gl_11": 5,
+        "terrain_rock_gl_12": 8,
+        "terrain_rocks_gl_01": 6,
+        "terrain_rocks_gl_03": 1
+      },
+      "modified": {
+        "ab_o_comchest02chparwp": 1,
+        "abtv_door_jailcellplayer": 1,
+        "ex_wild_rat_lev+0": 1,
+        "furn_com_tapestry_04": 2,
+        "furn_de_pathspear_02": 1,
+        "furn_imp_stoneblock_01": 3,
+        "goler andrethi": 1,
+        "in_cave_all_lev+0": 2,
+        "in_cavern_beam00": 3,
+        "in_cavern_ramp00": 2,
+        "in_cavern_roots10": 1,
+        "in_impsmall_corner_01": 2,
+        "in_impsmall_door_01": 1,
+        "in_impsmall_door_jail_01": 1,
+        "in_impsmall_doorjam_01": 1,
+        "in_t_housepod_pole_02": 1,
+        "light_com_lantern_01": 1,
+        "light_com_sconce_01": 1
+      }
+    },
     "Treasures of Magic.ESP": {
       "added": {
         "bc3000_aryonlegionform": 1
@@ -63,6 +156,7 @@
       "object": "in_impsmall_door_jail_01",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -71,6 +165,7 @@
       "object": "in_impsmall_door_jail_01",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Olive the Enchanter.esp",
         "Ownership Overhaul.esp"
       ]
@@ -80,6 +175,7 @@
       "object": "light_com_lantern_01",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -106,6 +202,14 @@
         "Ownership Overhaul.esm",
         "Olive the Enchanter.esp",
         "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::311834",
+      "object": "ab_o_comchest02chparwp",
+      "plugins": [
+        "OAAB_Grazelands.ESP",
+        "Privileges&Services 1.1.esp"
       ]
     }
   ]

@@ -12,6 +12,18 @@
         "light_pitfire01": 1
       }
     },
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "ab_flora_goldreed01": 6,
+        "ab_flora_goldreed02": 3,
+        "ab_flora_goldreed03": 1,
+        "ab_flora_goldreed04": 6,
+        "ab_flora_goldreedgrass": 10,
+        "ab_flora_goldreedgroup01": 5,
+        "ab_flora_goldreedgroup02": 1,
+        "ab_flora_goldreedgroup03": 2
+      }
+    },
     "Creatures and Critters.ESP": {
       "added": {
         "aa_cr_i_butterlfy_gz": 1,

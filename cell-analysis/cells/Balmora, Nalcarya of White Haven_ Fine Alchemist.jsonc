@@ -2,6 +2,11 @@
   "cell": "Balmora, Nalcarya of White Haven: Fine Alchemist",
   "name": "Balmora, Nalcarya of White Haven: Fine Alchemist",
   "plugins": {
+    "The Song of the Grazelands.ESP": {
+      "added": {
+        "ab_ingcrea_twilightmembrane": 2
+      }
+    },
     "Wares_traders.ESP": {
       "added": {
         "aa_wares_alchemist": 1

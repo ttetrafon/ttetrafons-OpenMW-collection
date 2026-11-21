@@ -1,0 +1,16 @@
+{
+  "cell": "Pinsun",
+  "name": "Pinsun",
+  "plugins": {
+    "Expansions Integrated.esp": {
+      "added": {
+        "adamantium_axe": 1
+      }
+    },
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "abtv_furn_bedmenus": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cell": "11,12",
+  "plugins": {
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "abtv_mrk_mereaternixhound": 1,
+        "abtv_wildnixhunter": 1
+      }
+    },
+    "OldVosTradepost.ESP": {
+      "modified": {
+        "terrain_rocks_gl_04": 1
+      }
+    }
+  }
+}

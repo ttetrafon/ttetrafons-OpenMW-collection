@@ -1,6 +1,41 @@
 {
   "cell": "10,10",
   "plugins": {
+    "The Song of the Grazelands.ESP": {
+      "added": {
+        "ab_f_hacklelo4_o": 1,
+        "ab_terr_glcliffgrass02": 1,
+        "flora_wickwheat_01": 1,
+        "flora_wickwheat_02": 1,
+        "flora_wickwheat_03": 3,
+        "flora_wickwheat_04": 5,
+        "terrain_rocks_gl_03": 1
+      }
+    },
+    "Thickle-Lo Grove.ESP": {
+      "added": {
+        "ab_ex_deconstrpole02": 2,
+        "ab_ex_deshackladder": 1,
+        "ab_f_hacklelo5_o": 4,
+        "ab_f_marshmgroup_o": 1,
+        "ab_light@_bluewater_768": 1,
+        "ab_light@_candleorange512": 1,
+        "ab_terr_glfarm03": 1,
+        "ab_terr_glretainingwall01": 1,
+        "flora_saltrice_02": 3,
+        "flora_tree_gl_03": 1,
+        "flora_tree_gl_07": 1,
+        "light_ashl_lantern_01_512": 1,
+        "light_ashl_lantern_02_512": 1,
+        "light_de_lantern_05_200": 4,
+        "sound_rocks00": 1,
+        "terrain_rocks_gl_02": 2
+      },
+      "modified": {
+        "flora_tree_gl_07": 1,
+        "terrain_rocks_gl_02": 2
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "aa_herd_graze_z": 1

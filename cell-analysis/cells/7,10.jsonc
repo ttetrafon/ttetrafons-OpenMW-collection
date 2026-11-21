@@ -1,6 +1,14 @@
 {
   "cell": "7,10",
   "plugins": {
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "terrain_rock_rm_17": 2
+      },
+      "modified": {
+        "terrain_rock_rm_17": 2
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "aa_herd_ash_u": 1

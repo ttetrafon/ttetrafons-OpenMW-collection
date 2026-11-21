@@ -2,6 +2,22 @@
   "cell": "Falvillo's Endeavor, Cabin",
   "name": "Falvillo's Endeavor, Cabin",
   "plugins": {
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "in_lava_blacksquare": 4
+      },
+      "modified": {
+        "ab_o_deplndeskpos": 1,
+        "ab_o_deplntable01pos": 1,
+        "bk_briefhistoryofwood": 1,
+        "bk_easternprovincesimpartial": 1,
+        "in_de_ship_cabindoor": 1,
+        "light_de_candle_04": 1,
+        "light_de_candle_17_64": 1,
+        "light_de_lantern_07_warm": 1,
+        "text_paper_roll_01": 2
+      }
+    },
     "Ownership Overhaul.esm": {
       "modified": {
         "active_de_p_bed_28": 1,
@@ -47,6 +63,7 @@
       "object": "light_de_lantern_07_warm",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -55,6 +72,7 @@
       "object": "de_p_table_01_pos3",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -63,6 +81,7 @@
       "object": "de_p_desk_01_pos",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -71,6 +90,7 @@
       "object": "text_paper_roll_01",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -79,6 +99,7 @@
       "object": "text_paper_roll_01",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -87,6 +108,7 @@
       "object": "bk_easternprovincesimpartial",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -95,6 +117,7 @@
       "object": "bk_briefhistoryofwood",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -103,6 +126,7 @@
       "object": "light_de_candle_17_64",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },

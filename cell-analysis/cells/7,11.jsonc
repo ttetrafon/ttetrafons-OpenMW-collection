@@ -1,0 +1,15 @@
+{
+  "cell": "7,11",
+  "plugins": {
+    "Treasures of Magic.ESP": {
+      "added": {
+        "bc3000_novavalcinius": 1
+      }
+    },
+    "OAAB_Grazelands.ESP": {
+      "modified": {
+        "terrain_rock_rm_19": 1
+      }
+    }
+  }
+}

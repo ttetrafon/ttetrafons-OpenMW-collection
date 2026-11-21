@@ -2,6 +2,11 @@
   "cell": "Vivec, Redoran Scout & Drillmaster",
   "name": "Vivec, Redoran Scout & Drillmaster",
   "plugins": {
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "abtv_reyneluvirith": 1
+      }
+    },
     "Ownership Overhaul.esm": {
       "modified": {
         "active_de_p_bed_03": 2,

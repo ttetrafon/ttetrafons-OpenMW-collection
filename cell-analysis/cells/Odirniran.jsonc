@@ -2,6 +2,24 @@
   "cell": "Odirniran",
   "name": "Odirniran",
   "plugins": {
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "abtv_act_odirtelroot02": 2,
+        "abtv_act_odirvelrubble01": 3,
+        "abtv_act_odirvelrubble02": 2,
+        "abtv_act_odirvelrubble03": 4,
+        "abtv_act_odirvelrubble04": 12,
+        "abtv_odirniranretainer1": 1,
+        "abtv_odirniranretainer2": 1,
+        "abtv_odirniranretainer3": 1,
+        "abtv_odirniranretainer4": 1,
+        "in_lava_blacksquare": 4,
+        "in_velothismall_corner_01": 2
+      },
+      "modified": {
+        "northmarker": 1
+      }
+    },
     "Ownership Overhaul.esm": {
       "modified": {
         "crate_01_food": 2,

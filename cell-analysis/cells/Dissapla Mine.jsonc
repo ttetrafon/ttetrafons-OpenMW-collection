@@ -19,6 +19,92 @@
         "crate_01_misc01": 1
       }
     },
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "ab_door_darkness": 1,
+        "ab_furn_deexworkbench": 1,
+        "ab_in_cavegravelfloor": 17,
+        "ab_in_cavemoldceil01": 4,
+        "ab_in_cavemoldceil02": 4,
+        "ab_in_cavemoldfloor01": 6,
+        "ab_in_cavemoldfloor02": 7,
+        "ab_in_cavemoldramp01": 1,
+        "ab_in_cavemoldrocks02": 18,
+        "ab_in_cavemoldwall01": 5,
+        "ab_in_cavemoldwall02": 3,
+        "ab_in_cavewoodplank00": 1,
+        "ab_in_cavewoodplank10": 4,
+        "ab_in_cavewoodplank20": 1,
+        "ab_in_cavewoodpostlight": 5,
+        "ab_in_cavewoodramplarge": 19,
+        "ab_in_cavewoodretainwall00": 1,
+        "ab_in_cavewoodretainwall03": 1,
+        "ab_in_cavewoodscaffold": 8,
+        "ab_light_cavelantern256": 4,
+        "ab_misc_combottle_02": 1,
+        "ab_o_deplnchest02clothm": 1,
+        "active_de_bedroll": 4,
+        "active_de_p_bed_28": 2,
+        "crate_02_rawglass": 3,
+        "door_cavern_doors10": 1,
+        "flora_tree_gl_11": 2,
+        "furn_de_ex_bench_01": 1,
+        "furn_de_ex_stool_02": 3,
+        "furn_de_ex_table_02": 1,
+        "furn_de_ex_table_03": 1,
+        "furn_de_rope_06": 1,
+        "in_cavern_beam30": 29,
+        "in_cavern_ramp00": 12,
+        "in_cavern_stairs00": 5,
+        "in_mold_rock_03": 1,
+        "in_mold_rock_05": 2,
+        "in_mold_rock_06": 2,
+        "in_mold_rock_08": 1,
+        "in_mold_rock_17": 1,
+        "in_mold_rock_28": 1,
+        "in_moldcave_form00": 1,
+        "in_moldcave_form10": 5,
+        "in_moldcave_stal20": 1,
+        "ingred_ash_yam_01": 1,
+        "light_de_candle_06_off": 1,
+        "light_de_lantern_03": 2,
+        "light_tikitorch003": 1,
+        "miner's pick": 1,
+        "misc_com_bottle_04": 1,
+        "misc_com_bottle_05": 1,
+        "misc_com_bottle_12": 1,
+        "misc_com_bottle_15": 1,
+        "misc_com_metal_plate_04": 1,
+        "misc_com_metal_plate_05": 2,
+        "misc_com_pitcher_metal_01": 1,
+        "misc_com_wood_bowl_02": 2,
+        "misc_com_wood_cup_01": 2,
+        "misc_com_wood_fork": 2,
+        "misc_com_wood_knife": 2,
+        "misc_uni_pillow_02": 2,
+        "potion_comberry_brandy_01": 1,
+        "repair_journeyman_01": 1
+      },
+      "modified": {
+        "flora_bc_mushroom_01": 1,
+        "flora_bc_mushroom_02": 1,
+        "flora_bc_mushroom_03": 2,
+        "flora_bc_shelffungus_01": 3,
+        "flora_tree_gl_11": 1,
+        "imperial guard": 1,
+        "in_moldboulder04": 2,
+        "in_moldcave_form10": 1,
+        "in_moldcave_stal20": 2,
+        "light_de_lantern_06a": 1,
+        "light_tikitorch00": 1,
+        "light_tikitorch003": 1,
+        "miner's pick": 1,
+        "misc_com_bottle_09": 1,
+        "novor drethan": 1,
+        "rervam farethi": 1,
+        "rock_glass_03": 1
+      }
+    },
     "Ownership Overhaul.esm": {
       "modified": {
         "light_de_lantern_06a": 1,
@@ -45,6 +131,7 @@
       "object": "miner's pick",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -53,6 +140,7 @@
       "object": "misc_com_bottle_09",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -61,7 +149,16 @@
       "object": "light_de_lantern_06a",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::480861",
+      "object": "imperial guard",
+      "plugins": [
+        "OAAB_Grazelands.ESP",
+        "Yet Another Guard Diversity - Regular.ESP"
       ]
     }
   ]

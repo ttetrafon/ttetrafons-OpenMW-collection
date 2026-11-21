@@ -1,0 +1,20 @@
+{
+  "cell": "12,8",
+  "plugins": {
+    "The Song of the Grazelands.ESP": {
+      "added": {
+        "ab_f_hacklelo3_o": 3,
+        "ab_terr_glcliffgrass03": 4,
+        "flora_wickwheat_03": 10,
+        "flora_wickwheat_04": 20,
+        "terrain_rocks_gl_01": 1
+      }
+    },
+    "F&F_Vvardenfell.ESP": {
+      "added": {
+        "_aa_solo_spawn_no_guard": 1,
+        "_aa_travelingtrader_tel_spawn": 1
+      }
+    }
+  }
+}

@@ -1,6 +1,18 @@
 {
   "cell": "10,16",
   "plugins": {
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "ab_flora_goldreed01": 5,
+        "ab_flora_goldreed02": 2,
+        "ab_flora_goldreed03": 9,
+        "ab_flora_goldreed04": 8,
+        "ab_flora_goldreedgrass": 14,
+        "ab_flora_goldreedgroup01": 13,
+        "ab_flora_goldreedgroup02": 3,
+        "ab_flora_goldreedgroup03": 1
+      }
+    },
     "Creatures_RP_Purist.ESP": {
       "added": {
         "plx_flowers": 1

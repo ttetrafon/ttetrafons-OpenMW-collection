@@ -12,6 +12,13 @@
         "light_com_candle_07_77": 1
       }
     },
+    "OAAB_Grazelands.ESP": {
+      "modified": {
+        "gold_001": 1,
+        "light_com_candle_07_77": 1,
+        "misc_soulgem_grand": 1
+      }
+    },
     "Ownership Overhaul.esp": {
       "modified": {
         "gold_005": 1
@@ -25,6 +32,14 @@
       "plugins": [
         "Ownership Overhaul.esm",
         "Ownership Overhaul.esp"
+      ]
+    },
+    {
+      "ref": "morrowind::84440",
+      "object": "light_com_candle_07_77",
+      "plugins": [
+        "True_Lights_And_Darkness_1.1.esp",
+        "OAAB_Grazelands.ESP"
       ]
     }
   ]

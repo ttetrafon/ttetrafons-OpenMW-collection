@@ -1,6 +1,12 @@
 {
   "cell": "9,12",
   "plugins": {
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "flora_wickwheat_04": 1,
+        "terrain_rocks_gl_03": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_travelingtrader_tel_spawn": 1

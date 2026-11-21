@@ -2,6 +2,31 @@
   "cell": "Tel Vos, Northeastern Tower",
   "name": "Tel Vos, Northeastern Tower",
   "plugins": {
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "abtv_door_passwall": 1,
+        "ex_imp_arrowslit_01": 2,
+        "furn_imp_metalring": 2,
+        "in_impsmall_door_01": 1,
+        "in_impsmall_doorjam_01": 2,
+        "in_impsmall_hall_02": 2,
+        "in_impsmall_wall_01": 1,
+        "in_lava_blacksquare": 1
+      },
+      "modified": {
+        "ab_door_imptraptop": 1,
+        "ab_furn_detapestry12torn": 1,
+        "ab_furn_detapestry12torn2": 1,
+        "ab_o_derchchest01gold": 1,
+        "azura's servant": 1,
+        "in_impsmall_3way_01": 1,
+        "in_impsmall_door_01": 1,
+        "in_impsmall_trapdoor_01a": 1,
+        "last rites": 1,
+        "light_de_lamp_01": 1,
+        "steel spear of impaling thrust": 1
+      }
+    },
     "Yet Another Guard Diversity - Regular.ESP": {
       "added": {
         "sp_telvanni guard_ran": 1

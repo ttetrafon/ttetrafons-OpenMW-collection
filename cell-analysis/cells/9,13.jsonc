@@ -1,6 +1,22 @@
 {
   "cell": "9,13",
   "plugins": {
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "abtv_wildashlander": 1,
+        "flora_wickwheat_03": 1,
+        "flora_wickwheat_04": 1,
+        "terrain_rock_gl_08": 1,
+        "terrain_rock_gl_10": 1,
+        "terrain_rock_gl_12": 2,
+        "terrain_rocks_gl_02": 1
+      },
+      "modified": {
+        "ex_grazelands_lev+2": 1,
+        "terrain_rock_gl_10": 1,
+        "terrain_rock_gl_12": 2
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "aa_herd_graze_z": 1

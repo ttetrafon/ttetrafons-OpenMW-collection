@@ -7,6 +7,70 @@
         "gvrm_telvguardwand": 2
       }
     },
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "ab_f_marshmbundle1_o": 5,
+        "ab_f_marshmbundle2_o": 4,
+        "ab_f_marshmgroup_o": 31,
+        "ab_light_telexballlamp01_256": 5,
+        "ab_light_telexballlamp03_256": 2,
+        "ab_light_telexballlamp04_350": 1,
+        "ab_terr_glcliffgrass03": 1,
+        "ab_terr_glcliffgrass04": 1,
+        "ab_terr_retainingwall00": 2,
+        "abtv_light_suryanfirepit": 1,
+        "abtv_o_cratehlaaluebony": 1,
+        "abtv_vosresident1": 1,
+        "collision wall - inviso!!": 6,
+        "crate_01_empty": 6,
+        "ex_common_plat_lrg": 3,
+        "ex_de_docks_centerb": 2,
+        "ex_de_docks_centers": 2,
+        "ex_de_docks_end": 1,
+        "ex_de_docks_ends": 1,
+        "ex_de_docks_piling": 19,
+        "ex_de_docks_piling_01": 1,
+        "ex_de_docks_steps": 2,
+        "ex_de_shack_plank_01": 29,
+        "ex_de_shack_plank_03": 5,
+        "ex_de_shack_plank_04": 10,
+        "ex_de_shack_steps_01": 1,
+        "ex_skiff": 1,
+        "ex_t_brace_01": 1,
+        "ex_t_hook": 7,
+        "flora_marshmerrow_01": 26,
+        "flora_marshmerrow_02": 30,
+        "flora_marshmerrow_03": 34,
+        "furn_de_lightpost_01": 1,
+        "furn_guarcart00": 1,
+        "ingred_marshmerrow_01": 1,
+        "light_de_lantern_03_sway": 1,
+        "terrain_rock_gl_04": 2,
+        "terrain_rock_gl_08": 13,
+        "terrain_rock_gl_09": 1,
+        "terrain_rock_gl_11": 4,
+        "terrain_rock_gl_12": 2,
+        "terrain_rocks_gl_01": 7,
+        "terrain_rocks_gl_03": 8,
+        "terrain_rocks_gl_04": 8
+      },
+      "modified": {
+        "ab_light_telexballlamp04_350": 8,
+        "abtv_light_suryanfirepitout": 1,
+        "crate_01_de_fclothes": 1,
+        "crate_01_de_mclothes": 1,
+        "ex_skiff": 1,
+        "ex_t_door_01": 1,
+        "flora_marshmerrow_01": 4,
+        "flora_marshmerrow_02": 1,
+        "flora_marshmerrow_03": 1,
+        "flora_saltrice_02": 1,
+        "terrain_rock_gl_09": 1,
+        "terrain_rocks_gl_01": 1,
+        "terrain_rocks_gl_03": 1,
+        "urn_01_food": 1
+      }
+    },
     "Hidden Sea Loot.ESP": {
       "added": {
         "xero_marker": 1,
@@ -54,6 +118,7 @@
       "object": "urn_01_food",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -62,6 +127,7 @@
       "object": "crate_01_de_mclothes",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     },
@@ -70,6 +136,7 @@
       "object": "crate_01_de_fclothes",
       "plugins": [
         "Ownership Overhaul.esm",
+        "OAAB_Grazelands.ESP",
         "Ownership Overhaul.esp"
       ]
     }

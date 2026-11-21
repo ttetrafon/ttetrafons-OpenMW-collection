@@ -1,0 +1,38 @@
+{
+  "cell": "11,15",
+  "plugins": {
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "ab_ex_ashltentsmall": 2,
+        "ab_furn_boneskelskull": 3,
+        "ab_furn_boneskelskullupper": 2,
+        "ab_terr_glcliffgrass03": 2,
+        "abgh_chestoutcasts": 1,
+        "abgh_guarpack": 1,
+        "ex_ashl_banner": 1,
+        "flora_marshmerrow_01": 3,
+        "flora_marshmerrow_02": 1,
+        "flora_marshmerrow_03": 4,
+        "flora_saltrice_01": 2,
+        "flora_saltrice_02": 2,
+        "furn_de_ashl_post": 9,
+        "furn_de_rope_07": 2,
+        "furn_log_04": 7,
+        "terrain_rock_gl_08": 1,
+        "terrain_rocks_gl_01": 1,
+        "terrain_rocks_gl_03": 4,
+        "terrain_rocks_gl_04": 1
+      },
+      "modified": {
+        "kashtes ilabael": 1,
+        "terrain_rock_gl_08": 1,
+        "terrain_rocks_gl_03": 1
+      }
+    },
+    "Creatures_RP_Purist.ESP": {
+      "added": {
+        "plx_herd_graze_a": 1
+      }
+    }
+  }
+}

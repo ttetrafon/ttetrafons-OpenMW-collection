@@ -1,6 +1,42 @@
 {
   "cell": "10,15",
   "plugins": {
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "ab_terr_glcliffgrass03": 7,
+        "ab_terr_glcliffgrass04": 1,
+        "abgh_arrowcart": 4,
+        "abgh_cart": 1,
+        "abgh_cratelid": 1,
+        "abgh_crateopen": 1,
+        "abgh_ropecoil": 1,
+        "ex_t_root_03": 3,
+        "ex_t_root_04": 1,
+        "ex_t_root_05": 1,
+        "ex_t_root_stem": 1,
+        "flora_t_mushroom_02": 1,
+        "flora_t_podbud_01": 1,
+        "flora_t_podbud_02": 1,
+        "flora_t_podbud_03": 2,
+        "flora_t_podbud_04": 2,
+        "terrain_rock_gl_06": 1,
+        "terrain_rock_gl_07": 1,
+        "terrain_rock_gl_08": 1,
+        "terrain_rock_gl_09": 1,
+        "terrain_rock_gl_10": 1,
+        "terrain_rock_gl_11": 1,
+        "terrain_rock_gl_12": 3,
+        "terrain_rocks_gl_01": 6,
+        "terrain_rocks_gl_02": 2,
+        "terrain_rocks_gl_03": 7,
+        "terrain_rocks_gl_04": 5
+      },
+      "modified": {
+        "athanden girith": 1,
+        "ex_grazelands_lev+0": 1,
+        "ex_grazelands_lev+2": 1
+      }
+    },
     "Wares_traders.ESP": {
       "added": {
         "aa_wares_trader": 1

@@ -1,6 +1,18 @@
 {
   "cell": "13,11",
   "plugins": {
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "ab_flora_goldreed01": 2,
+        "ab_flora_goldreed02": 7,
+        "ab_flora_goldreed03": 4,
+        "ab_flora_goldreed04": 4,
+        "ab_flora_goldreedgrass": 11,
+        "ab_flora_goldreedgroup01": 8,
+        "ab_flora_goldreedgroup02": 1,
+        "ab_flora_goldreedgroup03": 3
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_solo_spawn_no_guard": 1

@@ -1,0 +1,33 @@
+{
+  "cell": "11,6",
+  "plugins": {
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "ab_flora_goldreed01": 1,
+        "ab_flora_goldreed03": 4,
+        "ab_flora_goldreed04": 1,
+        "ab_flora_goldreedgrass": 8,
+        "ab_flora_goldreedgroup01": 5,
+        "ab_flora_goldreedgroup02": 1,
+        "ab_flora_goldreedgroup03": 5
+      }
+    },
+    "The Song of the Grazelands.ESP": {
+      "added": {
+        "ab_terr_glcliffgrass03": 1,
+        "terrain_rocks_gl_03": 2
+      },
+      "modified": {
+        "ex_grazelands_lev+0": 1,
+        "shipal zansatanit": 1
+      }
+    },
+    "Hidden Sea Loot.ESP": {
+      "added": {
+        "gold_001": 5,
+        "xero_east_chest": 1,
+        "xero_marker": 1
+      }
+    }
+  }
+}

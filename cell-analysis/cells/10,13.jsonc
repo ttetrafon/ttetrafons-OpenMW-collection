@@ -1,6 +1,34 @@
 {
   "cell": "10,13",
   "plugins": {
+    "OAAB_Grazelands.ESP": {
+      "added": {
+        "ab_terr_glcliffgrass03": 5,
+        "ab_terr_glcliffgrass04": 3,
+        "abtv_light_ashllanternghost": 1,
+        "abtv_light_ghostlight": 1,
+        "ex_grazelands_lev+2": 1,
+        "ex_t_root_02": 1,
+        "ex_t_root_03": 2,
+        "flora_t_podbud_01": 1,
+        "flora_t_podbud_02": 1,
+        "terrain_rock_gl_04": 1,
+        "terrain_rock_gl_08": 5,
+        "terrain_rock_gl_10": 3,
+        "terrain_rock_gl_11": 3,
+        "terrain_rock_gl_12": 6,
+        "terrain_rocks_gl_01": 16,
+        "terrain_rocks_gl_02": 9,
+        "terrain_rocks_gl_03": 15,
+        "terrain_rocks_gl_04": 7
+      },
+      "modified": {
+        "flora_wickwheat_01": 2,
+        "flora_wickwheat_02": 1,
+        "flora_wickwheat_03": 1,
+        "flora_wickwheat_04": 1
+      }
+    },
     "F&F_Vvardenfell.ESP": {
       "added": {
         "_aa_solo_tel_spawn": 1
